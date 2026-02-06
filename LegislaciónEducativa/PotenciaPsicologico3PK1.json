@@ -1,0 +1,484 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el propósito fundamental de la Ley de Infancia y Adolescencia en Colombia?",
+      "opciones": [
+        "Garantizar la protección y el ejercicio pleno de los derechos de los niños, niñas y adolescentes.",
+        "Regular el sistema educativo colombiano.",
+        "Fomentar la participación política de los jóvenes.",
+        "Promover la igualdad de género en la infancia."
+      ],
+      "respuesta": "Garantizar la protección y el ejercicio pleno de los derechos de los niños, niñas y adolescentes."
+    },
+    {
+      "pregunta": "¿Qué establece la Ley de Infancia y Adolescencia en Colombia sobre el derecho a la vida y la supervivencia?",
+      "opciones": [
+        "Garantiza el acceso universal a la educación.",
+        "Protege el derecho a la alimentación y nutrición adecuada.",
+        "Regula el acceso a la vivienda digna.",
+        "Promueve el derecho a la libertad de expresión."
+      ],
+      "respuesta": "Protege el derecho a la alimentación y nutrición adecuada."
+    },
+    {
+      "pregunta": "¿Cuál es la edad mínima para trabajar según la Ley de Infancia y Adolescencia en Colombia?",
+      "opciones": [
+        "12 años.",
+        "14 años.",
+        "16 años.",
+        "18 años."
+      ],
+      "respuesta": "14 años."
+    },
+    {
+      "pregunta": "¿Qué aspecto relacionado con la salud infantil aborda la Ley de Infancia y Adolescencia en Colombia?",
+      "opciones": [
+        "Acceso a la educación sexual integral.",
+        "Derecho a la protección contra la violencia doméstica.",
+        "Garantía de atención médica gratuita.",
+        "Regulación de la publicidad dirigida a niños y niñas."
+      ],
+      "respuesta": "Derecho a la protección contra la violencia doméstica."
+    },
+    {
+      "pregunta": "¿Qué derechos de los niños, niñas y adolescentes protege la Ley de Infancia y Adolescencia en Colombia en situaciones de desplazamiento?",
+      "opciones": [
+        "Derecho a la identidad y registro civil.",
+        "Derecho a la educación de calidad.",
+        "Derecho a la participación en asuntos públicos.",
+        "Derecho a la protección integral."
+      ],
+      "respuesta": "Derecho a la protección integral."
+    },
+    {
+      "pregunta": "¿Cuál es el enfoque principal de la Ley de Infancia y Adolescencia en Colombia en relación con la justicia juvenil?",
+      "opciones": [
+        "Prevención del delito.",
+        "Castigo severo para menores infractores.",
+        "Reinserción social y rehabilitación.",
+        "Criminalización de la pobreza infantil."
+      ],
+      "respuesta": "Reinserción social y rehabilitación."
+    },
+    {
+      "pregunta": "¿Qué establece la Ley de Infancia y Adolescencia en Colombia sobre el derecho a la educación inclusiva?",
+      "opciones": [
+        "Garantía de acceso a la educación para todos los niños y niñas.",
+        "Obligatoriedad de la educación universitaria.",
+        "Exclusión de niños y niñas con discapacidades del sistema educativo.",
+        "Priorización de la educación privada sobre la pública."
+      ],
+      "respuesta": "Garantía de acceso a la educación para todos los niños y niñas."
+    },
+    {
+      "pregunta": "¿Qué medidas contempla la Ley de Infancia y Adolescencia en Colombia para prevenir y erradicar la violencia contra los niños, niñas y adolescentes?",
+      "opciones": [
+        "Promoción de la crianza respetuosa.",
+        "Legalización del castigo físico como método disciplinario.",
+        "Incremento de la pena de cárcel para los agresores.",
+        "Restricción del acceso a la atención médica para los agresores."
+      ],
+      "respuesta": "Promoción de la crianza respetuosa."
+    },
+    {
+      "pregunta": "¿Qué derechos específicos de los niños, niñas y adolescentes se garantizan en la Ley de Infancia y Adolescencia en Colombia en situaciones de adopción?",
+      "opciones": [
+        "Derecho a la identidad y registro civil.",
+        "Derecho a la participación en asuntos públicos.",
+        "Derecho a la libertad de expresión.",
+        "Derecho a la protección contra el trabajo infantil."
+      ],
+      "respuesta": "Derecho a la identidad y registro civil."
+    },
+    {
+      "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra la explotación laboral?",
+      "opciones": [
+        "Restricción del acceso a la educación.",
+        "Legalización del trabajo infantil.",
+        "Implementación de políticas de prevención y erradicación del trabajo infantil.",
+        "Priorización del trabajo infantil como forma de aprendizaje."
+      ],
+      "respuesta": "Implementación de políticas de prevención y erradicación del trabajo infantil."
+    },
+    {
+      "pregunta": "¿Cuál es el rol de la familia según la Ley de Infancia y Adolescencia en Colombia?",
+      "opciones": [
+        "Proveer cuidado y protección a los niños, niñas y adolescentes.",
+        "Dejar la responsabilidad exclusivamente en manos del Estado.",
+        "Restringir la participación de los niños y niñas en decisiones familiares.",
+        "Promover la autonomía infantil desde temprana edad."
+      ],
+      "respuesta": "Proveer cuidado y protección a los niños, niñas y adolescentes."
+    },
+    {
+      "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para promover la participación activa de los niños, niñas y adolescentes en la sociedad?",
+      "opciones": [
+        "Creación de programas de televisión educativos.",
+        "Fomento del trabajo infantil.",
+        "Establecimiento de consejos consultivos de niños, niñas y adolescentes.",
+        "Restricción del acceso a la educación."
+      ],
+      "respuesta": "Establecimiento de consejos consultivos de niños, niñas y adolescentes."
+    },
+
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de niños, niñas y adolescentes en situaciones,de conflicto armado?",
+"opciones": [
+"Promover la reclutamiento militar obligatorio.",
+"Garantizar el acceso a la educación superior.",
+"Brindar protección y asistencia humanitaria.",
+"Limitar el acceso a la atención médica."
+],
+"respuesta": "Brindar protección y asistencia humanitaria."
+},
+{
+"pregunta": "¿Qué derechos específicos de los niños, niñas y adolescentes se garantizan en la Ley de Infancia y Adolescencia en Colombia en situaciones de abandono o negligencia?",
+"opciones": [
+"Derecho a la educación.",
+"Derecho a la libertad de expresión.",
+"Derecho a la protección integral.",
+"Derecho a la participación en asuntos públicos."
+],
+"respuesta": "Derecho a la protección integral."
+},
+{
+"pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra la violencia sexual?",
+"opciones": [
+"Legalización del matrimonio infantil.",
+"Promoción de la educación sexual integral.",
+"Restricción del acceso a la atención médica.",
+"Fomento de la impunidad para los agresores."
+],
+"respuesta": "Promoción de la educación sexual integral."
+},
+{
+"pregunta": "¿Cuál es la responsabilidad del Estado según la Ley de Infancia y Adolescencia en Colombia en relación con los niños, niñas y adolescentes en situación de discapacidad?",
+"opciones": [
+"Restringir su acceso a la educación.",
+"Garantizar su inclusión plena en la sociedad.",
+"Negarles el acceso a la atención médica.",
+"Promover la segregación en instituciones especializadas."
+],
+"respuesta": "Garantizar su inclusión plena en la sociedad."
+},
+{
+"pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra el consumo de sustancias psicoactivas?",
+"opciones": [
+"Legalización de la venta de drogas a menores de edad.",
+"Restricción del acceso a la educación.",
+"Implementación de programas de prevención y rehabilitación.",
+"Fomento del consumo de drogas como forma de recreación."
+],
+"respuesta": "Implementación de programas de prevención y rehabilitación."
+},
+{
+"pregunta": "¿Cuál es el propósito de la Ley de Infancia y Adolescencia en Colombia en relación con la protección en situaciones de adopción?",
+"opciones": [
+"Facilitar el tráfico de niños, niñas y adolescentes.",
+"Promover la adopción internacional como única opción.",
+"Garantizar el derecho a la familia y la identidad.",
+"Restringir la posibilidad de adopción a personas de bajos recursos."
+],
+"respuesta": "Garantizar el derecho a la familia y la identidad."
+},
+{
+"pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes en situaciones de desplazamiento interno?",
+"opciones": [
+"Restricción del acceso a la educación.",
+"Legalización del trabajo infantil en zonas de desplazamiento.",
+"Implementación de medidas de atención y protección humanitaria.",
+"Fomento de la discriminación y estigmatización."
+],
+"respuesta": "Implementación de medidas de atención y protección humanitaria."
+},
+{
+"pregunta": "¿Cuál es la importancia de la Ley de Infancia y Adolescencia en Colombia en relación con la garantía del derecho a la identidad y al registro civil?",
+"opciones": [
+"Facilita la invisibilización de la infancia y adolescencia.",
+"Garantiza el acceso a servicios públicos básicos.",
+"Promueve la protección contra el tráfico de niños, niñas y adolescentes.",
+"Limita el acceso a la educación."
+],
+"respuesta": "Promueve la protección contra el tráfico de niños, niñas y adolescentes."
+},
+{
+"pregunta": "¿Qué derechos específicos de los niños, niñas y adolescentes se garantizan en la Ley de Infancia y Adolescencia en Colombia en situaciones de migración?",
+"opciones": [
+"Derecho a la educación.",
+"Derecho a la libertad de expresión.",
+"Derecho a la protección integral.",
+"Derecho al trabajo infantil."
+],
+"respuesta": "Derecho a la protección integral."
+},
+{
+"pregunta": "¿Cuál es el enfoque de la Ley de Infancia y Adolescencia en Colombia en relación con la protección contra la trata de personas?",
+"opciones": [
+"Fomento de la explotación laboral infantil.",
+"Legalización de la venta de niños, niñas y adolescentes.",
+"Implementación de medidas de prevención, protección y atención.",
+"Restricción del acceso a la educación."
+],
+"respuesta": "Implementación de medidas de prevención, protección y atención."
+},
+{
+"pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes en situación de abuso y maltrato?",
+"opciones": [
+"Promoción del castigo físico como método disciplinario.",
+"Establecimiento de programas de apoyo a los agresores.",
+"Implementación de mecanismos de prevención, atención y restitución de derechos.",
+"Negación de acceso a servicios de salud y educación."
+],
+"respuesta": "Implementación de mecanismos de prevención, atención y restitución de derechos."
+},
+{
+"pregunta": "¿Cuál es el rol de la sociedad según la Ley de Infancia y Adolescencia en Colombia en la protección de los derechos de los niños, niñas y adolescentes?",
+"opciones": [
+"Fomentar la discriminación y exclusión.",
+"Promover la participación activa en la sociedad.",
+"Restringir el acceso a la educación.",
+"Limitar la protección a la infancia y adolescencia."
+],
+"respuesta": "Promover la participación activa en la sociedad."
+},
+    {
+  "pregunta": "contra el reclutamiento forzado?",
+  "opciones": [
+    "Promoción del acceso a la educación.",
+    "Implementación de programas de desarme y desmovilización.",
+    "Restricción del acceso a la educación.",
+    "Legalización del reclutamiento forzado."
+  ],
+  "respuesta": "Implementación de programas de desarme y desmovilización."
+},
+{
+  "pregunta": "¿Cuál es el enfoque de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes en situación de trabajo infantil?",
+  "opciones": [
+    "Promoción del trabajo infantil como forma de aprendizaje.",
+    "Implementación de medidas de prevención, erradicación y protección.",
+    "Restricción del acceso a la educación.",
+    "Legalización del trabajo infantil en todas sus formas."
+  ],
+  "respuesta": "Implementación de medidas de prevención, erradicación y protección."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra la violencia intrafamiliar?",
+  "opciones": [
+    "Legalización de la violencia como método disciplinario.",
+    "Implementación de programas de prevención, atención y protección.",
+    "Restricción del acceso a la educación.",
+    "Promoción de la impunidad para los agresores."
+  ],
+  "respuesta": "Implementación de programas de prevención, atención y protección."
+},
+{
+  "pregunta": "¿Cuál es el objetivo principal de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes en situación de vulnerabilidad?",
+  "opciones": [
+    "Fomento de la exclusión y discriminación.",
+    "Implementación de políticas de prevención, atención y protección.",
+    "Restricción del acceso a la educación.",
+    "Promoción del abandono infantil."
+  ],
+  "respuesta": "Implementación de políticas de prevención, atención y protección."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra la explotación laboral?",
+  "opciones": [
+    "Legalización de la explotación infantil.",
+    "Implementación de políticas de prevención, erradicación y protección.",
+    "Restricción del acceso a la educación.",
+    "Promoción del trabajo infantil como forma de ingreso familiar."
+  ],
+  "respuesta": "Implementación de políticas de prevención, erradicación y protección."
+},
+{
+  "pregunta": "¿Cuál es el enfoque de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes en situación de abandono?",
+  "opciones": [
+    "Legalización del abandono infantil.",
+    "Implementación de medidas de prevención, atención y protección.",
+    "Restricción del acceso a la educación.",
+    "Fomento de la institucionalización permanente."
+  ],
+  "respuesta": "Implementación de medidas de prevención, atención y protección."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra el reclutamiento en grupos armados?",
+  "opciones": [
+    "Promoción del reclutamiento militar obligatorio.",
+    "Implementación de programas de desarme y desmovilización.",
+    "Restricción del acceso a la educación.",
+    "Legalización del reclutamiento forzado."
+  ],
+  "respuesta": "Implementación de programas de desarme y desmovilización."
+},
+{
+  "pregunta": "¿Cuál es el enfoque de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes indígenas?",
+  "opciones": [
+    "Negación de sus derechos culturales y lingüísticos.",
+    "Garantía del respeto a su identidad cultural y derechos territoriales.",
+    "Restricción del acceso a la educación.",
+    "Promoción de la asimilación cultural."
+  ],
+  "respuesta": "Garantía del respeto a su identidad cultural y derechos territoriales."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra la explotación sexual?",
+  "opciones": [
+    "Legalización de la pornografía infantil.",
+    "Implementación de políticas de prevención, atención y protección.",
+    "Fomento del turismo sexual infantil.",
+    "Restricción del acceso a la educación."
+  ],
+  "respuesta": "Implementación de políticas de prevención, atención y protección."
+},
+{
+  "pregunta": "¿Cuál es la importancia de la Ley de Infancia y Adolescencia en Colombia en relación con la garantía del derecho a la salud?",
+  "opciones": [
+    "Restricción del acceso a servicios de salud.",
+    "Promoción del acceso universal a servicios de salud de calidad.",
+    "Legalización de la discriminación en el acceso a servicios de salud.",
+    "Negación del derecho a la atención médica."
+  ],
+  "respuesta": "Promoción del acceso universal a servicios de salud de calidad."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra el matrimonio infantil y forzado?",
+  "opciones": [
+    "Legalización del matrimonio infantil.",
+    "Implementación de programas de sensibilización y prevención.",
+    "Restricción del acceso a la educación.",
+    "Promoción del matrimonio infantil como tradición cultural."
+  ],
+  "respuesta": "Implementación de programas de sensibilización y prevención."
+},
+{
+  "pregunta": "¿Cuál es el objetivo principal de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes en situación de calle?",
+  "opciones": [
+    "Promoción de la reintegración familiar y comunitaria.",
+    "Legalización de la explotación infantil.",
+    "Restricción del acceso a la educación.",
+    "Fomento del trabajo infantil en las calles."
+  ],
+  "respuesta": "Promoción de la reintegración familiar y comunitaria."
+},
+    {
+  "pregunta": "contra el reclutamiento forzado?",
+  "opciones": [
+    "Promoción del acceso a la educación.",
+    "Implementación de programas de desarme y desmovilización.",
+    "Restricción del acceso a la educación.",
+    "Legalización del reclutamiento forzado."
+  ],
+  "respuesta": "Implementación de programas de desarme y desmovilización."
+},
+{
+  "pregunta": "¿Cuál es el enfoque de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes en situación de trabajo infantil?",
+  "opciones": [
+    "Promoción del trabajo infantil como forma de aprendizaje.",
+    "Implementación de medidas de prevención, erradicación y protección.",
+    "Restricción del acceso a la educación.",
+    "Legalización del trabajo infantil en todas sus formas."
+  ],
+  "respuesta": "Implementación de medidas de prevención, erradicación y protección."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra la violencia intrafamiliar?",
+  "opciones": [
+    "Legalización de la violencia como método disciplinario.",
+    "Implementación de programas de prevención, atención y protección.",
+    "Restricción del acceso a la educación.",
+    "Promoción de la impunidad para los agresores."
+  ],
+  "respuesta": "Implementación de programas de prevención, atención y protección."
+},
+{
+  "pregunta": "¿Cuál es el objetivo principal de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes en situación de vulnerabilidad?",
+  "opciones": [
+    "Fomento de la exclusión y discriminación.",
+    "Implementación de políticas de prevención, atención y protección.",
+    "Restricción del acceso a la educación.",
+    "Promoción del abandono infantil."
+  ],
+  "respuesta": "Implementación de políticas de prevención, atención y protección."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra la explotación laboral?",
+  "opciones": [
+    "Legalización de la explotación infantil.",
+    "Implementación de políticas de prevención, erradicación y protección.",
+    "Restricción del acceso a la educación.",
+    "Promoción del trabajo infantil como forma de ingreso familiar."
+  ],
+  "respuesta": "Implementación de políticas de prevención, erradicación y protección."
+},
+{
+  "pregunta": "¿Cuál es el enfoque de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes en situación de abandono?",
+  "opciones": [
+    "Legalización del abandono infantil.",
+    "Implementación de medidas de prevención, atención y protección.",
+    "Restricción del acceso a la educación.",
+    "Fomento de la institucionalización permanente."
+  ],
+  "respuesta": "Implementación de medidas de prevención, atención y protección."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra el reclutamiento en grupos armados?",
+  "opciones": [
+    "Promoción del reclutamiento militar obligatorio.",
+    "Implementación de programas de desarme y desmovilización.",
+    "Restricción del acceso a la educación.",
+    "Legalización del reclutamiento forzado."
+  ],
+  "respuesta": "Implementación de programas de desarme y desmovilización."
+},
+{
+  "pregunta": "¿Cuál es el enfoque de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes indígenas?",
+  "opciones": [
+    "Negación de sus derechos culturales y lingüísticos.",
+    "Garantía del respeto a su identidad cultural y derechos territoriales.",
+    "Restricción del acceso a la educación.",
+    "Promoción de la asimilación cultural."
+  ],
+  "respuesta": "Garantía del respeto a su identidad cultural y derechos territoriales."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra la explotación sexual?",
+  "opciones": [
+    "Legalización de la pornografía infantil.",
+    "Implementación de políticas de prevención, atención y protección.",
+    "Fomento del turismo sexual infantil.",
+    "Restricción del acceso a la educación."
+  ],
+  "respuesta": "Implementación de políticas de prevención, atención y protección."
+},
+{
+  "pregunta": "¿Cuál es la importancia de la Ley de Infancia y Adolescencia en Colombia en relación con la garantía del derecho a la salud?",
+  "opciones": [
+    "Restricción del acceso a servicios de salud.",
+    "Promoción del acceso universal a servicios de salud de calidad.",
+    "Legalización de la discriminación en el acceso a servicios de salud.",
+    "Negación del derecho a la atención médica."
+  ],
+  "respuesta": "Promoción del acceso universal a servicios de salud de calidad."
+},
+{
+  "pregunta": "¿Qué medidas establece la Ley de Infancia y Adolescencia en Colombia para proteger a los niños, niñas y adolescentes contra el matrimonio infantil y forzado?",
+  "opciones": [
+    "Legalización del matrimonio infantil.",
+    "Implementación de programas de sensibilización y prevención.",
+    "Restricción del acceso a la educación.",
+    "Promoción del matrimonio infantil como tradición cultural."
+  ],
+  "respuesta": "Implementación de programas de sensibilización y prevención."
+},
+{
+  "pregunta": "¿Cuál es el objetivo principal de la Ley de Infancia y Adolescencia en Colombia en relación con la protección de los derechos de los niños, niñas y adolescentes en situación de calle?",
+  "opciones": [
+    "Promoción de la reintegración familiar y comunitaria.",
+    "Legalización de la explotación infantil.",
+    "Restricción del acceso a la educación.",
+    "Fomento del trabajo infantil en las calles."
+  ],
+  "respuesta": "Promoción de la reintegración familiar y comunitaria."
+}
+  ]}

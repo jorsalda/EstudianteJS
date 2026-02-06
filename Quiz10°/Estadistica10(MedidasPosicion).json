@@ -1,0 +1,254 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué son las medidas de posición?",
+      "opciones": [
+        "Medidas que determinan el promedio de una muestra.",
+        "Medidas que determinan la dispersión de una muestra.",
+        "Medidas que determinan la posición de un dato dentro de una muestra.",
+        "Medidas que determinan la moda de una muestra."
+      ],
+      "respuesta": "Medidas que determinan la posición de un dato dentro de una muestra."
+    },
+    {
+      "pregunta": "¿En cuántas partes dividen los cuartiles los datos ordenados?",
+      "opciones": [
+        "Dos partes",
+        "Tres partes",
+        "Cuatro partes",
+        "Cinco partes"
+      ],
+      "respuesta": "Cuatro partes"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del primer cuartil (Q1)?",
+      "opciones": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "respuesta": "25%"
+    },
+    {
+      "pregunta": "¿Cuál es otra denominación para el segundo cuartil (Q2)?",
+      "opciones": [
+        "Moda",
+        "Media aritmética",
+        "Desviación estándar",
+        "Mediana"
+      ],
+      "respuesta": "Mediana"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del tercer cuartil (Q3)?",
+      "opciones": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "respuesta": "75%"
+    },
+    {
+      "pregunta": "¿En cuántas partes dividen los deciles los datos ordenados?",
+      "opciones": [
+        "Cinco partes",
+        "Diez partes",
+        "Quince partes",
+        "Veinte partes"
+      ],
+      "respuesta": "Diez partes"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del primer decil (D1)?",
+      "opciones": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "respuesta": "10%"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del cuarto decil (D4)?",
+      "opciones": [
+        "10%",
+        "20%",
+        "40%",
+        "60%"
+      ],
+      "respuesta": "40%"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del quinto decil (D5)?",
+      "opciones": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "respuesta": "50%"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del octavo decil (D8)?",
+      "opciones": [
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "respuesta": "80%"
+    },
+    {
+      "pregunta": "¿En cuántas partes dividen los percentiles los datos ordenados?",
+      "opciones": [
+        "Diez partes",
+        "Cien partes",
+        "Veinte partes",
+        "Mil partes"
+      ],
+      "respuesta": "Cien partes"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del primer percentil (P1)?",
+      "opciones": [
+        "0.1%",
+        "1%",
+        "10%",
+        "20%"
+      ],
+      "respuesta": "1%"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del cuarto percentil (P4)?",
+      "opciones": [
+        "2%",
+        "3%",
+        "4%",
+        "5%"
+      ],
+      "respuesta": "4%"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del vigésimo percentil (P20)?",
+      "opciones": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "respuesta": "20%"
+    },
+    {
+      "pregunta": "¿Qué porcentaje de los datos está por debajo del quincuagésimo percentil (P50)?",
+      "opciones": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "respuesta": "50%"
+    },
+    {
+      "pregunta": "¿Qué se hace primero para encontrar cuartiles en una muestra con datos impares?",
+      "opciones": [
+        "Calcular la media",
+        "Ordenar los datos",
+        "Encontrar la moda",
+        "Calcular la desviación estándar"
+      ],
+      "respuesta": "Ordenar los datos"
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para encontrar Q1 en datos impares?",
+      "opciones": [
+        "(n + 1) / 2",
+        "(n + 1) * 1/4",
+        "(n - 1) * 1/4",
+        "n / 4"
+      ],
+      "respuesta": "(n + 1) * 1/4"
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para encontrar Q2 en datos impares?",
+      "opciones": [
+        "(n + 1) / 2",
+        "(n + 1) * 1/4",
+        "(n + 1) * 3/4",
+        "n / 2"
+      ],
+      "respuesta": "(n + 1) / 2"
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para encontrar Q3 en datos impares?",
+      "opciones": [
+        "(n + 1) / 2",
+        "(n + 1) * 1/4",
+        "(n + 1) * 3/4",
+        "n / 3"
+      ],
+      "respuesta": "(n + 1) * 3/4"
+    },
+    {
+      "pregunta": "¿Qué método se utiliza cuando los datos son pares y las posiciones no coinciden exactamente?",
+      "opciones": [
+        "Media aritmética",
+        "Desviación estándar",
+        "Interpolación",
+        "Moda"
+      ],
+      "respuesta": "Interpolación"
+    },
+    {
+      "pregunta": "¿Qué se utiliza para encontrar cuartiles, deciles y percentiles en datos ordenados por intervalos de clase?",
+      "opciones": [
+        "Promedios",
+        "Frecuencias acumuladas",
+        "Desviación estándar",
+        "Modas"
+      ],
+      "respuesta": "Frecuencias acumuladas"
+    },
+    {
+      "pregunta": "¿Qué es necesario para calcular cuartiles, deciles y percentiles en tablas de frecuencias?",
+      "opciones": [
+        "Datos ordenados",
+        "Uso de fórmulas de interpolación",
+        "Mediana",
+        "Moda"
+      ],
+      "respuesta": "Uso de fórmulas de interpolación"
+    },
+    {
+      "pregunta": "¿Qué incluye la construcción de un boxplot?",
+      "opciones": [
+        "Media y desviación estándar",
+        "Mediana y moda",
+        "Mínimo, Q1, mediana, Q3 y máximo",
+        "Moda y rangos intercuartílicos"
+      ],
+      "respuesta": "Mínimo, Q1, mediana, Q3 y máximo"
+    },
+    {
+      "pregunta": "¿Qué visualiza un diagrama de caja y bigotes?",
+      "opciones": [
+        "La media de los datos",
+        "La desviación estándar de los datos",
+        "La distribución de los datos",
+        "La moda de los datos"
+      ],
+      "respuesta": "La distribución de los datos"
+    },
+    {
+      "pregunta": "¿Qué parámetros de clase se utilizan en cálculos detallados de posiciones percentiles?",
+      "opciones": [
+        "Media y moda",
+        "Amplitud de clase",
+        "Desviación estándar",
+        "Rangos intercuartílicos"
+      ],
+      "respuesta": "Amplitud de clase"
+    }
+  ]
+}

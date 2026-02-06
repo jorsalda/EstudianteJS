@@ -1,0 +1,204 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es la estadística?",
+      "opciones": [
+        "Una técnica de pintura.",
+        "Una rama de la biología.",
+        "Un área de las matemáticas.",
+        "Un deporte extremo."
+      ],
+      "respuesta": "Un área de las matemáticas."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la estadística descriptiva?",
+      "opciones": [
+        "Hacer predicciones sobre el futuro.",
+        "Resumir y describir los datos.",
+        "Realizar inferencias sobre una población.",
+        "Crear modelos matemáticos complejos."
+      ],
+      "respuesta": "Resumir y describir los datos."
+    },
+    {
+      "pregunta": "¿Qué tipo de inferencias se realizan en la estadística inferencial?",
+      "opciones": [
+        "Inferencias sobre una muestra.",
+        "Inferencias sobre toda la población.",
+        "Inferencias sobre el pasado.",
+        "Inferencias sobre datos cualitativos."
+      ],
+      "respuesta": "Inferencias sobre toda la población."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes medidas estadísticas mide la dispersión de los datos?",
+      "opciones": [
+        "La media aritmética.",
+        "La moda.",
+        "El rango.",
+        "La mediana."
+      ],
+      "respuesta": "El rango."
+    },
+    {
+      "pregunta": "¿Para qué se utiliza la estadística en la investigación científica?",
+      "opciones": [
+        "Para complicar el análisis de datos.",
+        "Para validar teorías y probar hipótesis.",
+        "Para evitar la recolección de datos.",
+        "Para ignorar resultados no deseados."
+      ],
+      "respuesta": "Para validar teorías y probar hipótesis."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes no es una medida de tendencia central?",
+      "opciones": [
+        "La media aritmética.",
+        "La moda.",
+        "La desviación estándar.",
+        "La mediana."
+      ],
+      "respuesta": "La desviación estándar."
+    },
+    {
+      "pregunta": "¿Qué tipo de gráfico se utiliza para representar la distribución de frecuencia de datos?",
+      "opciones": [
+        "Gráfico de barras.",
+        "Gráfico circular.",
+        "Histograma.",
+        "Diagrama de dispersión."
+      ],
+      "respuesta": "Histograma."
+    },
+    {
+      "pregunta": "¿Qué representa la varianza en estadística?",
+      "opciones": [
+        "La diferencia entre el valor máximo y el valor mínimo.",
+        "La medida de la dispersión de los datos respecto a la media.",
+        "El valor que se repite con mayor frecuencia en un conjunto de datos.",
+        "La medida de la dispersión de los datos respecto a la mediana."
+      ],
+      "respuesta": "La medida de la dispersión de los datos respecto a la media."
+    },
+    {
+      "pregunta": "¿Cuál es la principal diferencia entre la estadística descriptiva y la estadística inferencial?",
+      "opciones": [
+        "La estadística descriptiva analiza datos cualitativos, mientras que la inferencial analiza datos cuantitativos.",
+        "La estadística descriptiva resume y describe los datos disponibles, mientras que la inferencial hace predicciones sobre poblaciones basadas en muestras de datos.",
+        "La estadística descriptiva se utiliza en la ciencia exacta, mientras que la inferencial se utiliza en la ciencia social.",
+        "La estadística descriptiva es más precisa que la inferencial."
+      ],
+      "respuesta": "La estadística descriptiva resume y describe los datos disponibles, mientras que la inferencial hace predicciones sobre poblaciones basadas en muestras de datos."
+    },
+    {
+      "pregunta": "¿Qué medida estadística se utiliza para representar el valor central de un conjunto de datos?",
+      "opciones": [
+        "La media aritmética.",
+        "La moda.",
+        "La mediana.",
+        "El rango."
+      ],
+      "respuesta": "La media aritmética."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes distribuciones de probabilidad es discreta?",
+      "opciones": [
+        "Distribución normal.",
+        "Distribución binomial.",
+        "Distribución uniforme.",
+        "Distribución exponencial."
+      ],
+      "respuesta": "Distribución binomial."
+    },
+    {
+      "pregunta": "¿Para qué se utilizan los cuartiles en estadística?",
+      "opciones": [
+        "Para representar datos en un diagrama de barras.",
+        "Para medir la dispersión de los datos.",
+        "Para dividir un conjunto de datos en cuatro partes iguales.",
+        "Para calcular la media aritmética."
+      ],
+      "respuesta": "Para dividir un conjunto de datos en cuatro partes iguales."
+    },
+    {
+      "pregunta": "¿Qué tipo de análisis se utiliza para determinar la relación entre dos variables en estadística?",
+      "opciones": [
+        "Análisis de regresión.",
+        "Análisis de frecuencia.",
+        "Análisis de tendencia.",
+        "Análisis de dispersión."
+      ],
+      "respuesta": "Análisis de regresión."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre el rango y la desviación estándar en estadística?",
+      "opciones": [
+        "El rango es una medida de tendencia central, mientras que la desviación estándar es una medida de dispersión.",
+        "El rango es la diferencia entre el valor máximo y el valor mínimo, mientras que la desviación estándar mide la dispersión de los datos respecto a la media.",
+        "El rango es una medida de dispersión, mientras que la desviación estándar es una medida de tendencia central.",
+        "El rango y la desviación estándar son términos equivalentes en estadística."
+      ],
+      "respuesta": "El rango es la diferencia entre el valor máximo y el valor mínimo, mientras que la desviación estándar mide la dispersión de los datos respecto a la media."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la inferencia estadística?",
+      "opciones": [
+        "Hacer predicciones sobre el futuro.",
+        "Describir los datos disponibles.",
+        "Generalizar conclusiones sobre una población a partir de una muestra de datos.",
+        "Crear modelos matemáticos complejos."
+      ],
+      "respuesta": "Generalizar conclusiones sobre una población a partir de una muestra de datos."
+    },
+    {
+      "pregunta": "¿Qué medida estadística se utiliza para representar el valor más común en un conjunto de datos?",
+      "opciones": [
+        "La media aritmética.",
+        "La mediana.",
+        "La moda.",
+        "El rango."
+      ],
+      "respuesta": "La moda."
+    },
+    {
+      "pregunta": "¿Qué tipo de gráfico se utiliza para representar la relación entre dos variables en estadística?",
+      "opciones": [
+        "Gráfico de barras.",
+        "Gráfico circular.",
+        "Histograma.",
+        "Diagrama de dispersión."
+      ],
+      "respuesta": "Diagrama de dispersión."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor la varianza en estadística?",
+      "opciones": [
+        "Es una medida de tendencia central.",
+        "Es una medida de dispersión de los datos.",
+        "Es una medida de la relación entre dos variables.",
+        "Es una medida de la forma de la distribución de los datos."
+      ],
+      "respuesta": "Es una medida de dispersión de los datos."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor la mediana en estadística?",
+      "opciones": [
+        "Es el valor que se repite con mayor frecuencia en un conjunto de datos.",
+        "Es la suma de todos los valores dividida por el número total de valores.",
+        "Es el valor central en un conjunto de datos ordenados de menor a mayor.",
+        "Es la diferencia entre el valor máximo y el valor mínimo en un conjunto de datos."
+      ],
+      "respuesta": "Es el valor central en un conjunto de datos ordenados de menor a mayor."
+    },
+    {
+      "pregunta": "¿Para qué se utilizan los percentiles en estadística?",
+      "opciones": [
+        "Para dividir un conjunto de datos en cuatro partes iguales.",
+        "Para calcular la media aritmética de un conjunto de datos.",
+        "Para representar datos en un histograma.",
+        "Para medir la relación entre dos variables."
+      ],
+      "respuesta": "Para dividir un conjunto de datos en cuatro partes iguales."
+    }
+  ]
+}

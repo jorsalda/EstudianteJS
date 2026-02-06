@@ -1,0 +1,204 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el órgano máximo de dirección y gobierno del sistema educativo en Colombia?",
+      "opciones": [
+        "Ministerio de Educación Nacional",
+        "Consejo Nacional de Educación",
+        "Asamblea Nacional de Educación",
+        "Consejo Superior de Educación"
+      ],
+      "respuesta": "Consejo Nacional de Educación"
+    },
+    {
+      "pregunta": "¿Qué establece la Ley General de Educación en Colombia sobre la calidad de la educación?",
+      "opciones": [
+        "Que debe ser un objetivo secundario",
+        "Que debe ser garantizada por el Estado",
+        "Que es responsabilidad exclusiva de los padres",
+        "Que no es un factor relevante"
+      ],
+      "respuesta": "Que debe ser garantizada por el Estado"
+    },
+    {
+      "pregunta": "¿Cuál es la edad de escolaridad obligatoria en Colombia?",
+      "opciones": [
+        "De 4 a 16 años",
+        "De 5 a 17 años",
+        "De 6 a 18 años",
+        "De 7 a 19 años"
+      ],
+      "respuesta": "De 5 a 17 años"
+    },
+    {
+      "pregunta": "¿Qué tipo de educación promueve la Constitución Política de Colombia?",
+      "opciones": [
+        "Educación privada exclusivamente",
+        "Educación pública exclusivamente",
+        "Educación gratuita y diversificada",
+        "Educación elitista"
+      ],
+      "respuesta": "Educación gratuita y diversificada"
+    },
+    {
+      "pregunta": "¿Cuál es el principal enfoque de la educación en Colombia?",
+      "opciones": [
+        "Competitividad",
+        "Inclusión",
+        "Exclusión",
+        "Desigualdad"
+      ],
+      "respuesta": "Inclusión"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la Ley General de Educación en Colombia?",
+      "opciones": [
+        "Fomentar la competitividad",
+        "Promover la equidad",
+        "Aumentar la exclusión",
+        "Garantizar la elitización"
+      ],
+      "respuesta": "Promover la equidad"
+    },
+    {
+      "pregunta": "¿Qué garantiza la Ley de Educación en Colombia respecto a la libertad de enseñanza?",
+      "opciones": [
+        "Libertad total sin regulaciones",
+        "Libertad condicionada a estándares de calidad",
+        "Libertad únicamente para instituciones públicas",
+        "Libertad exclusiva para instituciones religiosas"
+      ],
+      "respuesta": "Libertad condicionada a estándares de calidad"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la política de educación inclusiva en Colombia?",
+      "opciones": [
+        "Excluir a los estudiantes con discapacidad",
+        "Promover la segregación",
+        "Garantizar la igualdad de oportunidades",
+        "Privilegiar a los estudiantes de clases altas"
+      ],
+      "respuesta": "Garantizar la igualdad de oportunidades"
+    },
+    {
+      "pregunta": "¿Qué establece la Ley General de Educación sobre la autonomía de las instituciones educativas?",
+      "opciones": [
+        "Que no tienen autonomía",
+        "Que tienen autonomía total sin regulaciones",
+        "Que tienen autonomía condicionada a la normativa",
+        "Que la autonomía es exclusiva de las instituciones privadas"
+      ],
+      "respuesta": "Que tienen autonomía condicionada a la normativa"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de la educación preescolar según la legislación colombiana?",
+      "opciones": [
+        "Preparar a los niños para el trabajo",
+        "Fomentar el juego y la socialización",
+        "Excluir a los niños de contextos desfavorecidos",
+        "Privilegiar a los niños de clases altas"
+      ],
+      "respuesta": "Fomentar el juego y la socialización"
+    },
+    {
+      "pregunta": "¿Qué establece la Ley General de Educación sobre la formación técnica y tecnológica en Colombia?",
+      "opciones": [
+        "Que no es una prioridad",
+        "Que es exclusivamente para estudiantes de bajos recursos",
+        "Que es una alternativa válida",
+        "Que es obligatoria para todos los estudiantes"
+      ],
+      "respuesta": "Que es una alternativa válida"
+    },
+    {
+      "pregunta": "¿Qué papel juega la familia en la educación según la legislación colombiana?",
+      "opciones": [
+        "Ningún papel",
+        "Un papel exclusivamente financiero",
+        "Un papel secundario",
+        "Un papel fundamental y activo"
+      ],
+      "respuesta": "Un papel fundamental y activo"
+    },
+    {
+      "pregunta": "¿Qué tipo de educación prohíbe la Constitución Política de Colombia?",
+      "opciones": [
+        "La educación religiosa",
+        "La educación exclusivamente privada",
+        "La educación segregada",
+        "La educación que promueva la discriminación"
+      ],
+      "respuesta": "La educación que promueva la discriminación"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal del currículo según la Ley General de Educación?",
+      "opciones": [
+        "Promover la homogeneidad",
+        "Promover la diversidad",
+        "Limitar la creatividad",
+        "Limitar el acceso a la información"
+      ],
+      "respuesta": "Promover la diversidad"
+    },
+    {
+      "pregunta": "¿Qué establece la legislación colombiana sobre la educación de personas con discapacidad?",
+      "opciones": [
+        "Que no tienen derecho a la educación",
+        "Que tienen acceso exclusivo a instituciones especiales",
+        "Que tienen derecho a una educación inclusiva",
+        "Que tienen acceso exclusivo a la educación privada"
+      ],
+      "respuesta": "Que tienen derecho a una educación inclusiva"
+    },
+    {
+      "pregunta": "¿Qué establece la Ley General de Educación sobre la financiación de la educación en Colombia?",
+      "opciones": [
+        "Que la educación debe ser totalmente gratuita",
+        "Que la financiación es responsabilidad exclusiva de los padres",
+        "Que la educación es financiada exclusivamente por el Estado",
+        "Que la financiación es compartida entre el Estado, la sociedad y la familia"
+      ],
+      "respuesta": "Que la financiación es compartida entre el Estado, la sociedad y la familia"
+    },
+    {
+      "pregunta": "¿Cuál es el papel del Estado en la regulación de la educación en Colombia?",
+      "opciones": [
+        "Ningún papel",
+        "Un papel exclusivamente financiero",
+        "Un papel subsidiario",
+        "Un papel rector y garante de la calidad"
+      ],
+      "respuesta": "Un papel rector y garante de la calidad"
+    },
+    {
+      "pregunta": "¿Qué garantiza la Ley General de Educación sobre la libertad de cátedra?",
+      "opciones": [
+        "Que no existe",
+        "Que está sujeta a la aprobación del gobierno",
+        "Que es absoluta y sin restricciones",
+        "Que está limitada por la ideología del Estado"
+      ],
+      "respuesta": "Que es absoluta y sin restricciones"
+    },
+    {
+      "pregunta": "¿Qué medidas establece la legislación colombiana para garantizar la equidad en la educación?",
+      "opciones": [
+        "Ninguna medida",
+        "Medidas exclusivas para grupos privilegiados",
+        "Medidas de inclusión y acceso para todos los grupos sociales",
+        "Medidas de exclusión y discriminación"
+      ],
+      "respuesta": "Medidas de inclusión y acceso para todos los grupos sociales"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la evaluación educativa según la legislación colombiana?",
+      "opciones": [
+        "Sancionar a los estudiantes",
+        "Clasificar a los estudiantes",
+        "Mejorar la calidad educativa",
+        "Promover la competitividad entre instituciones"
+      ],
+      "respuesta": "Mejorar la calidad educativa"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué son transformaciones geométricas?",
+      "opciones": [
+        "Cambios en la forma de los objetos en el espacio tridimensional.",
+        "Operaciones matemáticas aplicadas a figuras geométricas.",
+        "Transformaciones físicas de objetos sólidos.",
+        "Variaciones en la textura de superficies planas."
+      ],
+      "respuesta": "Operaciones matemáticas aplicadas a figuras geométricas."
+    },
+    {
+      "pregunta": "¿Qué es una rotación en geometría?",
+      "opciones": [
+        "Un movimiento que cambia la posición de un objeto sin alterar su forma ni su tamaño.",
+        "Un giro en torno a un punto fijo llamado centro de rotación.",
+        "Una reflexión sobre un eje determinado.",
+        "Una traslación en dirección vertical."
+      ],
+      "respuesta": "Un giro en torno a un punto fijo llamado centro de rotación."
+    },
+    {
+      "pregunta": "¿Qué es una traslación en geometría?",
+      "opciones": [
+        "Un cambio en la orientación de una figura.",
+        "Un movimiento que desplaza una figura a lo largo de una dirección determinada.",
+        "Una operación que produce una imagen especular de una figura.",
+        "Una transformación que expande o contrae una figura alrededor de un punto fijo."
+      ],
+      "respuesta": "Un movimiento que desplaza una figura a lo largo de una dirección determinada."
+    },
+    {
+      "pregunta": "¿Qué es una homotecia en geometría?",
+      "opciones": [
+        "Una transformación que cambia la orientación de una figura.",
+        "Una operación que refleja una figura a través de una línea o un punto.",
+        "Una transformación que expande o contrae una figura alrededor de un punto fijo.",
+        "Un desplazamiento de una figura en una dirección determinada."
+      ],
+      "respuesta": "Una transformación que expande o contrae una figura alrededor de un punto fijo."
+    },
+    {
+      "pregunta": "¿Qué es una reflexión en geometría?",
+      "opciones": [
+        "Un movimiento que cambia la posición de un objeto sin alterar su forma ni su tamaño.",
+        "Una operación que produce una imagen especular de una figura.",
+        "Un giro en torno a un punto fijo llamado centro de rotación.",
+        "Un cambio en la orientación de una figura."
+      ],
+      "respuesta": "Una operación que produce una imagen especular de una figura."
+    },
+    {
+      "pregunta": "¿Cómo se define un plano en geometría?",
+      "opciones": [
+        "Una línea que conecta dos puntos en el espacio tridimensional.",
+        "Una superficie curva que se extiende infinitamente en todas las direcciones.",
+        "Una superficie bidimensional que se extiende infinitamente en todas las direcciones.",
+        "Un conjunto de puntos que forman una figura cerrada."
+      ],
+      "respuesta": "Una superficie bidimensional que se extiende infinitamente en todas las direcciones."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre un plano y el espacio en geometría tridimensional?",
+      "opciones": [
+        "Un plano es una superficie bidimensional, mientras que el espacio incluye todas las dimensiones (longitud, anchura y altura).",
+        "Un plano es una línea recta, mientras que el espacio es una superficie curva.",
+        "Un plano es una figura tridimensional, mientras que el espacio es una figura bidimensional.",
+        "Un plano es una figura cerrada, mientras que el espacio es una figura abierta."
+      ],
+      "respuesta": "Un plano es una superficie bidimensional, mientras que el espacio incluye todas las dimensiones (longitud, anchura y altura)."
+    },
+    {
+      "pregunta": "¿Qué es el área en geometría?",
+      "opciones": [
+        "La cantidad de espacio que ocupa un objeto en tres dimensiones.",
+        "La medida de la superficie bidimensional de una figura en un plano.",
+        "La longitud de la línea que forma el borde de una figura.",
+        "La distancia entre dos puntos en una línea recta."
+      ],
+      "respuesta": "La medida de la superficie bidimensional de una figura en un plano."
+    },
+    {
+      "pregunta": "¿Cómo se calcula el área de un rectángulo?",
+      "opciones": [
+        "Multiplicando su longitud por su anchura.",
+        "Sumando su longitud y su anchura.",
+        "Dividiendo su longitud entre su anchura.",
+        "Restando su longitud de su anchura."
+      ],
+      "respuesta": "Multiplicando su longitud por su anchura."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para calcular el área de un triángulo?",
+      "opciones": [
+        "A = base x altura",
+        "A = 1/2 x base x altura",
+        "A = lado x lado x lado",
+        "A = pi x radio x radio"
+      ],
+      "respuesta": "A = 1/2 x base x altura"
+    },
+    {
+      "pregunta": "¿Cómo se define el volumen en geometría?",
+      "opciones": [
+        "La medida de la superficie bidimensional de una figura en un plano.",
+        "La cantidad de espacio que ocupa un objeto en tres dimensiones.",
+        "La longitud de la línea que forma el borde de una figura.",
+        "La distancia entre dos puntos en una línea recta."
+      ],
+      "respuesta": "La cantidad de espacio que ocupa un objeto en tres dimensiones."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre área y volumen?",
+      "opciones": [
+        "El área se refiere a la medida de la superficie bidimensional de una figura en un plano, mientras que el volumen se refiere a la medida del espacio tridimensional que ocupa un objeto.",
+        "El área se refiere a la medida del espacio tridimensional que ocupa un objeto, mientras que el volumen se refiere a la medida de la superficie bidimensional de una figura en un plano.",
+        "El área se calcula multiplicando la longitud de la base por la altura, mientras que el volumen se calcula multiplicando el área de la base por la profundidad.",
+        "El área se relaciona con la longitud y el ancho en dos dimensiones, mientras que el volumen involucra longitud, ancho y altura en tres dimensiones."
+      ],
+      "respuesta": "El área se refiere a la medida de la superficie bidimensional de una figura en un plano, mientras que el volumen se refiere a la medida del espacio tridimensional que ocupa un objeto."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para calcular el volumen de un prisma rectangular?",
+      "opciones": [
+        "V = lado x lado x lado",
+        "V = base x altura",
+        "V = base x altura x profundidad",
+        "V = pi x radio x radio x altura"
+      ],
+      "respuesta": "V = base x altura x profundidad"
+    },
+    {
+      "pregunta": "¿Cómo se calcula el volumen de un cilindro?",
+      "opciones": [
+        "V = lado x lado x lado",
+        "V = base x altura",
+        "V = base x altura x profundidad",
+        "V = pi x radio x radio x altura"
+      ],
+      "respuesta": "V = base x altura"
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para el volumen de un tetraedro regular?",
+      "opciones": [
+        "V = base x altura",
+        "V = 1/3 x base x altura",
+        "V = 1/3 x pi x radio x radio x altura",
+        "V = 4/3 x pi x radio x radio x radio"
+      ],
+      "respuesta": "V = 1/3 x base x altura"
+    },
+    {
+      "pregunta": "¿Cómo se calcula el área de un tetraedro regular?",
+      "opciones": [
+        "Se suma el área de los cuatro triángulos que lo conforman.",
+        "Se multiplica el área de una cara por cuatro.",
+        "Se divide el área de una cara entre cuatro.",
+        "Se resta el área de una cara del área de la base."
+      ],
+      "respuesta": "Se multiplica el área de una cara por cuatro."
+    },
+    {
+      "pregunta": "¿Qué es un prisma en geometría?",
+      "opciones": [
+        "Un tipo específico de poliedro que tiene dos caras iguales y paralelas llamadas bases y caras laterales que son paralelogramos.",
+        "Un poliedro regular compuesto por cuatro caras triangulares.",
+        "Una figura tridimensional con todas sus aristas y vértices en el mismo plano.",
+        "Un tipo de pirámide con una base cuadrada."
+      ],
+      "respuesta": "Un tipo específico de poliedro que tiene dos caras iguales y paralelas llamadas bases y caras laterales que son paralelogramos."
+    },
+    {
+      "pregunta": "¿Cuál es la característica principal de un prisma?",
+      "opciones": [
+        "Tiene todas sus aristas y vértices en el mismo plano.",
+        "Tiene dos caras iguales y paralelas llamadas bases.",
+        "Tiene una base cuadrada.",
+        "Tiene cuatro caras triangulares."
+      ],
+      "respuesta": "Tiene dos caras iguales y paralelas llamadas bases."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para calcular el área superficial de una esfera?",
+      "opciones": [
+        "A = 4 x pi x radio x radio",
+        "A = 2 x pi x radio",
+        "A = pi x radio x radio",
+        "A = 1/3 x pi x radio x radio x radio"
+      ],
+      "respuesta": "A = 4 x pi x radio x radio"
+    },
+    {
+      "pregunta": "¿Cómo se calcula el volumen de una esfera?",
+      "opciones": [
+        "V = 4/3 x pi x radio x radio x radio",
+        "V = 2/3 x pi x radio x radio",
+        "V = pi x radio x radio",
+        "V = 1/3 x pi x radio x radio x radio"
+      ],
+      "respuesta": "V = 4/3 x pi x radio x radio x radio"
+    },
+    {
+      "pregunta": "¿Cuál es la relación entre el radio y el diámetro de una esfera?",
+      "opciones": [
+        "El radio es la mitad del diámetro.",
+        "El diámetro es la mitad del radio.",
+        "El radio es igual al diámetro.",
+        "El radio es el doble del diámetro."
+      ],
+      "respuesta": "El radio es la mitad del diámetro."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para calcular el volumen de una esfera utilizando el diámetro?",
+      "opciones": [
+        "V = 4/3 x pi x radio x radio x radio",
+        "V = 2/3 x pi x radio x radio",
+        "V = pi x radio x radio",
+        "V = 1/3 x pi x radio x radio x radio"
+      ],
+      "respuesta": "V = 1/3 x pi x diámetro x diámetro x diámetro"
+    },
+    {
+      "pregunta": "¿Qué es un octaedro regular en geometría?",
+      "opciones": [
+        "Un tipo específico de poliedro que tiene ocho caras triangulares.",
+        "Un poliedro regular compuesto por seis caras cuadradas.",
+        "Una figura tridimensional con forma de octágono.",
+        "Un tipo de pirámide con una base octogonal."
+      ],
+      "respuesta": "Un tipo específico de poliedro que tiene ocho caras triangulares."
+    },
+    {
+      "pregunta": "¿Cómo se calcula el área de un octaedro regular?",
+      "opciones": [
+        "Se suma el área de los ocho triángulos que lo conforman.",
+        "Se multiplica el área de una cara por ocho.",
+        "Se divide el área de una cara entre ocho.",
+        "Se resta el área de una cara del área de la base."
+      ],
+      "respuesta": "Se multiplica el área de una cara por ocho."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para calcular el volumen de un cubo?",
+      "opciones": [
+        "V = lado x lado x lado",
+        "V = base x altura x profundidad",
+        "V = pi x radio x radio x altura",
+        "V = 4/3 x pi x radio x radio x radio"
+      ],
+      "respuesta": "V = lado x lado x lado"
+    }
+  ]
+}

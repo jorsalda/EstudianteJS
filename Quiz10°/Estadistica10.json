@@ -1,0 +1,323 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es estadística?",
+      "opciones": ["Una técnica de pintura.", "Una rama de la biología.", "Un área de las matemáticas.", "Un deporte extremo."],
+      "respuesta": "Un área de las matemáticas."
+    },
+    {
+      "pregunta": "¿Qué es un grupo poblacional?",
+      "opciones": ["Un conjunto de especies en un ecosistema.", "El conjunto de habitantes en una ciudad.", "La totalidad de la población.", "Un subconjunto representativo de la población."],
+      "respuesta": "El conjunto de habitantes en una ciudad."
+    },
+    {
+      "pregunta": "¿Qué es una muestra poblacional?",
+      "opciones": ["La totalidad de la población.", "Un grupo de individuos seleccionados de una población.", "El número total de habitantes en una región.", "Una colección de datos estadísticos."],
+      "respuesta": "Un grupo de individuos seleccionados de una población."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística?",
+      "opciones": ["Un número complejo.", "Una característica que puede variar.", "Una constante matemática.", "Una medida de tendencia central."],
+      "respuesta": "Una característica que puede variar."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cuantitativa?",
+      "opciones": ["Una medida de tendencia central.", "Una constante matemática.", "Una variable que toma valores numéricos.", "Una característica cualitativa."],
+      "respuesta": "Una variable que toma valores numéricos."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cuantitativa discreta?",
+      "opciones": ["Una variable que no se puede medir.", "Una variable que toma valores negativos.", "Una variable que puede tomar cualquier valor.", "Una variable que solo puede tomar valores específicos."],
+      "respuesta": "Una variable que solo puede tomar valores específicos."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cuantitativa continua?",
+      "opciones": ["Una variable que solo puede tomar valores enteros.", "Una variable que no se puede medir.", "Una variable que puede tomar cualquier valor dentro de un intervalo.", "Una variable que solo puede tomar valores negativos."],
+      "respuesta": "Una variable que puede tomar cualquier valor dentro de un intervalo."
+    },
+    {
+      "pregunta": "¿Qué es una encuesta?",
+      "opciones": ["Una técnica de pintura.", "Un método de investigación para recolectar datos.", "Un tipo de gráfico estadístico.", "Un conjunto de ecuaciones matemáticas."],
+      "respuesta": "Un método de investigación para recolectar datos."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cualitativa?",
+      "opciones": ["Una característica que no puede ser medida.", "Una variable que toma valores numéricos.", "Una característica que puede variar.", "Una variable que representa categorías o cualidades."],
+      "respuesta": "Una variable que representa categorías o cualidades."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cualitativa ordinal?",
+      "opciones": ["Una variable que representa categorías con un orden o jerarquía.", "Una variable que no tiene orden.", "Una variable que solo puede tomar valores positivos.", "Una variable que no puede ser medida."],
+      "respuesta": "Una variable que representa categorías con un orden o jerarquía."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cualitativa nominal?",
+      "opciones": ["Una variable que no cambia.", "Una variable que solo puede tomar valores específicos.", "Una variable que puede tomar cualquier valor dentro de un intervalo.", "Una variable que solo puede tomar valores enteros."],
+      "respuesta": "Una variable que solo puede tomar valores específicos."
+    },
+    {
+      "pregunta": "¿Qué es un dato?",
+      "opciones": ["Una constante matemática.", "Una medida de tendencia central.", "Un número complejo.", "Una observación o valor que describe una característica de interés."],
+      "respuesta": "Una observación o valor que describe una característica de interés."
+    },
+    {
+      "pregunta": "¿Qué es una muestra estadística?",
+      "opciones": ["Un grupo de individuos seleccionados de una población.", "La totalidad de la población.", "El número total de habitantes en una región.", "Una colección de datos estadísticos."],
+      "respuesta": "Un grupo de individuos seleccionados de una población."
+    },
+    {
+      "pregunta": "¿Qué es un intervalo de clase?",
+      "opciones": ["Una característica que puede variar.", "Un conjunto de valores agrupados en un rango específico.", "Una medida de tendencia central.", "Un número complejo."],
+      "respuesta": "Un conjunto de valores agrupados en un rango específico."
+    },
+    {
+      "pregunta": "¿Qué es una frontera superior de un intervalo de clase.?",
+      "opciones": ["El límite máximo de un intervalo de clase.", "El límite mínimo de un intervalo de clase.", "El punto medio de un intervalo de clase.", "Una medida de dispersión."],
+      "respuesta": "El límite máximo de un intervalo de clase."
+    },
+    {
+      "pregunta": "¿Qué es una frontera inferior de un intervalo de clase.?",
+      "opciones": ["El límite máximo de un intervalo de clase.", "El límite mínimo de un intervalo de clase.", "El punto medio de un intervalo de clase.", "Una medida de dispersión."],
+      "respuesta": "El límite mínimo de un intervalo de clase."
+    },
+    {
+      "pregunta": "¿Qué es una marca de clase?",
+      "opciones": ["El límite máximo de un intervalo de clase.", "El límite mínimo de un intervalo de clase.", "El punto medio de un intervalo de clase.", "Una medida de dispersión."],
+      "respuesta": "El punto medio de un intervalo de clase."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia absoluta?",
+      "opciones": ["La suma de todas las frecuencias relativas acumuladas.", "La cantidad de veces que ocurre un evento en un experimento aleatorio.", "El resultado de sumar todos los valores en un conjunto de datos.", "La cantidad de veces que ocurre un valor específico en un conjunto de datos."],
+      "respuesta": "La cantidad de veces que ocurre un valor específico en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia absoluta acumulada?",
+      "opciones": ["La cantidad de veces que ocurre un evento en un experimento aleatorio.", "La suma de todas las frecuencias relativas acumuladas.", "La cantidad de veces que ocurre un valor específico en un conjunto de datos.", "El resultado de sumar todos los valores en un conjunto de datos."],
+      "respuesta": "La suma de todas las frecuencias relativas acumuladas."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia relativa?",
+      "opciones": ["El resultado de sumar todos los valores en un conjunto de datos.", "La cantidad de veces que ocurre un valor específico en un conjunto de datos.", "La suma de todas las frecuencias relativas acumuladas.", "La proporción de veces que ocurre un valor específico en relación con el tamaño total de la muestra."],
+      "respuesta": "La proporción de veces que ocurre un valor específico en relación con el tamaño total de la muestra."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia relativa acumulada?",
+      "opciones": ["La cantidad de veces que ocurre un valor específico en un conjunto de datos.", "La suma de todas las frecuencias relativas acumuladas.", "El resultado de sumar todos los valores en un conjunto de datos.", "La proporción acumulada de veces que ocurren valores específicos en relación con el tamaño total de la muestra."],
+      "respuesta": "La proporción acumulada de veces que ocurren valores específicos en relación con el tamaño total de la muestra."
+    },
+    {
+      "pregunta": "¿Qué es una tabla de frecuencias?",
+      "opciones": ["Una representación gráfica de la distribución de frecuencias.", "Una lista que muestra la cantidad de veces que ocurren diferentes valores en un conjunto de datos.", "Una técnica de muestreo.", "Una medida de dispersión."],
+      "respuesta": "Una lista que muestra la cantidad de veces que ocurren diferentes valores en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué es un gráfico estadístico?",
+      "opciones": ["Una representación gráfica de la distribución de frecuencias.", "Una técnica de pintura.", "Un método para recolectar datos estadísticos.", "Un tipo de gráfico circular."],
+      "respuesta": "Una representación gráfica de la distribución de frecuencias."
+    },
+    {
+      "pregunta": "¿Que es un histograma?",
+      "opciones": ["Una representación gráfica de la distribución de frecuencias en forma de barras rectangulares.", "Una técnica de pintura.", "Un método para recolectar datos estadísticos.", "Un tipo de gráfico circular."],
+      "respuesta": "Una representación gráfica de la distribución de frecuencias en forma de barras rectangulares."
+    },
+    {
+      "pregunta": "¿Qué es un polígono de frecuencias?",
+      "opciones": ["Una representación gráfica de la distribución de frecuencias.", "Una técnica de pintura.", "Un método para recolectar datos estadísticos.", "Un tipo de gráfico circular."],
+      "respuesta": "Una representación gráfica de la distribución de frecuencias."
+    },
+    {
+      "pregunta": "¿Qué es un porcentaje?",
+      "opciones": ["Una medida de dispersión.", "Una medida de tendencia central.", "Una proporción expresada en términos de 100.", "Una técnica de muestreo."],
+      "respuesta": "Una proporción expresada en términos de 100."
+    },
+    {
+      "pregunta": "¿Qué es un gráfico circular?",
+      "opciones": ["Una representación gráfica de la distribución de frecuencias.", "Una técnica de pintura.", "Un método para recolectar datos estadísticos.", "Un tipo de gráfico que muestra la relación entre diferentes categorías como porcentajes de un todo."],
+      "respuesta": "Un tipo de gráfico que muestra la relación entre diferentes categorías como porcentajes de un todo."
+    },
+    {
+      "pregunta": "¿Qué es una sumatoria?",
+      "opciones": ["La cantidad de veces que ocurre un evento en un experimento aleatorio.", "Una medida de tendencia central.", "El resultado de sumar todos los valores en un conjunto de datos.", "La suma de todas las frecuencias relativas acumuladas."],
+      "respuesta": "El resultado de sumar todos los valores en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué son medidas de tendencia central?",
+      "opciones": ["Una técnica de muestreo.", "Valores que representan el centro o la tendencia de un conjunto de datos.", "Una proporción expresada en términos de 100.", "Una medida de dispersión."],
+      "respuesta": "Valores que representan el centro o la tendencia de un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué es un promedio aritmético o equis barra?",
+      "opciones": ["Una medida de dispersión.", "Una técnica de muestreo.", "Una medida de tendencia central que se calcula sumando todos los valores y dividiendo por el número total de valores.", "Una proporción expresada en términos de 100."],
+      "respuesta": "Una medida de tendencia central que se calcula sumando todos los valores y dividiendo por el número total de valores."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para hallar el promedio aritmético o equis barra?",
+      "opciones": ["Suma de los valores dividida por el número total de valores.", "Multiplicación de los valores por el número total de valores.", "Resta de los valores dividida por el número total de valores.", "División del número total de valores por la suma de los valores."],
+      "respuesta": "Suma de los valores dividida por el número total de valores."
+    },
+    {
+      "pregunta": "¿Qué es una moda?",
+      "opciones": ["El valor más frecuente en un conjunto de datos.", "Una medida de tendencia central.", "Una técnica de muestreo.", "Una proporción expresada en términos de 100."],
+      "respuesta": "El valor más frecuente en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para hallar la moda?",
+      "opciones": ["El valor más frecuente en un conjunto de datos.", "Suma de los valores dividida por el número total de valores.", "Resta de los valores dividida por el número total de valores.", "División del número total de valores por la suma de los valores."],
+      "respuesta": "El valor más frecuente en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué es una mediana?",
+      "opciones": ["El valor medio en un conjunto de datos ordenados de menor a mayor.", "Una medida de tendencia central.", "Una técnica de muestreo.", "Una proporción expresada en términos de 100."],
+      "respuesta": "El valor medio en un conjunto de datos ordenados de menor a mayor."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para hallar la mediana?",
+      "opciones": ["El valor medio en un conjunto de datos ordenados de menor a mayor.",
+        "Suma de los valores dividida por el número total de valores.",
+        "Resta de los valores dividida por el número total de valores.",
+        "División del número total de valores por la suma de los valores."
+      ],
+      "respuesta": "El valor medio en un conjunto de datos ordenados de menor a mayor."
+    },
+     {
+      "pregunta": "¿Cuál de los siguientes conjuntos numéricos representa a los números racionales?",
+      "opciones": [
+        "N",
+        "Z",
+        "Q",
+        "R"
+      ],
+      "respuesta": "Q"
+    },
+    {
+      "pregunta": "Los números racionales pueden ser representados en un diagrama de Venn. ¿Cuál de los siguientes conjuntos está completamente contenido en Q?",
+      "opciones": [
+        "Números irracionales",
+        "Números naturales",
+        "Números imaginarios",
+        "Números reales"
+      ],
+      "respuesta": "Números naturales"
+    },
+    {
+      "pregunta": "¿Qué se utiliza para simplificar una fracción en números racionales?",
+      "opciones": [
+        "MCM",
+        "MCD",
+        "Factorización",
+        "Suma"
+      ],
+      "respuesta": "MCD"
+    },
+    {
+      "pregunta": "Simplifica la fracción 16/24.",
+      "opciones": [
+        "3/4",
+        "2/3",
+        "4/6",
+        "2/4"
+      ],
+      "respuesta": "2/3"
+    },
+    {
+      "pregunta": "Amplifica la fracción 2/3 multiplicando numerador y denominador por 4.",
+      "opciones": [
+        "6/12",
+        "8/12",
+        "8/16",
+        "6/9"
+      ],
+      "respuesta": "8/12"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones no pertenece al concepto de tricotonomía matemática?",
+      "opciones": [
+        "a < b",
+        "a = b",
+        "a > b",
+        "a ≤ b"
+      ],
+      "respuesta": "a ≤ b"
+    },
+    {
+      "pregunta": "Ordena de menor a mayor las siguientes fracciones: 1/2, 3/4, 2/3.",
+      "opciones": [
+        "1/2, 2/3, 3/4",
+        "3/4, 1/2, 2/3",
+        "2/3, 1/2, 3/4",
+        "2/3, 3/4, 1/2"
+      ],
+      "respuesta": "1/2, 2/3, 3/4"
+    },
+    {
+      "pregunta": "Suma 1/4 + 1/6 utilizando el MCM.",
+      "opciones": [
+        "5/12",
+        "10/24",
+        "2/6",
+        "7/12"
+      ],
+      "respuesta": "7/12"
+    },
+    {
+      "pregunta": "Resta 3/5 - 1/4.",
+      "opciones": [
+        "7/20",
+        "2/5",
+        "11/20",
+        "1/4"
+      ],
+      "respuesta": "11/20"
+    },
+    {
+      "pregunta": "Multiplica 2/3 por 3/4.",
+      "opciones": [
+        "1/2",
+        "1/3",
+        "1",
+        "1/4"
+      ],
+      "respuesta": "1/2"
+    },
+    {
+      "pregunta": "Divide 5/6 entre 2/3.",
+      "opciones": [
+        "15/12",
+        "5/9",
+        "1",
+        "5/4"
+      ],
+      "respuesta": "5/4"
+    },
+    {
+      "pregunta": "Eleva al cuadrado la fracción 2/5.",
+      "opciones": [
+        "2/10",
+        "4/10",
+        "4/25",
+        "8/25"
+      ],
+      "respuesta": "4/25"
+    },
+    {
+      "pregunta": "Calcula la raíz cuadrada de 16/25.",
+      "opciones": [
+        "2/5",
+        "4/5",
+        "1/5",
+        "1/4"
+      ],
+      "respuesta": "4/5"
+    },
+    {
+      "pregunta": "Realiza la operación combinada: (2/3 + 1/4) × 2.",
+      "opciones": [
+        "11/6",
+        "3/2",
+        "7/6",
+        "5/3"
+      ],
+      "respuesta": "11/6"
+    }
+  ]
+}

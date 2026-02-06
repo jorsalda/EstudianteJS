@@ -1,0 +1,214 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la definición de una proposición lógica?",
+      "opciones": [
+        "Una afirmación que siempre es verdadera.",
+        "Una afirmación que siempre es falsa.",
+        "Una afirmación que puede ser verdadera o falsa.",
+        "Una afirmación que no tiene sentido."
+      ],
+      "respuesta": "Una afirmación que puede ser verdadera o falsa."
+    },
+    {
+      "pregunta": "¿Cuál es el teorema de Pitágoras?",
+      "opciones": [
+        "a^2 + b^2 = c^2",
+        "a^2 - b^2 = c^2",
+        "a + b = c",
+        "a - b = c"
+      ],
+      "respuesta": "a^2 + b^2 = c^2"
+    },
+    {
+      "pregunta": "¿Qué es una función cuadrática?",
+      "opciones": [
+        "Una función que involucra un cuadrado.",
+        "Una función que tiene una variable elevada al cuadrado.",
+        "Una función que produce un resultado cuadrado.",
+        "Una función que tiene dos variables."
+      ],
+      "respuesta": "Una función que tiene una variable elevada al cuadrado."
+    },
+    {
+      "pregunta": "¿Cuál es la derivada de la función f(x) = x^2?",
+      "opciones": [
+        "2x",
+        "2",
+        "x",
+        "1"
+      ],
+      "respuesta": "2x"
+    },
+    {
+      "pregunta": "¿Qué es la factorización?",
+      "opciones": [
+        "Un proceso para encontrar la raíz cuadrada de un número.",
+        "Un proceso para dividir una expresión matemática en factores más simples.",
+        "Un proceso para calcular el área bajo una curva.",
+        "Un proceso para encontrar la inversa de una función."
+      ],
+      "respuesta": "Un proceso para dividir una expresión matemática en factores más simples."
+    },
+    {
+      "pregunta": "¿Qué es una ecuación lineal?",
+      "opciones": [
+        "Una ecuación que forma una línea recta en un gráfico.",
+        "Una ecuación que tiene solo una variable.",
+        "Una ecuación que involucra un polinomio de grado dos.",
+        "Una ecuación que no tiene solución."
+      ],
+      "respuesta": "Una ecuación que forma una línea recta en un gráfico."
+    },
+    {
+      "pregunta": "¿Cuál es el valor de pi (π)?",
+      "opciones": [
+        "3",
+        "3.14",
+        "3.1416",
+        "3.14159265359"
+      ],
+      "respuesta": "3.14159265359"
+    },
+    {
+      "pregunta": "¿Cuál es la definición de un número primo?",
+      "opciones": [
+        "Un número divisible por uno.",
+        "Un número divisible por sí mismo y uno.",
+        "Un número divisible por dos.",
+        "Un número divisible por tres."
+      ],
+      "respuesta": "Un número divisible por sí mismo y uno."
+    },
+    {
+      "pregunta": "¿Qué es una fracción?",
+      "opciones": [
+        "Un número entero positivo.",
+        "Un número entero negativo.",
+        "Una expresión que representa una parte de un todo.",
+        "Una expresión que representa un número irracional."
+      ],
+      "respuesta": "Una expresión que representa una parte de un todo."
+    },
+    {
+      "pregunta": "¿Cuál es el valor absoluto de -5?",
+      "opciones": [
+        "5",
+        "-5",
+        "0",
+        "1"
+      ],
+      "respuesta": "5"
+    },
+    {
+      "pregunta": "¿Cuál es la suma de los ángulos interiores de un triángulo?",
+      "opciones": [
+        "90 grados",
+        "180 grados",
+        "270 grados",
+        "360 grados"
+      ],
+      "respuesta": "180 grados"
+    },
+    {
+      "pregunta": "¿Cuál es la solución de la ecuación x + 3 = 7?",
+      "opciones": [
+        "x = 7",
+        "x = 3",
+        "x = 10",
+        "x = -4"
+      ],
+      "respuesta": "x = 4"
+    },
+    {
+      "pregunta": "¿Cuál es la integral definida de la función f(x) = 2x en el intervalo [0, 1]?",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "respuesta": "2"
+    },
+    {
+      "pregunta": "¿Qué es el teorema fundamental del cálculo?",
+      "opciones": [
+        "El área bajo una curva.",
+        "La relación entre la derivada y la integral de una función.",
+        "La derivada de una función constante.",
+        "La integral de una función lineal."
+      ],
+      "respuesta": "La relación entre la derivada y la integral de una función."
+    },
+    {
+      "pregunta": "¿Qué es el máximo común divisor (MCD) de 12 y 18?",
+      "opciones": [
+        "6",
+        "12",
+        "18",
+        "1"
+      ],
+      "respuesta": "6"
+    },
+    {
+      "pregunta": "¿Cuál es la regla del producto en combinatoria?",
+      "opciones": [
+        "n!",
+        "nPr",
+        "nCr",
+        "n^n"
+      ],
+      "respuesta": "nPr"
+    },
+    {
+      "pregunta": "¿Cuál es la definición de un ángulo agudo?",
+      "opciones": [
+        "Un ángulo mayor a 90 grados.",
+        "Un ángulo mayor a 180 grados.",
+        "Un ángulo menor a 90 grados.",
+        "Un ángulo menor a 45 grados."
+      ],
+      "respuesta": "Un ángulo menor a 90 grados."
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de 5 factorial (5!)?",
+      "opciones": [
+        "5",
+        "10",
+        "20",
+        "120"
+      ],
+      "respuesta": "120"
+    },
+    {
+      "pregunta": "¿Qué es la función exponencial?",
+      "opciones": [
+        "Una función que involucra la base e.",
+        "Una función que siempre es positiva.",
+        "Una función que se acerca a cero.",
+        "Una función que tiene una pendiente constante."
+      ],
+      "respuesta": "Una función que involucra la base e."
+    },
+    {
+      "pregunta": "¿Qué es el logaritmo de un número?",
+      "opciones": [
+        "La potencia a la que se eleva una base para obtener ese número.",
+        "El inverso de una exponencial.",
+        "La raíz cuadrada de un número.",
+        "La raíz cúbica de un número."
+      ],
+      "respuesta": "La potencia a la que se eleva una base para obtener ese número."
+    },
+    {
+      "pregunta": "¿Cuál es la definición de un número imaginario?",
+      "opciones": [
+        "Un número que no tiene parte imaginaria.",
+        "Un número que no tiene parte real.",
+        "Un número que tiene una parte real y una parte imaginaria.",
+        "Un número que no existe en matemáticas."
+      ],
+      "respuesta": "Un número que tiene una parte real y una parte imaginaria."
+    }
+  ]
+}

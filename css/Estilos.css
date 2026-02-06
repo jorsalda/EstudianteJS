@@ -1,0 +1,98 @@
+
+
+/* Estilos para resaltar la respuesta correcta */
+#options label.correct-answer {
+    background-color: green; /* Cambiar el fondo */
+    color: white; /* Color del texto */
+    font-weight: bold; /* Hacer el texto en negrita */
+    padding: 5px 10px; /* Mantener el mismo padding que las otras opciones */
+    border: 2px solid #ccc; /* Mantener el borde */
+    line-height: 20px; /* Mantener la misma altura de línea */
+    cursor: pointer; /* Mantener el cursor */
+}
+
+/* Estilos CSS */
+#container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Anchuras iguales */
+    gap: 10px; /* Espacio entre columnas */
+}
+#questions-column {
+    padding: 10px;
+    width: 600px; /* Ancho fijo */
+}
+#explanation-column {
+    padding: 10px;
+    width: 600px; /* Ancho fijo */
+}
+#options label {
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 50%;
+}
+#options input[type="radio"] {
+    display: none;
+}
+#options label {
+    display: block;
+    border: 2px solid #ccc;
+    line-height: 20px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+#options label.selected {
+    background-color: blue;
+    color: white;
+}
+#explanationButton {
+    background-color: #f39c12; /* Color de fondo del botón */
+    color: white; /* Color del texto del botón */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+#feedback {
+    color: red; /* Color del texto de la respuesta */
+}
+#feedback span {
+    color: blue; /* Color del texto de la explicación */
+}
+
+/* Estilos para la tabla de resultados */
+#result table {
+    width: 25%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.texto-rojo {
+    color: red;
+}
+#result th, #result td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+#result th {
+    background-color: #4CAF50; /* Color de fondo de los encabezados */
+    color: white; /* Color del texto de los encabezados */
+}
+
+#result td {
+    background-color: #f2f2f2; /* Color de fondo de las celdas */
+}
+
+#result tr:hover {
+    background-color: #ddd; /* Color de fondo al pasar el ratón por encima de las filas */
+}
+
+#playAgain {
+    background-color: #28a745; /* Color de fondo del botón de reinicio */
+    color: white; /* Color del texto del botón de reinicio */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}

@@ -1,0 +1,113 @@
+{
+  "preguntas": [
+    {
+      "contexto": "En la Feria de Ciencias de tu colegio, debes diseñar un sistema de iluminación para un stand y calcular los costos de materiales.",
+      "imagen": "",
+      "pregunta": "¿Cuál es la cantidad de bombillos necesarios si la ecuación que relaciona el tamaño del stand es x - 5x - 10 = 20 - 3x + 40?",
+      "opciones": [
+        "10 bombillos",
+        "15 bombillos",
+        "20 bombillos",
+        "25 bombillos"
+      ],
+      "respuesta": "15 bombillos"
+    },
+    {
+      "contexto": "El costo total de los bombillos se modela con una ecuación cuadrática.",
+      "imagen": "",
+      "pregunta": "¿Cuál es el costo total de los bombillos si la ecuación es -k^2 + 10k = 21?",
+      "opciones": [
+        "$3",
+        "$7",
+        "$10",
+        "$15"
+      ],
+      "respuesta": "$7"
+    },
+    {
+      "contexto": "Para conectar los bombillos, necesitas cables cuya longitud depende del número de bombillos.",
+      "imagen": "",
+      "pregunta": "¿Cuántos metros de cable necesitas si la ecuación es y + 5y = 10 + 6y?",
+      "opciones": [
+        "5 metros",
+        "10 metros",
+        "15 metros",
+        "20 metros"
+      ],
+      "respuesta": "10 metros"
+    },
+    {
+      "contexto": "El costo del cableado se calcula usando una ecuación específica.",
+      "imagen": "",
+      "pregunta": "¿Cuál es el costo total del cableado si la ecuación es 4z - 8 = 2z + 12?",
+      "opciones": [
+        "$5",
+        "$10",
+        "$15",
+        "$20"
+      ],
+      "respuesta": "$10"
+    },
+    {
+      "contexto": "El costo total del proyecto incluye los costos de los bombillos, el cableado y un monto por previstos.",
+      "imagen": "",
+      "pregunta": "¿Cuál es el costo total del proyecto si C = k(z + b), donde k = 2, z = 10 y b = 5?",
+      "opciones": [
+        "$20",
+        "$30",
+        "$40",
+        "$50"
+      ],
+      "respuesta": "$30"
+    },
+    {
+      "contexto": "En el análisis numérico, es importante identificar los conjuntos numéricos a los que pertenecen las soluciones.",
+      "imagen": "",
+      "pregunta": "¿A qué conjunto numérico pertenece la solución de la ecuación x - 5x - 10 = 20 - 3x + 40?",
+      "opciones": [
+        "Números naturales",
+        "Números enteros",
+        "Números racionales",
+        "Números irracionales"
+      ],
+      "respuesta": "Números naturales"
+    },
+    {
+      "contexto": "Las ecuaciones lineales son fundamentales para resolver problemas cotidianos.",
+      "imagen": "",
+      "pregunta": "¿Por qué es importante comprender el uso de variables en situaciones cotidianas?",
+      "opciones": [
+        "Porque permite simplificar problemas complejos.",
+        "Porque no tienen aplicaciones prácticas.",
+        "Porque están conpuesta por contantates y  variables.",
+        "Porque son difíciles de entender."
+      ],
+      "respuesta": "Porque permite simplificar problemas complejos."
+    },
+    {
+      "contexto": "Las ecuaciones cuadráticas también son útiles para resolver problemas prácticos.",
+      "imagen": "",
+      "pregunta": "¿Cómo ayudan las ecuaciones cuadráticas en la resolución de problemas como el costo de los bombillos?",
+      "opciones": [
+        "por su utilidad numérica y variable.",
+        "Solo sirven para problemas abstractos.",
+        "Permiten modelar relaciones no lineales.",
+        "Son peraciones algebraicas de la  vida diaria."
+      ],
+      "respuesta": "Permiten modelar relaciones no lineales."
+    },
+    {
+      "contexto": "El análisis numérico implica identificar conjuntos numéricos.",
+      "imagen": "",
+      "pregunta": "¿Qué conjunto numérico incluye todas las soluciones posibles de una ecuación cuadrática?",
+      "opciones": [
+        "Números naturales",
+        "Números enteros",
+        "Números racionales",
+        "Números reales"
+      ],
+      "respuesta": "Números reales"
+    }
+
+  ]
+}

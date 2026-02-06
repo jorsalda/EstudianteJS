@@ -1,0 +1,284 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué significa sumar fracciones?",
+      "opciones": [
+        "Unir partes de diferentes tamaños para formar una parte más grande.",
+        "Dividir una cantidad en partes iguales.",
+        "Multiplicar dos fracciones.",
+        "Restar una fracción de otra."
+      ],
+      "respuesta": "Unir partes de diferentes tamaños para formar una parte más grande."
+    },
+    {
+      "pregunta": "Juan tiene tres cuartos de una barra de chocolate y María tiene la mitad de la misma barra. ¿Cuántas barras de chocolate tienen en total?",
+      "opciones": [
+        "1 barra y un cuarto",
+        "1 barra y medio",
+        "1 barra y tres cuartos",
+        "1 barra y cinco cuartos"
+      ],
+      "respuesta": "1 barra y un cuarto"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de sumar dos tercios y tres quintos?",
+      "opciones": [
+        "Cinco octavos",
+        "Cinco sextos",
+        "Un medio",
+        "Cinco tercios"
+      ],
+      "respuesta": "Cinco tercios"
+    },
+    {
+      "pregunta": "¿Qué significa restar fracciones?",
+      "opciones": [
+        "Unir partes de diferentes tamaños para formar una parte más grande.",
+        "Dividir una cantidad en partes iguales.",
+        "Quitar una cantidad de otra cantidad más grande.",
+        "Multiplicar dos fracciones."
+      ],
+      "respuesta": "Quitar una cantidad de otra cantidad más grande."
+    },
+    {
+      "pregunta": "Si un pastel se divide en tres cuartos partes y se come un tercio de ellas, ¿qué fracción del pastel queda?",
+      "opciones": [
+        "Un doceavo",
+        "Un cuarto",
+        "Un medio",
+        "Cinco doceavos"
+      ],
+      "respuesta": "Cinco doceavos"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de restar siete octavos menos dos quintos?",
+      "opciones": [
+        "Veintinueve cuarentavos",
+        "Un cuarto",
+        "Tres cuartos",
+        "Cinco octavos"
+      ],
+      "respuesta": "Veintinueve cuarentavos"
+    },
+    {
+      "pregunta": "¿Qué significa multiplicar fracciones?",
+      "opciones": [
+        "Unir partes de diferentes tamaños para formar una parte más grande.",
+        "Dividir una cantidad en partes iguales.",
+        "Aumentar la cantidad de partes de la fracción original.",
+        "Dividir una fracción entre otra."
+      ],
+      "respuesta": "Aumentar la cantidad de partes de la fracción original."
+    },
+    {
+      "pregunta": "Si una receta de panqueques requiere tres cuartos de taza de harina y queremos hacer la mitad de la receta, ¿cuánta harina necesitaremos?",
+      "opciones": [
+        "Tres octavos tazas",
+        "Media taza",
+        "Un cuarto tazas",
+        "Tres dieciseisavos tazas"
+      ],
+      "respuesta": "Tres octavos tazas"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar dos tercios por cinco cuartos?",
+      "opciones": [
+        "Cinco doceavos",
+        "Cinco sextos",
+        "Diez séptimos",
+        "Un medio"
+      ],
+      "respuesta": "Cinco sextos"
+    },
+    {
+      "pregunta": "¿Qué significa dividir fracciones?",
+      "opciones": [
+        "Unir partes de diferentes tamaños para formar una parte más grande.",
+        "Dividir una cantidad en partes iguales.",
+        "Reducir la cantidad de partes de la fracción original.",
+        "Multiplicar dos fracciones."
+      ],
+      "respuesta": "Dividir una cantidad en partes iguales."
+    },
+    {
+      "pregunta": "Si tenemos tres cuartos de litro de jugo y lo dividimos en la mitad partes iguales, ¿cuánto jugo hay en cada parte?",
+      "opciones": [
+        "Tres octavos de litro",
+        "Media litro",
+        "Tres cuartos de litro",
+        "Un cuarto de litro"
+      ],
+      "respuesta": "Tres octavos de litro"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de dividir cinco sextos entre dos tercios?",
+      "opciones": [
+        "Cinco cuartos",
+        "Cinco novenos",
+        "Cinco octavos",
+        "Cinco doceavos"
+      ],
+      "respuesta": "Cinco cuartos"
+    },
+    {
+      "pregunta": "¿Qué significa potenciar fracciones?",
+      "opciones": [
+        "Aumentar el tamaño de la fracción original.",
+        "Multiplicar la fracción original por sí misma varias veces.",
+        "Dividir la fracción original entre sí misma.",
+        "Convertir la fracción original a un número entero."
+      ],
+      "respuesta": "Multiplicar la fracción original por sí misma varias veces."
+    },
+    {
+      "pregunta": "Si un rectángulo tiene dos tercios de metro de largo y tres cuartos de metro de ancho, ¿cuál es su área en metros cuadrados?",
+      "opciones": [
+        "Medio metro cuadrado",
+        "Un cuarto de metro cuadrado",
+        "Cinco sextos de metro cuadrado",
+        "Un sexto de metro cuadrado"
+      ],
+      "respuesta": "Medio metro cuadrado"
+    },
+    {
+      "pregunta": "Si una fracción x elevada a la séptima potencia es igual a 27/64, ¿cuál es el valor de x si n = 3?",
+      "opciones": [
+        "Tres cuartos",
+        "Cuatro tercios",
+        "Tres medios",
+        "Dos tercios"
+      ],
+      "respuesta": "Tres cuartos"
+    },
+    {
+      "pregunta": "¿Qué es una fracción impropia?",
+      "opciones": [
+        "Una fracción que tiene el numerador más grande que el denominador.",
+        "Una fracción que tiene el denominador más grande que el numerador.",
+        "Una fracción que tiene el mismo numerador y denominador.",
+        "Una fracción que es igual a cero."
+      ],
+      "respuesta": "Una fracción que tiene el numerador más grande que el denominador."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones representa una fracción propia?",
+      "opciones": [
+        "5/4",
+        "7/3",
+        "3/2",
+        "9/8"
+      ],
+      "respuesta": "9/8"
+    },
+    {
+      "pregunta": "Si multiplicamos una fracción por su inversa, ¿cuál es el resultado?",
+      "opciones": [
+        "La fracción original.",
+        "La suma de los numeradores y denominadores de las fracciones.",
+        "La resta de los numeradores y denominadores de las fracciones.",
+        "La fracción 1."
+      ],
+      "respuesta": "La fracción 1."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones representa una fracción mixta?",
+      "opciones": [
+        "5/3",
+        "3 1/2",
+        "7/4",
+        "2 3/4"
+      ],
+      "respuesta": "2 3/4"
+    },
+    {
+      "pregunta": "Si una fracción se multiplica por un número entero mayor que 1, ¿cuál es el efecto en la fracción resultante?",
+      "opciones": [
+        "La fracción resultante es mayor que la fracción original.",
+        "La fracción resultante es menor que la fracción original.",
+        "La fracción resultante es igual a la fracción original.",
+        "No se puede determinar el efecto sin conocer los números específicos."
+      ],
+      "respuesta": "La fracción resultante es mayor que la fracción original."
+    },
+    {
+      "pregunta": "Si una fracción se multiplica por un número entero entre 0 y 1, ¿cuál es el efecto en la fracción resultante?",
+      "opciones": [
+        "La fracción resultante es mayor que la fracción original.",
+        "La fracción resultante es menor que la fracción original.",
+        "La fracción resultante es igual a la fracción original.",
+        "No se puede determinar el efecto sin conocer los números específicos."
+      ],
+      "respuesta": "La fracción resultante es menor que la fracción original."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones representa una fracción decimal?",
+      "opciones": [
+        "3/2",
+        "7/4",
+        "1/3",
+        "0.75"
+      ],
+      "respuesta": "0.75"
+    },
+    {
+      "pregunta": "Si se divide un número entero por una fracción mayor que 1, ¿cuál es el efecto en el cociente?",
+      "opciones": [
+        "El cociente es mayor que el número original.",
+        "El cociente es menor que el número original.",
+        "El cociente es igual al número original.",
+        "No se puede determinar el efecto sin conocer los números específicos."
+      ],
+      "respuesta": "El cociente es menor que el número original."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones representa una fracción irreducible?",
+      "opciones": [
+        "6/9",
+        "3/4",
+        "4/8",
+        "2/6"
+      ],
+      "respuesta": "3/4"
+    },
+    {
+      "pregunta": "Si se suma un número entero a una fracción impropia, ¿cuál es el efecto en la fracción resultante?",
+      "opciones": [
+        "La fracción resultante es mayor que la fracción original.",
+        "La fracción resultante es menor que la fracción original.",
+        "La fracción resultante es igual a la fracción original.",
+        "No se puede determinar el efecto sin conocer los números específicos."
+      ],
+      "respuesta": "La fracción resultante es mayor que la fracción original."
+    },
+    {
+      "pregunta": "Si se suma un número entero a una fracción mixta, ¿cuál es el efecto en la fracción resultante?",
+      "opciones": [
+        "La fracción resultante es mayor que la fracción original.",
+        "La fracción resultante es menor que la fracción original.",
+        "La fracción resultante es igual a la fracción original.",
+        "No se puede determinar el efecto sin conocer los números específicos."
+      ],
+      "respuesta": "La fracción resultante es mayor que la fracción original."
+    },
+    {
+      "pregunta": "¿Qué es la altura en un triangulo rectángulo?",
+      "opciones": [
+        "Segmento de recta que va desde un vértice hasta el lado opuesto.",
+        "Es igual a la longintud de uno de sus lados.",
+        "Es igual a la multiplicación de sus lados.",
+        "Segmento de recta que va desde un vértice hasta el lado opuesto en forma perpendicular."
+      ],
+      "respuesta": "Segmento de recta que va desde un vértice hasta el lado opuesto en forma perpendicular."
+    },
+    {
+      "pregunta": "¿Como se halla el área total de un prisma tringular?",
+      "opciones": [
+        "Multiplicando cateto por hipotenus.",
+        "Sumando  las áreas de las caras laterales con las áreas de las bases.",
+        "Multiplicando lados del prisma.",
+        "Sumando el ára  de las bases con el área de las dos caras ."
+      ],
+      "respuesta": "Sumando  las áreas de las caras laterales con las áreas de las bases."
+    }
+  ]
+}

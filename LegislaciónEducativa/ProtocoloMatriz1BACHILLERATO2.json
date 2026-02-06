@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En un colegio rural de Colombia donde muchos estudiantes tienen que caminar largas distancias para llegar a la escuela, ¿qué estrategia sería más efectiva para asegurar la asistencia regular de los estudiantes?",
+      "opciones": [
+        "Ofrecer transporte escolar gratuito para todos los estudiantes que viven lejos.",
+        "Implementar un sistema de multas para los estudiantes que falten a clase sin justificación.",
+        "Reducir la carga académica para los estudiantes que viven lejos.",
+        "Permitir que los estudiantes tomen clases en línea desde sus casas."
+      ],
+      "respuesta": "Ofrecer transporte escolar gratuito para todos los estudiantes que viven lejos.",
+      "explicacion": "La opción A asegura que los estudiantes tengan un medio de transporte confiable, lo que mejora la asistencia regular y reduce la fatiga física."
+    },
+    {
+      "pregunta": "En una escuela urbana de Colombia donde la contaminación ambiental es un problema grave, ¿qué medidas se pueden tomar para mejorar la calidad del aire y el entorno de aprendizaje?",
+      "opciones": [
+        "Instalar purificadores de aire en todas las aulas y promover la educación ambiental.",
+        "Cerrar todas las ventanas y usar solo aire acondicionado para evitar la entrada de aire contaminado.",
+        "Organizar caminatas y actividades al aire libre en áreas menos contaminadas, sin cambiar nada en la escuela.",
+        "No tomar ninguna medida y esperar que el problema se resuelva solo."
+      ],
+      "respuesta": "Instalar purificadores de aire en todas las aulas y promover la educación ambiental.",
+      "explicacion": "La opción A mejora directamente la calidad del aire en las aulas y educa a los estudiantes sobre la importancia del cuidado del medio ambiente."
+    },
+    {
+      "pregunta": "En una escuela de educación media en Colombia con una alta tasa de embarazo adolescente, ¿qué estrategia sería más efectiva para abordar este problema?",
+      "opciones": [
+        "Implementar un programa integral de educación sexual que incluya información sobre anticonceptivos y salud reproductiva.",
+        "Expulsar a las estudiantes que queden embarazadas para disuadir a otras.",
+        "Ofrecer clases de abstinencia únicamente, sin información sobre anticonceptivos.",
+        "Ignorar el problema y centrarse solo en las actividades académicas."
+      ],
+      "respuesta": "Implementar un programa integral de educación sexual que incluya información sobre anticonceptivos y salud reproductiva.",
+      "explicacion": "La opción A proporciona a los estudiantes la información necesaria para tomar decisiones informadas sobre su salud sexual y reproductiva."
+    },
+    {
+      "pregunta": "En una escuela básica de Colombia con recursos limitados, ¿qué estrategia sería más efectiva para mejorar la enseñanza de las ciencias?",
+      "opciones": [
+        "Crear laboratorios de ciencias bien equipados mediante alianzas con universidades y empresas locales.",
+        "Centrarse únicamente en la enseñanza teórica de las ciencias debido a la falta de recursos.",
+        "Reducir el tiempo dedicado a las ciencias y enfocarse en materias con mejores recursos.",
+        "Permitir que los estudiantes aprendan ciencias de manera autodidacta sin apoyo adicional."
+      ],
+      "respuesta": "Crear laboratorios de ciencias bien equipados mediante alianzas con universidades y empresas locales.",
+      "explicacion": "La opción A mejora la enseñanza de las ciencias al proporcionar a los estudiantes acceso a equipos y materiales adecuados para la experimentación práctica."
+    },
+    {
+      "pregunta": "En un colegio donde hay un alto nivel de violencia en la comunidad circundante, ¿qué estrategia sería más efectiva para asegurar un ambiente escolar seguro y protector?",
+      "opciones": [
+        "Implementar programas de mediación y resolución de conflictos y ofrecer apoyo psicológico a los estudiantes.",
+        "Aumentar la presencia de seguridad armada en el colegio.",
+        "Ignorar el problema de la violencia y centrarse en el rendimiento académico.",
+        "Permitir que los estudiantes resuelvan sus conflictos sin intervención de adultos."
+      ],
+      "respuesta": "Implementar programas de mediación y resolución de conflictos y ofrecer apoyo psicológico a los estudiantes.",
+      "explicacion": "La opción A aborda la raíz del problema al enseñar a los estudiantes habilidades de resolución de conflictos y proporcionar apoyo emocional."
+    },
+    {
+      "pregunta": "En una escuela colombiana con una alta tasa de deserción escolar, ¿qué estrategia sería más efectiva para motivar a los estudiantes a completar su educación?",
+      "opciones": [
+        "Ofrecer programas de mentoría y orientación vocacional que ayuden a los estudiantes a ver el valor de su educación.",
+        "Imponer castigos severos a los estudiantes que consideren dejar la escuela.",
+        "Reducir la exigencia académica para que sea más fácil para los estudiantes graduarse.",
+        "Permitir que los estudiantes decidan libremente si quieren o no continuar su educación."
+      ],
+      "respuesta": "Ofrecer programas de mentoría y orientación vocacional que ayuden a los estudiantes a ver el valor de su educación.",
+      "explicacion": "La opción A motiva a los estudiantes al ayudarlos a comprender las oportunidades que su educación puede brindarles y proporcionando un apoyo personal."
+    },
+    {
+      "pregunta": "En un colegio que busca fomentar la innovación y el emprendimiento entre los estudiantes, ¿qué estrategia sería más efectiva?",
+      "opciones": [
+        "Implementar un currículo que incluya proyectos de emprendimiento y competencias de innovación.",
+        "Centrarse únicamente en las materias tradicionales sin considerar habilidades emprendedoras.",
+        "Enseñar teoría del emprendimiento sin oportunidades para proyectos prácticos.",
+        "Dejar que los estudiantes interesados en el emprendimiento busquen recursos por su cuenta."
+      ],
+      "respuesta": "Implementar un currículo que incluya proyectos de emprendimiento y competencias de innovación.",
+      "explicacion": "La opción A fomenta la innovación y el emprendimiento al proporcionar a los estudiantes experiencias prácticas y desafíos reales."
+    },
+    {
+      "pregunta": "En una escuela donde se busca promover el pensamiento crítico y la creatividad, ¿qué método sería más efectivo?",
+      "opciones": [
+        "Incorporar actividades de resolución de problemas, debates y proyectos creativos en el currículo.",
+        "Enseñar de manera estrictamente estructurada y seguir al pie de la letra los libros de texto.",
+        "Fomentar la memorización de información sin cuestionar ni analizar.",
+        "Permitir que los estudiantes trabajen de manera totalmente independiente sin orientación."
+      ],
+      "respuesta": "Incorporar actividades de resolución de problemas, debates y proyectos creativos en el currículo.",
+      "explicacion": "La opción A promueve el pensamiento crítico y la creatividad al involucrar a los estudiantes en actividades que requieren análisis, discusión y soluciones innovadoras."
+    },
+    {
+      "pregunta": "En una escuela colombiana donde se observa un bajo rendimiento en matemáticas, ¿qué estrategia sería más efectiva para mejorar el rendimiento de los estudiantes en esta materia?",
+      "opciones": [
+        "Implementar programas de tutoría individualizada y utilizar métodos de enseñanza innovadores.",
+        "Aumentar la cantidad de tareas y exámenes para forzar a los estudiantes a estudiar más.",
+        "Reducir el tiempo dedicado a matemáticas y enfocarse en otras materias.",
+        "Dejar que los estudiantes aprendan matemáticas a su propio ritmo sin ningún tipo de apoyo adicional."
+      ],
+      "respuesta": "Implementar programas de tutoría individualizada y utilizar métodos de enseñanza innovadores.",
+      "explicacion": "La opción A aborda las necesidades individuales de los estudiantes y utiliza métodos modernos para hacer que las matemáticas sean más comprensibles y accesibles."
+    },
+    {
+      "pregunta": "En una escuela que busca integrar la tecnología en el aula de manera efectiva, ¿qué estrategia sería más adecuada?",
+      "opciones": [
+        "Proporcionar formación continua a los docentes en el uso de tecnologías educativas.",
+        "Comprar dispositivos tecnológicos sin proporcionar formación a los docentes.",
+        "Usar tecnología solo en clases de informática y no integrarla en otras materias.",
+        "Dejar que los estudiantes usen dispositivos tecnológicos libremente sin ninguna supervisión."
+      ],
+      "respuesta": "Proporcionar formación continua a los docentes en el uso de tecnologías educativas.",
+      "explicacion": "La opción A asegura que los docentes estén capacitados para integrar la tecnología en sus métodos de enseñanza, lo que maximiza su efectividad en el aula."
+    }
+  ]
+}

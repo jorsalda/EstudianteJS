@@ -1,0 +1,103 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Según la teoría del desarrollo psicosocial de Erik Erikson, ¿cuál es un aspecto fundamental para el desarrollo saludable de los estudiantes?",
+      "opciones": [
+        "La presión académica",
+        "Un entorno seguro y de apoyo",
+        "La competitividad entre pares",
+        "La enseñanza tradicional"
+      ],
+      "respuesta": "Un entorno seguro y de apoyo",
+      "explicacion": "La teoría de Erik Erikson resalta la importancia de un entorno seguro y de apoyo para el desarrollo saludable de los estudiantes. Esto incluye la creación de un ambiente escolar donde los estudiantes se sientan seguros y respaldados en sus procesos de aprendizaje y desarrollo emocional."
+    },
+    {
+      "pregunta": "¿Qué enfatiza el constructivismo de Jean Piaget y Lev Vygotsky en el contexto educativo?",
+      "opciones": [
+        "La competencia individual",
+        "La memorización de datos",
+        "Un entorno de aprendizaje seguro y colaborativo",
+        "El aprendizaje pasivo"
+      ],
+      "respuesta": "Un entorno de aprendizaje seguro y colaborativo",
+      "explicacion": "El constructivismo de Piaget y Vygotsky subraya la importancia de un entorno de aprendizaje donde los estudiantes puedan interactuar y colaborar de manera segura, facilitando así su desarrollo integral y el aprendizaje significativo."
+    },
+    {
+      "pregunta": "¿Cuál es una consecuencia de un clima escolar positivo en los estudiantes?",
+      "opciones": [
+        "Mayor absentismo",
+        "Menor rendimiento académico",
+        "Bienestar y alto rendimiento académico",
+        "Incremento de conflictos"
+      ],
+      "respuesta": "Bienestar y alto rendimiento académico",
+      "explicacion": "Un clima escolar positivo contribuye significativamente al bienestar de los estudiantes y a su rendimiento académico, creando un entorno donde se sienten seguros y motivados para aprender y desarrollarse."
+    },
+    {
+      "pregunta": "¿Qué considera el Modelo Ecológico de Prevención de Bronfenbrenner para entender los comportamientos de riesgo?",
+      "opciones": [
+        "Solo el entorno familiar",
+        "Solo el entorno escolar",
+        "Múltiples niveles de influencia",
+        "Exclusivamente factores genéticos"
+      ],
+      "respuesta": "Múltiples niveles de influencia",
+      "explicacion": "El Modelo Ecológico de Prevención de Bronfenbrenner tiene en cuenta diversos niveles de influencia, incluyendo factores individuales, familiares, escolares y comunitarios, lo que permite una comprensión integral y la creación de estrategias efectivas para prevenir comportamientos de riesgo como la violencia escolar."
+    },
+    {
+      "pregunta": "¿Qué aspecto legal y ético es esencial en la protección de los estudiantes en el entorno escolar?",
+      "opciones": [
+        "El acceso ilimitado a internet",
+        "La confidencialidad y el consentimiento informado",
+        "La competencia académica",
+        "La libertad total sin supervisión"
+      ],
+      "respuesta": "La confidencialidad y el consentimiento informado",
+      "explicacion": "La confidencialidad y el consentimiento informado son aspectos fundamentales del marco legal y ético que rige la protección y el bienestar de los estudiantes, asegurando que se respeten sus derechos individuales y se les brinde un entorno seguro."
+    },
+    {
+      "pregunta": "¿Cuál es el beneficio de combinar diferentes teorías en el Protocolo de Abordaje Pedagógico de Situaciones de Riesgo (CISP)?",
+      "opciones": [
+        "Incrementar la complejidad sin necesidad",
+        "Crear confusión entre los docentes",
+        "Construir un marco sólido para su implementación",
+        "Desestimar la importancia del entorno escolar"
+      ],
+      "respuesta": "Construir un marco sólido para su implementación",
+      "explicacion": "Al combinar diferentes teorías, se puede construir un marco teórico sólido que respalde la implementación y efectividad del Protocolo de Abordaje Pedagógico de Situaciones de Riesgo (CISP) en el contexto educativo, proporcionando estrategias bien fundamentadas."
+    },
+    {
+      "pregunta": "¿Cuál es una característica clave de un entorno educativo seguro?",
+      "opciones": [
+        "Alta presión académica",
+        "Competencia entre estudiantes",
+        "Inclusión y apoyo emocional",
+        "Estricta disciplina sin flexibilidad"
+      ],
+      "respuesta": "Inclusión y apoyo emocional",
+      "explicacion": "Un entorno educativo seguro se caracteriza por ser inclusivo y brindar apoyo emocional a los estudiantes, permitiendo que se sientan valorados y seguros para aprender y desarrollarse."
+    },
+    {
+      "pregunta": "Según la teoría del apego, ¿qué impacto tienen las relaciones afectivas seguras en los estudiantes?",
+      "opciones": [
+        "Aumento de la ansiedad",
+        "Desarrollo emocional positivo",
+        "Comportamiento antisocial",
+        "Desinterés académico"
+      ],
+      "respuesta": "Desarrollo emocional positivo",
+      "explicacion": "La teoría del apego de John Bowlby y Mary Ainsworth destaca que las relaciones afectivas seguras son cruciales para el desarrollo emocional positivo de los estudiantes, proporcionando una base sólida para su bienestar y éxito académico."
+    },
+    {
+      "pregunta": "¿Qué factor es crucial para abordar los comportamientos de riesgo según la teoría del aprendizaje social de Bandura?",
+      "opciones": [
+        "Ignorar los comportamientos negativos",
+        "Castigar severamente",
+        "Modelado de comportamientos positivos",
+        "Competencia académica"
+      ],
+      "respuesta": "Modelado de comportamientos positivos",
+      "explicacion": "La teoría del aprendizaje social de Albert Bandura enfatiza la importancia del modelado de comportamientos positivos como una estrategia efectiva para abordar y modificar comportamientos."
+    }
+  ]
+}

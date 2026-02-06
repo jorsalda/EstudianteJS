@@ -1,0 +1,157 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál de los siguientes números es un número natural?",
+      "opciones": [
+        "-3",
+        "0",
+        "3.5",
+        "7"
+      ],
+      "respuesta": "7"
+    },
+    {
+      "pregunta": "¿Cuál es la propiedad conmutativa de la suma en los números naturales?",
+      "opciones": [
+        "a + b = a",
+        "a + b = b + a",
+        "a + b = ab",
+        "a + b = a - b"
+      ],
+      "respuesta": "a + b = b + a"
+    },
+    {
+      "pregunta": "¿Cuál es la propiedad asociativa de la suma en los números naturales?",
+      "opciones": [
+        "(a + b) + c = a + (b + c)",
+        "(a + b) + c = c + (b + a)",
+        "(a + b) + c = (a + b) + c",
+        "(a + b) + c = (b + a) + c"
+      ],
+      "respuesta": "(a + b) + c = a + (b + c)"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones es correcta sobre la resta en los números naturales?",
+      "opciones": [
+        "Es conmutativa.",
+        "Siempre da un número natural.",
+        "No es conmutativa.",
+        "Siempre es mayor que la suma."
+      ],
+      "respuesta": "No es conmutativa."
+    },
+    {
+      "pregunta": "¿Qué número falta en la igualdad 7 - __ = 3?",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "respuesta": "4"
+    },
+    {
+      "pregunta": "¿Cuál es la propiedad conmutativa de la multiplicación en los números naturales?",
+      "opciones": [
+        "a \u00d7 b = b \u00d7 a",
+        "a \u00d7 b = a",
+        "a \u00d7 b = ab",
+        "a \u00d7 b = a - b"
+      ],
+      "respuesta": "a \u00d7 b = b \u00d7 a"
+    },
+    {
+      "pregunta": "¿Cuál es la propiedad asociativa de la multiplicación en los números naturales?",
+      "opciones": [
+        "(a \u00d7 b) \u00d7 c = a \u00d7 (b \u00d7 c)",
+        "(a \u00d7 b) \u00d7 c = c \u00d7 (b \u00d7 a)",
+        "(a \u00d7 b) \u00d7 c = (a \u00d7 b) \u00d7 c",
+        "(a \u00d7 b) \u00d7 c = (b \u00d7 a) \u00d7 c"
+      ],
+      "respuesta": "(a \u00d7 b) \u00d7 c = a \u00d7 (b \u00d7 c)"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones es correcta sobre la división en los números naturales?",
+      "opciones": [
+        "Es conmutativa.",
+        "Siempre es exacta.",
+        "No es conmutativa.",
+        "Siempre es mayor que la multiplicación."
+      ],
+      "respuesta": "No es conmutativa."
+    },
+
+        {
+      "pregunta": "María tiene 5 gallinas y 4 patos. Cada gallina pone 2 huevos al día y cada pato pone 3 huevos al día. ¿Cuántos huevos ponen todas las gallinas en un día?",
+      "opciones": [
+        "5",
+        "10",
+        "8",
+        "20"
+      ],
+      "respuesta": "10"
+    },
+    {
+      "pregunta": "María vende diariamente 40 huevos de gallina y 30 de patos en el mercado. Si tiene un total de 50 gallinas y 20 patos, ¿cuántos huevos le quedan después de la venta?",
+      "opciones": [
+        "10",
+        "20",
+        "30",
+        "50"
+      ],
+      "respuesta": "20"
+    },
+    {
+      "pregunta": "Juan necesita encontrar el área de la base cuadrada de la casita. La longitud de un lado de la base es de 4 metros. ¿Cuál es el área de la base?",
+      "opciones": [
+        "8 metros cuadrados",
+        "12 metros cuadrados",
+        "16 metros cuadrados",
+        "20 metros cuadrados"
+      ],
+      "respuesta": "16 metros cuadrados"
+    },
+
+
+    {
+      "pregunta": "¿Cuál es la definición de una recta en geometría?",
+      "opciones": [
+        "Una línea curva.",
+        "Una línea con principio y fin.",
+        "Una línea sin principio ni fin.",
+        "Una línea con ángulos."
+      ],
+      "respuesta": "Una línea sin principio ni fin."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes figuras es un triángulo?",
+      "opciones": [
+        "Una figura con tres lados y tres ángulos.",
+        "Una figura con cuatro lados y cuatro ángulos.",
+        "Una figura con cinco lados y cinco ángulos.",
+        "Una figura con seis lados y seis ángulos."
+      ],
+      "respuesta": "Una figura con tres lados y tres ángulos."
+    },
+    {
+      "pregunta": "¿Qué es un histograma en estadística?",
+      "opciones": [
+        "Un gráfico de líneas que muestra frecuencias.",
+        "Un gráfico de barras que muestra frecuencias.",
+        "Un gráfico circular que muestra proporciones.",
+        "Un gráfico de dispersión."
+      ],
+      "respuesta": "Un gráfico de barras que muestra frecuencias."
+    },
+    {
+      "pregunta": "¿Qué es una gráfica circular en estadística?",
+      "opciones": [
+        "Un gráfico de líneas que muestra frecuencias.",
+        "Un gráfico de barras que muestra frecuencias.",
+        "Un gráfico circular que muestra proporciones.",
+        "Un gráfico de dispersión."
+      ],
+      "respuesta": "Un gráfico circular que muestra proporciones."
+    }
+  ]
+}

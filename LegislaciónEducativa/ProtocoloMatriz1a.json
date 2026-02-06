@@ -1,0 +1,125 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En una escuela secundaria con una población estudiantil diversa en términos de habilidades y capacidades, ¿cuál de las siguientes estrategias sería más efectiva para promover la inclusión y el éxito académico de todos los estudiantes?",
+      "opciones": [
+        "Crear clases separadas para estudiantes con habilidades académicas similares para garantizar un aprendizaje óptimo para cada grupo.",
+        "Implementar un enfoque de enseñanza inclusivo que integre diferentes estilos de aprendizaje y adapte el contenido y las actividades para satisfacer las necesidades individuales de cada estudiante.",
+        "Ofrecer tutorías solo a los estudiantes que enfrentan dificultades académicas significativas, dejando de lado a aquellos que tienen habilidades más avanzadas.",
+        "Ignorar las diferencias en habilidades y capacidades entre los estudiantes y seguir un plan de estudios estándar para todos."
+      ],
+      "respuesta": "Implementar un enfoque de enseñanza inclusivo que integre diferentes estilos de aprendizaje y adapte el contenido y las actividades para satisfacer las necesidades individuales de cada estudiante.",
+      "explicacion": "En esta opción se demuestra un enfoque avanzado al reconocer la diversidad de habilidades y capacidades entre los estudiantes y al proponer un método de enseñanza que se adapta a estas diferencias."
+    },
+    {
+      "pregunta": "En una escuela primaria donde algunos estudiantes enfrentan barreras económicas que afectan su acceso a recursos educativos, ¿qué estrategia sería más efectiva para abordar esta situación?",
+      "opciones": [
+        "Proporcionar a todos los estudiantes los mismos materiales y recursos educativos, independientemente de sus circunstancias económicas.",
+        "Establecer un programa de becas solo para aquellos estudiantes que demuestren necesidades económicas, para garantizar que tengan acceso a los recursos educativos necesarios.",
+        "Colaborar con organizaciones comunitarias y empresas locales para establecer un banco de recursos educativos que esté disponible para todos los estudiantes, independientemente de su situación económica.",
+        "No hacer ningún cambio y dejar que los estudiantes que enfrentan dificultades económicas resuelvan sus propios problemas de acceso a recursos educativos."
+      ],
+      "respuesta": "Colaborar con organizaciones comunitarias y empresas locales para establecer un banco de recursos educativos que esté disponible para todos los estudiantes, independientemente de su situación económica.",
+      "explicacion": "En esta opción se demuestra un enfoque avanzado al reconocer las diferencias en las circunstancias económicas de los estudiantes y al proponer una solución que beneficia a todos."
+    },
+    {
+      "pregunta": "En una escuela donde se han reportado casos de acoso escolar, ¿cuál sería la mejor estrategia para abordar este problema y promover un ambiente escolar seguro y respetuoso?",
+      "opciones": [
+        "Implementar medidas disciplinarias severas para los acosadores con el fin de disuadir futuros incidentes de acoso.",
+        "Ofrecer talleres y actividades educativas sobre la importancia del respeto y la empatía, involucrando tanto a estudiantes como a personal docente y administrativo.",
+        "Ignorar los casos de acoso escolar y centrarse únicamente en el rendimiento académico de los estudiantes.",
+        "Dejar que los propios estudiantes resuelvan los problemas de acoso entre ellos sin intervención de adultos."
+      ],
+      "respuesta": "Ofrecer talleres y actividades educativas sobre la importancia del respeto y la empatía, involucrando tanto a estudiantes como a personal docente y administrativo.",
+      "explicacion": "En esta opción se demuestra un enfoque avanzado al reconocer la importancia de la prevención y educación en la lucha contra el acoso escolar."
+    },
+    {
+      "pregunta": "En una escuela donde se observa una brecha en el rendimiento académico entre estudiantes de diferentes grupos étnicos, ¿qué estrategia sería más efectiva para abordar este problema?",
+      "opciones": [
+        "Ignorar la brecha y centrarse únicamente en el rendimiento académico general de la escuela.",
+        "Implementar programas de tutoría dirigidos específicamente a estudiantes de grupos étnicos minoritarios para ayudarlos a cerrar la brecha de rendimiento.",
+        "Realizar evaluaciones de rendimiento más rigurosas para estudiantes de grupos étnicos minoritarios para garantizar que estén alcanzando los mismos estándares que sus compañeros.",
+        "Fomentar una cultura escolar inclusiva que celebre la diversidad y promueva expectativas elevadas para todos los estudiantes, independientemente de su origen étnico."
+      ],
+      "respuesta": "Fomentar una cultura escolar inclusiva que celebre la diversidad y promueva expectativas elevadas para todos los estudiantes, independientemente de su origen étnico.",
+      "explicacion": "En esta opción se demuestra un enfoque avanzado al reconocer la importancia de fomentar una cultura escolar inclusiva que celebre la diversidad y promueva expectativas elevadas para todos los estudiantes."
+    },
+    {
+      "pregunta": "En una escuela donde muchos estudiantes provienen de hogares donde no se habla el idioma predominante de la región, ¿cuál sería la mejor manera de apoyar su aprendizaje del idioma?",
+      "opciones": [
+        "Colocar a los estudiantes en clases especiales donde solo se enseñe el idioma predominante, excluyendo otras asignaturas hasta que lo dominen.",
+        "Integrar el aprendizaje del idioma predominante en todas las áreas del plan de estudios, utilizando métodos que fomenten la participación activa y práctica de los estudiantes.",
+        "No hacer ningún esfuerzo adicional y esperar a que los estudiantes aprendan el idioma por su cuenta.",
+        "Proporcionar materiales de aprendizaje del idioma predominante, pero dejar que los estudiantes se organicen para aprenderlo por su cuenta."
+      ],
+      "respuesta": "Integrar el aprendizaje del idioma predominante en todas las áreas del plan de estudios, utilizando métodos que fomenten la participación activa y práctica de los estudiantes.",
+      "explicacion": "En esta opción se demuestra un enfoque avanzado al reconocer la importancia de integrar el aprendizaje del idioma predominante en todas las áreas del plan de estudios."
+    },
+    {
+      "pregunta": "En una escuela donde se observa un bajo nivel de participación de los padres en las actividades escolares, ¿qué estrategia sería más efectiva para involucrar a los padres en la educación de sus hijos?",
+      "opciones": [
+        "Ofrecer incentivos financieros a los padres que participen en las actividades escolares de sus hijos.",
+        "Establecer una comunicación regular y abierta entre la escuela y los padres, brindando oportunidades para que los padres se involucren y contribuyan al ambiente escolar.",
+        "Ignorar el problema y centrarse únicamente en las interacciones entre estudiantes y personal escolar.",
+        "Depender únicamente de los maestros para la educación de los niños y no involucrar activamente a los padres en el proceso educativo."
+      ],
+      "respuesta": "Establecer una comunicación regular y abierta entre la escuela y los padres, brindando oportunidades para que los padres se involucren y contribuyan al ambiente escolar.",
+      "explicacion": "En esta opción se demuestra un enfoque avanzado al reconocer la importancia de la colaboración entre la escuela y los padres para promover el éxito educativo de los niños."
+    },
+    {
+      "pregunta": "En una escuela secundaria donde se observa un aumento en el número de estudiantes que abandonan sus estudios antes de graduarse, ¿qué estrategia sería más efectiva para reducir la tasa de deserción escolar?",
+      "opciones": [
+        "Aumentar la presión sobre los estudiantes para que completen sus estudios mediante el establecimiento de políticas más estrictas y consecuencias severas para aquellos que abandonen la escuela.",
+        "Implementar programas de tutoría y orientación académica y personalizados para identificar y abordar las necesidades individuales de los estudiantes en riesgo de abandonar la escuela.",
+        "Ignorar el problema y centrarse únicamente en mejorar el rendimiento académico de los estudiantes que permanecen en la escuela.",
+        "Ofrecer incentivos financieros a los estudiantes que permanezcan en la escuela hasta graduarse."
+      ],
+      "respuesta": "Implementar programas de tutoría y orientación académica y personalizados para identificar y abordar las necesidades individuales de los estudiantes en riesgo de abandonar la escuela.",
+      "explicacion": "En esta opción se demuestra un enfoque avanzado al reconocer la importancia de abordar las necesidades individuales de los estudiantes en riesgo de abandonar la escuela para reducir la tasa de deserción."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes actividades promovería el desarrollo de habilidades sociales y emocionales en los estudiantes de primaria?",
+      "opciones": [
+        "Fomentar la colaboración en proyectos grupales donde los estudiantes trabajen juntos para lograr un objetivo común.",
+        "Asignar tareas individualmente y evitar interacciones sociales durante el tiempo de clase.",
+        "Centrarse exclusivamente en actividades académicas y dejar de lado las interacciones sociales en el aula.",
+        "Organizar competencias entre estudiantes para fomentar la competitividad y el desempeño individual."
+      ],
+      "respuesta": "Fomentar la colaboración en proyectos grupales donde los estudiantes trabajen juntos para lograr un objetivo común.",
+      "explicacion": "En esta opción se promueve la colaboración, el trabajo en equipo y el desarrollo de habilidades sociales y emocionales en los estudiantes."
+    },
+    {
+      "pregunta": "En una escuela donde se busca promover la equidad de género, ¿qué estrategia sería más efectiva para lograr este objetivo?",
+      "opciones": [
+        "Proporcionar oportunidades de liderazgo y participación en actividades extracurriculares por igual a estudiantes de todos los géneros.",
+        "Fomentar estereotipos de género tradicionales y asignar roles específicos según el género en actividades escolares.",
+        "Ignorar las diferencias de género y tratar a todos los estudiantes de la misma manera, independientemente de su género.",
+        "Limitar la participación de estudiantes de ciertos géneros en actividades extracurriculares para equilibrar las oportunidades entre los géneros."
+      ],
+      "respuesta": "Proporcionar oportunidades de liderazgo y participación en actividades extracurriculares por igual a estudiantes de todos los géneros.",
+      "explicacion": "En esta opción se promueve la equidad de género al brindar oportunidades iguales a todos los estudiantes, independientemente de su género."
+    },
+    {
+      "pregunta": "En una escuela que enfrenta desafíos relacionados con la disciplina y el comportamiento estudiantil, ¿qué estrategia sería más efectiva para mejorar el ambiente escolar?",
+      "opciones": [
+        "Implementar un enfoque disciplinario punitivo centrado en castigos severos para los estudiantes que no cumplen las reglas.",
+        "Promover un enfoque de disciplina restaurativa que fomente la responsabilidad y el aprendizaje a partir de los errores, involucrando a los estudiantes en la resolución de conflictos.",
+        "Ignorar los problemas de disciplina y centrarse exclusivamente en el rendimiento académico de los estudiantes.",
+        "Aumentar la vigilancia y el control en el campus escolar para disuadir comportamientos no deseados."
+      ],
+      "respuesta": "Promover un enfoque de disciplina restaurativa que fomente la responsabilidad y el aprendizaje a partir de los errores, involucrando a los estudiantes en la resolución de conflictos.",
+      "explicacion": "En esta opción se promueve un enfoque positivo y constructivo hacia la disciplina, que busca abordar las causas subyacentes del comportamiento y promover la responsabilidad y el crecimiento personal."
+    },
+    {
+      "pregunta": "En una escuela con una alta diversidad cultural entre los estudiantes, ¿cuál sería la mejor manera de promover la comprensión intercultural y la inclusión?",
+      "opciones": [
+        "Organizar eventos culturales separados para cada grupo cultural representado en la escuela.",
+        "Fomentar la interacción y el diálogo entre estudiantes de diferentes culturas a través de actividades y proyectos colaborativos.",
+        "Ignorar las diferencias culturales y tratar a todos los estudiantes de la misma manera, independientemente de su origen cultural.",
+        "Promover la asimilación cultural de los estudiantes de diferentes culturas para crear una identidad escolar uniforme."
+      ],
+      "respuesta": "Fomentar la interacción y el diálogo entre estudiantes de diferentes culturas a través de actividades y proyectos colaborativos.",
+      "explicacion": " En esta opción se  promueve la comprensión intercultural al fomentar la interacción y el diálogo entre estudiantes de diferentes culturas, lo que puede ayudar a construir puentes y promover la inclusión."
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el órgano máximo de dirección y gobierno del sistema educativo en Colombia?",
+      "opciones": [
+        "Ministerio de Educación Nacional",
+        "Consejo Nacional de Educación",
+        "Asamblea Nacional de Educación",
+        "Consejo Superior de Educación"
+      ],
+      "respuesta": "Consejo Nacional de Educación",
+      "explicacion": "El Consejo Nacional de Educación es el órgano máximo de dirección y gobierno del sistema educativo en Colombia. Es responsable de formular políticas, coordinar y evaluar la educación en el país."
+    },
+    {
+      "pregunta": "¿Cuál es el principal objetivo del Consejo Nacional de Educación en Colombia?",
+      "opciones": [
+        "Coordinar las actividades deportivas en las escuelas.",
+        "Proporcionar asesoría y consulta sobre políticas educativas.",
+        "Organizar eventos culturales a nivel nacional.",
+        "Administrar los recursos financieros de las universidades."
+      ],
+      "respuesta": "Proporcionar asesoría y consulta sobre políticas educativas.",
+      "explicacion": "El CNE tiene como objetivo principal asesorar al Gobierno Nacional y otras instituciones en la formulación, evaluación y ejecución de políticas educativas."
+    },
+    {
+      "pregunta": "¿Qué función NO pertenece al Consejo Nacional de Educación en Colombia?",
+      "opciones": [
+        "Evaluar y monitorear la calidad del sistema educativo.",
+        "Fomentar la innovación en prácticas educativas.",
+        "Administrar las calificaciones de los estudiantes en las escuelas.",
+        "Proponer reformas para mejorar el sistema educativo."
+      ],
+      "respuesta": "Administrar las calificaciones de los estudiantes en las escuelas.",
+      "explicacion": "El CNE no se encarga de administrar las calificaciones de los estudiantes; su función se centra en asesoría, evaluación y mejora del sistema educativo."
+    },
+    {
+      "pregunta": "¿Qué entidad forma parte de la composición del Consejo Nacional de Educación en Colombia?",
+      "opciones": [
+        "Ministerio de Deportes.",
+        "Instituciones Educativas.",
+        "Asociaciones de Padres de Familia.",
+        "Corporaciones de Empresas Privadas."
+      ],
+      "respuesta": "Instituciones Educativas.",
+      "explicacion": "El CNE está compuesto por representantes de diversos sectores, incluidos los del Ministerio de Educación y las instituciones educativas."
+    },
+    {
+      "pregunta": "¿Qué establece la Ley General de Educación en Colombia sobre la calidad de la educación?",
+      "opciones": [
+        "Que debe ser un objetivo secundario",
+        "Que debe ser garantizada por el Estado",
+        "Que es responsabilidad exclusiva de los padres",
+        "Que no es un factor relevante"
+      ],
+      "respuesta": "Que debe ser garantizada por el Estado",
+      "explicacion": "La Ley General de Educación en Colombia establece que la calidad de la educación debe ser garantizada por el Estado, reconociéndola como un derecho fundamental de los ciudadanos."
+    },
+    {
+      "pregunta": "¿Cuál es la edad de escolaridad obligatoria en Colombia?",
+      "opciones": [
+        "De 4 a 16 años",
+        "De 5 a 17 años",
+        "De 6 a 18 años",
+        "De 7 a 19 años"
+      ],
+      "respuesta": "De 5 a 17 años",
+      "explicacion": "La edad de escolaridad obligatoria en Colombia es de 5 a 17 años, lo que significa que todos los niños y niñas en este rango de edad deben asistir a la escuela."
+    },
+    {
+      "pregunta": "¿Qué tipo de educación promueve la Constitución Política de Colombia?",
+      "opciones": [
+        "Educación privada exclusivamente",
+        "Educación pública exclusivamente",
+        "Educación gratuita y diversificada",
+        "Educación elitista"
+      ],
+      "respuesta": "Educación gratuita y diversificada",
+      "explicacion": "La Constitución Política de Colombia promueve una educación gratuita y diversificada, asegurando que sea accesible para todos los ciudadanos, independientemente de su situación económica."
+    },
+    {
+      "pregunta": "¿Cuál es el principal enfoque de la educación en Colombia?",
+      "opciones": [
+        "Competitividad",
+        "Inclusión",
+        "Exclusión",
+        "Desigualdad"
+      ],
+      "respuesta": "Inclusión",
+      "explicacion": "El principal enfoque de la educación en Colombia es la inclusión, buscando garantizar que todos los individuos tengan acceso a oportunidades educativas sin importar sus diferencias."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la Ley General de Educación en Colombia?",
+      "opciones": [
+        "Fomentar la competitividad",
+        "Promover la equidad",
+        "Aumentar la exclusión",
+        "Garantizar la elitización"
+      ],
+      "respuesta": "Promover la equidad",
+      "explicacion": "El objetivo principal de la Ley General de Educación en Colombia es promover la equidad, asegurando que todos los ciudadanos tengan acceso a una educación de calidad, independientemente de su origen o situación socioeconómica."
+    },
+    {
+      "pregunta": "¿Qué garantiza la Ley de Educación en Colombia respecto a la libertad de enseñanza?",
+      "opciones": [
+        "Libertad total sin regulaciones",
+        "Libertad condicionada a estándares de calidad",
+        "Libertad únicamente para instituciones públicas",
+        "Libertad exclusiva para instituciones religiosas"
+      ],
+      "respuesta": "Libertad condicionada a estándares de calidad",
+      "explicacion": "La Ley de Educación en Colombia garantiza la libertad de enseñanza, pero esta libertad está condicionada a estándares de calidad establecidos por las autoridades educativas."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la política de educación inclusiva en Colombia?",
+      "opciones": [
+        "Excluir a los estudiantes con discapacidad",
+        "Promover la segregación",
+        "Garantizar la igualdad de oportunidades",
+        "Privilegiar a los estudiantes de clases altas"
+      ],
+      "respuesta": "Garantizar la igualdad de oportunidades",
+      "explicacion": "El objetivo principal de la política de educación inclusiva en Colombia es garantizar la igualdad de oportunidades educativas para todos los estudiantes, independientemente de sus diferencias."
+    },
+    {
+      "pregunta": "¿Qué establece la Ley General de Educación sobre la autonomía de las instituciones educativas?",
+      "opciones": [
+        "Que no tienen autonomía",
+        "Que tienen autonomía total sin regulaciones",
+        "Que tienen autonomía condicionada a la normativa",
+        "Que la autonomía es exclusiva de las instituciones privadas"
+      ],
+      "respuesta": "Que tienen autonomía condicionada a la normativa",
+      "explicacion": "La Ley General de Educación en Colombia establece que las instituciones educativas tienen autonomía, pero esta autonomía está condicionada a la normativa establecida por las autoridades educativas."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de la educación preescolar según la legislación colombiana?",
+      "opciones": [
+        "Preparar a los niños para el trabajo",
+        "Fomentar el juego y la socialización",
+        "Excluir a los niños de contextos desfavorecidos",
+        "Privilegiar a los niños de clases altas"
+      ],
+      "respuesta": "Fomentar el juego y la socialización",
+      "explicacion": "Según la legislación colombiana, el objetivo de la educación preescolar es fomentar el juego y la socialización de los niños, brindando un entorno adecuado para su desarrollo integral."
+    },
+    {
+      "pregunta": "¿Qué establece la Ley General de Educación sobre la formación técnica y tecnológica en Colombia?",
+      "opciones": [
+        "Que no es una prioridad",
+        "Que es exclusivamente para estudiantes de bajos recursos",
+        "Que es una alternativa válida",
+        "Que es obligatoria para todos los estudiantes"
+      ],
+      "respuesta": "Que es una alternativa válida",
+      "explicacion": "La Ley General de Educación en Colombia establece que la formación técnica y tecnológica es una alternativa válida para los estudiantes, ofreciendo opciones educativas que se ajusten a sus intereses y habilidades."
+    },
+    {
+      "pregunta": "¿Qué papel juega la familia en la educación según la legislación colombiana?",
+      "opciones": [
+        "Ningún papel",
+        "Un papel exclusivamente financiero",
+        "Un papel secundario",
+        "Un papel fundamental y activo"
+      ],
+      "respuesta": "Un papel fundamental y activo",
+      "explicacion": "Según la legislación colombiana, la familia juega un papel fundamental y activo en la educación de los estudiantes, colaborando con las instituciones educativas para garantizar el desarrollo integral de los niños y jóvenes."
+    },
+    {
+      "pregunta": "¿Qué tipo de educación prohíbe la Constitución Política de Colombia?",
+      "opciones": [
+        "La educación religiosa",
+        "La educación exclusivamente privada",
+        "La educación segregada",
+        "La educación que promueva la discriminación"
+      ],
+      "respuesta": "La educación que promueva la discriminación",
+      "explicacion": "La Constitución Política de Colombia prohíbe cualquier tipo de educación que promueva la discriminación, asegurando que el sistema educativo promueva la igualdad y la inclusión de todos los ciudadanos."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal del currículo según la Ley General de Educación?",
+      "opciones": [
+        "Promover la homogeneidad",
+        "Promover la diversidad",
+        "Limitar la creatividad",
+        "Limitar el acceso a la información"
+      ],
+      "respuesta": "Promover la diversidad",
+      "explicacion": "El objetivo principal del currículo según la Ley General de Educación en Colombia es promover la diversidad, ofreciendo una variedad de experiencias educativas que se adapten a las necesidades e intereses de los estudiantes."
+    },
+    {
+      "pregunta": "¿Qué establece la legislación colombiana sobre la educación de personas con discapacidad?",
+      "opciones": [
+        "Que no tienen derecho a la educación",
+        "Que tienen acceso exclusivo a instituciones especiales",
+        "Que tienen derecho a una educación inclusiva",
+        "Que tienen acceso exclusivo a la educación privada"
+      ],
+      "respuesta": "Que tienen derecho a una educación inclusiva",
+      "explicacion": "La legislación colombiana establece que las personas con discapacidad tienen derecho a una educación inclusiva, garantizando su acceso a oportunidades educativas que promuevan su desarrollo integral."
+    },
+    {
+      "pregunta": "¿Qué establece la Ley General de Educación sobre la financiación de la educación en Colombia?",
+      "opciones": [
+        "Que la educación debe ser totalmente gratuita",
+        "Que la financiación es responsabilidad exclusiva de los padres",
+        "Que la educación es financiada exclusivamente por el Estado",
+        "Que la financiación es compartida entre el Estado, la sociedad y la familia"
+      ],
+      "respuesta": "Que la financiación es compartida entre el Estado, la sociedad y la familia",
+      "explicacion": "La Ley General de Educación en Colombia establece que la financiación de la educación es responsabilidad compartida entre el Estado, la sociedad y la familia, reconociendo la importancia de la inversión en educación para el desarrollo del país."
+    },
+    {
+      "pregunta": "¿Cuál es el papel del Estado en la regulación de la educación en Colombia?",
+      "opciones": [
+        "Ningún papel",
+        "Un papel exclusivamente financiero",
+        "Un papel subsidiario",
+        "Un papel rector y garante de la calidad"
+      ],
+      "respuesta": "Un papel rector y garante de la calidad",
+      "explicacion": "El papel del Estado en la regulación de la educación en Colombia es ser rector y garante de la calidad, estableciendo normativas y políticas que aseguren la excelencia y equidad en el sistema educativo."
+    },
+    {
+      "pregunta": "¿Qué garantiza la Ley General de Educación sobre la libertad de cátedra?",
+      "opciones": [
+        "Que no existe",
+        "Que está sujeta a la aprobación del gobierno",
+        "Que es absoluta y sin restricciones",
+        "Que está limitada por la ideología del Estado"
+      ],
+      "respuesta": "Que es absoluta y sin restricciones",
+      "explicacion": "La Ley General de Educación en Colombia garantiza la libertad de cátedra de forma absoluta y sin restricciones, permitiendo a los docentes impartir conocimientos de manera libre y responsable."
+    },
+    {
+      "pregunta": "¿Qué medidas establece la legislación colombiana para garantizar la equidad en la educación?",
+      "opciones": [
+        "Ninguna medida",
+        "Medidas exclusivas para grupos privilegiados",
+        "Medidas de inclusión y acceso para todos los grupos sociales",
+        "Medidas de exclusión y discriminación"
+      ],
+      "respuesta": "Medidas de inclusión y acceso para todos los grupos sociales",
+      "explicacion": "La legislación colombiana establece medidas de inclusión y acceso para todos los grupos sociales con el fin de garantizar la equidad en la educación, promoviendo la igualdad de oportunidades para todos los estudiantes."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la evaluación educativa según la legislación colombiana?",
+      "opciones": [
+        "Sancionar a los estudiantes",
+        "Clasificar a los estudiantes",
+        "Mejorar la calidad educativa",
+        "Promover la competitividad entre instituciones"
+      ],
+      "respuesta": "Mejorar la calidad educativa",
+      "explicacion": "El objetivo principal de la evaluación educativa según la legislación colombiana es mejorar la calidad educativa, identificando áreas de mejora y proporcionando retroalimentación para el desarrollo continuo del sistema educativo."
+    },
+    {
+      "pregunta": "¿Qué significa que la libertad de cátedra sea 'absoluta y sin restricciones'?",
+      "opciones": [
+        "Que los docentes pueden enseñar cualquier cosa sin tener en cuenta los principios éticos.",
+        "Que los docentes tienen total autonomía para enseñar y discutir cualquier tema sin interferencia externa.",
+        "Que los docentes deben seguir estrictamente las directrices impuestas por las autoridades gubernamentales.",
+        "Que los docentes tienen restricciones en la elección de los temas a enseñar."
+      ],
+      "respuesta": "Que los docentes tienen total autonomía para enseñar y discutir cualquier tema sin interferencia externa."
+    },
+    {
+      "pregunta": "¿Qué implica la libertad de cátedra sin restricciones para los profesores?",
+      "opciones": [
+        "Implica que los profesores deben seguir un plan de estudios predeterminado.",
+        "Implica que los profesores tienen que elegir temas controvertidos para sus clases.",
+        "Implica que los profesores tienen la capacidad de seleccionar métodos de enseñanza y contenidos según su criterio.",
+        "Implica que los profesores no tienen autonomía en el aula."
+      ],
+      "respuesta": "Implica que los profesores tienen la capacidad de seleccionar métodos de enseñanza y contenidos según su criterio."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la libertad de cátedra sin restricciones según el párrafo?",
+      "opciones": [
+        "Promover la uniformidad de ideas en el aula.",
+        "Fomentar la censura de temas sensibles.",
+        "Promover la diversidad de ideas y el pensamiento crítico.",
+        "Restringir la autonomía de los profesores."
+      ],
+      "respuesta": "Promover la diversidad de ideas y el pensamiento crítico."
+    },
+    {
+      "pregunta": "¿Cuál es el marco legal en Colombia que respalda la libertad de cátedra sin restricciones?",
+      "opciones": [
+        "Ley General de Educación",
+        "Ley de Censura Educativa",
+        "Ley de Restricción de Contenidos",
+        "Decreto de Control Académico"
+      ],
+      "respuesta": "Ley General de Educación"
+    },
+    {
+      "pregunta": "¿Qué principios fundamentales garantiza la Ley General de Educación en relación con la libertad de cátedra?",
+      "opciones": [
+        "La exclusividad de los temas enseñados",
+        "La autonomía de los docentes en la selección de contenidos y métodos de enseñanza",
+        "La supervisión directa del gobierno en el aula",
+        "La restricción de contenidos sensibles"
+      ],
+      "respuesta": "La autonomía de los docentes en la selección de contenidos y métodos de enseñanza"
+    },
+    {
+      "pregunta": "¿Cuál es el propósito principal de la disposición legal sobre la libertad de cátedra en la Ley General de Educación?",
+      "opciones": [
+        "Promover la censura de ideas divergentes",
+        "Proteger la libertad académica y promover el pensamiento crítico",
+        "Restringir la enseñanza de ciertas materias",
+        "Controlar el discurso en el aula"
+      ],
+      "respuesta": "Proteger la libertad académica y promover el pensamiento crítico"
+    },
+    {
+      "pregunta": "¿Qué es estadística?",
+      "opciones": [
+        "Una técnica de pintura.",
+        "Una rama de la biología.",
+        "Un área de las matemáticas.",
+        "Un deporte extremo."
+      ],
+      "respuesta": "Un área de las matemáticas.",
+      "explicacion": "La estadística es una rama de las matemáticas que se encarga de recolectar, analizar e interpretar datos."
+    }
+  ]
+}

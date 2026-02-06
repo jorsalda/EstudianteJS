@@ -1,0 +1,113 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el propósito de la 'Ley de Jornada Única' en Colombia?",
+      "opciones": [
+        "Reducir el tiempo de estudio de los estudiantes.",
+        "Ampliar la jornada escolar para ofrecer una formación integral.",
+        "Eliminar el horario extendido en las escuelas.",
+        "Establecer un sistema de jornada parcial para los estudiantes."
+      ],
+      "respuesta": "Ampliar la jornada escolar para ofrecer una formación integral.",
+      "explicacion": "La 'Ley de Jornada Única' en Colombia busca ampliar la jornada escolar para ofrecer una formación integral que incluya actividades académicas, deportivas, artísticas y culturales, con el fin de mejorar la calidad educativa y el desarrollo integral de los estudiantes."
+    },
+    {
+      "pregunta": "¿Qué medidas establece la 'Ley de Alimentación Escolar' en Colombia?",
+      "opciones": [
+        "Eliminar por completo el programa de alimentación escolar.",
+        "Garantizar la entrega de alimentos nutritivos y balanceados a los estudiantes.",
+        "Restringir el acceso de los estudiantes a los alimentos escolares.",
+        "Establecer un sistema de pago por los alimentos escolares."
+      ],
+      "respuesta": "Garantizar la entrega de alimentos nutritivos y balanceados a los estudiantes.",
+      "explicacion": "La 'Ley de Alimentación Escolar' en Colombia establece medidas para garantizar la entrega de alimentos nutritivos y balanceados a los estudiantes, promoviendo la alimentación saludable y contribuyendo al mejoramiento de su rendimiento académico y bienestar."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la 'Ley de Gratuidad Educativa' en Colombia?",
+      "opciones": [
+        "Cobrar por el acceso a la educación en todas las instituciones educativas.",
+        "Garantizar el acceso a una educación gratuita y de calidad para todos los estudiantes.",
+        "Restringir el acceso a la educación solo a ciertos grupos de estudiantes.",
+        "Establecer un sistema de cuotas para el acceso a la educación."
+      ],
+      "respuesta": "Garantizar el acceso a una educación gratuita y de calidad para todos los estudiantes.",
+      "explicacion": "La 'Ley de Gratuidad Educativa' en Colombia tiene como objetivo principal garantizar el acceso a una educación gratuita y de calidad para todos los estudiantes, eliminando barreras económicas y promoviendo la igualdad de oportunidades en el acceso a la educación."
+    },
+    {
+      "pregunta": "¿Qué establece la 'Ley de Educación Superior' en Colombia?",
+      "opciones": [
+        "Restringir el acceso a la educación superior solo a ciertos grupos de estudiantes.",
+        "Garantizar la gratuidad total en la educación superior.",
+        "Eliminar la autonomía universitaria.",
+        "Promover la calidad y equidad en la educación superior."
+      ],
+      "respuesta": "Promover la calidad y equidad en la educación superior.",
+      "explicacion": "La 'Ley de Educación Superior' en Colombia establece medidas para promover la calidad y equidad en la educación superior, fomentando la investigación, la internacionalización y la vinculación con el sector productivo, con el fin de contribuir al desarrollo social, económico y cultural del país."
+    },
+    {
+      "pregunta": "¿Qué implica el derecho a la educación en la 'Ley General de Educación' en Colombia?",
+      "opciones": [
+        "El acceso a una educación de calidad sin discriminación.",
+        "La obligatoriedad de asistir a clases.",
+        "La restricción del acceso a la educación solo a ciertos grupos de estudiantes.",
+        "La exclusión de ciertos grupos étnicos de la educación."
+      ],
+      "respuesta": "El acceso a una educación de calidad sin discriminación.",
+      "explicacion": "La 'Ley General de Educación' en Colombia reconoce el derecho a una educación de calidad sin discriminación, garantizando el acceso, permanencia, participación y graduación de todos los estudiantes en el sistema educativo, con igualdad de oportunidades y sin exclusiones."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de la 'Ley de Ciencia, Tecnología e Innovación' en Colombia?",
+      "opciones": [
+        "Restringir el acceso a la ciencia, tecnología e innovación.",
+        "Promover la inversión en ciencia, tecnología e innovación.",
+        "Eliminar la investigación científica en el país.",
+        "Limitar la participación de los estudiantes en proyectos de ciencia, tecnología e innovación."
+      ],
+      "respuesta": "Promover la inversión en ciencia, tecnología e innovación.",
+      "explicacion": "La 'Ley de Ciencia, Tecnología e Innovación' en Colombia tiene como propósito promover la inversión en ciencia, tecnología e innovación, fortaleciendo la capacidad científica, tecnológica y de innovación del país para contribuir al desarrollo económico, social y ambiental."
+    },
+    {
+      "pregunta": "¿Qué garantiza la 'Ley de Educación Ambiental' en Colombia?",
+      "opciones": [
+        "La eliminación de la educación ambiental en el currículo escolar.",
+        "La garantía de una educación ambiental de calidad para todos los estudiantes.",
+        "La exclusión de la educación ambiental en las instituciones educativas.",
+        "La restricción del acceso a la educación ambiental solo a ciertos grupos de estudiantes."
+      ],
+      "respuesta": "La garantía de una educación ambiental de calidad para todos los estudiantes.",
+      "explicacion": "La 'Ley de Educación Ambiental' en Colombia garantiza una educación ambiental de calidad para todos los estudiantes, promoviendo la comprensión de los problemas ambientales, la conservación de los recursos naturales y el desarrollo sostenible, con el fin de fomentar una cultura ambiental responsable."
+    },
+    {
+      "pregunta": "¿Qué promueve la 'Ley de Educación para la Paz' en Colombia?",
+      "opciones": [
+        "Promover la violencia en las instituciones educativas.",
+        "Eliminar la educación para la paz en el currículo escolar.",
+        "Promover la cultura de paz, la convivencia pacífica y la resolución pacífica de conflictos.",
+        "Restringir el acceso a la educación para la paz solo a ciertos grupos de estudiantes."
+      ],
+      "respuesta": "Promover la cultura de paz, la convivencia pacífica y la resolución pacífica de conflictos.",
+      "explicacion": "La 'Ley de Educación para la Paz' en Colombia promueve la cultura de paz, la convivencia pacífica y la resolución pacífica de conflictos en las instituciones educativas, fomentando valores, actitudes y habilidades que contribuyan a la construcción de una sociedad más justa, equitativa y democrática."
+    },{
+  "pregunta": "¿Qué establece la 'Ley de Educación para la Primera Infancia' en Colombia?",
+  "opciones": [
+    "Limitar el acceso a la educación para niños y niñas menores de 5 años.",
+    "Promover la atención integral y el desarrollo de niños y niñas en la primera infancia.",
+    "Eliminar la educación para la primera infancia en el país.",
+    "Restringir el acceso a la educación para la primera infancia solo a ciertos grupos de niños y niñas."
+  ],
+  "respuesta": "Promover la atención integral y el desarrollo de niños y niñas en la primera infancia.",
+  "explicacion": "La 'Ley de Educación para la Primera Infancia' en Colombia tiene como objetivo promover la atención integral y el desarrollo de niños y niñas en la primera infancia, garantizando su acceso a servicios educativos de calidad que contribuyan a su bienestar y desarrollo integral."
+},
+{
+  "pregunta": "¿Cuál es el propósito de la 'Ley de Educación para el Trabajo y el Desarrollo Humano' en Colombia?",
+  "opciones": [
+    "Restringir el acceso a la educación para el trabajo y el desarrollo humano.",
+    "Promover la formación técnica y tecnológica para el trabajo y el desarrollo humano.",
+    "Eliminar la educación para el trabajo y el desarrollo humano en el país.",
+    "Limitar la participación de los estudiantes en programas de educación para el trabajo y el desarrollo humano."
+  ],
+  "respuesta": "Promover la formación técnica y tecnológica para el trabajo y el desarrollo humano.",
+  "explicacion": "La 'Ley de Educación para el Trabajo y el Desarrollo Humano' en Colombia tiene como propósito promover la formación técnica y tecnológica para el trabajo y el desarrollo humano, facilitando el acceso de los estudiantes a programas educativos que les permitan adquirir competencias laborales y contribuir al desarrollo económico y social del país."
+}
+  ]
+}

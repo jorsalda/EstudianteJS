@@ -1,0 +1,155 @@
+{
+  "preguntas": [
+    {
+
+      "pregunta": "¿Qué representa la unión de dos conjuntos A y B?",
+      "opciones": [
+        "Elementos que están solo en A.",
+        "Elementos que están solo en B.",
+        "Elementos que están en A, B o ambos.",
+        "Elementos que están en ninguno de los dos."
+      ],
+      "respuesta": "Elementos que están en A, B o ambos."
+    },
+    {
+      "pregunta": "¿Qué representa la intersección de dos conjuntos A y B?",
+      "opciones": [
+        "Elementos que están solo en A.",
+        "Elementos que están solo en B.",
+        "Elementos que están en A, B o ambos.",
+        "Elementos que están en ambos conjuntos."
+      ],
+      "respuesta": "Elementos que están en ambos conjuntos."
+    },
+    {
+      "pregunta": "¿Qué es un subconjunto?",
+      "opciones": [
+        "Un conjunto que tiene más elementos que otro conjunto.",
+        "Un conjunto cuyos elementos también están en otro conjunto.",
+        "Un conjunto que no tiene elementos.",
+        "Un conjunto que contiene todos los elementos de otro conjunto."
+      ],
+      "respuesta": "Un conjunto cuyos elementos también están en otro conjunto."
+    },
+    {
+      "pregunta": "¿Qué es un conjunto universal?",
+      "opciones": [
+        "Un conjunto que no contiene elementos.",
+        "Un conjunto que contiene todos los elementos posibles en un contexto.",
+        "Un conjunto que solo contiene números naturales.",
+        "Un conjunto que solo contiene números enteros."
+      ],
+      "respuesta": "Un conjunto que contiene todos los elementos posibles en un contexto."
+    },
+    {
+      "pregunta": "¿Qué son los operadores lógicos?",
+      "opciones": [
+        "Símbolos que representan números.",
+        "Símbolos que conectan proposiciones para formar una proposición compuesta.",
+        "Símbolos que solo se usan en álgebra.",
+        "Símbolos que representan operaciones aritméticas."
+      ],
+      "respuesta": "Símbolos que conectan proposiciones para formar una proposición compuesta."
+    },
+    {
+      "pregunta": "¿Qué valor de verdad tiene la proposición 'P AND Q' si P es verdadero y Q es falso?",
+      "opciones": [
+        "Verdadero.",
+        "Falso.",
+        "No se puede determinar.",
+        "Ninguno de los anteriores."
+      ],
+      "respuesta": "Falso."
+    },
+    {
+      "pregunta": "¿Qué son los números naturales?",
+      "opciones": [
+        "Números negativos.",
+        "Números fraccionarios.",
+        "Números usados para contar (1, 2, 3, ...).",
+        "Números decimales."
+      ],
+      "respuesta": "Números usados para contar (1, 2, 3, ...)."
+    },
+    {
+      "pregunta": "¿Cuál es una propiedad de la suma en los números naturales?",
+      "opciones": [
+        "Conmutativa: a + b = b + a.",
+        "Distributiva: a(b + c) = ab + ac.",
+        "Identidad: a + 0 = 0.",
+        "Inversión: a + (-a) = 0."
+      ],
+      "respuesta": "Conmutativa: a + b = b + a."
+    },
+    {
+      "pregunta": "¿Cuál es una propiedad de la resta en los números naturales?",
+      "opciones": [
+        "Conmutativa: a - b = b - a.",
+        "Identidad: a - 0 = a.",
+        "Asociativa: (a - b) - c = a - (b - c).",
+        "Distributiva: a(b - c) = ab - ac."
+      ],
+      "respuesta": "Identidad: a - 0 = a."
+    },
+    {
+      "pregunta": "¿Cuál es una propiedad de la multiplicación en los números naturales?",
+      "opciones": [
+        "Conmutativa: a × b = b × a.",
+        "Identidad: a × 1 = a.",
+        "Inversión: a × (1/a) = 1.",
+        "Ambas A y B."
+      ],
+      "respuesta": "Ambas A y B."
+    },
+    {
+      "pregunta": "¿Cuál es una propiedad de la división en los números naturales?",
+      "opciones": [
+        "Conmutativa: a ÷ b = b ÷ a.",
+        "Identidad: a ÷ 1 = a.",
+        "Asociativa: (a ÷ b) ÷ c = a ÷ (b ÷ c).",
+        "Distributiva: a ÷ (b ÷ c) = (a ÷ b) ÷ c."
+      ],
+      "respuesta": "Identidad: a ÷ 1 = a."
+    },
+    {
+      "pregunta": "¿Cuál es una propiedad de la potenciación en los números naturales?",
+      "opciones": [
+        "a^m + a^n = a^{m+n}.",
+        "a^m × a^n = a^{m+n}.",
+        "a^{m/n} = a^{m × n}.",
+        "a^m - a^n = a^{m-n}."
+      ],
+      "respuesta": "a^m × a^n = a^{m+n}."
+    },
+    {
+      "pregunta": "¿Cuál es una propiedad de la radicación en los números naturales?",
+      "opciones": [
+        "√a × √b = √(a × b).",
+        "√(a × b) = a + b.",
+        "√a + √b = √(a × b).",
+        "√(a/b) = √a + √b."
+      ],
+      "respuesta": "√a × √b = √(a × b)."
+    },
+    {
+      "pregunta": "¿Qué son los ángulos consecutivos?",
+      "opciones": [
+        "Ángulos que suman 90 grados.",
+        "Ángulos que tienen un lado común.",
+        "Ángulos que suman 180 grados.",
+        "Ángulos opuestos por el vértice."
+      ],
+      "respuesta": "Ángulos que tienen un lado común."
+    },
+    {
+      "pregunta": "¿Qué es un histograma?",
+      "opciones": [
+        "Un gráfico de líneas que muestra frecuencias.",
+        "Un gráfico de barras que muestra frecuencias.",
+        "Un gráfico circular que muestra proporciones.",
+        "Un gráfico de dispersión."
+      ],
+      "respuesta": "Un gráfico de barras que muestra frecuencias."
+    }
+  ]
+}

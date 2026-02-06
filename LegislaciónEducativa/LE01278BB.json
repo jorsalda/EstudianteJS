@@ -1,0 +1,532 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué regula el Decreto 1278 en relación con la formación inicial y continua de los docentes?",
+      "opciones": [
+        "Solo la formación inicial",
+        "Solo la formación continua",
+        "Ambas, la formación inicial y continua",
+        "Ninguna de las dos"
+      ],
+      "respuesta": "Ambas, la formación inicial y continua",
+      "explicacion": "El Decreto 1278 regula tanto la formación inicial como continua de los docentes, garantizando su desarrollo profesional integral."
+    },
+    {
+      "pregunta": "¿Qué proceso establece el Decreto 1278 para el ingreso a la carrera docente?",
+      "opciones": [
+        "Aprobación de un examen físico",
+        "Cumplimiento de requisitos específicos y aprobación de evaluaciones",
+        "Solo la presentación de un título académico",
+        "Solo la recomendación de un directivo"
+      ],
+      "respuesta": "Cumplimiento de requisitos específicos y aprobación de evaluaciones",
+      "explicacion": "El Decreto 1278 establece que para ingresar a la carrera docente se deben cumplir ciertos requisitos específicos y aprobar evaluaciones pertinentes."
+    },
+    {
+      "pregunta": "¿Qué condiciones regula el Decreto 1278 para el ingreso y permanencia en la carrera docente?",
+      "opciones": [
+        "Solo el ingreso",
+        "Solo la permanencia",
+        "Ninguna de las dos",
+        "Ambas, ingreso y permanencia"
+      ],
+      "respuesta": "Ambas, ingreso y permanencia",
+      "explicacion": "El Decreto 1278 regula tanto las condiciones de ingreso como las de permanencia en la carrera docente, asegurando un alto estándar profesional."
+    },
+    {
+      "pregunta": "¿Qué estructura establece el Decreto 1278 en la carrera docente?",
+      "opciones": [
+        "Estructura única sin niveles",
+        "Categorías y niveles basados en méritos y competencias",
+        "Solo categorías sin niveles",
+        "Solo niveles sin categorías"
+      ],
+      "respuesta": "Categorías y niveles basados en méritos y competencias",
+      "explicacion": "El Decreto 1278 establece una estructura de categorías y niveles en la carrera docente, fundamentada en méritos y competencias."
+    },
+    {
+      "pregunta": "¿Qué especifica el Decreto 1278 sobre las funciones y responsabilidades de los docentes de carrera?",
+      "opciones": [
+        "Solo la planificación de actividades educativas",
+        "Solo la evaluación de los estudiantes",
+        "Múltiples responsabilidades incluyendo planificación, evaluación y desarrollo curricular",
+        "Solo la contribución al ambiente escolar"
+      ],
+      "respuesta": "Múltiples responsabilidades incluyendo planificación, evaluación y desarrollo curricular",
+      "explicacion": "El Decreto 1278 especifica que los docentes de carrera tienen múltiples responsabilidades que incluyen la planificación, evaluación y desarrollo curricular."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 las condiciones de trabajo y remuneración de los docentes?",
+      "opciones": [
+        "No regula estas condiciones",
+        "Regula las condiciones de trabajo pero no la remuneración",
+        "Regula la remuneración pero no las condiciones de trabajo",
+        "Regula tanto las condiciones de trabajo como la remuneración"
+      ],
+      "respuesta": "Regula tanto las condiciones de trabajo como la remuneración",
+      "explicacion": "El Decreto 1278 regula tanto las condiciones de trabajo como la remuneración de los docentes, asegurando un entorno laboral adecuado y justo."
+    },
+    {
+      "pregunta": "¿Qué derechos y deberes establece el Decreto 1278 para los docentes de carrera?",
+      "opciones": [
+        "Solo los derechos",
+        "Solo los deberes",
+        "Ninguno de los dos",
+        "Ambos, derechos y deberes"
+      ],
+      "respuesta": "Ambos, derechos y deberes",
+      "explicacion": "El Decreto 1278 establece tanto los derechos como los deberes de los docentes de carrera, proporcionando un marco integral para su desempeño profesional."
+    },
+    {
+      "pregunta": "¿Qué define el Decreto 1278 en relación con el régimen disciplinario de los docentes de carrera?",
+      "opciones": [
+        "Define procedimientos y sanciones claras para conductas inapropiadas",
+        "No establece un régimen disciplinario",
+        "Solo define sanciones sin procedimientos",
+        "Solo define procedimientos sin sanciones"
+      ],
+      "respuesta": "Define procedimientos y sanciones claras para conductas inapropiadas",
+      "explicacion": "El Decreto 1278 define un régimen disciplinario con procedimientos y sanciones claras para conductas inapropiadas de los docentes de carrera."
+    },
+    {
+      "pregunta": "¿Cómo se realiza la evaluación del desempeño docente según el Decreto 1278?",
+      "opciones": [
+        "Solo se considera la antigüedad",
+        "Se realiza de manera periódica considerando múltiples aspectos del trabajo docente",
+        "Solo se evalúan los resultados académicos de los estudiantes",
+        "No se realiza evaluación del desempeño"
+      ],
+      "respuesta": "Se realiza de manera periódica considerando múltiples aspectos del trabajo docente",
+      "explicacion": "La evaluación del desempeño docente según el Decreto 1278 se realiza de manera periódica y considera múltiples aspectos del trabajo del docente."
+    },
+    {
+      "pregunta": "¿Qué promueve el Decreto 1278 en cuanto a la capacitación y actualización de los docentes?",
+      "opciones": [
+        "Promueve solo la capacitación inicial",
+        "Promueve solo la actualización profesional",
+        "Promueve tanto la capacitación inicial como la actualización profesional continua",
+        "No promueve ninguna de las dos"
+      ],
+      "respuesta": "Promueve tanto la capacitación inicial como la actualización profesional continua",
+      "explicacion": "El Decreto 1278 promueve tanto la capacitación inicial como la actualización profesional continua de los docentes para asegurar su desarrollo integral."
+    },
+    {
+      "pregunta": "¿Qué criterios establece el Decreto 1278 para la promoción en la carrera docente?",
+      "opciones": [
+        "Basada solo en la antigüedad",
+        "Basada en méritos, antigüedad y evaluaciones de desempeño",
+        "Basada solo en la obtención de nuevos títulos académicos",
+        "No establece criterios claros"
+      ],
+      "respuesta": "Basada en méritos, antigüedad y evaluaciones de desempeño",
+      "explicacion": "La promoción en la carrera docente según el Decreto 1278 se basa en méritos, antigüedad y evaluaciones de desempeño."
+    },
+    {
+      "pregunta": "¿Qué condiciones regula el Decreto 1278 en relación con la movilidad y permanencia en la carrera docente?",
+      "opciones": [
+        "Solo regula la movilidad",
+        "Solo regula la permanencia",
+        "Ninguna de las dos",
+        "Ambas, movilidad y permanencia"
+      ],
+      "respuesta": "Ambas, movilidad y permanencia",
+      "explicacion": "El Decreto 1278 regula tanto la movilidad como la permanencia en la carrera docente para asegurar la estabilidad y desarrollo profesional de los docentes."
+    },
+    {
+      "pregunta": "¿Qué incluye el proceso de evaluación de competencias de los docentes según el Decreto 1278?",
+      "opciones": [
+        "Solo se evalúan conocimientos específicos",
+        "Solo se evalúan habilidades pedagógicas",
+        "Incluye la valoración de habilidades pedagógicas, conocimientos específicos y capacidades interpersonales",
+        "No incluye la evaluación de competencias"
+      ],
+      "respuesta": "Incluye la valoración de habilidades pedagógicas, conocimientos específicos y capacidades interpersonales",
+      "explicacion": "El proceso de evaluación de competencias de los docentes según el Decreto 1278 incluye la valoración de habilidades pedagógicas, conocimientos específicos y capacidades interpersonales."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la participación de los docentes en proyectos educativos?",
+      "opciones": [
+        "Solo permite la participación en horario extraescolar",
+        "Solo permite la participación voluntaria",
+        "Incentiva la participación activa y puede incluir programas de tutoría y proyectos comunitarios",
+        "No regula la participación en proyectos educativos"
+      ],
+      "respuesta": "Incentiva la participación activa y puede incluir programas de tutoría y proyectos comunitarios",
+      "explicacion": "El Decreto 1278 incentiva la participación activa de los docentes en proyectos educativos, incluyendo programas de tutoría y proyectos comunitarios."
+    },
+    {
+      "pregunta": "¿Qué define el Decreto 1278 sobre la evaluación de proyectos educativos?",
+      "opciones": [
+        "No se evalúan los proyectos educativos",
+        "Solo se evalúan mediante autoevaluaciones",
+        "Se evalúan en función de su impacto, relevancia y resultados",
+        "Solo se evalúan a través de evaluaciones externas"
+      ],
+      "respuesta": "Se evalúan en función de su impacto, relevancia y resultados",
+      "explicacion": "El Decreto 1278 define que los proyectos educativos se evalúan en función de su impacto, relevancia y resultados."
+    },
+    {
+      "pregunta": "¿Qué condiciones establece el Decreto 1278 para el retiro voluntario de la carrera docente?",
+      "opciones": [
+        "No establece condiciones claras",
+        "Incluye requisitos de edad y años de servicio",
+        "Solo incluye la edad como requisito",
+        "Solo incluye los años de servicio como requisito"
+      ],
+      "respuesta": "Incluye requisitos de edad y años de servicio",
+      "explicacion": "El Decreto 1278 establece que el retiro voluntario de la carrera docente incluye requisitos tanto de edad como de años de servicio."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 el reconocimiento de la experiencia docente?",
+      "opciones": [
+        "No se reconoce la experiencia docente",
+        "Solo se reconoce mediante certificados",
+        "Se reconoce mediante la valoración de años de servicio, logros y evaluaciones de desempeño",
+        "Solo se reconoce mediante evaluaciones de desempeño"
+      ],
+      "respuesta": "Se reconoce mediante la valoración de años de servicio, logros y evaluaciones de desempeño",
+      "explicacion": "El Decreto 1278 regula el reconocimiento de la experiencia docente mediante la valoración de años de servicio, logros y evaluaciones de desempeño."
+    },
+    {
+      "pregunta": "¿Qué requisitos define el Decreto 1278 para obtener la licencia de enseñanza?",
+      "opciones": [
+        "Solo la aprobación de un examen teórico",
+        "Cumplir con formación académica y pasar evaluaciones específicas",
+        "Solo la obtención de un título académico",
+        "No define requisitos claros"
+      ],
+      "respuesta": "Cumplir con formación académica y pasar evaluaciones específicas",
+      "explicacion": "El Decreto 1278 define que para obtener la licencia de enseñanza es necesario cumplir con la formación académica requerida y pasar evaluaciones específicas."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la asignación de cargos y horas cátedra?",
+      "opciones": [
+        "No regula la asignación de cargos",
+        "Basada en la antigüedad únicamente",
+        "Basada en la disponibilidad, necesidades institucionales y competencias del docente",
+        "Solo permite la asignación por sorteo"
+      ],
+      "respuesta": "Basada en la disponibilidad, necesidades institucionales y competencias del docente",
+      "explicacion": "El Decreto 1278 regula la asignación de cargos y horas cátedra en función de la disponibilidad, necesidades institucionales y competencias del docente."
+    },
+    {
+      "pregunta": "¿Qué procedimiento establece el Decreto 1278 para la selección de directivos docentes?",
+      "opciones": [
+        "No establece un procedimiento específico",
+        "Basado en una selección interna por parte de la comunidad educativa",
+        "Incluye concursos de méritos y evaluaciones específicas",
+        "Basado en la antigüedad y recomendaciones"
+      ],
+      "respuesta": "Incluye concursos de méritos y evaluaciones específicas",
+      "explicacion": "El Decreto 1278 establece que la selección de directivos docentes se realiza mediante concursos de méritos y evaluaciones específicas."
+    },
+    {
+      "pregunta": "¿Qué regula el Decreto 1278 en relación con la evaluación de los directivos docentes?",
+      "opciones": [
+        "Solo se realiza mediante autoevaluación",
+        "Incluye evaluaciones periódicas, retroalimentación de la comunidad educativa y resultados institucionales",
+        "No regula la evaluación de directivos",
+        "Solo se realiza mediante resultados institucionales"
+      ],
+      "respuesta": "Incluye evaluaciones periódicas, retroalimentación de la comunidad educativa y resultados institucionales",
+      "explicacion": "El Decreto 1278 regula la evaluación de los directivos docentes mediante evaluaciones periódicas, retroalimentación de la comunidad educativa y resultados institucionales."
+    },
+    {
+      "pregunta": "¿Qué criterios establece el Decreto 1278 para la remoción de directivos docentes?",
+      "opciones": [
+        "Basada solo en la antigüedad",
+        "No establece criterios claros",
+        "Basada en evaluaciones de desempeño y cumplimiento de objetivos",
+        "Solo basada en la recomendación de otros directivos"
+      ],
+      "respuesta": "Basada en evaluaciones de desempeño y cumplimiento de objetivos",
+      "explicacion": "El Decreto 1278 establece que la remoción de directivos docentes se basa en evaluaciones de desempeño y el cumplimiento de objetivos."
+    },
+    {
+      "pregunta": "¿Qué incentivos establece el Decreto 1278 para los docentes?",
+      "opciones": [
+        "No establece incentivos",
+        "Basados en evaluaciones de desempeño, innovación pedagógica y contribuciones al desarrollo institucional",
+        "Solo basados en la antigüedad",
+        "Solo basados en la obtención de títulos académicos"
+      ],
+      "respuesta": "Basados en evaluaciones de desempeño, innovación pedagógica y contribuciones al desarrollo institucional",
+      "explicacion": "El Decreto 1278 establece incentivos para los docentes basados en evaluaciones de desempeño, innovación pedagógica y contribuciones al desarrollo institucional."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la participación de los docentes en actividades extracurriculares?",
+      "opciones": [
+        "No regula la participación en actividades extracurriculares",
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a directivos"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 regula la participación de los docentes en actividades extracurriculares como voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué criterios define el Decreto 1278 para la evaluación institucional de los docentes?",
+      "opciones": [
+        "Basada solo en la antigüedad",
+        "Incluye autoevaluación, evaluación de pares y retroalimentación de estudiantes y padres",
+        "No establece criterios claros",
+        "Solo basada en resultados académicos de los estudiantes"
+      ],
+      "respuesta": "Incluye autoevaluación, evaluación de pares y retroalimentación de estudiantes y padres",
+      "explicacion": "El Decreto 1278 define que la evaluación institucional de los docentes incluye autoevaluación, evaluación de pares y retroalimentación de estudiantes y padres."
+    },
+    {
+      "pregunta": "¿Qué proceso de evaluación de las instituciones educativas establece el Decreto 1278?",
+      "opciones": [
+        "No se realiza evaluación institucional",
+        "Solo se realiza mediante encuestas a los estudiantes",
+        "Incluye evaluación externa, autoevaluación y retroalimentación de la comunidad educativa",
+        "Solo se realiza mediante resultados académicos"
+      ],
+      "respuesta": "Incluye evaluación externa, autoevaluación y retroalimentación de la comunidad educativa",
+      "explicacion": "El Decreto 1278 establece que la evaluación de las instituciones educativas incluye evaluación externa, autoevaluación y retroalimentación de la comunidad educativa."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la participación de los docentes en procesos de investigación educativa?",
+      "opciones": [
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a docentes con más de 10 años de experiencia",
+        "No regula la participación en investigación educativa"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 regula la participación de los docentes en procesos de investigación educativa como voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué régimen de licencias y permisos establece el Decreto 1278 para los docentes?",
+      "opciones": [
+        "No establece un régimen de licencias y permisos",
+        "Establece un régimen claro que incluye licencias por enfermedad, maternidad, estudios y permisos especiales",
+        "Solo establece licencias por enfermedad",
+        "Solo establece permisos especiales"
+      ],
+      "respuesta": "Establece un régimen claro que incluye licencias por enfermedad, maternidad, estudios y permisos especiales",
+      "explicacion": "El Decreto 1278 establece un régimen claro de licencias y permisos que incluye licencias por enfermedad, maternidad, estudios y permisos especiales."
+    },
+    {
+      "pregunta": "¿Qué condiciones establece el Decreto 1278 para la jubilación de los docentes?",
+      "opciones": [
+        "No establece condiciones claras",
+        "Solo incluye la edad como requisito",
+        "Solo incluye los años de servicio como requisito",
+        "Incluye requisitos de edad y años de servicio"
+      ],
+      "respuesta": "Incluye requisitos de edad y años de servicio",
+      "explicacion": "El Decreto 1278 establece que para la jubilación de los docentes se incluyen requisitos tanto de edad como de años de servicio."
+    },
+    {
+      "pregunta": "¿Qué establece el Decreto 1278 sobre la participación de los docentes en la gestión escolar?",
+      "opciones": [
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a directivos",
+        "No regula la participación en la gestión escolar"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 establece que la participación de los docentes en la gestión escolar es voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué establece el Decreto 1278 sobre el régimen de reconocimiento de méritos para los docentes?",
+      "opciones": [
+        "Basado en antigüedad",
+        "Basado en desempeño, innovación pedagógica y contribuciones al desarrollo institucional",
+        "No establece un régimen de reconocimiento de méritos",
+        "Basado en la obtención de títulos académicos"
+      ],
+      "respuesta": "Basado en desempeño, innovación pedagógica y contribuciones al desarrollo institucional",
+      "explicacion": "El Decreto 1278 establece un régimen de reconocimiento de méritos basado en el desempeño, la innovación pedagógica y las contribuciones al desarrollo institucional."
+    },
+    {
+      "pregunta": "¿Qué régimen de incompatibilidades establece el Decreto 1278 para los docentes?",
+      "opciones": [
+        "No establece un régimen de incompatibilidades",
+        "Incluye restricciones sobre la dedicación exclusiva y conflictos de interés",
+        "Solo incluye restricciones sobre la dedicación exclusiva",
+        "Solo incluye restricciones sobre conflictos de interés"
+      ],
+      "respuesta": "Incluye restricciones sobre la dedicación exclusiva y conflictos de interés",
+      "explicacion": "El Decreto 1278 establece un régimen de incompatibilidades que incluye restricciones sobre la dedicación exclusiva y los conflictos de interés."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la participación de los docentes en actividades culturales?",
+      "opciones": [
+        "No regula la participación en actividades culturales",
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a directivos"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 regula la participación de los docentes en actividades culturales como voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué criterios establece el Decreto 1278 para la evaluación del desempeño institucional?",
+      "opciones": [
+        "Basado solo en la antigüedad",
+        "Incluye autoevaluación, evaluación de pares y retroalimentación de la comunidad educativa",
+        "No establece criterios claros",
+        "Solo basado en resultados académicos de los estudiantes"
+      ],
+      "respuesta": "Incluye autoevaluación, evaluación de pares y retroalimentación de la comunidad educativa",
+      "explicacion": "El Decreto 1278 establece que la evaluación del desempeño institucional incluye autoevaluación, evaluación de pares y retroalimentación de la comunidad educativa."
+    },
+    {
+      "pregunta": "¿Qué proceso establece el Decreto 1278 para la evaluación de la gestión directiva?",
+      "opciones": [
+        "No se realiza evaluación de la gestión directiva",
+        "Solo se realiza mediante encuestas a los estudiantes",
+        "Incluye evaluación externa, autoevaluación y retroalimentación de la comunidad educativa",
+        "Solo se realiza mediante resultados institucionales"
+      ],
+      "respuesta": "Incluye evaluación externa, autoevaluación y retroalimentación de la comunidad educativa",
+      "explicacion": "El Decreto 1278 establece que la evaluación de la gestión directiva incluye evaluación externa, autoevaluación y retroalimentación de la comunidad educativa."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la participación de los docentes en consejos escolares?",
+      "opciones": [
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a directivos",
+        "No regula la participación en consejos escolares"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 regula la participación de los docentes en consejos escolares como voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué criterios establece el Decreto 1278 para la evaluación del clima escolar?",
+      "opciones": [
+        "Basado solo en la antigüedad",
+        "Incluye encuestas, observaciones y retroalimentación de la comunidad educativa",
+        "No establece criterios claros",
+        "Solo basado en la percepción de los estudiantes"
+      ],
+      "respuesta": "Incluye encuestas, observaciones y retroalimentación de la comunidad educativa",
+      "explicacion": "El Decreto 1278 establece que la evaluación del clima escolar incluye encuestas, observaciones y retroalimentación de la comunidad educativa."
+    },
+    {
+      "pregunta": "¿Qué régimen de ascensos establece el Decreto 1278 para los docentes?",
+      "opciones": [
+        "Basado solo en la antigüedad",
+        "Basado en méritos, evaluaciones de desempeño y formación continua",
+        "No establece un régimen de ascensos",
+        "Basado solo en la recomendación de directivos"
+      ],
+      "respuesta": "Basado en méritos, evaluaciones de desempeño y formación continua",
+      "explicacion": "El Decreto 1278 establece un régimen de ascensos para los docentes basado en méritos, evaluaciones de desempeño y formación continua."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la participación de los docentes en la elaboración del PEI?",
+      "opciones": [
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a directivos",
+        "No regula la participación en la elaboración del PEI"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 regula la participación de los docentes en la elaboración del PEI (Proyecto Educativo Institucional) como voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué criterios establece el Decreto 1278 para la evaluación de la convivencia escolar?",
+      "opciones": [
+        "Basado solo en la antigüedad",
+        "Incluye observaciones, encuestas y retroalimentación de la comunidad educativa",
+        "No establece criterios claros",
+        "Solo basado en la percepción de los docentes"
+      ],
+      "respuesta": "Incluye observaciones, encuestas y retroalimentación de la comunidad educativa",
+      "explicacion": "El Decreto 1278 establece que la evaluación de la convivencia escolar incluye observaciones, encuestas y retroalimentación de la comunidad educativa."
+    },
+    {
+      "pregunta": "¿Qué régimen de licencias por enfermedad establece el Decreto 1278 para los docentes?",
+      "opciones": [
+        "No establece un régimen de licencias por enfermedad",
+        "Solo permite licencias cortas de menos de una semana",
+        "Incluye licencias por enfermedad con requisitos y procedimientos claros",
+        "Solo permite licencias largas de más de un mes"
+      ],
+      "respuesta": "Incluye licencias por enfermedad con requisitos y procedimientos claros",
+      "explicacion": "El Decreto 1278 establece un régimen de licencias por enfermedad para los docentes con requisitos y procedimientos claros."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la participación de los docentes en programas de tutoría?",
+      "opciones": [
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a directivos",
+        "No regula la participación en programas de tutoría"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 regula la participación de los docentes en programas de tutoría como voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué criterios establece el Decreto 1278 para la evaluación del desempeño académico?",
+      "opciones": [
+        "Basado solo en la antigüedad",
+        "Incluye evaluaciones de los logros de aprendizaje, metodologías de enseñanza y resultados de los estudiantes",
+        "No establece criterios claros",
+        "Solo basado en la percepción de los estudiantes"
+      ],
+      "respuesta": "Incluye evaluaciones de los logros de aprendizaje, metodologías de enseñanza y resultados de los estudiantes",
+      "explicacion": "El Decreto 1278 establece que la evaluación del desempeño académico incluye evaluaciones de los logros de aprendizaje, metodologías de enseñanza y resultados de los estudiantes."
+    },
+    {
+      "pregunta": "¿Qué régimen de licencias por maternidad establece el Decreto 1278 para las docentes?",
+      "opciones": [
+        "No establece un régimen de licencias por maternidad",
+        "Solo permite licencias cortas de menos de un mes",
+        "Incluye licencias por maternidad con requisitos y procedimientos claros",
+        "Solo permite licencias largas de más de tres meses"
+      ],
+      "respuesta": "Incluye licencias por maternidad con requisitos y procedimientos claros",
+      "explicacion": "El Decreto 1278 establece un régimen de licencias por maternidad para las docentes con requisitos y procedimientos claros."
+    },
+    {
+      "pregunta": "¿Cómo regula el Decreto 1278 la participación de los docentes en actividades deportivas?",
+      "opciones": [
+        "No regula la participación en actividades deportivas",
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a directivos"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 regula la participación de los docentes en actividades deportivas como voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué criterios establece el Decreto 1278 para la evaluación del rendimiento estudiantil?",
+      "opciones": [
+        "Basado solo en la antigüedad de los docentes",
+        "Incluye evaluaciones de los logros de aprendizaje y resultados académicos",
+        "No establece criterios claros",
+        "Solo basado en la percepción de los docentes"
+      ],
+      "respuesta": "Incluye evaluaciones de los logros de aprendizaje y resultados académicos",
+      "explicacion": "El Decreto 1278 establece que la evaluación del rendimiento estudiantil incluye evaluaciones de los logros de aprendizaje y resultados académicos."
+    },
+    {
+      "pregunta": "¿Qué establece el Decreto 1278 sobre la participación de los docentes en la formación continua?",
+      "opciones": [
+        "Es obligatoria para todos los docentes",
+        "Es voluntaria y se incentiva con bonificaciones",
+        "Solo permite la participación a directivos",
+        "No regula la participación en la formación continua"
+      ],
+      "respuesta": "Es voluntaria y se incentiva con bonificaciones",
+      "explicacion": "El Decreto 1278 establece que la participación de los docentes en la formación continua es voluntaria y se incentiva con bonificaciones."
+    },
+    {
+      "pregunta": "¿Qué régimen de licencias por estudios establece el Decreto 1278 para los docentes?",
+      "opciones": [
+        "No establece un régimen de licencias por estudios",
+        "Solo permite licencias cortas de menos de un mes",
+        "Incluye licencias por estudios con requisitos y procedimientos claros",
+        "Solo permite licencias largas de más de un año"
+      ],
+      "respuesta": "Incluye licencias por estudios con requisitos y procedimientos claros",
+      "explicacion": "El Decreto 1278 establece un régimen de licencias por estudios para los docentes con requisitos y procedimientos claros."
+    }
+  ]
+}

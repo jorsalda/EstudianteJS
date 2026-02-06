@@ -1,0 +1,54 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es uno de los cambios significativos en la relación entre las metas de la educación matemática y los objetivos educativos?",
+            "opciones": ["Mayor énfasis en la abstracción matemática.", "Menor atención a la diversidad y la interculturalidad.", "Enfoque exclusivo en el conocimiento técnico.", "Destaque en la formación ciudadana y la atención a la diversidad."],
+            "respuesta": "Destaque en la formación ciudadana y la atención a la diversidad."
+        },
+        {
+            "pregunta": "¿Cuál es la contribución histórica de las matemáticas según el texto?",
+            "opciones": ["Desarrollo exclusivo del pensamiento lógico.", "Influencia únicamente en el ámbito científico.", "Participación en disciplinas como arquitectura y economía.", "Ausencia de vínculos con otras áreas del conocimiento."],
+            "respuesta": "Participación en disciplinas como arquitectura y economía."
+        },
+        {
+            "pregunta": "¿Cuál era la percepción tradicional de las matemáticas hasta la década de los setenta?",
+            "opciones": ["Dinámicas y cambiantes.", "Estáticas y dogmáticas.", "Flexibles y adaptables.", "Irrelevantes para el desarrollo del pensamiento lógico."],
+            "respuesta": "Estáticas y dogmáticas."
+        },
+        {
+            "pregunta": "¿Qué implica la evolución en la relación entre las metas de la educación matemática y los objetivos educativos?",
+            "opciones": ["Mayor énfasis en la uniformidad del conocimiento.", "Atención exclusiva al conocimiento técnico.", "Destaque en la formación ciudadana y la diversidad.", "Reducción de la importancia del pensamiento crítico."],
+            "respuesta": "Destaque en la formación ciudadana y la diversidad."
+        },
+        {
+            "pregunta": "¿Cuál es una característica de la visión actual de las matemáticas según el texto?",
+            "opciones": ["Estáticas y dogmáticas.", "Infalibles y absolutas.", "Dinámicas y evolutivas.", "Limitadas al desarrollo del pensamiento lógico."],
+            "respuesta": "Dinámicas y evolutivas."
+        },
+        {
+            "pregunta": "¿Qué busca desarrollar la formación matemática en la actualidad, según el texto?",
+            "opciones": ["Competencias limitadas al conocimiento técnico.", "Pensamiento crítico y resolución de problemas.", "Abstracción matemática exclusivamente.", "Desarrollo de habilidades artísticas."],
+            "respuesta": "Pensamiento crítico y resolución de problemas."
+        },
+        {
+            "pregunta": "¿Por qué se reconoce la importancia de la educación matemática en el siglo XXI?",
+            "opciones": ["Para limitar la participación ciudadana en la sociedad actual.", "Como un medio para formar ciudadanos con competencias democráticas.", "Para mantener las matemáticas como un conjunto estable de verdades absolutas.", "Para reducir el énfasis en el pensamiento crítico."],
+            "respuesta": "Como un medio para formar ciudadanos con competencias democráticas."
+        },
+        {
+            "pregunta": "¿Qué ha cambiado en la concepción de las matemáticas en contraste con la visión tradicional?",
+            "opciones": ["Mayor énfasis en la abstracción matemática.", "Reconocimiento de su naturaleza dinámica y evolutiva.", "Percepción exclusiva como conjunto de verdades absolutas.", "Reducción de su importancia en la sociedad."],
+            "respuesta": "Mayor énfasis en la abstracción matemática."
+        },
+        {
+            "pregunta": "¿Cuál es uno de los cambios en la educación matemática en las últimas tres décadas en Colombia?",
+            "opciones": ["Mayor énfasis en la uniformidad del conocimiento.", "Reducción de la atención a la diversidad e interculturalidad.", "Destaque en la formación exclusiva de ciudadanos con competencias técnicas.", "Adaptación a nuevas demandas globales y nacionales."],
+            "respuesta": "Adaptación a nuevas demandas globales y nacionales."
+        },
+        {
+            "pregunta": "¿Qué se destaca como un medio clave para formar ciudadanos con competencias necesarias en el siglo XXI?",
+            "opciones": ["La exclusiva atención al conocimiento técnico.", "El desarrollo del pensamiento lógico.", "La educación matemática.", "La formación exclusiva en disciplinas científicas."],
+            "respuesta": "El desarrollo del pensamiento lógico."
+        }
+    ]
+}

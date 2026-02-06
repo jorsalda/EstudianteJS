@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En un colegio rural colombiano donde los estudiantes deben caminar largas distancias para asistir a clases, ¿qué estrategia propondría para mejorar la asistencia escolar?",
+      "opciones": [
+        "Implementar un sistema de transporte escolar gratuito.",
+        "Reducir la carga académica para los estudiantes que viven lejos.",
+        "Permitir que los estudiantes tomen clases en línea desde sus casas.",
+        "No hacer cambios y mantener el horario actual."
+      ],
+      "respuesta": "Implementar un sistema de transporte escolar gratuito.",
+      "explicacion": "Proporcionar transporte escolar gratuito ayuda a garantizar que los estudiantes puedan asistir a clases regularmente sin el agotamiento de largas caminatas."
+    },
+    {
+      "pregunta": "En una escuela urbana colombiana afectada por altos niveles de contaminación, ¿cómo puede mejorar el ambiente de aprendizaje?",
+      "opciones": [
+        "Instalar purificadores de aire en las aulas y promover la educación ambiental.",
+        "Mantener las ventanas cerradas y usar aire acondicionado constantemente.",
+        "Organizar actividades al aire libre en áreas menos contaminadas sin cambios en la escuela.",
+        "No hacer cambios y continuar con las clases como de costumbre."
+      ],
+      "respuesta": "Instalar purificadores de aire en las aulas y promover la educación ambiental.",
+      "explicacion": "Esta opción mejora la calidad del aire en las aulas y educa a los estudiantes sobre la importancia de cuidar el medio ambiente."
+    },
+    {
+      "pregunta": "En una escuela con alta tasa de embarazo adolescente, ¿qué enfoque considera más adecuado para abordar esta situación?",
+      "opciones": [
+        "Implementar un programa integral de educación sexual.",
+        "Expulsar a las estudiantes embarazadas.",
+        "Enseñar únicamente abstinencia.",
+        "No abordar el tema y centrarse en otras áreas."
+      ],
+      "respuesta": "Implementar un programa integral de educación sexual.",
+      "explicacion": "Un programa integral de educación sexual proporciona información vital sobre salud reproductiva y anticonceptivos, ayudando a reducir la tasa de embarazo adolescente."
+    },
+    {
+      "pregunta": "En una escuela con recursos limitados, ¿cómo mejoraría la enseñanza de ciencias?",
+      "opciones": [
+        "Establecer alianzas con universidades y empresas para crear laboratorios bien equipados.",
+        "Centrarse únicamente en la teoría científica.",
+        "Reducir el tiempo dedicado a ciencias y enfocarse en otras materias.",
+        "Permitir que los estudiantes aprendan ciencias de manera autodidacta."
+      ],
+      "respuesta": "Establecer alianzas con universidades y empresas para crear laboratorios bien equipados.",
+      "explicacion": "Colaborar con universidades y empresas permite dotar a los laboratorios de los recursos necesarios para una enseñanza práctica efectiva."
+    },
+    {
+      "pregunta": "En una comunidad escolar con altos niveles de violencia, ¿qué estrategia usaría para asegurar un ambiente seguro?",
+      "opciones": [
+        "Implementar programas de mediación y resolución de conflictos, y ofrecer apoyo psicológico.",
+        "Aumentar la seguridad armada en la escuela.",
+        "Ignorar el problema y centrarse en el rendimiento académico.",
+        "Permitir que los estudiantes resuelvan los conflictos por sí mismos."
+      ],
+      "respuesta": "Implementar programas de mediación y resolución de conflictos, y ofrecer apoyo psicológico.",
+      "explicacion": "Esta estrategia aborda las causas subyacentes de la violencia y proporciona a los estudiantes habilidades para manejar conflictos de manera constructiva."
+    },
+    {
+      "pregunta": "En una escuela con alta deserción escolar, ¿qué medida tomaría para motivar a los estudiantes a completar su educación?",
+      "opciones": [
+        "Ofrecer programas de mentoría y orientación vocacional.",
+        "Imponer castigos severos a los que consideren dejar la escuela.",
+        "Reducir la exigencia académica.",
+        "Permitir que los estudiantes decidan libremente si quieren continuar."
+      ],
+      "respuesta": "Ofrecer programas de mentoría y orientación vocacional.",
+      "explicacion": "Los programas de mentoría y orientación vocacional ayudan a los estudiantes a ver el valor de su educación y proporcionan apoyo personalizado."
+    },
+    {
+      "pregunta": "Para fomentar la innovación y el emprendimiento en los estudiantes, ¿qué estrategia considera más efectiva?",
+      "opciones": [
+        "Incluir proyectos de emprendimiento y competencias de innovación en el currículo.",
+        "Centrarse solo en materias tradicionales.",
+        "Enseñar teoría del emprendimiento sin proyectos prácticos.",
+        "Dejar que los estudiantes interesados busquen recursos por su cuenta."
+      ],
+      "respuesta": "Incluir proyectos de emprendimiento y competencias de innovación en el currículo.",
+      "explicacion": "Proporcionar experiencias prácticas y desafíos reales fomenta la innovación y el emprendimiento en los estudiantes."
+    },
+    {
+      "pregunta": "Para promover el pensamiento crítico y la creatividad, ¿qué método implementaría?",
+      "opciones": [
+        "Incorporar actividades de resolución de problemas, debates y proyectos creativos en el currículo.",
+        "Seguir estrictamente los libros de texto.",
+        "Fomentar la memorización sin análisis crítico.",
+        "Permitir que los estudiantes trabajen de manera independiente sin orientación."
+      ],
+      "respuesta": "Incorporar actividades de resolución de problemas, debates y proyectos creativos en el currículo.",
+      "explicacion": "Estas actividades involucran a los estudiantes en el análisis, la discusión y la creación, promoviendo el pensamiento crítico y la creatividad."
+    },
+    {
+      "pregunta": "En una escuela con bajo rendimiento en matemáticas, ¿qué estrategia aplicaría para mejorar los resultados?",
+      "opciones": [
+        "Implementar programas de tutoría individualizada y métodos de enseñanza innovadores.",
+        "Aumentar la cantidad de tareas y exámenes.",
+        "Reducir el tiempo dedicado a matemáticas.",
+        "Permitir que los estudiantes aprendan a su propio ritmo sin apoyo adicional."
+      ],
+      "respuesta": "Implementar programas de tutoría individualizada y métodos de enseñanza innovadores.",
+      "explicacion": "La tutoría individualizada y los métodos innovadores abordan las necesidades específicas de los estudiantes, haciéndoles las matemáticas más accesibles y comprensibles."
+    },
+    {
+      "pregunta": "Para integrar la tecnología en el aula de manera efectiva, ¿qué enfoque considera más adecuado?",
+      "opciones": [
+        "Proporcionar formación continua a los docentes en tecnologías educativas.",
+        "Comprar dispositivos tecnológicos sin formación para docentes.",
+        "Usar tecnología solo en clases de informática.",
+        "Permitir el uso libre de dispositivos tecnológicos sin supervisión."
+      ],
+      "respuesta": "Proporcionar formación continua a los docentes en tecnologías educativas.",
+      "explicacion": "La formación continua asegura que los docentes estén capacitados para utilizar la tecnología de manera efectiva en sus métodos de enseñanza."
+    }
+  ]
+}

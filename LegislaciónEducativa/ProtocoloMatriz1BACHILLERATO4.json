@@ -1,0 +1,180 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En una escuela primaria situada en un barrio multicultural, ¿qué enfoque debería adoptar un docente para reflejar la diversidad cultural en el aula?",
+      "opciones": [
+        "Incorporar actividades que celebren las diferentes culturas representadas en el aula, como festivales culturales y proyectos de investigación sobre las tradiciones de los estudiantes.",
+        "Mencionar ocasionalmente algunas festividades culturales en clase, sin hacer grandes cambios en el plan de estudios.",
+        "Conocer las diversas culturas de los estudiantes, pero no integrarlas activamente en las actividades diarias.",
+        "Seguir enseñando el currículo estándar sin considerar las culturas representadas en el aula."
+      ],
+      "respuesta": "Incorporar actividades que celebren las diferentes culturas representadas en el aula, como festivales culturales y proyectos de investigación sobre las tradiciones de los estudiantes.",
+      "explicacion": "La opción A demuestra un enfoque avanzado al reconocer la diversidad cultural en el aula y promover actividades que celebren y valoren las diferencias culturales de los estudiantes."
+    },
+    {
+      "pregunta": "En una clase donde algunos estudiantes tienen dificultades con el idioma de instrucción, ¿cuál sería la mejor estrategia para un docente?",
+      "opciones": [
+        "Integrar técnicas de enseñanza diferenciada, como el uso de recursos visuales, apoyo bilingüe y actividades interactivas que faciliten la comprensión para todos los estudiantes.",
+        "Proporcionar ayuda adicional después de clase a los estudiantes que tienen dificultades con el idioma.",
+        "Simplificar el contenido de las lecciones, pero mantener la misma metodología de enseñanza.",
+        "Seguir con el método de enseñanza estándar sin adaptar las lecciones a las necesidades lingüísticas de los estudiantes."
+      ],
+      "respuesta": "Integrar técnicas de enseñanza diferenciada, como el uso de recursos visuales, apoyo bilingüe y actividades interactivas que faciliten la comprensión para todos los estudiantes.",
+      "explicacion": "La opción A demuestra un enfoque avanzado al reconocer las dificultades lingüísticas de los estudiantes y proponer estrategias inclusivas para apoyar su aprendizaje."
+    },
+    {
+      "pregunta": "Un docente busca mejorar la relación con las familias de sus estudiantes. ¿Cuál de las siguientes acciones sería la más efectiva?",
+      "opciones": [
+        "Organizar reuniones mensuales con los padres para discutir estrategias de apoyo educativo en el hogar y obtener sus comentarios sobre el desarrollo del plan de estudios.",
+        "Invitar a los padres a asistir a una reunión general al comienzo del año y enviar actualizaciones periódicas sobre el progreso de sus hijos.",
+        "Enviar correos electrónicos con información importante y estar disponible para reuniones individuales cuando los padres lo soliciten.",
+        "Mantener una comunicación limitada a informes de calificaciones y convocar reuniones solo en caso de problemas disciplinarios."
+      ],
+      "respuesta": "Organizar reuniones mensuales con los padres para discutir estrategias de apoyo educativo en el hogar y obtener sus comentarios sobre el desarrollo del plan de estudios.",
+      "explicacion": "La opción A promueve una colaboración continua y profunda con las familias al involucrarlas activamente en el proceso educativo y en la toma de decisiones."
+    },
+    {
+      "pregunta": "Para adaptar mejor sus prácticas a las necesidades individuales de los estudiantes, un docente debería:",
+      "opciones": [
+        "Implementar una evaluación continua de las necesidades de cada estudiante y adaptar sus métodos de enseñanza y actividades para apoyar el aprendizaje personalizado.",
+        "Ajustar algunas actividades para adaptarse a las necesidades comunes de los estudiantes, pero mantener un enfoque general en el plan de estudios.",
+        "Reconocer las diferencias individuales de los estudiantes, pero no realizar cambios significativos en las actividades o métodos de enseñanza.",
+        "Mantener el mismo enfoque de enseñanza para todos los estudiantes, independientemente de sus necesidades individuales."
+      ],
+      "respuesta": "Implementar una evaluación continua de las necesidades de cada estudiante y adaptar sus métodos de enseñanza y actividades para apoyar el aprendizaje personalizado.",
+      "explicacion": "La opción A implica una adaptación activa y continua de la enseñanza para satisfacer las necesidades individuales de los estudiantes, promoviendo un aprendizaje personalizado."
+    },
+    {
+      "pregunta": "Un docente desea fortalecer la colaboración entre la escuela y la comunidad local. ¿Qué estrategia sería más efectiva para lograr este objetivo?",
+      "opciones": [
+        "Establecer asociaciones con organizaciones locales y fomentar la participación de miembros de la comunidad en proyectos educativos y actividades escolares.",
+        "Organizar una reunión anual para informar a la comunidad sobre las actividades escolares y los logros de los estudiantes.",
+        "Enviar boletines informativos a la comunidad sobre los eventos escolares y los logros de los estudiantes.",
+        "Mantener la comunicación con la comunidad limitada a informes anuales sobre el progreso de la escuela."
+      ],
+      "respuesta": "Establecer asociaciones con organizaciones locales y fomentar la participación de miembros de la comunidad en proyectos educativos y actividades escolares.",
+      "explicacion": "La opción A promueve colaboraciones activas con la comunidad local, lo que permite una participación significativa en proyectos educativos y fortalece los lazos entre la escuela y la comunidad."
+    },
+    {
+      "pregunta": "En un intento de mejorar la colaboración entre el hogar y la escuela, ¿qué enfoque debería adoptar un docente para involucrar más a las familias en el proceso educativo?",
+      "opciones": [
+        "Invitar a las familias a participar en actividades de clase y proyectos, y organizar sesiones regulares para discutir cómo pueden apoyar el aprendizaje de sus hijos en casa.",
+        "Proporcionar información a las familias sobre el progreso de sus hijos y los eventos escolares durante las reuniones de padres y maestros.",
+        "Enviar boletines informativos a casa con actualizaciones sobre el rendimiento de los estudiantes y eventos escolares.",
+        "Comunicarse con las familias solo cuando hay problemas o preocupaciones específicas sobre sus hijos."
+      ],
+      "respuesta": "Invitar a las familias a participar en actividades de clase y proyectos, y organizar sesiones regulares para discutir cómo pueden apoyar el aprendizaje de sus hijos en casa.",
+      "explicacion": "La opción A promueve una participación activa de las familias al involucrarlas en actividades de clase y proyectos, y al facilitar la comunicación regular entre la escuela y el hogar."
+    },
+    {
+      "pregunta": "En un esfuerzo por promover la participación de las familias en la educación, ¿qué acción sería más efectiva para un docente?",
+      "opciones": [
+        "Organizar eventos regulares que involucren a las familias en la vida escolar, como ferias de ciencias, noches de lectura o días de campo.",
+        "Enviar informes de progreso a casa y estar disponible para reuniones con los padres según sea necesario.",
+        "Solicitar a los padres que se comuniquen por correo electrónico si tienen alguna pregunta o inquietud.",
+        "Limitar la comunicación con las familias a informes de calificaciones y reuniones de padres y maestros programadas."
+      ],
+      "respuesta": "Organizar eventos regulares que involucren a las familias en la vida escolar, como ferias de ciencias, noches de lectura o días de campo.",
+      "explicacion": "La opción A fomenta una participación activa de las familias al organizar eventos que involucren a los padres en la vida escolar de sus hijos, lo que fortalece la relación entre la escuela y el hogar."
+    },
+    {
+      "pregunta": "En una escuela que está implementando un nuevo programa para fomentar la integración de la comunidad local en la enseñanza, ¿qué enfoque debería adoptar un docente para maximizar el impacto del programa?",
+      "opciones": [
+        "Invitar a líderes comunitarios a compartir sus conocimientos en clase, utilizar recursos locales en las actividades y organizar visitas a sitios de interés en la comunidad.",
+        "Referirse ocasionalmente a elementos de la comunidad en las lecciones y organizar una o dos visitas al año.",
+        "Conocer los recursos de la comunidad pero no incorporarlos activamente en la enseñanza diaria.",
+        "Continuar con el currículo estándar sin hacer referencia a la comunidad local ni utilizar sus recursos."
+      ],
+      "respuesta": "Invitar a líderes comunitarios a compartir sus conocimientos en clase, utilizar recursos locales en las actividades y organizar visitas a sitios de interés en la comunidad.",
+      "explicacion": "La opción A demuestra un enfoque avanzado al integrar activamente a la comunidad local en la enseñanza diaria, lo que enriquece la experiencia educativa de los estudiantes y fortalece los vínculos con la comunidad."
+    },
+    {
+      "pregunta": "En una clase donde algunos estudiantes tienen dificultades con el idioma de instrucción, ¿cuál sería la mejor estrategia para un docente?",
+      "opciones": [
+        "Integrar técnicas de enseñanza diferenciada, como el uso de recursos visuales, apoyo bilingüe y actividades interactivas que faciliten la comprensión para todos los estudiantes.",
+        "Proporcionar ayuda adicional después de clase a los estudiantes que tienen dificultades con el idioma.",
+        "Simplificar el contenido de las lecciones, pero mantener la misma metodología de enseñanza.",
+        "Seguir con el método de enseñanza estándar sin adaptar las lecciones a las necesidades lingüísticas de los estudiantes."
+      ],
+      "respuesta": "Integrar técnicas de enseñanza diferenciada, como el uso de recursos visuales, apoyo bilingüe y actividades interactivas que faciliten la comprensión para todos los estudiantes.",
+      "explicacion": "La opción A demuestra un enfoque avanzado al reconocer las dificultades lingüísticas de los estudiantes y proponer estrategias inclusivas para apoyar su aprendizaje."
+    },
+    {
+      "pregunta": "Un docente desea fortalecer la colaboración entre la escuela y la comunidad local. ¿Qué estrategia sería más efectiva para lograr este objetivo?",
+      "opciones": [
+        "Establecer asociaciones con organizaciones locales y fomentar la participación de miembros de la comunidad en proyectos educativos y actividades escolares.",
+        "Organizar una reunión anual para informar a la comunidad sobre las actividades escolares y los logros de los estudiantes.",
+        "Enviar boletines informativos a la comunidad sobre los eventos escolares y los logros de los estudiantes.",
+        "Mantener la comunicación con la comunidad limitada a informes anuales sobre el progreso de la escuela."
+      ],
+      "respuesta": "Establecer asociaciones con organizaciones locales y fomentar la participación de miembros de la comunidad en proyectos educativos y actividades escolares.",
+      "explicacion": "La opción A promueve colaboraciones activas con la comunidad local, lo que permite una participación significativa en proyectos educativos y fortalece los lazos entre la escuela y la comunidad."
+    },
+    {
+      "pregunta": "En una escuela ubicada en una comunidad con una rica herencia cultural y diversidad económica, ¿cuál sería la mejor estrategia para un docente que busca integrar el contexto local en su enseñanza?",
+      "opciones": [
+        "Desarrollar un currículo que incorpore estudios de caso locales, invitar a miembros de la comunidad a compartir sus experiencias y utilizar recursos locales en las actividades diarias de clase.",
+        "Usar ocasionalmente ejemplos locales y referencias culturales en las lecciones, sin hacer un esfuerzo constante para integrarlos en el currículo.",
+        "Conocer las principales características culturales y socioeconómicas de la comunidad, pero no integrarlas activamente en las actividades de clase.",
+        "Seguir un currículo estándar sin tener en cuenta las particularidades culturales y socioeconómicas de los estudiantes."
+      ],
+      "respuesta": "Desarrollar un currículo que incorpore estudios de caso locales, invitar a miembros de la comunidad a compartir sus experiencias y utilizar recursos locales en las actividades diarias de clase.",
+      "explicacion": "La opción A demuestra un enfoque avanzado al integrar activamente recursos locales y experiencias de la comunidad en la enseñanza diaria."
+    },
+    {
+      "pregunta": "En una escuela donde los estudiantes provienen de diferentes trasfondos socioeconómicos, ¿cómo debería un docente adaptar sus recursos educativos para ser más inclusivo y relevante?",
+      "opciones": [
+        "Identificar y utilizar una variedad de recursos que reflejen la diversidad cultural y económica de los estudiantes, asegurándose de que todos los materiales sean accesibles y significativos para cada grupo.",
+        "Adaptar los recursos educativos de manera ocasional para incluir algunas referencias culturales y económicas de la comunidad estudiantil.",
+        "Usar principalmente recursos educativos estándar y comunes, haciendo pequeñas adaptaciones si es absolutamente necesario.",
+        "Continuar utilizando los mismos recursos sin considerar la diversidad socioeconómica y cultural de los estudiantes."
+      ],
+      "respuesta": "Identificar y utilizar una variedad de recursos que reflejen la diversidad cultural y económica de los estudiantes, asegurándose de que todos los materiales sean accesibles y significativos para cada grupo.",
+      "explicacion": "La opción A demuestra una adaptación activa y reflexiva de los recursos educativos para reflejar y ser inclusivo con la diversidad de los estudiantes."
+    },
+    {
+      "pregunta": "En un salón de clases donde los estudiantes tienen diferentes estilos de aprendizaje y necesidades, ¿cuál es la mejor manera en que un docente puede adaptar su práctica educativa?",
+      "opciones": [
+        "Desarrollar un enfoque de enseñanza multifacético que considere los diferentes estilos de aprendizaje y necesidades, ajustando las actividades y evaluaciones para apoyar a cada estudiante de manera integral.",
+        "Incorporar algunos métodos de enseñanza que atiendan a los estilos de aprendizaje más comunes entre los estudiantes.",
+        "Reconocer que los estudiantes tienen diferentes necesidades, pero seguir utilizando mayormente un solo enfoque de enseñanza para todos.",
+        "Continuar con un método de enseñanza uniforme, independientemente de las diferencias en estilos de aprendizaje y necesidades de los estudiantes."
+      ],
+      "respuesta": "Desarrollar un enfoque de enseñanza multifacético que considere los diferentes estilos de aprendizaje y necesidades, ajustando las actividades y evaluaciones para apoyar a cada estudiante de manera integral.",
+      "explicacion": "La opción A representa un alto grado de flexibilidad y consideración integral de los diferentes estilos de aprendizaje y necesidades de los estudiantes en la práctica educativa."
+    },
+    {
+      "pregunta": "Un docente observa que algunos de sus estudiantes provienen de entornos con recursos limitados y enfrentan desafíos únicos en su aprendizaje. ¿Cuál sería la mejor respuesta para adaptar su práctica educativa a estas necesidades?",
+      "opciones": [
+        "Modificar el plan de estudios y las actividades para ser más accesibles y relevantes para los estudiantes con recursos limitados, proporcionando apoyo adicional y recursos suplementarios según sea necesario.",
+        "Ofrecer apoyo adicional a los estudiantes con recursos limitados cuando es posible, pero sin cambios significativos en el plan de estudios general.",
+        "Reconocer las limitaciones de recursos de algunos estudiantes, pero no hacer ajustes en el plan de estudios o en las actividades de clase.",
+        "Mantener el plan de estudios estándar sin considerar los desafíos específicos de los estudiantes con recursos limitados."
+      ],
+      "respuesta": "Modificar el plan de estudios y las actividades para ser más accesibles y relevantes para los estudiantes con recursos limitados, proporcionando apoyo adicional y recursos suplementarios según sea necesario.",
+      "explicacion": "La opción A demuestra una adaptación integral y sensible del plan de estudios y las actividades para ser inclusivas y relevantes para estudiantes con recursos limitados."
+    },
+    {
+      "pregunta": "En una escuela donde se busca mejorar la participación de las familias en la educación de sus hijos, ¿cuál de las siguientes acciones sería la más efectiva para un docente?",
+      "opciones": [
+        "Organizar talleres regulares para padres sobre cómo pueden apoyar el aprendizaje de sus hijos en casa y mantener una comunicación constante y bidireccional con las familias.",
+        "Invitar a los padres a participar en eventos escolares ocasionales y proporcionarles información sobre el progreso de sus hijos en reuniones trimestrales.",
+        "Enviar informes de progreso a casa y estar disponible para reuniones con los padres si ellos lo solicitan.",
+        "Limitar la comunicación con las familias a informes de progreso periódicos y reuniones de padres y maestros establecidas por la escuela."
+      ],
+      "respuesta": "Organizar talleres regulares para padres sobre cómo pueden apoyar el aprendizaje de sus hijos en casa y mantener una comunicación constante y bidireccional con las familias.",
+      "explicacion": "La opción A refleja un enfoque proactivo y continuo para involucrar a las familias en el proceso educativo, proporcionando apoyo y comunicación regular."
+    },
+    {
+      "pregunta": "En un entorno escolar que busca fortalecer la relación entre el hogar y la escuela, ¿qué acción,debería tomar un docente para fomentar esta vinculación?",
+      "opciones": [
+        "Desarrollar una estrategia de colaboración continua que involucre a las familias en el diseño de proyectos escolares y en la toma de decisiones sobre actividades curriculares.",
+        "Invitar a los padres a asistir a las reuniones de padres y maestros y a participar en algunos eventos escolares.",
+        "Mantener una comunicación abierta con los padres a través de boletines y reuniones programadas, pero sin buscar una participación activa en la educación diaria.",
+        "Enviar a los padres una lista de expectativas al comienzo del año escolar y comunicarse solo cuando surja un problema."
+      ],
+      "respuesta": "Desarrollar una estrategia de colaboración continua que involucre a las familias en el diseño de proyectos escolares y en la toma de decisiones sobre actividades curriculares.",
+      "explicacion": "La opción A indica una colaboración activa y continua con las familias, involucrándolas en el diseño y en la toma de decisiones relacionadas con la educación de sus hijos."
+    }
+  ]
+}

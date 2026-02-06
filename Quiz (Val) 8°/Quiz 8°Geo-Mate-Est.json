@@ -1,0 +1,195 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es álgebra?",
+      "opciones": [
+        "Una rama de las matemáticas que usa letras y símbolos para representar números y operaciones.",
+        "Un tipo de geometría que estudia las formas.",
+        "Una forma de contar objetos.",
+        "Una técnica de cálculo mental."
+      ],
+      "respuesta": "Una rama de las matemáticas que usa letras y símbolos para representar números y operaciones."
+    },
+    {
+      "pregunta": "¿Qué es una constante?",
+      "opciones": [
+        "Un valor que cambia constantemente.",
+        "Un símbolo que representa un número cambiante.",
+        "Un valor fijo que no cambia.",
+        "Un término algebraico."
+      ],
+      "respuesta": "Un valor fijo que no cambia."
+    },
+    {
+      "pregunta": "¿Qué es una variable?",
+      "opciones": [
+        "Un símbolo que representa un número fijo.",
+        "Un número que no cambia.",
+        "Un símbolo que representa un número cambiante.",
+        "Un término algebraico."
+      ],
+      "respuesta": "Un símbolo que representa un número cambiante."
+    },
+    {
+      "pregunta": "¿Qué es un término algebraico?",
+      "opciones": [
+        "Una expresión que incluye números y variables multiplicados entre sí.",
+        "Un número fijo que no cambia.",
+        "Un símbolo que representa un número cambiante.",
+        "Una técnica de cálculo mental."
+      ],
+      "respuesta": "Una expresión que incluye números y variables multiplicados entre sí."
+    },
+    {
+      "pregunta": "¿Cómo se comparan los términos algebraicos?",
+      "opciones": [
+        "Si tienen las mismas variables y exponentes.",
+        "Si tienen el mismo coeficiente.",
+        "Si tienen la misma constante.",
+        "Si son números naturales."
+      ],
+      "respuesta": "Si tienen las mismas variables y exponentes."
+    },
+    {
+      "pregunta": "¿Cómo se clasifican los polinomios?",
+      "opciones": [
+        "Según el número de términos: monomios, binomios, trinomios.",
+        "Según el número de variables: univariados, bivariados.",
+        "Según el número de constantes: constantes simples, dobles.",
+        "Según el número de exponentes: exponentes simples, dobles."
+      ],
+      "respuesta": "Según el número de términos: monomios, binomios, trinomios."
+    },
+    {
+      "pregunta": "¿Qué es un producto notable?",
+      "opciones": [
+        "Una técnica de cálculo mental.",
+        "Expresiones algebraicas con formas específicas y factorización reconocible.",
+        "Un número fijo que no cambia.",
+        "Un símbolo que representa un número cambiante."
+      ],
+      "respuesta": "Expresiones algebraicas con formas específicas y factorización reconocible."
+    },
+    {
+      "pregunta": "¿Qué es la suma o diferencia de cuadrados?",
+      "opciones": [
+        "Una técnica de cálculo mental.",
+        "Fórmulas algebraicas para sumar o restar cuadrados.",
+        "Un número fijo que no cambia.",
+        "Un símbolo que representa un número cambiante."
+      ],
+      "respuesta": "Fórmulas algebraicas para sumar o restar cuadrados."
+    },
+    {
+      "pregunta": "¿Qué es la suma o diferencia de cubos?",
+      "opciones": [
+        "Una técnica de cálculo mental.",
+        "Fórmulas algebraicas para sumar o restar cubos.",
+        "Un número fijo que no cambia.",
+        "Un símbolo que representa un número cambiante."
+      ],
+      "respuesta": "Fórmulas algebraicas para sumar o restar cubos."
+    },
+    {
+      "pregunta": "¿Qué es un cociente notable?",
+      "opciones": [
+        "Expresiones algebraicas que se pueden dividir fácilmente siguiendo ciertas reglas.",
+        "Una técnica de cálculo mental.",
+        "Un número fijo que no cambia.",
+        "Un símbolo que representa un número cambiante."
+      ],
+      "respuesta": "Expresiones algebraicas que se pueden dividir fácilmente siguiendo ciertas reglas."
+    },
+    {
+      "pregunta": "¿Qué es factorización?",
+      "opciones": [
+        "Descomponer una expresión algebraica en factores más simples.",
+        "Sumar expresiones algebraicas.",
+        "Multiplicar expresiones algebraicas.",
+        "Dividir expresiones algebraicas."
+      ],
+      "respuesta": "Descomponer una expresión algebraica en factores más simples."
+    },
+    {
+      "pregunta": "¿Qué es factor común?",
+      "opciones": [
+        "El factor que es común a todos los términos de una expresión.",
+        "Un término algebraico.",
+        "Un símbolo que representa un número cambiante.",
+        "Una técnica de cálculo mental."
+      ],
+      "respuesta": "El factor que es común a todos los términos de una expresión."
+    },
+    {
+      "pregunta": "¿Qué es una diferencia de cuadrados?",
+      "opciones": [
+        "Una fórmula para sumar cuadrados.",
+        "Una fórmula específica para restar cuadrados.",
+        "Un número fijo que no cambia.",
+        "Un símbolo que representa un número cambiante."
+      ],
+      "respuesta": "Una fórmula específica para restar cuadrados."
+    },
+    {
+      "pregunta": "¿Qué es un trinomio cuadrado perfecto?",
+      "opciones": [
+        "Un trinomio que es el cuadrado de un binomio.",
+        "Un término algebraico.",
+        "Un símbolo que representa un número cambiante.",
+        "Una técnica de cálculo mental."
+      ],
+      "respuesta": "Un trinomio que es el cuadrado de un binomio."
+    },
+    {
+      "pregunta": "¿Qué es un trinomio de la forma ax² + bx + c?",
+      "opciones": [
+        "Una fórmula para factorizar trinomios específicos.",
+        "Un término algebraico.",
+        "Un símbolo que representa un número cambiante.",
+        "Una técnica de cálculo mental."
+      ],
+      "respuesta": "Una fórmula para factorizar trinomios específicos."
+    },
+    {
+      "pregunta": "¿Qué es la regla del estudiante para factorizar?",
+      "opciones": [
+        "Un método específico de factorización.",
+        "Un término algebraico.",
+        "Un símbolo que representa un número cambiante.",
+        "Una técnica de cálculo mental."
+      ],
+      "respuesta": "Un método específico de factorización."
+    },
+    {
+      "pregunta": "¿Cómo se combinan fracciones en recetas de cocina?",
+      "opciones": [
+        "Sumar y calcular fracciones de ingredientes.",
+        "Multiplicar fracciones de ingredientes.",
+        "Dividir fracciones de ingredientes.",
+        "Restar fracciones de ingredientes."
+      ],
+      "respuesta": "Sumar y calcular fracciones de ingredientes."
+    },
+
+    {
+      "pregunta": "¿Qué es el teorema de los ángulos internos en triángulos?",
+      "opciones": [
+        "La suma de los ángulos internos de un triángulo es 180°.",
+        "La suma de los ángulos externos de un triángulo es 360°.",
+        "La suma de los ángulos internos de un triángulo es 90°.",
+        "La suma de los ángulos externos de un triángulo es 180°."
+      ],
+      "respuesta": "La suma de los ángulos internos de un triángulo es 180°."
+    },
+    {
+      "pregunta": "¿Qué es un grupo poblacional en estadística?",
+      "opciones": [
+        "Un conjunto completo de elementos que se estudian.",
+        "Una muestra de elementos que se estudian.",
+        "Una variable cuantitativa en un estudio.",
+        "Una variable cualitativa en un estudio."
+      ],
+      "respuesta": "Un conjunto completo de elementos que se estudian."
+    }
+  ]
+}

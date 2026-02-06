@@ -1,0 +1,154 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es uno de los propósitos de la notación científica?",
+      "opciones": [
+        "Realizar operaciones complejas.",
+        "Representar números medianos.",
+        "Simplificar cálculos.",
+        "Aumentar la precisión de los cálculos."
+      ],
+      "respuesta": "Simplificar cálculos."
+    },
+    {
+      "pregunta": "¿Qué se usa en la notación científica para representar grandes y pequeñas cantidades?",
+      "opciones": [
+        "Potencias de 2.",
+        "Potencias de 10.",
+        "Logaritmos naturales.",
+        "Factores primos."
+      ],
+      "respuesta": "Potencias de 10."
+    },
+    {
+      "pregunta": "¿Cómo se expresa la velocidad de la luz en notación científica?",
+      "opciones": [
+        "3 × 10^8 m/seg.",
+        "3 × 10^6 m/seg.",
+        "3 × 10^5 m/seg.",
+        "3 × 10^9 m/seg."
+      ],
+      "respuesta": "3 × 10^8 m/seg."
+    },
+    {
+      "pregunta": "¿Cómo se expresaría la capacidad de almacenamiento de 500 Terabytes en notación científica?",
+      "opciones": [
+        "5 × 10^{13} bytes.",
+        "5 × 10^{14} bytes.",
+        "5 × 10^{15} bytes.",
+        "5 × 10^{12} bytes."
+      ],
+      "respuesta": "5 × 10^{14} bytes."
+    },
+    {
+      "pregunta": "¿Cómo se escribe el número 0.000000386 en notación científica?",
+      "opciones": [
+        "3.86 × 10^{-5}",
+        "3.86 × 10^{-6}",
+        "3.86 × 10^{-7}",
+        "3.86 × 10^{-8}"
+      ],
+      "respuesta": "3.86 × 10^{-7}"
+    },
+    {
+      "pregunta": "¿Qué representa el exponente en una notación científica con base 10?",
+      "opciones": [
+        "El número de ceros.",
+        "El número de cifras significativas.",
+        "El número de posiciones que se recorre el punto decimal.",
+        "El número total del valor."
+      ],
+      "respuesta": "El número de posiciones que se recorre el punto decimal."
+    },
+    {
+      "pregunta": "¿Quién publicó por primera vez la relación entre progresión geométrica y aritmética en el contexto de logaritmos?",
+      "opciones": [
+        "Henry Briggs.",
+        "Isaac Newton.",
+        "John Napier.",
+        "Galileo Galilei."
+      ],
+      "respuesta": "John Napier."
+    },
+    {
+      "pregunta": "¿Cómo se define el logaritmo de un número x?",
+      "opciones": [
+        "Como el número natural.",
+        "Como el exponente n de 10, tal que x = 10^n.",
+        "Como el número primo.",
+        "Como la raíz cuadrada de x."
+      ],
+      "respuesta": "Como el exponente n de 10, tal que x = 10^n."
+    },
+    {
+      "pregunta": "¿Qué operación requiere que la base 10 tenga el mismo exponente?",
+      "opciones": [
+        "Suma y resta.",
+        "Multiplicación y división.",
+        "Potenciación.",
+        "Radicación."
+      ],
+      "respuesta": "Suma y resta."
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de 3.5 × 10^{-6} + 1.83 × 10^{-6}?",
+      "opciones": [
+        "5.33 × 10^{-6}",
+        "4.33 × 10^{-6}",
+        "2.33 × 10^{-6}",
+        "6.33 × 10^{-6}"
+      ],
+      "respuesta": "5.33 × 10^{-6}"
+    },
+    {
+      "pregunta": "¿Cómo se convierte un número pequeño a notación científica?",
+      "opciones": [
+        "El punto decimal se recorre a la izquierda.",
+        "El punto decimal se recorre a la derecha.",
+        "El número se multiplica por una potencia de 2.",
+        "El número se divide por una potencia de 2."
+      ],
+      "respuesta": "El punto decimal se recorre a la derecha."
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de la multiplicación (8.2 × 10^{-5}) (4.1 × 10^{-3})?",
+      "opciones": [
+        "3.362 × 10^{-7}",
+        "33.62 × 10^{-8}",
+        "3.362 × 10^{-8}",
+        "33.62 × 10^{-7}"
+      ],
+      "respuesta": "3.362 × 10^{-7}"
+    },
+    {
+      "pregunta": "¿Cómo se expresa la cantidad 2,345,000 en notación científica?",
+      "opciones": [
+        "2.345 × 10^6",
+        "2.345 × 10^5",
+        "2.345 × 10^7",
+        "2.345 × 10^4"
+      ],
+      "respuesta": "2.345 × 10^6"
+    },
+    {
+      "pregunta": "¿Qué sucede con los exponentes en la multiplicación de dos números en notación científica?",
+      "opciones": [
+        "Se suman.",
+        "Se restan.",
+        "Se multiplican.",
+        "Se dividen."
+      ],
+      "respuesta": "Se suman."
+    },
+    {
+      "pregunta": "¿Cómo se representa en notación científica el número 0.000052?",
+      "opciones": [
+        "5.2 × 10^{-6}",
+        "5.2 × 10^{-5}",
+        "5.2 × 10^{-4}",
+        "5.2 × 10^{-3}"
+      ],
+      "respuesta": "5.2 × 10^{-5}"
+    }
+  ]
+}

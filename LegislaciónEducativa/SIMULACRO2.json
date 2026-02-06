@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Un grupo de maestros se reúne para discutir sobre los dilemas y problemas que enfrentan en la escuela. Durante la reunión, comparten experiencias sobre cómo han manejado situaciones conflictivas con estudiantes y padres de familia. ¿Qué aspecto del contexto institucional están abordando?",
+      "opciones": [
+        "La integración de nuevas tecnologías en el aula.",
+        "La comprensión de los problemas y dilemas que surgen en la cotidianidad de la escuela.",
+        "El desarrollo de programas extracurriculares.",
+        "La organización de eventos deportivos."
+      ],
+      "respuesta": "La comprensión de los problemas y dilemas que surgen en la cotidianidad de la escuela.",
+      "explicacion": "El contexto institucional implica la comprensión de los problemas, dilemas y debates que surgen en la cotidianidad de la escuela por parte de maestros, directivos y orientadores."
+    },
+    {
+      "pregunta": "Durante una jornada de capacitación, los maestros de una escuela analizan y proponen estrategias para mejorar la convivencia escolar. ¿Qué tipo de rutas están estableciendo?",
+      "opciones": [
+        "Rutas de evaluación.",
+        "Rutas analíticas y de acción.",
+        "Rutas tecnológicas.",
+        "Rutas de infraestructura."
+      ],
+      "respuesta": "Rutas analíticas y de acción.",
+      "explicacion": "Se pueden establecer rutas analíticas, propositivas y de acción en diálogo con los proyectos educativos institucionales y los retos externos."
+    },
+    {
+      "pregunta": "Un maestro organiza un taller donde los estudiantes comparten sus conocimientos y experiencias sobre temas variados. ¿Qué tipo de saberes están siendo promovidos?",
+      "opciones": [
+        "Saberes técnicos.",
+        "Saberes compartidos.",
+        "Saberes individuales.",
+        "Saberes teóricos."
+      ],
+      "respuesta": "Saberes compartidos.",
+      "explicacion": "Los saberes compartidos son esenciales para que las acciones y propuestas sean fructíferas y pertinentes con las realidades institucionales."
+    },
+    {
+      "pregunta": "Una escuela crea un grupo de estudio donde maestros de diferentes áreas se reúnen para discutir nuevas metodologías y mejorar su práctica docente. ¿Qué están construyendo?",
+      "opciones": [
+        "Un club de lectura.",
+        "Una comunidad académica y profesional.",
+        "Un comité disciplinario.",
+        "Un grupo de voluntarios."
+      ],
+      "respuesta": "Una comunidad académica y profesional.",
+      "explicacion": "El contexto profesional se refiere a la construcción de comunidades académicas y profesionales que favorezcan la formación continua."
+    },
+    {
+      "pregunta": "En una sesión de desarrollo profesional, los maestros debaten sobre las mejores prácticas para enseñar matemáticas a estudiantes de primaria. ¿Qué proceso están llevando a cabo?",
+      "opciones": [
+        "Elaboración de exámenes.",
+        "Interacción y debate.",
+        "Planificación de excursiones.",
+        "Recaudación de fondos."
+      ],
+      "respuesta": "Interacción y debate.",
+      "explicacion": "Las comunidades académicas y profesionales fomentan la interacción, el debate, los consensos y los disensos alrededor de los campos de conocimiento."
+    },
+    {
+      "pregunta": "Los maestros de una escuela se reúnen regularmente para compartir y discutir sus experiencias y estrategias pedagógicas. ¿Qué campos están explorando en estas reuniones?",
+      "opciones": [
+        "Campos de deportes.",
+        "Campos de conocimiento y pedagógico.",
+        "Campos administrativos.",
+        "Campos tecnológicos."
+      ],
+      "respuesta": "Campos de conocimiento y pedagógico.",
+      "explicacion": "Estas comunidades permiten el intercambio de ideas sobre el campo pedagógico y otros campos de conocimiento."
+    },
+    {
+      "pregunta": "Una escuela está desarrollando un programa conjunto donde todos los maestros colaboran para mejorar la calidad educativa. ¿Qué están creando?",
+      "opciones": [
+        "Un plan de evacuación.",
+        "Un proyecto formativo compartido.",
+        "Un concurso de talentos.",
+        "Un informe anual."
+      ],
+      "respuesta": "Un proyecto formativo compartido.",
+      "explicacion": "El contexto profesional también se centra en el desarrollo de un proyecto formativo compartido entre los miembros de la comunidad educativa."
+    },
+    {
+      "pregunta": "Un maestro asiste regularmente a reuniones con otros docentes para discutir sus prácticas y mejorar su desarrollo profesional. ¿Qué acción está llevando a cabo?",
+      "opciones": [
+        "Planeación de clases.",
+        "Participación en comunidades profesionales.",
+        "Evaluación de estudiantes.",
+        "Organización de eventos."
+      ],
+      "respuesta": "Participación en comunidades profesionales.",
+      "explicacion": "Se espera que el docente participe y promueva la participación en comunidades académicas y profesionales para fortalecer su desarrollo profesional educativo."
+    },
+    {
+      "pregunta": "Un maestro revisa el PEI de su escuela y ajusta sus métodos de enseñanza para alinearlos con los objetivos institucionales. ¿Qué acción está tomando?",
+      "opciones": [
+        "Desarrollo de exámenes.",
+        "Articulación con el PEI.",
+        "Organización de excursiones.",
+        "Evaluación de materiales."
+      ],
+      "respuesta": "Articulación con el PEI.",
+      "explicacion": "El docente debe articular la propuesta formativa institucional planteada en el PEI con su práctica educativa y pedagógica."
+    },
+    {
+      "pregunta": "Un docente se esfuerza por mantener una comunicación abierta y respetuosa con sus estudiantes, padres de familia y colegas. ¿Qué importancia reconoce?",
+      "opciones": [
+        "La puntualidad en el trabajo.",
+        "La comunicación efectiva y respetuosa.",
+        "La innovación tecnológica.",
+        "La evaluación constante."
+      ],
+      "respuesta": "La comunicación efectiva y respetuosa.",
+      "explicacion": "Es fundamental que el docente reconozca la importancia de la comunicación efectiva y respetuosa con todos los actores de la comunidad educativa."
+    }
+  ]
+}

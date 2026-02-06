@@ -1,0 +1,64 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Una vez que un agricultor sembró varias plantas en su huerta, registró la altura de cada planta durante un período de tiempo. Los datos se muestran en la siguiente tabla:<br><br><table border='1'><tr><th>Planta</th><th>Altura (cm), t=0</th><th>Altura (cm), t=1</th><th>Altura (cm), t=2</th><th>Altura (cm), t=3</th></tr><tr><td>1</td><td>25</td><td>30</td><td>35</td><td>40</td></tr><tr><td>2</td><td>30</td><td>35</td><td>40</td><td>45</td></tr><tr><td>3</td><td>35</td><td>40</td><td>45</td><td>50</td></tr></table><br><br>Si t representa el número de meses después de sembrar las plantas, ¿cuál de las siguientes expresiones representa correctamente la altura de la Planta 2 después de t meses?",
+      "opciones": [
+        "30t+5",
+        "30t+35",
+        "5t+30",
+        "5t+35"
+      ],
+      "respuesta": "C. 5t+30"
+    },
+    {
+      "pregunta": "Un grupo de estudiantes registró las siguientes calificaciones en un examen:<br><br>65, 70, 75, 80, 85, 90, 95<br><br>¿Cuál es la media de estas calificaciones?",
+      "opciones": [
+        "75",
+        "80",
+        "85",
+        "90"
+      ],
+      "respuesta": "B. 80"
+    },
+    {
+      "pregunta": "En una encuesta sobre la cantidad de libros leídos en un mes, los resultados fueron los siguientes:<br><br>0, 1, 2, 2, 3, 4, 4, 4, 5, 6<br><br>¿Cuál es la mediana del número de libros leídos?",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "respuesta": "C. 4"
+    },
+    {
+      "pregunta": "En un estudio, se registraron los siguientes salarios mensuales (en dólares) de un grupo de trabajadores:<br><br>2000, 2500, 2500, 2700, 3000, 3500, 4000<br><br>¿Cuál es el moda de los salarios?",
+      "opciones": [
+        "2000",
+        "2500",
+        "3000",
+        "3500"
+      ],
+      "respuesta": "B. 2500"
+    },
+    {
+      "pregunta": "En una competencia de lanzamiento de jabalina, las distancias alcanzadas (en metros) fueron:<br><br>55, 60, 65, 65, 70, 75, 80<br><br>¿Cuál es la media de las distancias alcanzadas?",
+      "opciones": [
+        "65",
+        "67.5",
+        "70",
+        "72.5"
+      ],
+      "respuesta": "B. 67.5"
+    },
+    {
+      "pregunta": "Los pesos (en kilogramos) de una muestra de 8 personas son:<br><br>70, 72, 75, 80, 85, 90, 95, 100<br><br>¿Cuál es la mediana del peso de las personas en la muestra?",
+      "opciones": [
+        "77.5",
+        "80",
+        "82.5",
+        "85"
+      ],
+      "respuesta": "C. 82.5"
+    }
+  ]
+}

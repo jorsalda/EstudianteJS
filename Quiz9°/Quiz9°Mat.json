@@ -1,0 +1,394 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál de los siguientes conjuntos numéricos representa a los números racionales?",
+      "opciones": [
+        "N",
+        "Z",
+        "Q",
+        "R"
+      ],
+      "respuesta": "Q"
+    },
+    {
+      "pregunta": "Los números racionales pueden ser representados en un diagrama de Venn. ¿Cuál de los siguientes conjuntos está completamente contenido en Q?",
+      "opciones": [
+        "Números irracionales",
+        "Números naturales",
+        "Números imaginarios",
+        "Números reales"
+      ],
+      "respuesta": "Números naturales"
+    },
+    {
+      "pregunta": "¿Qué se utiliza para simplificar una fracción en números racionales?",
+      "opciones": [
+        "MCM",
+        "MCD",
+        "Factorización",
+        "Suma"
+      ],
+      "respuesta": "MCD"
+    },
+    {
+      "pregunta": "Simplifica la fracción 16/24.",
+      "opciones": [
+        "3/4",
+        "2/3",
+        "4/6",
+        "2/4"
+      ],
+      "respuesta": "2/3"
+    },
+    {
+      "pregunta": "Amplifica la fracción 2/3 multiplicando numerador y denominador por 4.",
+      "opciones": [
+        "6/12",
+        "8/12",
+        "8/16",
+        "6/9"
+      ],
+      "respuesta": "8/12"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones no pertenece al concepto de tricotonomía matemática?",
+      "opciones": [
+        "a < b",
+        "a = b",
+        "a > b",
+        "a ≤ b"
+      ],
+      "respuesta": "a ≤ b"
+    },
+    {
+      "pregunta": "Ordena de menor a mayor las siguientes fracciones: 1/2, 3/4, 2/3.",
+      "opciones": [
+        "1/2, 2/3, 3/4",
+        "3/4, 1/2, 2/3",
+        "2/3, 1/2, 3/4",
+        "2/3, 3/4, 1/2"
+      ],
+      "respuesta": "1/2, 2/3, 3/4"
+    },
+    {
+      "pregunta": "Suma 1/4 + 1/6 utilizando el MCM.",
+      "opciones": [
+        "5/12",
+        "10/24",
+        "2/6",
+        "7/12"
+      ],
+      "respuesta": "7/12"
+    },
+    {
+      "pregunta": "Resta 3/5 - 1/4.",
+      "opciones": [
+        "7/20",
+        "2/5",
+        "11/20",
+        "1/4"
+      ],
+      "respuesta": "11/20"
+    },
+    {
+      "pregunta": "Multiplica 2/3 por 3/4.",
+      "opciones": [
+        "1/2",
+        "1/3",
+        "1",
+        "1/4"
+      ],
+      "respuesta": "1/2"
+    },
+    {
+      "pregunta": "Divide 5/6 entre 2/3.",
+      "opciones": [
+        "15/12",
+        "5/9",
+        "1",
+        "5/4"
+      ],
+      "respuesta": "5/4"
+    },
+    {
+      "pregunta": "Eleva al cuadrado la fracción 2/5.",
+      "opciones": [
+        "2/10",
+        "4/10",
+        "4/25",
+        "8/25"
+      ],
+      "respuesta": "4/25"
+    },
+    {
+      "pregunta": "Calcula la raíz cuadrada de 16/25.",
+      "opciones": [
+        "2/5",
+        "4/5",
+        "1/5",
+        "1/4"
+      ],
+      "respuesta": "4/5"
+    },
+    {
+      "pregunta": "Realiza la operación combinada: (2/3 + 1/4) × 2.",
+      "opciones": [
+        "11/6",
+        "3/2",
+        "7/6",
+        "5/3"
+      ],
+      "respuesta": "11/6"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un número irracional?",
+      "opciones": [
+        "1/2",
+        "0.75",
+        "√2",
+        "4/5"
+      ],
+      "respuesta": "√2"
+    },
+    {
+      "pregunta": "¿Cuál es la representación decimal de π (pi)?",
+      "opciones": [
+        "3.14159...",
+        "2.71828...",
+        "1.41421...",
+        "1.73205..."
+      ],
+      "respuesta": "3.14159..."
+    },
+    {
+      "pregunta": "¿Cuál es la representación decimal de e (Euler)?",
+      "opciones": [
+        "3.14159...",
+        "2.71828...",
+        "1.61803...",
+        "1.73205..."
+      ],
+      "respuesta": "2.71828..."
+    },
+    {
+      "pregunta": "¿Cuál es la representación de la razón de oro (phi)?",
+      "opciones": [
+        "3.14159...",
+        "2.71828...",
+        "1.61803...",
+        "1.73205..."
+      ],
+      "respuesta": "1.61803..."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones es un decimal periódico mixto?",
+      "opciones": [
+        "0.3333...",
+        "0.125",
+        "0.252525...",
+        "0.75"
+      ],
+      "respuesta": "0.252525..."
+    },
+    {
+      "pregunta": "Suma 2.5 + 3.75.",
+      "opciones": [
+        "5.25",
+        "6.25",
+        "6.5",
+        "5.5"
+      ],
+      "respuesta": "6.25"
+    },
+    {
+      "pregunta": "Resta 5.8 - 2.45.",
+      "opciones": [
+        "3.35",
+        "3.15",
+        "3.25",
+        "3.55"
+      ],
+      "respuesta": "3.35"
+    },
+    {
+      "pregunta": "Multiplica 2.4 por 3.5.",
+      "opciones": [
+        "8.2",
+        "8.4",
+        "8.6",
+        "8.8"
+      ],
+      "respuesta": "8.4"
+    },
+    {
+      "pregunta": "Divide 7.2 entre 1.8.",
+      "opciones": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "respuesta": "4"
+    },
+    {
+      "pregunta": "Escribe el número 450000 en notación científica.",
+      "opciones": [
+        "4.5 × 10^6",
+        "4.5 × 10^5",
+        "4.5 × 10^4",
+        "4.5 × 10^3"
+      ],
+      "respuesta": "4.5 × 10^5"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes propiedades es una propiedad algebraica de los números reales?",
+      "opciones": [
+        "Propiedad conmutativa",
+        "Propiedad distributiva",
+        "Propiedad asociativa",
+        "Todas las anteriores"
+      ],
+      "respuesta": "Todas las anteriores"
+    },
+    {
+      "pregunta": "Factoriza el trinomio x^2 + 5x + 6.",
+      "opciones": [
+        "(x+3)(x+2)",
+        "(x+2)(x+2)",
+        "(x+3)(x+3)",
+        "(x+1)(x+6)"
+      ],
+      "respuesta": "(x+3)(x+2)"
+    },
+    {
+      "pregunta": "¿Qué define una ecuación algebraica?",
+      "opciones": [
+        "La suma de términos",
+        "La igualdad de dos expresiones",
+        "El producto de factores",
+        "La diferencia de términos"
+      ],
+      "respuesta": "La igualdad de dos expresiones"
+    },
+    {
+      "pregunta": "Resuelve la ecuación x + 3 = 7.",
+      "opciones": [
+        "x = 5",
+        "x = 4",
+        "x = 3",
+        "x = 2"
+      ],
+      "respuesta": "x = 4"
+    },
+    {
+      "pregunta": "Resuelve la ecuación x - 4 = 1.",
+      "opciones": [
+        "x = 5",
+        "x = 4",
+        "x = 3",
+        "x = 6"
+      ],
+      "respuesta": "x = 5"
+    },
+    {
+      "pregunta": "Resuelve la ecuación 3x = 9.",
+      "opciones": [
+        "x = 4",
+        "x = 3",
+        "x = 2",
+        "x = 1"
+      ],
+      "respuesta": "x = 3"
+    },
+    {
+      "pregunta": "Resuelve la ecuación x/4 = 2.",
+      "opciones": [
+        "x = 2",
+        "x = 4",
+        "x = 6",
+        "x = 8"
+      ],
+      "respuesta": "x = 8"
+    },
+    {
+      "pregunta": "Resuelve la ecuación x^2 = 16.",
+      "opciones": [
+        "x = 2",
+        "x = -4",
+        "x = ±4",
+        "x = 4"
+      ],
+      "respuesta": "x = ±4"
+    },
+    {
+      "pregunta": "Resuelve la ecuación √x = 9.",
+      "opciones": [
+        "x = 81",
+        "x = 9",
+        "x = 18",
+        "x = 27"
+      ],
+      "respuesta": "x = 81"
+    },
+    {
+      "pregunta": "Resuelve la ecuación log(x) = 2.",
+      "opciones": [
+        "x = 100",
+        "x = 10",
+        "x = 2",
+        "x = 20"
+      ],
+      "respuesta": "x = 100"
+    },
+    {
+      "pregunta": "¿Qué tipo de decimal es 0.25?",
+      "opciones": [
+        "Decimal finito",
+        "Decimal periódico puro",
+        "Decimal no periódico, infinito",
+        "Decimal periódico mixto"
+      ],
+      "respuesta": "Decimal finito"
+    },
+    {
+      "pregunta": "¿Cuál es la naturaleza del decimal 0.3333...?",
+      "opciones": [
+        "Decimal finito",
+        "Decimal periódico puro",
+        "Decimal no periódico, infinito",
+        "Decimal periódico mixto"
+      ],
+      "respuesta": "Decimal periódico puro"
+    },
+    {
+      "pregunta": "¿A qué categoría de decimales pertenece π (pi) = 3.14159...?",
+      "opciones": [
+        "Decimal finito",
+        "Decimal periódico puro",
+        "Decimal no periódico, infinito",
+        "Decimal periódico mixto"
+      ],
+      "respuesta": "Decimal no periódico, infinito"
+    },
+    {
+      "pregunta": "¿Cómo se clasificaría el decimal 0.142857142857...?",
+      "opciones": [
+        "Decimal finito",
+        "Decimal periódico puro",
+        "Decimal no periódico, infinito",
+        "Decimal periódico mixto"
+      ],
+      "respuesta": "Decimal periódico mixto"
+    },
+    {
+      "pregunta": "¿Qué tipo de decimal es 0.75?",
+      "opciones": [
+        "Decimal finito",
+        "Decimal periódico puro",
+        "Decimal no periódico, infinito",
+        "Decimal periódico mixto"
+      ],
+      "respuesta": "Decimal finito"
+    }
+  ]
+}

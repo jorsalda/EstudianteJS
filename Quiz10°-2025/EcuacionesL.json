@@ -1,0 +1,64 @@
+{
+  "preguntas": [
+    {
+      "contexto": "Un carpintero necesita diseñar un marco rectangular cuya área sea de 36 m². Para ello, debe establecer una relación entre la base y la altura del marco utilizando una ecuación matemática.",
+      "pregunta": "¿Qué es una ecuación en este contexto?",
+      "opciones": [
+        "Una expresión matemática sin igualdad que relaciona base y altura.",
+        "Una igualdad matemática que relaciona base y altura con el área.",
+        "Un número fijo que representa la base del marco.",
+        "Un valor desconocido que representa la altura del marco."
+      ],
+      "respuesta": "Una igualdad matemática que relaciona base y altura con el área.",
+      "explicacion": "Una ecuación es una igualdad matemática que establece una relación entre las variables involucradas en un problema. En este caso, la ecuación sería Base × Altura = 36."
+    },
+    {
+      "contexto": "En una tienda de frutas, el precio total de una compra depende de la cantidad de kilogramos de manzanas que se compren. Si cada kilogramo cuesta $4, el precio total se puede representar con una variable.",
+      "pregunta": "¿Qué representa la variable en este contexto?",
+      "opciones": [
+        "Un número fijo que representa el precio de las manzanas.",
+        "El total que pagará el cliente, que varía según la cantidad comprada.",
+        "El número total de manzanas en la tienda.",
+        "Un valor fijo que no cambia en la ecuación."
+      ],
+      "respuesta": "El total que pagará el cliente, que varía según la cantidad comprada.",
+      "explicacion": "Una variable es un valor que puede cambiar en un contexto determinado. En este caso, el precio total depende de la cantidad de kilogramos comprados, lo que significa que el costo total es una variable."
+    },
+    {
+      "contexto": "Un físico está estudiando el movimiento de un objeto que cae desde cierta altura. En la ecuación que describe la trayectoria del objeto, la aceleración de la gravedad se mantiene constante con un valor de 9.8 m/s².",
+      "pregunta": "¿Qué representa la constante en este contexto?",
+      "opciones": [
+        "El tiempo que tarda el objeto en caer.",
+        "La velocidad inicial del objeto.",
+        "La aceleración de la gravedad, que tiene un valor fijo.",
+        "La distancia recorrida por el objeto en el tiempo."
+      ],
+      "respuesta": "La aceleración de la gravedad, que tiene un valor fijo.",
+      "explicacion": "Una constante es un valor que no cambia en una ecuación. En este caso, la aceleración de la gravedad es un valor fijo de 9.8 m/s² y no varía en la ecuación del movimiento."
+    },
+    {
+      "contexto": "Un ingeniero necesita calcular el número de piezas necesarias para ensamblar una estructura. Para ello, plantea la ecuación 5x + 10 = 40, donde x representa el número de piezas necesarias en cada módulo.",
+      "pregunta": "¿Cómo se resuelve esta ecuación?",
+      "opciones": [
+        "Restando 10 en ambos lados y luego dividiendo por 5.",
+        "Multiplicando ambos lados por 10 y sumando 5.",
+        "Restando 5 en ambos lados y dividiendo por 10.",
+        "Sumando 5 a ambos lados y luego dividiendo por 10."
+      ],
+      "respuesta": "Restando 10 en ambos lados y luego dividiendo por 5.",
+      "explicacion": "Para resolver la ecuación 5x + 10 = 40, primero restamos 10 en ambos lados para obtener 5x = 30. Luego, dividimos por 5 en ambos lados, obteniendo x = 6."
+    },
+    {
+      "contexto": "Un ciclista quiere determinar el tiempo que tardará en recorrer una distancia de 120 km si mantiene una velocidad constante de 30 km/h. La ecuación que relaciona estas magnitudes es d = v × t.",
+      "pregunta": "¿Cómo se despeja la variable t en esta ecuación?",
+      "opciones": [
+        "Multiplicando ambos lados por v.",
+        "Dividiendo ambos lados entre v.",
+        "Sumando v en ambos lados.",
+        "Restando v en ambos lados."
+      ],
+      "respuesta": "Dividiendo ambos lados entre v.",
+      "explicacion": "Para despejar t en la ecuación d = v × t, dividimos ambos lados entre v, obteniendo t = d/v. Así, t = 120 km ÷ 30 km/h = 4 h."
+    }
+  ]
+}

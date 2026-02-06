@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Probabilidad Total</title>
+</head>
+<body>
+    <h1>Calculadora de Probabilidades</h1>
+    <form method="POST">
+        <label>Balotas Rojas:</label>
+        <input type="number" name="balotas_rojas" required><br><br>
+
+        <label>Balotas Azules:</label>
+        <input type="number" name="balotas_azules" required><br><br>
+
+        <label>Cubos Rojos:</label>
+        <input type="number" name="cubos_rojos" required><br><br>
+
+        <label>Cubos Azules:</label>
+        <input type="number" name="cubos_azules" required><br><br>
+
+        <button type="submit">Calcular</button>
+    </form>
+
+    {% if resultado %}
+        <h2>Resultados:</h2>
+        <p><b>Probabilidad total de que sea rojo:</b> {{ resultado.p_total_rojo }}</p>
+        <p><b>Probabilidad de que sea rojo dado que se eligió un cubo:</b> {{ resultado.p_condicional_rojo_dado_cubo }}</p>
+    {% endif %}
+</body>
+</html>

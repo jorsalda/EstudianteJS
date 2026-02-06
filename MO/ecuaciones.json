@@ -1,0 +1,226 @@
+{
+  "caso_I": [
+    {
+      "pregunta": "¿Qué significa sumar fracciones?",
+      "opciones": [
+        "Unir partes de diferentes tamaños para formar una parte más grande.",
+        "Dividir una cantidad en partes iguales.",
+        "Multiplicar dos fracciones.",
+        "Restar una fracción de otra."
+      ],
+      "respuesta": "Unir partes de diferentes tamaños para formar una parte más grande."
+    },
+    {
+      "pregunta": "Juan tiene \(\\frac{3}{4}\) de una barra de chocolate y María tiene \(\\frac{1}{2}\) de la misma barra. ¿Cuántas barras de chocolate tienen en total?",
+      "opciones": [
+        "1 barra y \(\\frac{1}{4}\)",
+        "1 barra y \(\\frac{1}{2}\)",
+        "1 barra y \(\\frac{3}{8}\)",
+        "1 barra y \(\\frac{5}{4}\)"
+      ],
+      "respuesta": "1 barra y \(\\frac{1}{4}\)"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de sumar \(\\frac{2}{3}\) y \(\\frac{3}{5}\)?",
+      "opciones": [
+        "\(\\frac{5}{8}\)",
+        "\(\\frac{5}{6}\)",
+        "\(\\frac{1}{2}\)",
+        "\(\\frac{5}{3}\)"
+      ],
+      "respuesta": "\(\\frac{5}{3}\)"
+    }
+  ],
+  "caso_II": [
+    {
+      "pregunta": "¿Qué significa restar fracciones?",
+      "opciones": [
+        "Unir partes de diferentes tamaños para formar una parte más grande.",
+        "Dividir una cantidad en partes iguales.",
+        "Quitar una cantidad de otra cantidad más grande.",
+        "Multiplicar dos fracciones."
+      ],
+      "respuesta": "Quitar una cantidad de otra cantidad más grande."
+    },
+    {
+      "pregunta": "Si un pastel se divide en \(\\frac{3}{4}\) partes y se come \(\\frac{1}{3}\) de ellas, ¿qué fracción del pastel queda?",
+      "opciones": [
+        "\(\\frac{1}{12}\)",
+        "\(\\frac{1}{4}\)",
+        "\(\\frac{1}{2}\)",
+        "\(\\frac{5}{12}\)"
+      ],
+      "respuesta": "\(\\frac{5}{12}\)"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de restar \(\\frac{7}{8}\) menos \(\\frac{2}{5}\)?",
+      "opciones": [
+        "\(\\frac{3}{40}\)",
+        "\(\\frac{1}{4}\)",
+        "\(\\frac{29}{40}\)",
+        "\(\\frac{5}{8}\)"
+      ],
+      "respuesta": "\(\\frac{29}{40}\)"
+    }
+  ],
+  "caso_III": [
+    {
+      "pregunta": "¿Qué significa multiplicar fracciones?",
+      "opciones": [
+        "Unir partes de diferentes tamaños para formar una parte más grande.",
+        "Dividir una cantidad en partes iguales.",
+        "Aumentar la cantidad de partes de la fracción original.",
+        "Dividir una fracción entre otra."
+      ],
+      "respuesta": "Aumentar la cantidad de partes de la fracción original."
+    },
+    {
+      "pregunta": "Si una receta de panqueques requiere \(\\frac{3}{4}\) de taza de harina y queremos hacer la mitad de la receta, ¿cuánta harina necesitaremos?",
+      "opciones": [
+        "\(\\frac{3}{8}\) tazas",
+        "\(\\frac{1}{2}\) tazas",
+        "\(\\frac{1}{4}\) tazas",
+        "\(\\frac{3}{16}\) tazas"
+      ],
+      "respuesta": "\(\\frac{3}{8}\) tazas"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar \(\\frac{2}{3}\) por \(\\frac{5}{4}\)?",
+      "opciones": [
+        "\(\\frac{5}{12}\)",
+        "\(\\frac{5}{6}\)",
+        "\(\\frac{10}{7}\)",
+        "\(\\frac{1}{2}\)"
+      ],
+      "respuesta": "\(\\frac{5}{6}\)"
+    }
+  ],
+  "caso_IV": [
+    {
+      "pregunta": "¿Qué significa dividir fracciones?",
+      "opciones": [
+        "Unir partes de diferentes tamaños para formar una parte más grande.",
+        "Dividir una cantidad en partes iguales.",
+        "Reducir la cantidad de partes de la fracción original.",
+        "Multiplicar dos fracciones."
+      ],
+      "respuesta": "Dividir una cantidad en partes iguales."
+    },
+    {
+      "pregunta": "Si tenemos \(\\frac{3}{4}\) de litro de jugo y lo dividimos en \(\\frac{1}{2}\) partes iguales, ¿cuánto jugo hay en cada parte?",
+      "opciones": [
+        "\(\\frac{3}{4}\) de litro",
+        "\(\\frac{1}{2}\) de litro",
+        "\(\\frac{3}{8}\) de litro",
+        "\(\\frac{1}{4}\) de litro"
+      ],
+      "respuesta": "\(\\frac{3}{8}\) de litro"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de dividir \(\\frac{5}{6}\) entre \(\\frac{2}{3}\)?",
+      "opciones": [
+        "\(\\frac{3}{10}\)",
+        "\(\\frac{5}{9}\)",
+        "\(\\frac{5}{4}\)",
+        "\(\\frac{5}{12}\)"
+      ],
+      "respuesta": "\(\\frac{5}{4}\)"
+    }
+  ],
+  "caso_V": [
+    {
+      "pregunta": "¿Qué significa potenciar fracciones?",
+      "opciones": [
+        "Aumentar el tamaño de la fracción original.",
+        "Multiplicar la fracción original por sí misma varias veces.",
+        "Dividir la fracción original entre sí misma.",
+        "Convertir la fracción original a un número entero."
+      ],
+      "respuesta": "Multiplicar la fracción original por sí misma varias veces."
+    },
+    {
+      "pregunta": "Si un rectángulo tiene \(\\frac{2}{3}\) de metro de largo y \(\\frac{3}{4}\) de metro de ancho, ¿cuál es su área en metros cuadrados?",
+      "opciones": [
+        "\(\\frac{1}{2}\) m\(^2\)",
+        "\(\\frac{1}{4}\) m\(^2\)",
+        "\(\\frac{5}{6}\) m\(^2\)",
+        "\(\\frac{1}{6}\) m\(^2\)"
+      ],
+      "respuesta": "\(\\frac{1}{2}\) m\(^2\)"
+    },
+    {
+      "pregunta": "Si una fracción \(x\) elevada a la \(n\)-ésima potencia es igual a \(\\frac{27}{64}\), ¿cuál es el valor de \(x\) si \(n = 3\)?",
+      "opciones": [
+        "\(\\frac{3}{4}\)",
+        "\(\\frac{4}{3}\)",
+        "\(\\frac{3}{2}\)",
+        "\(\\frac{2}{3}\)"
+      ],
+      "respuesta": "\(\\frac{3}{4}\)"
+    }
+  ],
+  "caso_VI": [
+    {
+      "pregunta": "¿Qué significa calcular la raíz cuadrada de una fracción?",
+      "opciones": [
+        "Obtener una fracción con el denominador duplicado.",
+        "Obtener una fracción con el numerador duplicado.",
+        "Obtener una fracción con el numerador y el denominador duplicados.",
+        "Obtener una fracción con el denominador y el numerador elevados al cuadrado."
+      ],
+      "respuesta": "Obtener una fracción con el numerador y el denominador duplicados."
+    },
+    {
+      "pregunta": "Si \(\\frac{2}{3}\) de una cantidad se ha perdido, ¿qué fracción de la cantidad original queda?",
+      "opciones": [
+        "\(\\frac{1}{3}\)",
+        "\(\\frac{1}{6}\)",
+        "\(\\frac{2}{3}\)",
+        "\(\\frac{1}{2}\)"
+      ],
+      "respuesta": "\(\\frac{1}{3}\)"
+    },
+    {
+      "pregunta": "Si \(x\) es igual a \(\\frac{1}{4}\) y elevamos \(x\) a la séptima potencia, ¿cuál es el resultado?",
+      "opciones": [
+        "\(\\frac{1}{28}\)",
+        "\(\\frac{1}{1024}\)",
+        "\(\\frac{1}{64}\)",
+        "\(\\frac{1}{256}\)"
+      ],
+      "respuesta": "\(\\frac{1}{16384}\)"
+    }
+  ],
+  "caso_VII": [
+    {
+      "pregunta": "¿Qué significa calcular el logaritmo de una fracción?",
+      "opciones": [
+        "Obtener el inverso multiplicativo de la fracción.",
+        "Obtener la raíz cuadrada de la fracción.",
+        "Obtener el logaritmo natural de la fracción.",
+        "Obtener el número al cual hay que elevar la base para obtener la fracción."
+      ],
+      "respuesta": "Obtener el número al cual hay que elevar la base para obtener la fracción."
+    },
+    {
+      "pregunta": "Si \( \log_{\frac{1}{2}}(x) = 6 \), ¿cuál es el valor de \( x \)?",
+      "opciones": [
+        "64",
+        "32",
+        "16",
+        "8"
+      ],
+      "respuesta": "64"
+    },
+    {
+      "pregunta": "Si \( \log_{\frac{1}{3}}(x) = -2 \), ¿cuál es el valor de \( x \)?",
+      "opciones": [
+        "9",
+        "3",
+        "81",
+        "27"
+      ],
+      "respuesta": "9"
+    }
+  ]
+}

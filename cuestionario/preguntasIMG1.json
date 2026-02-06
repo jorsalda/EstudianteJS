@@ -1,0 +1,22 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "imagen": "imagenes/paris.jpeg",
+      "opciones": ["Londres", "Roma", "París", "Madrid"],
+      "respuesta": "París"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "imagen": "imagenes/nilo.jpg",
+      "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+      "respuesta": "Nilo"
+    },
+    {
+      "pregunta": "¿Cuál es el río más caudaloso  del mundo?",
+      "imagen": "imagenes/amazonas.jpeg",
+      "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+      "respuesta": "Amazonas"
+    }
+  ]
+}

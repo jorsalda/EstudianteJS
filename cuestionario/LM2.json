@@ -1,0 +1,54 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el teorema del límite central y cuál es su importancia en estadística?",
+      "opciones": [
+        "El teorema del límite central establece que, bajo ciertas condiciones, la suma de un gran número de variables aleatorias independientes y con distribución idéntica tiende a una distribución normal, lo que es fundamental para la inferencia estadística.",
+        "El teorema del límite central establece que la media de una muestra aleatoria sigue una distribución normal, lo que permite hacer inferencias sobre la población.",
+        "El teorema del límite central establece que la varianza de una muestra aleatoria sigue una distribución normal, lo que facilita la estimación de parámetros poblacionales.",
+        "El teorema del límite central establece que la media de una población sigue una distribución normal, lo que facilita la construcción de intervalos de confianza."
+      ],
+      "respuesta": "El teorema del límite central establece que, bajo ciertas condiciones, la suma de un gran número de variables aleatorias independientes y con distribución idéntica tiende a una distribución normal, lo que es fundamental para la inferencia estadística."
+    },
+    {
+      "pregunta": "En álgebra lineal, ¿cuál es la definición de un espacio vectorial?",
+      "opciones": [
+        "Un espacio en el que los vectores pueden ser multiplicados por escalares y sumados entre sí, cumpliendo ciertas propiedades como la conmutatividad y asociatividad.",
+        "Un espacio en el que los vectores pueden ser sumados entre sí, cumpliendo ciertas propiedades como la conmutatividad y asociatividad.",
+        "Un espacio en el que los vectores pueden ser multiplicados entre sí, cumpliendo ciertas propiedades como la conmutatividad y asociatividad.",
+        "Un espacio en el que los vectores pueden ser divididos entre sí, cumpliendo ciertas propiedades como la conmutatividad y asociatividad."
+      ],
+      "respuesta": "Un espacio en el que los vectores pueden ser multiplicados por escalares y sumados entre sí, cumpliendo ciertas propiedades como la conmutatividad y asociatividad."
+    },
+    {
+      "pregunta": "¿Cuál es el teorema fundamental del cálculo y cuál es su importancia en cálculo integral?",
+      "opciones": [
+        "El teorema fundamental del cálculo establece que la derivada de una función es igual a la integral de su función primitiva, lo que permite calcular áreas bajo una curva.",
+        "El teorema fundamental del cálculo establece que la integral de una función es igual a la derivada de su función primitiva, lo que permite calcular límites de funciones.",
+        "El teorema fundamental del cálculo establece que la integral de una función es igual a la suma de sus límites, lo que permite calcular la tasa de cambio de una función.",
+        "El teorema fundamental del cálculo establece que la derivada de una función es igual al límite de la integral de su función primitiva, lo que permite calcular áreas entre dos curvas."
+      ],
+      "respuesta": "El teorema fundamental del cálculo establece que la derivada de una función es igual a la integral de su función primitiva, lo que permite calcular áreas bajo una curva."
+    },
+    {
+      "pregunta": "¿Qué es una matriz diagonalizable en álgebra lineal y cuál es su importancia?",
+      "opciones": [
+        "Una matriz diagonalizable es una matriz cuadrada que puede ser reducida a una forma diagonal mediante una matriz de cambio de base, lo que facilita el cálculo de potencias de la matriz y la resolución de sistemas de ecuaciones diferenciales.",
+        "Una matriz diagonalizable es una matriz que tiene elementos diagonales iguales a cero, lo que facilita el cálculo de determinantes y la inversión de la matriz.",
+        "Una matriz diagonalizable es una matriz cuadrada que tiene un único valor propio, lo que facilita el cálculo de autovalores y autovectores.",
+        "Una matriz diagonalizable es una matriz que tiene una sola columna, lo que facilita el cálculo de su determinante y su inversa."
+      ],
+      "respuesta": "Una matriz diagonalizable es una matriz cuadrada que puede ser reducida a una forma diagonal mediante una matriz de cambio de base, lo que facilita el cálculo de potencias de la matriz y la resolución de sistemas de ecuaciones diferenciales."
+    },
+    {
+      "pregunta": "En teoría de números, ¿cuál es la conjetura de Goldbach y cuál es su relevancia?",
+      "opciones": [
+        "La conjetura de Goldbach establece que todo número par mayor que 2 puede expresarse como la suma de dos números primos, lo que tiene importantes implicaciones en criptografía y teoría de la computación.",
+        "La conjetura de Goldbach establece que todo número impar mayor que 1 puede expresarse como la suma de dos números primos, lo que tiene importantes implicaciones en criptografía y teoría de la computación.",
+        "La conjetura de Goldbach establece que todo número par mayor que 2 puede expresarse como el producto de dos números primos, lo que tiene importantes implicaciones en criptografía y teoría de la computación.",
+        "La conjetura de Goldbach establece que todo número impar mayor que 1 puede expresarse como el producto de dos números primos, lo que tiene importantes implicaciones en criptografía y teoría de la computación."
+      ],
+      "respuesta": "La conjetura de Goldbach establece que todo número par mayor que 2 puede expresarse como la suma de dos números primos, lo que tiene importantes implicaciones en criptografía y teoría de la computación."
+    }
+  ]
+}

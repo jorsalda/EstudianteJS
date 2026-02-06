@@ -1,0 +1,309 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones puede ser deducida lógicamente a partir de las premisas proporcionadas?",
+      "opciones": [
+        "Todos los perros tienen cola.",
+        "Algunos gatos tienen cola.",
+        "Por lo tanto, algunos animales con cola son perros.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Por lo tanto, algunos animales con cola son perros."
+    },
+    {
+      "pregunta": "Si todos los estudiantes que estudian mucho obtienen buenas calificaciones y Juan obtuvo buenas calificaciones, ¿cuál de las siguientes afirmaciones debe ser verdadera?",
+      "opciones": [
+        "Juan estudia mucho.",
+        "Todos los estudiantes que estudian mucho son como Juan.",
+        "Todos los estudiantes que no estudian mucho obtienen malas calificaciones.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Juan estudia mucho."
+    },
+    {
+      "pregunta": "Si A es igual a B, y B es igual a C, ¿qué se puede deducir?",
+      "opciones": [
+        "A es igual a C.",
+        "B es igual a A.",
+        "C es igual a B.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "A es igual a C."
+    },
+    {
+      "pregunta": "Si todos los pájaros pueden volar y los pingüinos son pájaros, ¿qué se puede deducir?",
+      "opciones": [
+        "Todos los pingüinos pueden volar.",
+        "Algunos pájaros pueden volar.",
+        "Todos los pájaros pueden nadar.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Algunos pájaros pueden volar."
+    },
+    {
+      "pregunta": "Si algunos mamíferos son animales y algunos animales son gatos, ¿qué se puede inferir?",
+      "opciones": [
+        "Todos los mamíferos son gatos.",
+        "Algunos mamíferos son gatos.",
+        "Todos los gatos son mamíferos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Algunos mamíferos son gatos."
+    },
+    {
+      "pregunta": "Si algunos estudiantes son buenos en matemáticas y todos los buenos estudiantes son aceptados en la universidad, ¿qué se puede deducir?",
+      "opciones": [
+        "Todos los estudiantes buenos en matemáticas son aceptados en la universidad.",
+        "Algunos estudiantes son buenos en matemáticas pero no son aceptados en la universidad.",
+        "Algunos estudiantes aceptados en la universidad son buenos en matemáticas.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Algunos estudiantes aceptados en la universidad son buenos en matemáticas."
+    },
+    {
+      "pregunta": "Si todos los pájaros tienen alas y los pingüinos son pájaros, ¿qué se puede inferir?",
+      "opciones": [
+        "Todos los pingüinos tienen alas.",
+        "Algunos pájaros tienen alas.",
+        "Algunos pájaros no tienen alas.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Todos los pingüinos tienen alas."
+    },
+    {
+      "pregunta": "Si todos los perros ladran y Fido ladra, ¿qué se puede deducir?",
+      "opciones": [
+        "Fido es un perro.",
+        "Todos los perros son Fido.",
+        "Algunos animales ladran.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Fido es un perro."
+    },
+    {
+      "pregunta": "Si todos los rectángulos tienen cuatro lados y esta figura tiene cuatro lados, ¿qué se puede inferir sobre esta figura?",
+      "opciones": [
+        "Es un rectángulo.",
+        "Es un cuadrado.",
+        "Es un triángulo.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Es un rectángulo."
+    },
+    {
+      "pregunta": "Si todos los gatos son mamíferos y algunos mamíferos son animales, ¿qué se puede deducir sobre los gatos?",
+      "opciones": [
+        "Todos los gatos son animales.",
+        "Algunos gatos son animales.",
+        "Todos los animales son gatos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Algunos gatos son animales."
+    },
+    {
+      "pregunta": "Si algunos niños son altos y todos los altos pueden jugar al baloncesto, ¿qué se puede inferir sobre los niños?",
+      "opciones": [
+        "Todos los niños pueden jugar al baloncesto.",
+        "Algunos niños pueden jugar al baloncesto.",
+        "Todos los que juegan al baloncesto son niños.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Algunos niños pueden jugar al baloncesto."
+    },
+    {
+      "pregunta": "Si todos los triángulos tienen tres lados y esta figura tiene tres lados, ¿qué se puede inferir sobre esta figura?",
+      "opciones": [
+        "Es un triángulo.",
+        "Es un cuadrado.",
+        "Es un círculo.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Es un triángulo."
+    },
+    {
+      "pregunta": "Si algunos estudiantes son deportistas y todos los deportistas tienen una buena salud, ¿qué se puede deducir sobre los estudiantes?",
+      "opciones": [
+        "Todos los estudiantes tienen una buena salud.",
+        "Algunos estudiantes tienen una buena salud.",
+        "Todos los que tienen buena salud son estudiantes.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Algunos estudiantes tienen una buena salud."
+    },
+    {
+      "pregunta": "Si todas las plantas necesitan agua y esta planta no ha sido regada, ¿qué se puede inferir sobre esta planta?",
+      "opciones": [
+        "Esta planta no necesita agua.",
+        "Esta planta morirá.",
+        "Esta planta es una planta de interior.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Esta planta morirá."
+    },
+    {
+      "pregunta": "Si algunos animales son mamíferos y algunos mamíferos son carnívoros, ¿qué se puede deducir sobre algunos animales?",
+      "opciones": [
+        "Son carnívoros.",
+        "Son mamíferos.",
+        "Son omnívoros.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Son mamíferos."
+    }
+  ]
+}
+
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones se deduce lógicamente de las premisas proporcionadas?",
+      "opciones": [
+        "Siempre que llueve, las calles se mojan.",
+        "Las calles están mojadas.",
+        "Por lo tanto, está lloviendo.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Por lo tanto, está lloviendo."
+    },
+    {
+      "pregunta": "Si todos los cuadrados son rectángulos y algunos rectángulos son azules, ¿qué se puede inferir sobre los cuadrados?",
+      "opciones": [
+        "Todos los cuadrados son azules.",
+        "Algunos cuadrados son azules.",
+        "Todos los cuadrados son rectángulos azules.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Algunos cuadrados son azules."
+    },
+    {
+      "pregunta": "Si algunas personas altas son buenos jugadores de baloncesto y todos los buenos jugadores de baloncesto tienen buena coordinación, ¿qué se puede deducir sobre algunas personas altas?",
+      "opciones": [
+        "Son buenos en otros deportes.",
+        "Tienen buena coordinación.",
+        "Son bajos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Tienen buena coordinación."
+    },
+    {
+      "pregunta": "Si todos los mamíferos tienen sangre caliente y algunos animales con sangre caliente son aves, ¿qué se puede inferir sobre todas las aves?",
+      "opciones": [
+        "Todas las aves son mamíferos.",
+        "Todas las aves tienen sangre caliente.",
+        "Algunas aves son mamíferos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Todas las aves tienen sangre caliente."
+    },
+    {
+      "pregunta": "Si todas las naranjas son frutas y algunas frutas son dulces, ¿qué se puede deducir sobre todas las naranjas?",
+      "opciones": [
+        "Todas las naranjas son dulces.",
+        "Algunas naranjas son dulces.",
+        "Todas las naranjas son frutas dulces.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Algunas naranjas son dulces."
+    },
+    {
+      "pregunta": "Si todos los políticos son mentirosos y algunos abogados son políticos, ¿qué se puede inferir sobre algunos abogados?",
+      "opciones": [
+        "Son honestos.",
+        "Son políticos.",
+        "Son mentirosos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Son mentirosos."
+    },
+    {
+      "pregunta": "Si algunos estudiantes son músicos y todos los músicos son creativos, ¿qué se puede deducir sobre algunos estudiantes?",
+      "opciones": [
+        "Son creativos.",
+        "Son músicos.",
+        "No son creativos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Son creativos."
+    },
+    {
+      "pregunta": "Si todos los triángulos tienen tres lados y algunos triángulos son equiláteros, ¿qué se puede inferir sobre algunos triángulos?",
+      "opciones": [
+        "Son equiláteros.",
+        "Son isósceles.",
+        "Son rectángulos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Son equiláteros."
+    },
+    {
+      "pregunta": "Si todos los vegetales son alimentos saludables y algunas frutas son vegetales, ¿qué se puede deducir sobre algunas frutas?",
+      "opciones": [
+        "Son saludables.",
+        "Son vegetales.",
+        "No son saludables.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Son saludables."
+    },
+    {
+      "pregunta": "Si todos los libros clásicos son difíciles de entender y algunos libros difíciles de entender son interesantes, ¿qué se puede inferir sobre algunos libros clásicos?",
+      "opciones": [
+        "Son interesantes.",
+        "Son difíciles de entender.",
+        "Son modernos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Son difíciles de entender."
+    },
+    {
+      "pregunta": "Si todas las personas inteligentes son curiosas y algunos curiosos son científicos, ¿qué se puede deducir sobre algunos científicos?",
+      "opciones": [
+        "Son inteligentes.",
+        "Son curiosos.",
+        "No son científicos.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Son inteligentes."
+    },
+    {
+      "pregunta": "Si todos los mamíferos tienen pelo y algunas ballenas son mamíferos, ¿qué se puede inferir sobre todas las ballenas?",
+      "opciones": [
+        "Todas las ballenas tienen pelo.",
+        "Todas las ballenas son mamíferos.",
+        "Algunas ballenas tienen pelo.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Todas las ballenas tienen pelo."
+    },
+    {
+      "pregunta": "Si algunas flores son rojas y todas las rosas son flores, ¿qué se puede deducir sobre algunas rosas?",
+      "opciones": [
+        "Son rojas.",
+        "No son flores.",
+        "Son azules.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Son rojas."
+    },
+    {
+      "pregunta": "Si todos los libros tienen páginas y algunas páginas son ilustradas, ¿qué se puede inferir sobre algunos libros?",
+      "opciones": [
+        "Tienen páginas ilustradas.",
+        "Son ilustrados.",
+        "No tienen páginas.",
+        "Ninguna de las anteriores."
+      ],
+      "respuesta": "Tienen páginas ilustradas."
+    },
+    {
+      "pregunta": "Si algunos,científicos son famosos y todas las personas famosas son ricas, ¿qué se puede deducir sobre algunos científicos?",
+"opciones": [
+"Son ricos.",
+"Son famosos.",
+"Son exitosos.",
+"Ninguna de las anteriores."
+],
+"respuesta": "Son ricos."
+}
+]
+}

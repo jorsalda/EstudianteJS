@@ -1,0 +1,134 @@
+{
+"preguntas": [
+{
+"pregunta": "¿Por qué la estadística es importante en la investigación científica y la toma de decisiones?",
+"opciones": [
+"Porque proporciona métodos para analizar y resumir datos.",
+"Porque es un requisito para la publicación de artículos científicos.",
+"Porque ayuda a evitar errores en los experimentos.",
+"Porque facilita la comunicación entre investigadores."
+],
+"respuesta": "Porque proporciona métodos para analizar y resumir datos."
+},
+{
+"pregunta": "¿Cuál es la diferencia entre población y muestra en un estudio estadístico?",
+"opciones": [
+"La población es un conjunto completo de datos, mientras que la muestra es solo una parte de ellos.",
+"La población se refiere a datos cualitativos, mientras que la muestra se refiere a datos cuantitativos.",
+"La población se utiliza en estudios experimentales, mientras que la muestra se utiliza en estudios observacionales.",
+"La población incluye datos primarios, mientras que la muestra incluye datos secundarios."
+],
+"respuesta": "La población es un conjunto completo de datos, mientras que la muestra es solo una parte de ellos."
+},
+{
+"pregunta": "¿Qué tipo de técnicas se pueden utilizar para recolectar y organizar datos?",
+"opciones": [
+"Entrevistas y cuestionarios, y organizarlos en tablas y gráficos.",
+"Experimentos y observaciones, y organizarlos en presentaciones de diapositivas.",
+"Encuestas telefónicas y correos electrónicos, y organizarlos en bases de datos.",
+"Recopilación de datos históricos y organizarlos en mapas mentales."
+],
+"respuesta": "Entrevistas y cuestionarios, y organizarlos en tablas y gráficos."
+},
+{
+"pregunta": "¿Cuál de los siguientes gráficos es más adecuado para mostrar la distribución de edades en una muestra de personas?",
+"opciones": [
+"Gráfico de barras.",
+"Gráfico circular.",
+"Histograma.",
+"Diagrama de dispersión."
+],
+"respuesta": "Histograma."
+},
+{
+"pregunta": "¿Qué medida de tendencia central se ve menos afectada por valores atípicos en un conjunto de datos?",
+"opciones": [
+"Media aritmética.",
+"Mediana.",
+"Moda.",
+"Todas son igualmente afectadas."
+],
+"respuesta": "Mediana."
+},
+{
+"pregunta": "¿Qué medida de dispersión proporciona una idea de cuánto se extienden los datos alrededor de la media?",
+"opciones": [
+"Rango.",
+"Desviación estándar.",
+"Varianza.",
+"Mediana."
+],
+"respuesta": "Desviación estándar."
+},
+{
+"pregunta": "¿Qué medida de posición divide un conjunto de datos en cuatro partes iguales?",
+"opciones": [
+"Cuartiles.",
+"Deciles.",
+"Percentiles.",
+"Mediana."
+],
+"respuesta": "Cuartiles."
+},
+{
+"pregunta": "¿Cuál de las siguientes opciones describe mejor la probabilidad de un evento?",
+"opciones": [
+"La frecuencia relativa de un evento en un experimento.",
+"La cantidad total de eventos posibles en un experimento.",
+"La diferencia entre un evento y su complemento.",
+"La diferencia entre la media y la mediana de un conjunto de datos."
+],
+"respuesta": "La frecuencia relativa de un evento en un experimento."
+},
+{
+"pregunta": "¿En qué tipo de situaciones prácticas se puede aplicar la distribución binomial?",
+"opciones": [
+"En la predicción del tiempo atmosférico.",
+"En la simulación de juegos de azar.",
+"En el cálculo del área bajo una curva.",
+"En el conteo de éxitos en una secuencia de ensayos independientes."
+],
+"respuesta": "En el conteo de éxitos en una secuencia de ensayos independientes."
+},
+{
+"pregunta": "¿Qué tipo de inferencia estadística se utiliza para estimar un parámetro?",
+"opciones": [
+"Estimación puntual.",
+"Estimación por intervalos.",
+"Correlación.",
+"Regresión lineal."
+],
+"respuesta": "Estimación puntual."
+},
+{
+"pregunta": "¿Cómo se interpreta el coeficiente de correlación en un análisis de correlación?",
+"opciones": [
+"Indica la fuerza y dirección de la relación entre dos variables.",
+"Indica la diferencia entre la media y la mediana de un conjunto de datos.",
+"Indica la variabilidad de un conjunto de datos alrededor de la media.",
+"Indica la probabilidad de un evento en un experimento."
+],
+"respuesta": "Indica la fuerza y dirección de la relación entre dos variables."
+},
+{
+"pregunta": "¿Cómo se pueden aplicar los análisis estadísticos simples en la toma de decisiones empresariales?",
+"opciones": [
+"Para identificar tendencias de mercado y tomar decisiones de marketing.",
+"Para calcular la masa de un protón.",
+"Para predecir la trayectoria de un cometa.",
+"Para escribir un informe científico."
+],
+"respuesta": "Para identificar tendencias de mercado y tomar decisiones de marketing."
+},
+{
+"pregunta": "¿Cuál de las siguientes funciones de Excel se puede utilizar para calcular la media de un conjunto de datos?",
+"opciones": [
+"SUMA.",
+"PROMEDIO.",
+"CONTAR.",
+"MAX."
+],
+"respuesta": "PROMEDIO."
+}
+]
+}

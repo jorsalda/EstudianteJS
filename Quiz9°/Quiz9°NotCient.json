@@ -1,0 +1,246 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el propósito principal de la notación científica?",
+      "opciones": [
+        "Representar números complejos.",
+        "Facilitar la manipulación de números grandes o pequeños.",
+        "Reducir la precisión de los cálculos.",
+        "Incrementar la complejidad de las operaciones matemáticas."
+      ],
+      "respuesta": "Facilitar la manipulación de números grandes o pequeños.",
+      "explicacion": "La notación científica se utiliza para simplificar la representación y manipulación de números extremadamente grandes o pequeños, lo que hace que los cálculos sean más manejables en la ciencia y la ingeniería."
+    },
+    {
+      "pregunta": "¿Qué componente de la notación científica representa la parte significativa del número?",
+      "opciones": [
+        "Mantisa o coeficiente.",
+        "Exponente.",
+        "Potencia de 10.",
+        "Fracción decimal."
+      ],
+      "respuesta": "Mantisa o coeficiente.",
+      "explicacion": "La mantisa es el componente de la notación científica que representa la parte significativa del número. Es un número decimal que generalmente está comprendido entre 1 y 10, y contiene toda la información necesaria sobre el valor del número."
+    },
+    {
+      "pregunta": "¿Cómo se afecta el exponente al mover el punto decimal hacia la izquierda en la notación científica?",
+      "opciones": [
+        "Aumenta.",
+        "Disminuye.",
+        "Se mantiene constante.",
+        "Se convierte en negativo."
+      ],
+      "respuesta": "Aumenta.",
+      "explicacion": "Al mover el punto decimal hacia la izquierda en la notación científica, el exponente aumenta. Esto ocurre porque el número se vuelve más pequeño, y para mantener el valor equivalente, el exponente aumenta para indicar el desplazamiento a una menor potencia de 10."
+    },
+    {
+      "pregunta": "¿Cuál es la velocidad de la luz en el vacío, aproximadamente?",
+      "opciones": [
+        "3.00×10^6 m/s.",
+        "3.00×10^7 m/s.",
+        "3.00×10^8 m/s.",
+        "3.00×10^9 m/s."
+      ],
+      "respuesta": "3.00×10^8 m/s.",
+      "explicacion": "La velocidad de la luz en el vacío es aproximadamente 3.00×10^8 metros por segundo. Esta es una constante física fundamental y una de las velocidades más importantes en la física."
+    },
+    {
+      "pregunta": "¿Qué valor tiene la constante de Planck?",
+      "opciones": [
+        "6.626×10^-24 J·s.",
+        "6.626×10^-23 J·s.",
+        "6.626×10^-22 J·s.",
+        "6.626×10^-34 J·s."
+      ],
+      "respuesta": "6.626×10^-34 J·s.",
+      "explicacion": "La constante de Planck tiene un valor aproximado de 6.626×10^-34 joules por segundo. Esta constante es fundamental en la mecánica cuántica y está relacionada con la relación entre la energía y la frecuencia de las partículas subatómicas."
+    },
+    {
+      "pregunta": "¿Cómo se calcula la energía de un fotón utilizando la constante de Planck?",
+      "opciones": [
+        "E = hc/λ.",
+        "E = mc^2.",
+        "E = Fd.",
+        "E = kT."
+      ],
+      "respuesta": "E = hc/λ.",
+      "explicacion": "La energía de un fotón se calcula utilizando la fórmula E = hc/λ, donde h es la constante de Planck, c es la velocidad de la luz en el vacío, y λ es la longitud de onda del fotón. Esta fórmula muestra la relación entre la energía de un fotón y su longitud de onda."
+    },
+    {
+      "pregunta": "¿Qué representa la constante de Avogadro?",
+      "opciones": [
+        "La carga elemental.",
+        "El número de moles de un elemento.",
+        "La velocidad de la luz.",
+        "La cantidad de partículas en un mol."
+      ],
+      "respuesta": "La cantidad de partículas en un mol.",
+      "explicacion": "La constante de Avogadro representa el número de partículas (átomos, moléculas, iones, etc.) en un mol de sustancia. Su valor es aproximadamente 6.02×10^23, y es una constante importante en la química y la física."
+    },
+    {
+      "pregunta": "¿Cuál es la carga total en un mol de electrones?",
+      "opciones": [
+        "9.64×10^2 C.",
+        "9.64×10^3 C.",
+        "9.64×10^4 C.",
+        "9.64×10^5 C."
+      ],
+      "respuesta": "9.64×10^4 C.",
+      "explicacion": "La carga total en un mol de electrones se calcula multiplicando el número de Avogadro por la carga elemental. Esto se debe a que un mol de electrones contiene el número de Avogadro de electrones, y cada electrón tiene una carga elemental."
+    },
+    {
+      "pregunta": "¿Cuál es la fuerza gravitacional entre dos masas de 1000 kg cada una, separadas por una distancia de 10 metros?",
+      "opciones": [
+        "6.67×10^-5 N.",
+        "6.67×10^-6 N.",
+        "6.67×10^-7 N.",
+        "6.67×10^-8 N."
+      ],
+      "respuesta": "6.67×10^-6 N.",
+      "explicacion": "La fuerza gravitacional entre dos masas se calcula utilizando la ley de gravitación universal de Newton. La constante de gravitación universal tiene un valor aproximado de 6.67×10^-11 m^3/kg·s^2, y se utiliza para calcular la fuerza entre dos masas separadas por una distancia dada."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito principal de los cálculos estequiométricos en química?",
+      "opciones": [
+        "Determinar la velocidad de reacción.",
+        "Equilibrar las ecuaciones químicas.",
+        "Calcular la masa de los productos.",
+        "Relacionar los moles de reactivos y productos."
+      ],
+      "respuesta": "Relacionar los moles de reactivos y productos.",
+      "explicacion": "Los cálculos estequiométricos se utilizan en química para relacionar los moles de reactivos y productos en una reacción química balanceada. Esto permite predecir cuánto reactivo se necesita o cuánto producto se formará en una reacción."
+    },
+    {
+      "pregunta": "¿Cuál es el valor aproximado de la carga elemental?",
+      "opciones": [
+        "1.602×10^-18 C.",
+        "1.602×10^-19 C.",
+        "1.602×10^-20 C.",
+        "1.602×10^-21 C."
+      ],
+      "respuesta": "1.602×10^-19 C.",
+      "explicacion": "La carga elemental es la carga eléctrica mínima que puede existir por sí sola, y su valor es aproximadamente 1.602×10^-19 culombios (C). Esta carga es fundamental en la física y la química, y es la carga de un electrón o un protón."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito principal de la constante de gravitación universal?",
+      "opciones": [
+        "Relacionar la masa de una partícula con su velocidad.",
+        "Determinar la aceleración de un objeto en caída libre.",
+        "Describir la fuerza gravitacional entre dos objetos.",
+        "Calcular la velocidad de la luz en el vacío."
+      ],
+      "respuesta": "Describir la fuerza gravitacional entre dos objetos.",
+      "explicacion": "La constante de gravitación universal se utiliza para describir la fuerza gravitacional entre dos objetos con masa. Su valor es aproximadamente 6.674×10^-11 m^3/kg·s^2 y es fundamental en la ley de gravitación universal de Newton."
+    },
+    {
+      "pregunta": "¿Cómo se afecta el exponente al mover el punto decimal hacia la derecha en la notación científica?",
+      "opciones": [
+        "El exponente disminuye.",
+        "El exponente aumenta.",
+        "El exponente se mantiene constante.",
+        "El exponente se convierte en negativo."
+      ],
+      "respuesta": "El exponente disminuye.",
+      "explicacion": "En la notación científica, cuando se mueve el punto decimal hacia la derecha, el exponente disminuye. Esto ocurre porque el número se vuelve más grande, y para mantener el valor numérico equivalente, el exponente debe reducirse."
+    },
+    {
+      "pregunta": "¿Cuál es la longitud de onda asociada a un fotón verde si su energía es de 3.61×10^-19 J?",
+      "opciones": [
+        "450 nm.",
+        "500 nm.",
+        "550 nm.",
+        "600 nm."
+      ],
+      "respuesta": "550 nm.",
+      "explicacion": "La longitud de onda de un fotón se puede calcular utilizando la relación E = hc/λ. Dado que la energía es 3.61×10^-19 J y utilizando los valores de la constante de Planck y la velocidad de la luz, se puede deducir que la longitud de onda asociada es de 550 nm."
+    },
+    {
+      "pregunta": "¿Cómo se expresa el número 4500 en notación científica?",
+      "opciones": [
+        "4.5×10^3.",
+        "45×10^2.",
+        "4.5×10^4.",
+        "0.45×10^4."
+      ],
+      "respuesta": "4.5×10^3.",
+      "explicacion": "El número 4500 en notación científica se expresa como 4.5×10^3. Esto se logra moviendo el punto decimal tres lugares a la izquierda, lo que incrementa el exponente a 3."
+    },
+    {
+      "pregunta": "¿Cuál es la constante de Boltzmann y qué mide?",
+      "opciones": [
+        "6.626×10^-34 J·s, mide la relación entre energía y frecuencia.",
+        "1.381×10^-23 J/K, mide la relación entre energía térmica y temperatura.",
+        "9.109×10^-31 kg, mide la masa del electrón.",
+        "8.314 J/(mol·K), mide la constante de los gases ideales."
+      ],
+      "respuesta": "1.381×10^-23 J/K, mide la relación entre energía térmica y temperatura.",
+      "explicacion": "La constante de Boltzmann, con un valor de aproximadamente 1.381×10^-23 J/K, relaciona la energía térmica de un sistema con su temperatura. Es fundamental en la teoría cinética de los gases y la termodinámica."
+    },
+    {
+      "pregunta": "¿Qué mide la constante de Avogadro en el contexto de la química?",
+      "opciones": [
+        "La relación entre la masa y el volumen de un gas.",
+        "El número de átomos en una molécula.",
+        "La cantidad de partículas en un mol.",
+        "La relación entre presión y temperatura."
+      ],
+      "respuesta": "La cantidad de partículas en un mol.",
+      "explicacion": "La constante de Avogadro mide la cantidad de partículas (como átomos o moléculas) en un mol de sustancia. Es un número fundamental en la química que facilita la conversión entre cantidades microscópicas y macroscópicas."
+    },
+    {
+      "pregunta": "¿Cómo se convierte la constante de Planck en energía de fotones?",
+      "opciones": [
+        "Multiplicando por la masa de un electrón.",
+        "Dividiendo por la velocidad de la luz.",
+        "Multiplicando por la frecuencia de la onda.",
+        "Dividiendo por la longitud de onda."
+      ],
+      "respuesta": "Multiplicando por la frecuencia de la onda.",
+      "explicacion": "La constante de Planck se utiliza para convertir la frecuencia de una onda en la energía de los fotones. La fórmula es E = hν, donde E es la energía, h es la constante de Planck y ν es la frecuencia de la onda."
+    },
+    {
+      "pregunta": "¿Cómo se describe la constante de gravitación universal?",
+      "opciones": [
+        "Como la relación entre energía y temperatura.",
+        "Como la constante de los gases ideales.",
+        "Como una constante que aparece en la ley de gravitación de Newton.",
+        "Como la constante que mide la velocidad de la luz en el vacío."
+      ],
+      "respuesta": "Como una constante que aparece en la ley de gravitación de Newton.",
+      "explicacion": "La constante de gravitación universal aparece en la ley de gravitación de Newton y describe la fuerza gravitacional entre dos masas. Su valor es 6.674×10^-11 m^3/kg·s^2."
+    },
+    {
+      "pregunta": "¿Qué significa el número de Avogadro en términos de partículas?",
+      "opciones": [
+        "La cantidad de energía en una mol de fotones.",
+        "La masa de un mol de sustancias.",
+        "La cantidad de partículas en un mol de sustancia.",
+        "La velocidad promedio de partículas en un gas."
+      ],
+      "respuesta": "La cantidad de partículas en un mol de sustancia.",
+      "explicacion": "El número de Avogadro representa la cantidad de partículas presentes en un mol de cualquier sustancia. Este número es aproximadamente 6.022×10^23, y es crucial para entender las cantidades en química y física."
+    },
+    {
+      "pregunta": "¿Qué describe la fórmula E = hc/λ en el contexto de la física cuántica?",
+      "opciones": [
+        "La relación entre energía y velocidad.",
+        "La relación entre energía y frecuencia.",
+        "La relación entre energía y longitud de onda.",
+        "La relación entre masa y energía."
+      ],
+      "respuesta": "La relación entre energía y longitud de onda.",
+      "explicacion": "La fórmula E = hc/λ describe la relación entre la energía de un fotón y su longitud de onda en el contexto de la física cuántica. Aquí, h es la constante de Planck, c es la velocidad de la luz, y λ es la longitud de onda del fotón."
+    },
+    {
+      "pregunta": "¿Qué es un nanómetro?",
+      "opciones": [
+        "10^{-12} metros",
+        "10^{-9} metros",
+        "10^{-6} metros",
+        "10^{-3} metros"
+      ],
+      "respuesta": "10^{-9} metros",
+      "explicacion": "Un nanómetro es una unidad de longitud en el sistema métrico que equivale a 10^{-9} metros. Es decir, un nanómetro es una mil millonésima parte de un metro. Esta medida es extremadamente pequeña y se utiliza en campos como la nanotecnología, la biología molecular y la física para describir objetos en la escala atómica y molecular. Por ejemplo, los virus, las proteínas y las longitudes de onda de la luz visible se miden frecuentemente en nanómetros."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En un contexto de bachillerato con una diversidad de niveles de habilidades y conocimientos entre los estudiantes, ¿cuál sería la mejor estrategia para promover el aprendizaje inclusivo y el éxito académico de todos?",
+      "opciones": [
+        "Implementar proyectos interdisciplinarios que fomenten la colaboración entre estudiantes de diferentes niveles.",
+        "Proporcionar tutorías individualizadas según el nivel de habilidad de cada estudiante.",
+        "Organizar grupos homogéneos de acuerdo al rendimiento académico para optimizar la enseñanza.",
+        "Desarrollar un plan de estudios estándar para todos los estudiantes, independientemente de su nivel de habilidad."
+      ],
+      "respuesta": "Implementar proyectos interdisciplinarios que fomenten la colaboración entre estudiantes de diferentes niveles.",
+      "explicacion": "La opción A fomenta la inclusión al permitir que estudiantes con diferentes habilidades trabajen juntos, promoviendo el aprendizaje colaborativo y la diversidad de perspectivas."
+    },
+    {
+      "pregunta": "Ante un aumento en el uso de tecnologías de la información y la comunicación (TIC) en el aprendizaje, ¿qué estrategia sería más efectiva para asegurar la alfabetización digital de los estudiantes?",
+      "opciones": [
+        "Enseñar solo las habilidades básicas necesarias para el uso de software y dispositivos comunes.",
+        "Integrar la enseñanza de habilidades digitales en todas las materias del plan de estudios.",
+        "Ofrecer cursos especializados opcionales para aquellos interesados en tecnología.",
+        "Dejar que los estudiantes desarrollen sus habilidades digitales por su cuenta a través de la exploración autodidacta."
+      ],
+      "respuesta": "Integrar la enseñanza de habilidades digitales en todas las materias del plan de estudios.",
+      "explicacion": "La opción B asegura que todos los estudiantes adquieran habilidades digitales esenciales al incorporarlas en todas las materias, preparándolos para un mundo digitalizado."
+    },
+    {
+      "pregunta": "Frente a la creciente preocupación por el bienestar emocional de los estudiantes de bachillerato, ¿qué estrategia sería más efectiva para apoyar su salud mental?",
+      "opciones": [
+        "Ofrecer talleres ocasionales sobre manejo del estrés y la ansiedad.",
+        "Integrar programas de bienestar emocional en el currículo escolar y proporcionar acceso a servicios de asesoramiento.",
+        "Depender exclusivamente de los padres para abordar la salud mental de los estudiantes fuera del horario escolar.",
+        "Ignorar las preocupaciones sobre el bienestar emocional y centrarse únicamente en el rendimiento académico."
+      ],
+      "respuesta": "Integrar programas de bienestar emocional en el currículo escolar y proporcionar acceso a servicios de asesoramiento.",
+      "explicacion": "La opción B garantiza un apoyo continuo al bienestar emocional al hacerlo parte del currículo y al ofrecer servicios profesionales de asesoramiento."
+    },
+    {
+      "pregunta": "En un contexto donde se observa una falta de habilidades de comunicación efectiva entre los estudiantes de bachillerato, ¿qué estrategia sería más efectiva para mejorar estas habilidades?",
+      "opciones": [
+        "Ofrecer cursos y talleres especializados en habilidades de comunicación fuera del horario escolar.",
+        "Incorporar prácticas de presentación y debate en todas las materias del plan de estudios.",
+        "Dejar que los estudiantes desarrollen sus habilidades de comunicación por su cuenta mediante la participación en actividades extracurriculares.",
+        "Ignorar la importancia de las habilidades de comunicación y centrarse exclusivamente en el contenido académico."
+      ],
+      "respuesta": "Incorporar prácticas de presentación y debate en todas las materias del plan de estudios.",
+      "explicacion": "La opción B asegura que todos los estudiantes practiquen habilidades de comunicación en un entorno académico, lo que les permite desarrollar estas habilidades de manera integral."
+    },
+    {
+      "pregunta": "En un entorno donde se observa una falta de respeto y tolerancia hacia la diversidad de género, ¿qué estrategia sería más efectiva para promover la igualdad de género y la inclusión?",
+      "opciones": [
+        "Implementar programas educativos y talleres que aborden los estereotipos de género y fomenten el respeto y la igualdad.",
+        "Fomentar la segregación de género en actividades escolares para abordar las preocupaciones sobre igualdad.",
+        "Dejar que los estudiantes resuelvan los problemas de discriminación de género por su cuenta sin intervención del personal educativo.",
+        "Limitar la participación de estudiantes de ciertos géneros en actividades escolares para equilibrar las oportunidades entre los géneros."
+      ],
+      "respuesta": "Implementar programas educativos y talleres que aborden los estereotipos de género y fomenten el respeto y la igualdad.",
+      "explicacion": "La opción A propone una intervención educativa directa para abordar los estereotipos de género y promover una cultura escolar de respeto e igualdad de género."
+    },
+     {
+      "pregunta": "En un contexto donde se enfrenta una crisis ambiental global, ¿cuál sería la mejor estrategia para promover la conciencia ambiental entre los estudiantes de bachillerato?",
+      "opciones": [
+        "Ignorar la crisis ambiental y centrarse únicamente en los aspectos académicos del plan de estudios.",
+        "Integrar la educación ambiental en todas las materias y fomentar prácticas sostenibles en el campus escolar.",
+        "Depender exclusivamente de actividades extracurriculares voluntarias relacionadas con el medio ambiente.",
+        "Dejar que los estudiantes desarrollen su conciencia ambiental por su cuenta mediante la investigación personal."
+      ],
+      "respuesta": "Integrar la educación ambiental en todas las materias y fomentar prácticas sostenibles en el campus escolar.",
+      "explicacion": "La opción B promueve la conciencia ambiental al hacerla parte integral del currículo escolar y al fomentar prácticas sostenibles en el entorno escolar."
+    },
+    {
+      "pregunta": "Ante la creciente importancia de las habilidades de colaboración en el ámbito laboral, ¿qué estrategia sería más efectiva para desarrollar estas habilidades entre los estudiantes de bachillerato?",
+      "opciones": [
+        "Fomentar la competencia entre los estudiantes para motivar la excelencia individual.",
+        "Promover proyectos grupales que requieran colaboración y resolución de problemas en equipo.",
+        "Ignorar la importancia de las habilidades de colaboración y centrarse exclusivamente en el aprendizaje individual.",
+        "Dejar que los estudiantes desarrollen habilidades de colaboración por su cuenta mediante la participación en actividades extracurriculares."
+      ],
+      "respuesta": "Promover proyectos grupales que requieran colaboración y resolución de problemas en equipo.",
+      "explicacion": "La opción B promueve el desarrollo de habilidades de colaboración al involucrar a los estudiantes en proyectos grupales que requieren trabajo en equipo y resolución conjunta de problemas."
+    },
+    {
+      "pregunta": "En un contexto de bachillerato donde se observa un aumento en el estrés académico entre los estudiantes, ¿qué estrategia sería más efectiva para promover el bienestar mental?",
+      "opciones": [
+        "Aumentar la carga académica para preparar mejor a los estudiantes para la universidad.",
+        "Implementar programas de manejo del estrés y promover un equilibrio saludable entre el trabajo escolar y otras actividades.",
+        "Ignorar las preocupaciones sobre el bienestar mental y centrarse únicamente en el rendimiento académico.",
+        "Depender exclusivamente de los padres para abordar el bienestar mental de los estudiantes fuera del horario escolar."
+      ],
+      "respuesta": "Implementar programas de manejo del estrés y promover un equilibrio saludable entre el trabajo escolar y otras actividades.",
+      "explicacion": "La opción B asegura un enfoque integral al bienestar mental al ofrecer programas específicos para manejar el estrés y al promover un equilibrio saludable entre la vida académica y personal."
+    },
+    {
+      "pregunta": "Frente a la necesidad de preparar a los estudiantes para un mundo globalizado, ¿qué estrategia sería más efectiva para fomentar la comprensión intercultural en un contexto de bachillerato?",
+      "opciones": [
+        "Ignorar las diferencias culturales y centrarse exclusivamente en el contenido académico.",
+        "Integrar estudios de historia y cultura de diferentes países en el plan de estudios.",
+        "Organizar viajes de estudio internacionales para que los estudiantes experimenten diferentes culturas.",
+        "Promover la asimilación cultural de los estudiantes de diferentes orígenes para crear una identidad escolar uniforme."
+      ],
+      "respuesta": "Integrar estudios de historia y cultura de diferentes países en el plan de estudios.",
+      "explicacion": "La opción B fomenta la comprensión intercultural al integrar estudios de historia y cultura de diferentes países en el plan de estudios, permitiendo a los estudiantes conocer y apreciar la diversidad cultural."
+    },
+    {
+      "pregunta": "Ante el desafío de preparar a los estudiantes para el mercado laboral en constante evolución, ¿qué estrategia sería más efectiva para fomentar la innovación y la creatividad en un contexto de bachillerato?",
+      "opciones": [
+        "Enseñar métodos de resolución de problemas convencionales sin fomentar la creatividad.",
+        "Promover proyectos de investigación y desarrollo que requieran soluciones creativas y originales.",
+        "Ignorar la importancia de la innovación y centrarse exclusivamente en el dominio de conocimientos teóricos.",
+        "Depender exclusivamente de actividades extracurriculares para desarrollar habilidades de innovación y creatividad."
+      ],
+      "respuesta": "Promover proyectos de investigación y desarrollo que requieran soluciones creativas y originales.",
+      "explicacion": "La opción B fomenta la innovación y la creatividad al involucrar a los estudiantes en proyectos que requieren pensar de manera original y encontrar soluciones creativas a problemas complejos."
+    }
+  ]
+}

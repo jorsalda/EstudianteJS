@@ -1,0 +1,16 @@
+{
+  "preguntas": [
+    {
+      "contexto": "En un laboratorio de química, se ha diseñado un contenedor en forma de tetraedro regular para almacenar un nuevo compuesto químico. Cada una de las aristas del tetraedro mide 10 cm. Se te pide determinar el volumen del contenedor.",
+      "pregunta": "¿Cuál es el volumen del contenedor?",
+      "opciones": [
+        "100 cm³",
+        "117.85 cm³",
+        "150 cm³",
+        "200 cm³"
+      ],
+      "respuesta": "117.85 cm³",
+      "explicacion": "El volumen de un tetraedro regular con aristas de 10 cm se calcula usando la fórmula V = (a³√2)/12, donde a es la longitud de la arista. Aplicando esta fórmula, el volumen es aproximadamente 117.85 cm³."
+    }
+  ]
+}

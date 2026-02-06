@@ -1,0 +1,333 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es un experimento aleatorio?",
+      "opciones": [
+        "Un proceso para realizar observaciones con resultados predecibles",
+        "Un proceso para recopilar datos sobre un fenómeno específico con resultados inciertos",
+        "Un método para medir eventos seguros",
+        "Una técnica para asegurar resultados deseados"
+      ],
+      "respuesta": "Un proceso para recopilar datos sobre un fenómeno específico con resultados inciertos",
+      "explicacion": "Un experimento aleatorio es un proceso para realizar observaciones y recopilar datos sobre un fenómeno específico con resultados inciertos."
+    },
+    {
+      "pregunta": "¿Qué es un evento en estadística?",
+      "opciones": [
+        "Un resultado predecible",
+        "Una ocurrencia específica dentro de un experimento aleatorio",
+        "Una serie de ensayos repetidos",
+        "Un conjunto de todos los posibles resultados"
+      ],
+      "respuesta": "Una ocurrencia específica dentro de un experimento aleatorio",
+      "explicacion": "Un evento es una ocurrencia específica dentro de un experimento aleatorio."
+    },
+    {
+      "pregunta": "¿Qué conforma el espacio muestral en un experimento aleatorio?",
+      "opciones": [
+        "Todos los eventos posibles",
+        "Solo los eventos favorables",
+        "Los resultados más probables",
+        "Los eventos complementarios"
+      ],
+      "respuesta": "Todos los eventos posibles",
+      "explicacion": "El espacio muestral es el conjunto de todos los posibles eventos en un experimento aleatorio."
+    },
+    {
+      "pregunta": "¿Cómo se nombran los eventos en un espacio muestral?",
+      "opciones": [
+        "Con números",
+        "Con letras minúsculas",
+        "Con letras mayúsculas",
+        "Con símbolos especiales"
+      ],
+      "respuesta": "Con letras mayúsculas",
+      "explicacion": "Cada uno de los eventos del espacio muestral se puede nombrar utilizando una letra mayúscula del abecedario."
+    },
+    {
+      "pregunta": "¿Cómo se nombran las probabilidades en estadística?",
+      "opciones": [
+        "Con la letra P y el evento asociado entre paréntesis",
+        "Con un número decimal",
+        "Con letras minúsculas",
+        "Con símbolos matemáticos"
+      ],
+      "respuesta": "Con la letra P y el evento asociado entre paréntesis",
+      "explicacion": "Las probabilidades se nombran con la letra mayúscula P y el nombre del evento asociado entre paréntesis."
+    },
+    {
+      "pregunta": "¿Qué es un evento simple o elemental?",
+      "opciones": [
+        "Un conjunto de múltiples resultados",
+        "Un resultado individual dentro del espacio muestral",
+        "Un evento compuesto por otros eventos",
+        "Un evento que no puede ocurrir"
+      ],
+      "respuesta": "Un resultado individual dentro del espacio muestral",
+      "explicacion": "Los eventos elementales son los resultados individuales posibles dentro del espacio muestral de un experimento aleatorio."
+    },
+    {
+      "pregunta": "¿Qué son los eventos compuestos?",
+      "opciones": [
+        "Eventos que no pueden ocurrir",
+        "Eventos con una sola posibilidad",
+        "Combinaciones de eventos elementales",
+        "Eventos seguros"
+      ],
+      "respuesta": "Combinaciones de eventos elementales",
+      "explicacion": "Los eventos compuestos son combinaciones de eventos elementales."
+    },
+    {
+      "pregunta": "¿Qué son las uniones de eventos?",
+      "opciones": [
+        "Eventos que ocurren si todos los eventos individuales suceden simultáneamente",
+        "Eventos que no pueden ocurrir juntos",
+        "Eventos que ocurren si al menos uno de los eventos que los conforman sucede",
+        "Eventos con resultados idénticos"
+      ],
+      "respuesta": "Eventos que ocurren si al menos uno de los eventos que los conforman sucede",
+      "explicacion": "Los eventos uniones son eventos que ocurren si al menos uno de los eventos que los conforman sucede."
+    },
+    {
+      "pregunta": "¿Qué son las intersecciones de eventos?",
+      "opciones": [
+        "Eventos que ocurren si todos los eventos individuales suceden simultáneamente",
+        "Eventos con resultados diferentes",
+        "Eventos que nunca ocurren juntos",
+        "Eventos con una sola posibilidad"
+      ],
+      "respuesta": "Eventos que ocurren si todos los eventos individuales suceden simultáneamente",
+      "explicacion": "Los eventos intersecciones son eventos que ocurren si todos los eventos que los conforman suceden al mismo tiempo."
+    },
+    {
+      "pregunta": "¿Qué son los eventos complementarios?",
+      "opciones": [
+        "Eventos que siempre ocurren juntos",
+        "Eventos con resultados iguales",
+        "Eventos que consisten en todos los resultados que no están en un evento dado",
+        "Eventos con una sola posibilidad"
+      ],
+      "respuesta": "Eventos que consisten en todos los resultados que no están en un evento dado",
+      "explicacion": "Los eventos complementarios son aquellos que consisten en todos los resultados que no están en un evento dado."
+    },
+    {
+      "pregunta": "¿Qué representa la probabilidad de un evento?",
+      "opciones": [
+        "La certeza de que un evento no ocurrirá",
+        "La medida numérica de la posibilidad de que ocurra un evento",
+        "La frecuencia de ocurrencia de un evento",
+        "El número total de resultados posibles"
+      ],
+      "respuesta": "La medida numérica de la posibilidad de que ocurra un evento",
+      "explicacion": "La probabilidad es una medida numérica que indica la posibilidad de ocurrencia de un evento específico."
+    },
+    {
+      "pregunta": "¿Qué establece el principio fundamental de conteo?",
+      "opciones": [
+        "La probabilidad de eventos independientes",
+        "El número total de resultados posibles en experimentos secuenciales",
+        "La suma de las probabilidades de todos los eventos",
+        "La diferencia entre eventos simples y compuestos"
+      ],
+      "respuesta": "El número total de resultados posibles en experimentos secuenciales",
+      "explicacion": "El principio fundamental de conteo establece el número total de resultados posibles en experimentos secuenciales."
+    },
+    {
+      "pregunta": "¿Qué es la regla de Laplace?",
+      "opciones": [
+        "Un método para calcular la probabilidad de eventos no equiprobables",
+        "Un enfoque para determinar el número total de resultados posibles",
+        "Una fórmula para calcular la probabilidad de eventos equiprobables",
+        "Una técnica para asegurar resultados deseados"
+      ],
+      "respuesta": "Una fórmula para calcular la probabilidad de eventos equiprobables",
+      "explicacion": "La regla de Laplace es una fórmula para calcular la probabilidad de un evento cuando todos los resultados son igualmente probables."
+    },
+    {
+      "pregunta": "¿Qué es el espacio muestral en el experimento de lanzar una moneda y un dado?",
+      "opciones": [
+        "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6), (S,1), (S,2), (S,3), (S,4), (S,5), (S,6)}",
+        "{1, 2, 3, 4, 5, 6}",
+        "{Cara, Sello}",
+        "{Roja, Azul, Verde}"
+      ],
+      "respuesta": "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6), (S,1), (S,2), (S,3), (S,4), (S,5), (S,6)}",
+      "explicacion": "El espacio muestral en el experimento de lanzar una moneda y un dado incluye todas las combinaciones posibles de resultados de ambos."
+    },
+    {
+      "pregunta": "¿Cuáles son los eventos simples en el experimento de lanzar una moneda y un dado?",
+      "opciones": [
+        "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6)}",
+        "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6), (S,1), (S,2), (S,3), (S,4), (S,5), (S,6)}",
+        "{(C,1), (S,1)}",
+        "{(C,5), (C,6)}"
+      ],
+      "respuesta": "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6), (S,1), (S,2), (S,3), (S,4), (S,5), (S,6)}",
+      "explicacion": "Los eventos simples en el experimento de lanzar una moneda y un dado son cada una de las combinaciones individuales posibles."
+    },
+     {
+      "pregunta": "¿Qué es un experimento aleatorio?",
+      "opciones": [
+        "Un proceso para realizar observaciones con resultados predecibles",
+        "Un proceso para recopilar datos sobre un fenómeno específico con resultados inciertos",
+        "Un método para medir eventos seguros",
+        "Una técnica para asegurar resultados deseados"
+      ],
+      "respuesta": "Un proceso para recopilar datos sobre un fenómeno específico con resultados inciertos",
+      "explicacion": "Un experimento aleatorio es un proceso para realizar observaciones y recopilar datos sobre un fenómeno específico con resultados inciertos."
+    },
+    {
+      "pregunta": "¿Qué es un evento en estadística?",
+      "opciones": [
+        "Un resultado predecible",
+        "Una ocurrencia específica dentro de un experimento aleatorio",
+        "Una serie de ensayos repetidos",
+        "Un conjunto de todos los posibles resultados"
+      ],
+      "respuesta": "Una ocurrencia específica dentro de un experimento aleatorio",
+      "explicacion": "Un evento es una ocurrencia específica dentro de un experimento aleatorio."
+    },
+    {
+      "pregunta": "¿Qué conforma el espacio muestral en un experimento aleatorio?",
+      "opciones": [
+        "Todos los eventos posibles",
+        "Solo los eventos favorables",
+        "Los resultados más probables",
+        "Los eventos complementarios"
+      ],
+      "respuesta": "Todos los eventos posibles",
+      "explicacion": "El espacio muestral es el conjunto de todos los posibles eventos en un experimento aleatorio."
+    },
+    {
+      "pregunta": "¿Cómo se nombran los eventos en un espacio muestral?",
+      "opciones": [
+        "Con números",
+        "Con letras minúsculas",
+        "Con letras mayúsculas",
+        "Con símbolos especiales"
+      ],
+      "respuesta": "Con letras mayúsculas",
+      "explicacion": "Cada uno de los eventos del espacio muestral se puede nombrar utilizando una letra mayúscula del abecedario."
+    },
+    {
+      "pregunta": "¿Cómo se nombran las probabilidades en estadística?",
+      "opciones": [
+        "Con la letra P y el evento asociado entre paréntesis",
+        "Con un número decimal",
+        "Con letras minúsculas",
+        "Con símbolos matemáticos"
+      ],
+      "respuesta": "Con la letra P y el evento asociado entre paréntesis",
+      "explicacion": "Las probabilidades se nombran con la letra mayúscula P y el nombre del evento asociado entre paréntesis."
+    },
+    {
+      "pregunta": "¿Qué es un evento simple o elemental?",
+      "opciones": [
+        "Un conjunto de múltiples resultados",
+        "Un resultado individual dentro del espacio muestral",
+        "Un evento compuesto por otros eventos",
+        "Un evento que no puede ocurrir"
+      ],
+      "respuesta": "Un resultado individual dentro del espacio muestral",
+      "explicacion": "Los eventos elementales son los resultados individuales posibles dentro del espacio muestral de un experimento aleatorio."
+    },
+    {
+      "pregunta": "¿Qué son los eventos compuestos?",
+      "opciones": [
+        "Eventos que no pueden ocurrir",
+        "Eventos con una sola posibilidad",
+        "Combinaciones de eventos elementales",
+        "Eventos seguros"
+      ],
+      "respuesta": "Combinaciones de eventos elementales",
+      "explicacion": "Los eventos compuestos son combinaciones de eventos elementales."
+    },
+    {
+      "pregunta": "¿Qué son las uniones de eventos?",
+      "opciones": [
+        "Eventos que ocurren si todos los eventos individuales suceden simultáneamente",
+        "Eventos que no pueden ocurrir juntos",
+        "Eventos que ocurren si al menos uno de los eventos que los conforman sucede",
+        "Eventos con resultados idénticos"
+      ],
+      "respuesta": "Eventos que ocurren si al menos uno de los eventos que los conforman sucede",
+      "explicacion": "Los eventos uniones son eventos que ocurren si al menos uno de los eventos que los conforman sucede."
+    },
+    {
+      "pregunta": "¿Qué son las intersecciones de eventos?",
+      "opciones": [
+        "Eventos que ocurren si todos los eventos individuales suceden simultáneamente",
+        "Eventos con resultados diferentes",
+        "Eventos que nunca ocurren juntos",
+        "Eventos con una sola posibilidad"
+      ],
+      "respuesta": "Eventos que ocurren si todos los eventos individuales suceden simultáneamente",
+      "explicacion": "Los eventos intersecciones son eventos que ocurren si todos los eventos que los conforman suceden al mismo tiempo."
+    },
+    {
+      "pregunta": "¿Qué son los eventos complementarios?",
+      "opciones": [
+        "Eventos que siempre ocurren juntos",
+        "Eventos con resultados iguales",
+        "Eventos que consisten en todos los resultados que no están en un evento dado",
+        "Eventos con una sola posibilidad"
+      ],
+      "respuesta": "Eventos que consisten en todos los resultados que no están en un evento dado",
+      "explicacion": "Los eventos complementarios son aquellos que consisten en todos los resultados que no están en un evento dado."
+    },
+    {
+      "pregunta": "¿Qué representa la probabilidad de un evento?",
+      "opciones": [
+        "La certeza de que un evento no ocurrirá",
+        "La medida numérica de la posibilidad de que ocurra un evento",
+        "La frecuencia de ocurrencia de un evento",
+        "El número total de resultados posibles"
+      ],
+      "respuesta": "La medida numérica de la posibilidad de que ocurra un evento",
+      "explicacion": "La probabilidad es una medida numérica que indica la posibilidad de ocurrencia de un evento específico."
+    },
+    {
+      "pregunta": "¿Qué establece el principio fundamental de conteo?",
+      "opciones": [
+        "La probabilidad de eventos independientes",
+        "El número total de resultados posibles en experimentos secuenciales",
+        "La suma de las probabilidades de todos los eventos",
+        "La diferencia entre eventos simples y compuestos"
+      ],
+      "respuesta": "El número total de resultados posibles en experimentos secuenciales",
+      "explicacion": "El principio fundamental de conteo establece el número total de resultados posibles en experimentos secuenciales."
+    },
+    {
+      "pregunta": "¿Qué es la regla de Laplace?",
+      "opciones": [
+        "Un método para calcular la probabilidad de eventos no equiprobables",
+        "Un enfoque para determinar el número total de resultados posibles",
+        "Una fórmula para calcular la probabilidad de eventos equiprobables",
+        "Una técnica para asegurar resultados deseados"
+      ],
+      "respuesta": "Una fórmula para calcular la probabilidad de eventos equiprobables",
+      "explicacion": "La regla de Laplace es una fórmula para calcular la probabilidad de un evento cuando todos los resultados son igualmente probables."
+    },
+    {
+      "pregunta": "¿Qué es el espacio muestral en el experimento de lanzar una moneda y un dado?",
+      "opciones": [
+        "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6), (S,1), (S,2), (S,3), (S,4), (S,5), (S,6)}",
+        "{1, 2, 3, 4, 5, 6}",
+        "{Cara, Sello}",
+        "{Roja, Azul, Verde}"
+      ],
+      "respuesta": "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6), (S,1), (S,2), (S,3), (S,4), (S,5), (S,6)}",
+      "explicacion": "El espacio muestral en el experimento de lanzar una moneda y un dado incluye todas las combinaciones posibles de resultados de ambos."
+    },
+    {
+      "pregunta": "¿Cuáles son los eventos simples en el experimento de lanzar una moneda y un dado?",
+      "opciones": [
+        "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6)}",
+        "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6), (S,1), (S,2), (S,3), (S,4), (S,5), (S,6)}",
+        "{(C,1), (S,1)}",
+        "{(C,5), (C,6)}"
+      ],
+      "respuesta": "{(C,1), (C,2), (C,3), (C,4), (C,5), (C,6), (S,1), (S,2), (S,3), (S,4), (S,5), (S,6)}",
+      "explicacion": "Los eventos simples en el experimento de lanzar una moneda y un dado son cada una de las combinaciones individuales posibles."
+    }
+  ]}

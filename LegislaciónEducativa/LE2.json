@@ -1,0 +1,64 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué significa que la libertad de cátedra sea 'absoluta y sin restricciones'?",
+      "opciones": [
+        "Que los docentes pueden enseñar cualquier cosa sin tener en cuenta los principios éticos.",
+        "Que los docentes tienen total autonomía para enseñar y discutir cualquier tema sin interferencia externa.",
+        "Que los docentes deben seguir estrictamente las directrices impuestas por las autoridades gubernamentales.",
+        "Que los docentes tienen restricciones en la elección de los temas a enseñar."
+      ],
+      "respuesta": "Que los docentes tienen total autonomía para enseñar y discutir cualquier tema sin interferencia externa."
+    },
+    {
+      "pregunta": "¿Qué implica la libertad de cátedra sin restricciones para los profesores?",
+      "opciones": [
+        "Implica que los profesores deben seguir un plan de estudios predeterminado.",
+        "Implica que los profesores tienen que elegir temas controvertidos para sus clases.",
+        "Implica que los profesores tienen la capacidad de seleccionar métodos de enseñanza y contenidos según su criterio.",
+        "Implica que los profesores no tienen autonomía en el aula."
+      ],
+      "respuesta": "Implica que los profesores tienen la capacidad de seleccionar métodos de enseñanza y contenidos según su criterio."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la libertad de cátedra sin restricciones según el párrafo?",
+      "opciones": [
+        "Promover la uniformidad de ideas en el aula.",
+        "Fomentar la censura de temas sensibles.",
+        "Promover la diversidad de ideas y el pensamiento crítico.",
+        "Restringir la autonomía de los profesores."
+      ],
+      "respuesta": "Promover la diversidad de ideas y el pensamiento crítico."
+    },
+    {
+      "pregunta": "¿Cuál es el marco legal en Colombia que respalda la libertad de cátedra sin restricciones?",
+      "opciones": [
+        "Ley General de Educación",
+        "Ley de Censura Educativa",
+        "Ley de Restricción de Contenidos",
+        "Decreto de Control Académico"
+      ],
+      "respuesta": "Ley General de Educación"
+    },
+    {
+      "pregunta": "¿Qué principios fundamentales garantiza la Ley General de Educación en relación con la libertad de cátedra?",
+      "opciones": [
+        "La exclusividad de los temas enseñados",
+        "La autonomía de los docentes en la selección de contenidos y métodos de enseñanza",
+        "La supervisión directa del gobierno en el aula",
+        "La restricción de contenidos sensibles"
+      ],
+      "respuesta": "La autonomía de los docentes en la selección de contenidos y métodos de enseñanza"
+    },
+    {
+      "pregunta": "¿Cuál es el propósito principal de la disposición legal sobre la libertad de cátedra en la Ley General de Educación?",
+      "opciones": [
+        "Promover la censura de ideas divergentes",
+        "Proteger la libertad académica y promover el pensamiento crítico",
+        "Restringir la enseñanza de ciertas materias",
+        "Controlar el discurso en el aula"
+      ],
+      "respuesta": "Proteger la libertad académica y promover el pensamiento crítico"
+    }
+  ]
+}

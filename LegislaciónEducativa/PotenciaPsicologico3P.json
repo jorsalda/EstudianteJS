@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la 'Ley de Infancia y Adolescencia' en Colombia?",
+      "opciones": [
+        "Proteger y garantizar los derechos de los niños, niñas y adolescentes.",
+        "Establecer normas de comportamiento para los niños en el ámbito escolar.",
+        "Regular el uso de dispositivos electrónicos por parte de los niños y adolescentes.",
+        "Determinar la duración de las vacaciones escolares para los niños y adolescentes."
+      ],
+      "respuesta": "Proteger y garantizar los derechos de los niños, niñas y adolescentes.",
+      "explicacion": "El objetivo principal de la Ley de Infancia y Adolescencia en Colombia es proteger y garantizar los derechos de los niños, niñas y adolescentes, asegurando su bienestar y desarrollo integral."
+    },
+    {
+      "pregunta": "¿Qué establece la 'Ley de Infancia y Adolescencia' en relación con el derecho a la educación de los niños y adolescentes?",
+      "opciones": [
+        "Garantiza el acceso a una educación de calidad y promueve la permanencia en el sistema educativo.",
+        "Limita el acceso a la educación solo a aquellos niños y adolescentes que pueden pagar por ella.",
+        "Determina la duración de la jornada escolar en las instituciones educativas.",
+        "Regula el uso de uniformes escolares por parte de los niños y adolescentes."
+      ],
+      "respuesta": "Garantiza el acceso a una educación de calidad y promueve la permanencia en el sistema educativo.",
+      "explicacion": "La Ley de Infancia y Adolescencia en Colombia garantiza el acceso a una educación de calidad y promueve la permanencia en el sistema educativo para todos los niños y adolescentes, independientemente de su condición socioeconómica u otras características."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de la 'Ley de Responsabilidad Penal para Adolescentes'?",
+      "opciones": [
+        "Establecer normas para la responsabilidad penal de los adolescentes que cometen infracciones.",
+        "Regular el horario de salida de los adolescentes durante los fines de semana.",
+        "Determinar la cantidad de horas de trabajo permitidas para los adolescentes.",
+        "Promover la participación de los adolescentes en actividades deportivas y culturales."
+      ],
+      "respuesta": "Establecer normas para la responsabilidad penal de los adolescentes que cometen infracciones.",
+      "explicacion": "La Ley de Responsabilidad Penal para Adolescentes tiene como propósito establecer normas y procedimientos para la responsabilidad penal de los adolescentes que cometen infracciones, garantizando sus derechos y promoviendo su rehabilitación y reinserción social."
+    },
+    {
+      "pregunta": "¿Qué implica el derecho a la participación de los niños y adolescentes según la Ley de Infancia y Adolescencia?",
+      "opciones": [
+        "El derecho a expresar su opinión y ser escuchados en todos los asuntos que les afecten.",
+        "El derecho a recibir una educación de calidad sin discriminación.",
+        "El derecho a recibir atención médica gratuita en caso de enfermedad.",
+        "El derecho a recibir una alimentación balanceada y nutritiva."
+      ],
+      "respuesta": "El derecho a expresar su opinión y ser escuchados en todos los asuntos que les afecten.",
+      "explicacion": "Según la Ley de Infancia y Adolescencia en Colombia, los niños y adolescentes tienen el derecho a participar activamente en todos los asuntos que les afecten, expresando su opinión y siendo escuchados en la toma de decisiones que les conciernen."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de la 'Ley de Adopción' en Colombia?",
+      "opciones": [
+        "Regular el proceso de adopción de niños y niñas en situación de vulnerabilidad.",
+        "Establecer normas para el cuidado de niños y niñas en instituciones de acogida.",
+        "Determinar la edad mínima para contraer matrimonio.",
+        "Promover la lactancia materna como la principal forma de alimentación de los niños y niñas."
+      ],
+      "respuesta": "Regular el proceso de adopción de niños y niñas en situación de vulnerabilidad.",
+      "explicacion": "La Ley de Adopción en Colombia tiene como propósito regular el proceso de adopción de niños y niñas en situación de vulnerabilidad, garantizando sus derechos y promoviendo su integración en familias idóneas que les brinden amor, cuidado y protección."
+    },
+    {
+      "pregunta": "¿Qué establece la 'Ley de Protección Integral a la Familia'?",
+      "opciones": [
+        "Establece normas para proteger y fortalecer la unidad familiar como base fundamental de la sociedad.",
+        "Determina las responsabilidades de los padres en la crianza y educación de sus hijos.",
+        "Regula el acceso de los niños y adolescentes a servicios de salud de calidad.",
+        "Promueve la participación de las familias en actividades recreativas y culturales."
+      ],
+      "respuesta": "Establece normas para proteger y fortalecer la unidad familiar como base fundamental de la sociedad.",
+      "explicacion": "La Ley de Protección Integral a la Familia establece normas para proteger y fortalecer la unidad familiar como base fundamental de la sociedad, garantizando el bienestar y desarrollo integral de sus miembros, especialmente de los niños y adolescentes."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de la 'Ley de Prevención del Trabajo Infantil'?",
+      "opciones": [
+        "Prevenir y erradicar el trabajo infantil en todas sus formas.",
+        "Regular el horario laboral de los niños y adolescentes.",
+        "Determinar la cantidad de horas de trabajo permitidas para los niños y adolescentes.",
+        "Promover la participación de los niños y adolescentes en actividades recreativas y deportivas."
+      ],
+      "respuesta": "Prevenir y erradicar el trabajo infantil en todas sus formas.",
+      "explicacion": "El propósito de la Ley de Prevención del Trabajo Infantil en Colombia es prevenir y erradicar el trabajo infantil en todas sus formas, protegiendo los derechos de los niños y adolescentes y promoviendo su acceso a una educación de calidad y a oportunidades de desarrollo integral."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de la 'Ley de Protección de la Niñez y la Adolescencia'?",
+      "opciones": [
+        "Proteger y garantizar los derechos de los niños, niñas y adolescentes en todas las áreas de su vida.",
+        "Regular el acceso de los niños y adolescentes a servicios de salud de calidad.",
+        "Determinar la cantidad de horas de trabajo permitidas para los niños y adolescentes.",
+        "Promover la participación de los niños y adolescentes en actividades recreativas y deportivas."
+      ],
+      "respuesta": "Proteger y garantizar los derechos de los niños, niñas y adolescentes en todas las áreas de su vida.",
+      "explicacion": "La Ley de Protección de la Niñez y la Adolescencia tiene como propósito proteger y garantizar los derechos de los niños, niñas y adolescentes en todas las áreas de su vida, incluyendo la salud, la educación, la familia, la cultura, el deporte y el tiempo libre, entre otros."
+    },
+    {
+      "pregunta": "¿Qué establece la 'Ley de Alimentación Escolar' en Colombia?",
+      "opciones": [
+        "Garantiza el acceso a una alimentación balanceada y nutritiva para todos los niños y adolescentes en instituciones educativas.",
+        "Regula el horario de las comidas en las instituciones educativas.",
+        "Determina los alimentos que deben incluirse en el menú escolar.",
+        "Promueve la participación de los niños y adolescentes en la preparación de alimentos."
+      ],
+      "respuesta": "Garantiza el acceso a una alimentación balanceada y nutritiva para todos los niños y adolescentes en instituciones educativas.",
+      "explicacion": "La Ley de Alimentación Escolar en Colombia garantiza el acceso a una alimentación balanceada y nutritiva para todos los niños y adolescentes matriculados en instituciones educativas, como parte de su derecho a una educación de calidad y a una vida saludable."
+    },
+    {
+      "pregunta": "¿Qué establece la 'Ley de Maternidad y Paternidad Responsable'?",
+      "opciones": [
+        "Establece normas para promover la planificación familiar y la crianza responsable.",
+        "Regula el proceso de adopción de niños y niñas en situación de vulnerabilidad.",
+        "Determina las responsabilidades de los padres en la crianza y educación de sus hijos.",
+        "Promueve la lactancia materna como la principal forma de alimentación de los niños y niñas."
+      ],
+      "respuesta": "Establece normas para promover la planificación familiar y la crianza responsable.",
+      "explicacion": "La Ley de Maternidad y Paternidad Responsable establece normas para promover la planificación familiar y la crianza responsable, garantizando el ejercicio de los derechos sexuales y reproductivos de las personas y promoviendo la igualdad de género y el bienestar de la familia."
+    }
+  ]
+}

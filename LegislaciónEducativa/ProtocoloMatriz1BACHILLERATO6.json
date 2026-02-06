@@ -1,0 +1,180 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En una institución educativa que enfatiza el uso innovador de materiales y la coherencia con los propósitos del PEI, ¿qué acción reflejaría un nivel avanzado en ambos aspectos?",
+      "opciones": [
+        "Explorar nuevas tecnologías y materiales educativos, integrándolos de manera efectiva con los propósitos y valores del PEI.",
+        "Utilizar únicamente los materiales recomendados por la institución y seguir el currículo estándar sin innovación.",
+        "Participar en talleres anuales sobre tecnología educativa pero sin implementar cambios significativos en los materiales educativos.",
+        "Desconocer los propósitos del PEI y continuar con un enfoque tradicional en la selección de materiales educativos."
+      ],
+      "respuesta": "Explorar nuevas tecnologías y materiales educativos, integrándolos de manera efectiva con los propósitos y valores del PEI.",
+      "explicacion": "La opción A demuestra un compromiso activo con la innovación en el uso de materiales educativos y la coherencia con los propósitos del PEI, reflejando un nivel avanzado en ambos aspectos evaluados."
+    },
+    {
+      "pregunta": "En una escuela que promueve la participación activa en la comunidad profesional, ¿qué acción demostraría un nivel satisfactorio en este aspecto?",
+      "opciones": [
+        "Participar en grupos de estudio con colegas de otras instituciones para discutir prácticas educativas y compartir recursos.",
+        "Asistir a una reunión anual de la comunidad profesional organizada por la institución.",
+        "Leer artículos educativos en línea ocasionalmente pero sin participar en actividades grupales.",
+        "No participar en ninguna actividad de desarrollo profesional fuera de las obligaciones contractuales."
+      ],
+      "respuesta": "Participar en grupos de estudio con colegas de otras instituciones para discutir prácticas educativas y compartir recursos.",
+      "explicacion": "La opción A refleja una participación activa y colaborativa en la comunidad profesional, mostrando un nivel satisfactorio en este aspecto evaluado."
+    },
+    {
+      "pregunta": "En un contexto donde se busca fortalecer la coherencia con los propósitos del PEI, ¿qué acción debería tomar un docente para demostrar un nivel mínimo en este aspecto?",
+      "opciones": [
+        "Seguir estrictamente el plan de estudios establecido por la institución sin cuestionar los propósitos del PEI.",
+        "Participar en reuniones anuales para discutir los objetivos del PEI pero sin implementar cambios en su práctica educativa.",
+        "Desconocer los propósitos del PEI y no alinear sus estrategias de enseñanza con los valores institucionales.",
+        "Hacer ajustes menores en las actividades de clase sin considerar los propósitos del PEI."
+      ],
+      "respuesta": "Desconocer los propósitos del PEI y no alinear sus estrategias de enseñanza con los valores institucionales.",
+      "explicacion": "La opción C indica un nivel mínimo al demostrar falta de conocimiento y alineación con los propósitos del PEI en la práctica educativa."
+    },
+    {
+      "pregunta": "¿Qué acción demostraría un nivel inferior en el uso de materiales educativos y la participación en la comunidad profesional?",
+      "opciones": [
+        "Utilizar solo los materiales educativos básicos proporcionados por la institución y no participar en actividades de desarrollo profesional.",
+        "Adaptar ocasionalmente los materiales educativos pero no explorar nuevas tecnologías o recursos educativos.",
+        "No asistir a reuniones anuales de la comunidad profesional y no buscar oportunidades de crecimiento profesional.",
+        "Experimentar con materiales educativos nuevos pero sin integrarlos con los propósitos del PEI."
+      ],
+      "respuesta": "Utilizar solo los materiales educativos básicos proporcionados por la institución y no participar en actividades de desarrollo profesional.",
+      "explicacion": "La opción A refleja un nivel inferior al demostrar una falta de uso efectivo de materiales educativos y una participación limitada en la comunidad profesional."
+    },
+    {
+      "pregunta": "En una institución que enfatiza el uso innovador de materiales educativos, ¿qué acción demostraría un nivel satisfactorio en este aspecto?",
+      "opciones": [
+        "Explorar y experimentar con nuevas tecnologías y recursos educativos para enriquecer la experiencia de aprendizaje de los estudiantes.",
+        "Utilizar únicamente los materiales tradicionales recomendados por la institución sin buscar alternativas innovadoras.",
+        "Asistir a talleres anuales sobre tecnología educativa pero sin implementar cambios significativos en el uso de materiales.",
+        "Desconocer los materiales educativos disponibles y no aprovechar recursos externos."
+      ],
+      "respuesta": "Explorar y experimentar con nuevas tecnologías y recursos educativos para enriquecer la experiencia de aprendizaje de los estudiantes.",
+      "explicacion": "La opción A indica un nivel satisfactorio al demostrar una disposición activa para innovar en el uso de materiales educativos, alineándose con los objetivos institucionales."
+    },
+    {
+      "pregunta": "En una escuela que fomenta la participación en la comunidad profesional, ¿qué acción reflejaría un nivel avanzado en este aspecto?",
+      "opciones": [
+        "Organizar y liderar talleres y conferencias para colegas sobre prácticas educativas innovadoras.",
+        "Asistir a reuniones de la comunidad profesional organizadas por la institución pero sin participar activamente en discusiones.",
+        "Leer artículos educativos en línea ocasionalmente pero no compartir recursos ni experiencias con colegas.",
+        "No participar en ninguna actividad de desarrollo profesional fuera de las obligaciones contractuales."
+      ],
+      "respuesta": "Organizar y liderar talleres y conferencias para colegas sobre prácticas educativas innovadoras.",
+      "explicacion": "La opción A muestra un compromiso activo y liderazgo en la comunidad profesional al organizar eventos y compartir conocimientos, reflejando un nivel avanzado en este aspecto evaluado."
+    },
+    {
+      "pregunta": "¿Qué acción demostraría un nivel mínimo en la coherencia con los propósitos del PEI en una institución educativa?",
+      "opciones": [
+        "Conocer los propósitos del PEI pero no integrar estrategias educativas que los apoyen de manera efectiva.",
+        "Seguir estrictamente el currículo estándar sin hacer referencia a los propósitos del PEI.",
+        "Participar en reuniones anuales para discutir el PEI pero sin implementar cambios significativos en la práctica educativa.",
+        "Desconocer los propósitos del PEI y no mostrar interés en entenderlos."
+      ],
+      "respuesta": "Desconocer los propósitos del PEI y no mostrar interés en entenderlos.",
+      "explicacion": "La opción D indica un nivel mínimo al demostrar una falta de conocimiento y compromiso con los propósitos del PEI en la práctica educativa."
+    },
+    {
+      "pregunta": "En un contexto donde se busca fortalecer la participación en la comunidad profesional, ¿qué acción debería tomar un docente para demostrar un nivel satisfactorio en este aspecto?",
+      "opciones": [
+        "Contribuir regularmente con artículos y estudios de caso a revistas profesionales y participar en redes educativas fuera de la institución.",
+        "Asistir a reuniones anuales de la comunidad profesional pero sin participar en actividades adicionales.",
+        "Leer artículos educativos en línea ocasionalmente pero sin aplicar nuevas ideas en la práctica educativa.",
+        "No participar en ninguna actividad profesional fuera de las obligaciones contractuales."
+      ],
+      "respuesta": "Contribuir regularmente con artículos y estudios de caso a revistas profesionales y participar en redes educativas fuera de la institución.",
+      "explicacion": "La opción A muestra una participación activa y contribución significativa en la comunidad profesional, reflejando un nivel satisfactorio en este aspecto evaluado."
+    } ,
+     {
+      "pregunta": "¿Qué acción demostraría un nivel inferior en el uso de materiales educativos en una institución que promueve la innovación en este aspecto?",
+      "opciones": [
+        "Utilizar solo los recursos educativos básicos proporcionados por la institución sin explorar alternativas innovadoras.",
+        "Experimentar con materiales educativos nuevos pero sin integrarlos efectivamente en la práctica educativa.",
+        "Asistir a talleres anuales sobre tecnología educativa pero sin implementar cambios en el uso de materiales.",
+        "Desconocer los materiales educativos disponibles y no aprovechar recursos externos."
+      ],
+      "respuesta": "Utilizar solo los recursos educativos básicos proporcionados por la institución sin explorar alternativas innovadoras.",
+      "explicacion": "La opción A indica un nivel inferior al demostrar una falta de exploración e innovación en el uso de materiales educativos, contrariamente a los objetivos institucionales de promover la innovación."
+    },
+    {
+      "pregunta": "En una institución educativa que busca fortalecer la coherencia con los propósitos del PEI, ¿qué acción demostraría un nivel avanzado en este aspecto?",
+      "opciones": [
+        "Diseñar proyectos educativos que reflejen y fortalezcan los objetivos y valores del PEI, involucrando activamente a los estudiantes en su desarrollo.",
+        "Seguir el currículo estándar de la institución sin cuestionar los propósitos del PEI.",
+        "Participar en reuniones anuales sobre el PEI pero sin implementar cambios significativos en las prácticas educativas.",
+        "Desconocer los propósitos del PEI y continuar con un enfoque tradicional en la enseñanza."
+      ],
+      "respuesta": "Diseñar proyectos educativos que reflejen y fortalezcan los objetivos y valores del PEI, involucrando activamente a los estudiantes en su desarrollo.",
+      "explicacion": "La opción A demuestra un compromiso avanzado al alinear las actividades educativas con los propósitos y valores del PEI, promoviendo su fortalecimiento a través de la participación estudiantil."
+    },
+    {
+      "pregunta": "En una escuela que fomenta la participación en la comunidad profesional, ¿qué acción reflejaría un nivel mínimo en este aspecto?",
+      "opciones": [
+        "No participar en ninguna actividad de desarrollo profesional fuera de las obligaciones contractuales.",
+        "Asistir a reuniones anuales de la comunidad profesional pero sin participar activamente en las discusiones.",
+        "Leer artículos educativos en línea ocasionalmente pero sin compartir recursos ni experiencias con colegas.",
+        "Contribuir con publicaciones y presentaciones en conferencias educativas fuera de la institución."
+      ],
+      "respuesta": "No participar en ninguna actividad de desarrollo profesional fuera de las obligaciones contractuales.",
+      "explicacion": "La opción A indica un nivel mínimo al demostrar una falta de iniciativa y compromiso en la participación activa de la comunidad profesional más allá de las responsabilidades contractuales."
+    },
+    {
+      "pregunta": "¿Qué acción demostraría un nivel satisfactorio en la coherencia con los propósitos del PEI en una institución educativa?",
+      "opciones": [
+        "Incorporar proyectos y actividades educativas que apoyen directamente los objetivos y valores del PEI.",
+        "Seguir estrictamente el currículo estándar sin hacer referencia explícita a los propósitos del PEI.",
+        "Participar en reuniones anuales sobre el PEI pero sin implementar cambios significativos en las prácticas educativas.",
+        "Desconocer los propósitos del PEI y continuar con un enfoque tradicional en la selección de actividades educativas."
+      ],
+      "respuesta": "Incorporar proyectos y actividades educativas que apoyen directamente los objetivos y valores del PEI.",
+      "explicacion": "La opción A demuestra un nivel satisfactorio al integrar las actividades educativas con los propósitos y valores del PEI, promoviendo su implementación efectiva en la práctica educativa."
+    },
+    {
+      "pregunta": "En un contexto donde se busca fortalecer la participación en la comunidad profesional, ¿qué acción debería tomar un docente para demostrar un nivel avanzado en este aspecto?",
+      "opciones": [
+        "Facilitar y organizar conferencias y eventos educativos a nivel regional o nacional, compartiendo prácticas innovadoras.",
+        "Asistir a reuniones anuales de la comunidad profesional pero sin liderar actividades adicionales.",
+        "Leer regularmente publicaciones educativas en línea pero sin participar en discusiones con colegas.",
+        "No participar en ninguna actividad profesional fuera de las obligaciones contractuales."
+      ],
+      "respuesta": "Facilitar y organizar conferencias y eventos educativos a nivel regional o nacional, compartiendo prácticas innovadoras.",
+      "explicacion": "La opción A muestra un nivel avanzado al demostrar un liderazgo activo y contribución significativa en la comunidad profesional mediante la organización de eventos educativos y el intercambio de conocimientos a nivel ampliado."
+    },
+    {
+      "pregunta": "¿Qué acción demostraría un nivel inferior en el uso de materiales educativos en una institución que enfatiza la innovación en este aspecto?",
+      "opciones": [
+        "No aprovechar recursos externos ni explorar nuevas tecnologías en la selección de materiales educativos.",
+        "Experimentar con materiales educativos nuevos pero sin integrarlos de manera efectiva en la práctica educativa.",
+        "Asistir a talleres anuales sobre tecnología educativa pero sin implementar cambios en el uso de materiales.",
+        "Desconocer los materiales educativos disponibles y seguir utilizando solo los recursos básicos proporcionados por la institución."
+      ],
+      "respuesta": "No aprovechar recursos externos ni explorar nuevas tecnologías en la selección de materiales educativos.",
+      "explicacion": "La opción A indica un nivel inferior al demostrar una falta de iniciativa y adaptación en la selección y uso de materiales educativos, contrariamente a los objetivos institucionales de innovación."
+    },
+    {
+      "pregunta": "En una institución educativa que enfatiza la coherencia con los propósitos del PEI, ¿qué acción demostraría un nivel mínimo en este aspecto?",
+      "opciones": [
+        "Seguir el currículo estándar sin hacer referencia explícita a los propósitos del PEI.",
+        "Participar en reuniones anuales sobre el PEI pero sin implementar cambios significativos en las prácticas educativas.",
+        "Desconocer los propósitos del PEI y continuar con un enfoque tradicional en la selección de actividades educativas.",
+        "Incorporar proyectos y actividades educativas que apoyen directamente los objetivos y valores del PEI."
+      ],
+      "respuesta": "Desconocer los propósitos del PEI y continuar con un enfoque tradicional en la selección de actividades educativas.",
+      "explicacion": "La opción C indica un nivel mínimo al demostrar falta de conocimiento y alineación con los propósitos y valores del PEI en la práctica educativa."
+    },
+    {
+      "pregunta": "En una escuela que busca fortalecer la participación en la comunidad profesional, ¿qué acción reflejaría un nivel satisfactorio en este aspecto?",
+      "opciones": [
+        "Contribuir regularmente en foros en línea y participar en grupos de investigación educativa con colegas de otras instituciones.",
+        "Asistir a reuniones anuales de la comunidad profesional pero sin participar activamente en las discusiones.",
+        "Leer artículos educativos en línea ocasionalmente pero sin aplicar nuevas ideas en la práctica educativa.",
+        "No participar en ninguna actividad profesional fuera de las obligaciones contractuales."
+      ],
+      "respuesta": "Contribuir regularmente en foros en línea y participar en grupos de investigación educativa con colegas de otras instituciones.",
+      "explicacion": "La opción A muestra un nivel satisfactorio al demostrar una participación activa y colaborativa en la comunidad profesional, contribuyendo y compartiendo conocimientos con colegas de otras instituciones."
+    }
+  ]
+}

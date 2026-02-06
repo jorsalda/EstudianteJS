@@ -1,0 +1,204 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es un número racional (Q)?",
+      "opciones": [
+        "Un número que no puede ser escrito como una fracción.",
+        "Un número que puede ser escrito como el cociente de dos enteros.",
+        "Un número entero.",
+        "Un número irracional."
+      ],
+      "respuesta": "Un número que puede ser escrito como el cociente de dos enteros."
+    },
+    {
+      "pregunta": "¿Cómo se representa un número racional en la recta numérica?",
+      "opciones": [
+        "Como un punto fijo.",
+        "Como una línea continua.",
+        "Como un segmento.",
+        "Como una flecha."
+      ],
+      "respuesta": "Como un punto fijo."
+    },
+    {
+      "pregunta": "¿Qué es la suma en los números racionales (Q)?",
+      "opciones": [
+        "La adición de números naturales.",
+        "La adición de números racionales.",
+        "La multiplicación de números racionales.",
+        "La sustracción de números racionales."
+      ],
+      "respuesta": "La adición de números racionales."
+    },
+    {
+      "pregunta": "¿Qué es la resta en los números racionales (Q)?",
+      "opciones": [
+        "La adición de números naturales.",
+        "La adición de números racionales.",
+        "La multiplicación de números racionales.",
+        "La sustracción de números racionales."
+      ],
+      "respuesta": "La sustracción de números racionales."
+    },
+    {
+      "pregunta": "¿Qué es la potenciación en Z?",
+      "opciones": [
+        "Multiplicar un número entero por otro número.",
+        "Elevar un número entero a una potencia.",
+        "Dividir un número entero por otro número.",
+        "Sumar un número entero a otro número."
+      ],
+      "respuesta": "Elevar un número entero a una potencia."
+    },
+    {
+      "pregunta": "¿Qué es un inverso aditivo?",
+      "opciones": [
+        "Un número que sumado a otro da uno.",
+        "Un número que sumado a otro da cero.",
+        "Un número que multiplicado por otro da uno.",
+        "Un número que multiplicado por otro da cero."
+      ],
+      "respuesta": "Un número que sumado a otro da cero."
+    },
+    {
+      "pregunta": "¿Qué es un inverso multiplicativo?",
+      "opciones": [
+        "Un número que sumado a otro da uno.",
+        "Un número que sumado a otro da cero.",
+        "Un número que multiplicado por otro da uno.",
+        "Un número que multiplicado por otro da cero."
+      ],
+      "respuesta": "Un número que multiplicado por otro da uno."
+    },
+    {
+      "pregunta": "¿Qué es un número primo?",
+      "opciones": [
+        "Un número que tiene exactamente tres divisores.",
+        "Un número que tiene exactamente dos divisores.",
+        "Un número que tiene exactamente cuatro divisores.",
+        "Un número que no tiene divisores."
+      ],
+      "respuesta": "Un número que tiene exactamente dos divisores."
+    },
+    {
+      "pregunta": "¿Qué es el mínimo común múltiplo (m.c.m.)?",
+      "opciones": [
+        "El menor divisor común de dos números.",
+        "El mayor múltiplo común de dos números.",
+        "El menor múltiplo común de dos números.",
+        "El mayor divisor común de dos números."
+      ],
+      "respuesta": "El menor múltiplo común de dos números."
+    },
+    {
+      "pregunta": "¿Qué es el máximo común divisor (m.c.d.)?",
+      "opciones": [
+        "El menor divisor común de dos números.",
+        "El mayor múltiplo común de dos números.",
+        "El menor múltiplo común de dos números.",
+        "El mayor divisor común de dos números."
+      ],
+      "respuesta": "El mayor divisor común de dos números."
+    },
+    {
+      "pregunta": "¿Cuántos tipos de triángulos hay según sus lados?",
+      "opciones": [
+        "Uno.",
+        "Dos.",
+        "Tres.",
+        "Cuatro."
+      ],
+      "respuesta": "Tres."
+    },
+    {
+      "pregunta": "¿Cuántos tipos de triángulos hay según sus ángulos?",
+      "opciones": [
+        "Uno.",
+        "Dos.",
+        "Tres.",
+        "Cuatro."
+      ],
+      "respuesta": "Tres."
+    },
+    {
+      "pregunta": "¿Qué es el perímetro de un triángulo?",
+      "opciones": [
+        "La suma de sus ángulos internos.",
+        "La longitud de sus lados multiplicada por tres.",
+        "La suma de la longitud de sus lados.",
+        "La suma de sus ángulos externos."
+      ],
+      "respuesta": "La suma de la longitud de sus lados."
+    },
+    {
+      "pregunta": "¿Qué es el área de un rectángulo?",
+      "opciones": [
+        "La suma de la longitud de sus lados.",
+        "La longitud de un lado por dos.",
+        "La longitud de un lado por el perímetro.",
+        "La longitud de un lado por la longitud del otro lado."
+      ],
+      "respuesta": "La longitud de un lado por la longitud del otro lado."
+    },
+    {
+      "pregunta": "¿Qué es un triángulo rectángulo?",
+      "opciones": [
+        "Un triángulo con un ángulo recto.",
+        "Un triángulo con tres lados iguales.",
+        "Un triángulo con dos lados iguales.",
+        "Un triángulo con un ángulo obtuso."
+      ],
+      "respuesta": "Un triángulo con un ángulo recto."
+    },
+    {
+      "pregunta": "¿Qué es una tabla de frecuencia?",
+      "opciones": [
+        "Una tabla que muestra la suma de los datos.",
+        "Una tabla que muestra la distribución de los datos en intervalos.",
+        "Una tabla que muestra solo los datos más altos.",
+        "Una tabla que muestra los datos en forma de fracción."
+      ],
+      "respuesta": "Una tabla que muestra la distribución de los datos en intervalos."
+    },
+    {
+      "pregunta": "¿Qué es un intervalo de clase?",
+      "opciones": [
+        "Un rango de valores en una tabla de frecuencia.",
+        "La suma de todos los datos.",
+        "El promedio de todos los datos.",
+        "El valor más común en los datos."
+      ],
+      "respuesta": "Un rango de valores en una tabla de frecuencia."
+    },
+    {
+      "pregunta": "¿Qué es una marca de clase?",
+      "opciones": [
+        "El punto medio de un intervalo de clase.",
+        "El valor más bajo de un intervalo de clase.",
+        "El valor más alto de un intervalo de clase.",
+        "El promedio de todos los intervalos de clase."
+      ],
+      "respuesta": "El punto medio de un intervalo de clase."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia absoluta?",
+      "opciones": [
+        "La cantidad de veces que un valor aparece en un conjunto de datos.",
+        "La cantidad de valores en un intervalo de clase.",
+        "La suma de todas las frecuencias.",
+        "La proporción de valores en un conjunto de datos."
+      ],
+      "respuesta": "La cantidad de veces que un valor aparece en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia relativa?",
+      "opciones": [
+        "La cantidad de veces que un valor aparece en un conjunto de datos.",
+        "La cantidad de valores en un intervalo de clase.",
+        "La frecuencia de un valor dividida por el total de valores.",
+        "La suma de todas las frecuencias."
+      ],
+      "respuesta": "La frecuencia de un valor dividida por el total de valores."
+    }
+  ]
+}

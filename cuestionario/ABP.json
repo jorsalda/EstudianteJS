@@ -1,0 +1,204 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el enfoque principal del Aprendizaje Basado en Problemas (ABP)?",
+      "opciones": [
+        "Centrado en el docente.",
+        "Centrado en la figura del estudiante.",
+        "Centrado en la tecnología.",
+        "Centrado en la teoría."
+      ],
+      "respuesta": "Centrado en la figura del estudiante."
+    },
+    {
+      "pregunta": "¿Qué implica el trabajo individual en el ABP?",
+      "opciones": [
+        "Elaborar un trabajo en equipo.",
+        "Resolver problemas de manera independiente.",
+        "Recibir instrucciones del docente.",
+        "No participar en el proceso de aprendizaje."
+      ],
+      "respuesta": "Resolver problemas de manera independiente."
+    },
+    {
+      "pregunta": "¿Cuántos integrantes debe tener un grupo en la fase de trabajo en equipo del ABP según el texto?",
+      "opciones": [
+        "Dos integrantes.",
+        "Tres integrantes.",
+        "Cinco integrantes.",
+        "Diez integrantes."
+      ],
+      "respuesta": "Cinco integrantes."
+    },
+    {
+      "pregunta": "¿Qué papel debe desempeñar el docente durante el ABP?",
+      "opciones": [
+        "Realizar todo el trabajo por los estudiantes.",
+        "Orientar y guiar el proceso de aprendizaje.",
+        "Permanecer pasivo y observar.",
+        "No participar en absoluto."
+      ],
+      "respuesta": "Orientar y guiar el proceso de aprendizaje."
+    },
+    {
+      "pregunta": "¿Qué habilidades adquiere el estudiante en el ABP?",
+      "opciones": [
+        "Depender completamente del docente.",
+        "Desarrollar juicio y reflexión.",
+        "Evitar el trabajo en equipo.",
+        "No adquirir nuevas habilidades."
+      ],
+      "respuesta": "Desarrollar juicio y reflexión."
+    },
+    {
+      "pregunta": "¿Cuántas etapas principales tiene el ABP según el texto?",
+      "opciones": [
+        "Dos etapas.",
+        "Cuatro etapas.",
+        "Tres etapas.",
+        "Cinco etapas."
+      ],
+      "respuesta": "Tres etapas."
+    },
+    {
+      "pregunta": "¿Qué ocurre en la primera etapa del ABP según el texto?",
+      "opciones": [
+        "Presentación del problema.",
+        "Elaboración de hipótesis.",
+        "Actuaciones preliminares como el diseño del problema y la determinación de las pautas de trabajo.",
+        "Evaluación de los objetivos de aprendizaje."
+      ],
+      "respuesta": "Actuaciones preliminares como el diseño del problema y la determinación de las pautas de trabajo."
+    },
+    {
+      "pregunta": "¿Qué se hace en la segunda etapa del ABP según el texto?",
+      "opciones": [
+        "Evaluación de los objetivos de aprendizaje.",
+        "Control y orientación del docente.",
+        "Sesión virtual sincrónica que incluye la presentación del problema y la formación de grupos.",
+        "Actuaciones posteriores como la evaluación del trabajo realizado."
+      ],
+      "respuesta": "Sesión virtual sincrónica que incluye la presentación del problema y la formación de grupos."
+    },
+    {
+      "pregunta": "¿Qué se evalúa en la tercera etapa del ABP según el texto?",
+      "opciones": [
+        "La presentación del equipo.",
+        "La elaboración de hipótesis.",
+        "Las actuaciones preliminares.",
+        "Los objetivos de aprendizaje adquiridos."
+      ],
+      "respuesta": "Los objetivos de aprendizaje adquiridos."
+    },
+    {
+      "pregunta": "¿Qué tipos de evaluación menciona el texto en relación con el ABP?",
+      "opciones": [
+        "Solo evaluación escrita.",
+        "Solo evaluación oral.",
+        "Evaluación del compañero, autoevaluación y evaluación del docente.",
+        "Solo evaluación del docente."
+      ],
+      "respuesta": "Evaluación del compañero, autoevaluación y evaluación del docente."
+    },
+    {
+      "pregunta": "¿Qué significa coevaluación según el texto?",
+      "opciones": [
+        "La evaluación que hace el docente a los estudiantes.",
+        "La evaluación que hace un alumno a sus compañeros.",
+        "La evaluación que hace un estudiante sobre sí mismo.",
+        "La evaluación de los objetivos de aprendizaje."
+      ],
+      "respuesta": "La evaluación que hace un alumno a sus compañeros."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de la evaluación en el ABP según el texto?",
+      "opciones": [
+        "Calificar a los estudiantes.",
+        "Desarrollar competencias mentales.",
+        "Comparar a los estudiantes entre sí.",
+        "Incentivar la competencia entre los estudiantes."
+      ],
+      "respuesta": "Desarrollar competencias mentales."
+    },
+    {
+      "pregunta": "¿Qué aspectos pueden ser evaluados en relación con el trabajo realizado en el ABP?",
+      "opciones": [
+        "Solo el trabajo individual.",
+        "Solo el trabajo en equipo.",
+        "El trabajo individual, el trabajo en equipo y la evaluación del docente.",
+        "Solo la presentación del equipo."
+      ],
+      "respuesta": "El trabajo individual, el trabajo en equipo y la evaluación del docente."
+    },
+    {
+      "pregunta": "¿Qué tipos de actividades menciona el texto que pueden ser evaluadas en el ABP?",
+      "opciones": [
+        "Solo las actividades teóricas.",
+        "Solo las actividades prácticas.",
+        "El trabajo de cada individuo, la presentación del equipo, el reporte escrito del grupo, entre otras.",
+        "Solo la participación en clase."
+      ],
+      "respuesta": "El trabajo de cada individuo, la presentación del equipo, el reporte escrito del grupo, entre otras."
+    },
+    {
+      "pregunta": "¿Qué implica la autoevaluación según el texto?",
+      "opciones": [
+        "La evaluación que hace el docente sobre el trabajo del estudiante.",
+        "La evaluación que hace un alumno a sus compañeros.",
+        "La evaluación que hace un estudiante sobre sí mismo.",
+        "La evaluación de los objetivos de aprendizaje."
+      ],
+      "respuesta": "La evaluación que hace un estudiante sobre sí mismo."
+    },
+    {
+      "pregunta": "¿Qué se requiere para llevar a cabo una evaluación efectiva en el ABP según el texto?",
+      "opciones": [
+        "Solo un examen escrito.",
+        "Solo la presentación oral.",
+        "La consideración del aporte individual y el trabajo grupal.",
+        "Solo la autoevaluación."
+      ],
+      "respuesta": "La consideración del aporte individual y el trabajo grupal."
+    },
+    {
+      "pregunta": "¿Cuál es la finalidad de utilizar diferentes modalidades de evaluación en el ABP según el texto?",
+      "opciones": [
+        "Facilitar la calificación de los estudiantes.",
+        "Evaluar únicamente el conocimiento adquirido por los estudiantes.",
+        "Desarrollar competencias mentales y habilidades diversas.",
+        "Reducir el esfuerzo del docente."
+      ],
+      "respuesta": "Desarrollar competencias mentales y habilidades diversas."
+    },
+    {
+      "pregunta": "¿Qué menciona el texto sobre el objetivo del ABP en relación con la evaluación?",
+      "opciones": [
+        "Limitar la evaluación al aprendizaje de conocimientos.",
+        "Desarrollar competencias mentales dirigidas hacia la comprensión científica de casos reales, estrategias de razonamiento y aprendizaje autorregulado.",
+        "No menciona ningún objetivo específico.",
+        "Centrarse únicamente en la calificación del estudiante."
+      ],
+      "respuesta": "Desarrollar competencias mentales dirigidas hacia la comprensión científica de casos reales, estrategias de razonamiento y aprendizaje autorregulado."
+    },
+    {
+      "pregunta": "¿Qué implica el uso de e-portafolios en el ABP según el texto?",
+      "opciones": [
+        "La realización de exámenes escritos.",
+        "La presentación de informes orales.",
+        "La compilación de evidencia de aprendizaje en formato electrónico.",
+        "La participación en debates virtuales."
+      ],
+      "respuesta": "La compilación de evidencia de aprendizaje en formato electrónico."
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de la evaluación en el ABP según el texto?",
+      "opciones": [
+        "Sólo determinar la calificación de los estudiantes.",
+        "Fomentar la competencia entre los estudiantes.",
+        "Desarrollar competencias mentales y habilidades diversas.",
+        "Limitar el aprendizaje al conocimiento teórico."
+      ],
+      "respuesta": "Desarrollar competencias mentales y habilidades diversas."
+    }
+  ]
+}

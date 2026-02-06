@@ -1,0 +1,354 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es estadística?",
+      "opciones": [
+        "La ciencia que estudia la producción, recopilación y análisis de datos.",
+        "La ciencia que estudia la producción de materiales.",
+        "La ciencia que estudia la astronomía.",
+        "La ciencia que estudia el comportamiento humano."
+      ],
+      "respuesta": "La ciencia que estudia la producción, recopilación y análisis de datos."
+    },
+    {
+      "pregunta": "¿Qué es un grupo poblacional?",
+      "opciones": [
+        "Un conjunto de individuos o elementos que tienen alguna característica en común.",
+        "Un conjunto de variables estadísticas.",
+        "Un conjunto de encuestas realizadas a una muestra.",
+        "Un grupo de datos recolectados."
+      ],
+      "respuesta": "Un conjunto de individuos o elementos que tienen alguna característica en común."
+    },
+    {
+      "pregunta": "¿Qué es una muestra poblacional?",
+      "opciones": [
+        "Un subconjunto representativo de una población.",
+        "Una encuesta aplicada a toda la población.",
+        "Un dato específico dentro de una variable estadística.",
+        "Un conjunto de características cualitativas."
+      ],
+      "respuesta": "Un subconjunto representativo de una población."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística?",
+      "opciones": [
+        "Un valor fijo que no cambia.",
+        "Una característica que puede variar y ser medida en una población.",
+        "Una constante que se usa en los cálculos estadísticos.",
+        "Un dato cualitativo recolectado en una encuesta."
+      ],
+      "respuesta": "Una característica que puede variar y ser medida en una población."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cuantitativa?",
+      "opciones": [
+        "Una variable que no se puede medir numéricamente.",
+        "Una variable que se expresa en números y se puede medir.",
+        "Una variable cualitativa que describe cualidades.",
+        "Una variable que solo se mide en categorías."
+      ],
+      "respuesta": "Una variable que se expresa en números y se puede medir."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cuantitativa discreta?",
+      "opciones": [
+        "Una variable que puede tomar cualquier valor dentro de un rango.",
+        "Una variable que solo puede tomar valores enteros específicos.",
+        "Una variable que se mide en intervalos.",
+        "Una variable que describe cualidades no numéricas."
+      ],
+      "respuesta": "Una variable que solo puede tomar valores enteros específicos."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cuantitativa continua?",
+      "opciones": [
+        "Una variable que puede tomar cualquier valor dentro de un rango.",
+        "Una variable que solo puede tomar valores enteros específicos.",
+        "Una variable que se mide en categorías.",
+        "Una variable que no se puede medir numéricamente."
+      ],
+      "respuesta": "Una variable que puede tomar cualquier valor dentro de un rango."
+    },
+    {
+      "pregunta": "¿Qué es una encuesta?",
+      "opciones": [
+        "Una recopilación de datos cualitativos.",
+        "Una herramienta para recolectar datos a través de preguntas a una muestra.",
+        "Un análisis de datos estadísticos.",
+        "Un resumen de resultados estadísticos."
+      ],
+      "respuesta": "Una herramienta para recolectar datos a través de preguntas a una muestra."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cualitativa?",
+      "opciones": [
+        "Una variable que se mide en números.",
+        "Una variable que describe cualidades o categorías.",
+        "Una variable que se mide en intervalos.",
+        "Una variable que se puede contar en unidades."
+      ],
+      "respuesta": "Una variable que describe cualidades o categorías."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cualitativa ordinal?",
+      "opciones": [
+        "Una variable que no tiene un orden específico.",
+        "Una variable que describe cualidades sin orden.",
+        "Una variable que se puede ordenar o clasificar.",
+        "Una variable que se mide numéricamente."
+      ],
+      "respuesta": "Una variable que se puede ordenar o clasificar."
+    },
+    {
+      "pregunta": "¿Qué es una variable estadística cualitativa nominal?",
+      "opciones": [
+        "Una variable que se puede ordenar o clasificar.",
+        "Una variable que no tiene un orden específico.",
+        "Una variable que describe cualidades con orden.",
+        "Una variable que se mide numéricamente."
+      ],
+      "respuesta": "Una variable que no tiene un orden específico."
+    },
+    {
+      "pregunta": "¿Qué es un dato?",
+      "opciones": [
+        "Una información específica recolectada de una encuesta.",
+        "Un valor numérico utilizado en cálculos.",
+        "Un valor fijo que no cambia.",
+        "Una muestra de una población."
+      ],
+      "respuesta": "Una información específica recolectada de una encuesta."
+    },
+    {
+      "pregunta": "¿Qué es una muestra estadística?",
+      "opciones": [
+        "Un subconjunto representativo de una población.",
+        "Un conjunto de datos específicos de una población.",
+        "Un valor numérico utilizado en cálculos.",
+        "Una encuesta aplicada a toda la población."
+      ],
+      "respuesta": "Un subconjunto representativo de una población."
+    },
+    {
+      "pregunta": "¿Qué es un intervalo de clase?",
+      "opciones": [
+        "Un rango de valores en una distribución de frecuencias.",
+        "Un valor específico en una distribución de frecuencias.",
+        "Un valor numérico utilizado en cálculos.",
+        "Una variable que describe cualidades."
+      ],
+      "respuesta": "Un rango de valores en una distribución de frecuencias."
+    },
+    {
+      "pregunta": "¿Qué es una frontera superior de un intervalo de clase?",
+      "opciones": [
+        "El límite inferior de un intervalo de clase.",
+        "El valor medio de un intervalo de clase.",
+        "El valor máximo de un intervalo de clase.",
+        "El límite superior de un intervalo de clase."
+      ],
+      "respuesta": "El límite superior de un intervalo de clase."
+    },
+    {
+      "pregunta": "¿Qué es una frontera inferior de un intervalo de clase?",
+      "opciones": [
+        "El límite superior de un intervalo de clase.",
+        "El valor mínimo de un intervalo de clase.",
+        "El valor medio de un intervalo de clase.",
+        "El límite inferior de un intervalo de clase."
+      ],
+      "respuesta": "El límite inferior de un intervalo de clase."
+    },
+    {
+      "pregunta": "¿Qué es una marca de clase?",
+      "opciones": [
+        "El valor medio de un intervalo de clase.",
+        "El valor máximo de un intervalo de clase.",
+        "El valor mínimo de un intervalo de clase.",
+        "El límite superior de un intervalo de clase."
+      ],
+      "respuesta": "El valor medio de un intervalo de clase."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia absoluta?",
+      "opciones": [
+        "El número total de elementos en una población.",
+        "El número de veces que ocurre un valor en un conjunto de datos.",
+        "El porcentaje de ocurrencia de un valor en un conjunto de datos.",
+        "La suma de todas las frecuencias relativas."
+      ],
+      "respuesta": "El número de veces que ocurre un valor en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia absoluta acumulada?",
+      "opciones": [
+        "El número total de elementos en una población.",
+        "La suma de frecuencias absolutas hasta un valor determinado.",
+        "El porcentaje acumulado de un conjunto de datos.",
+        "La frecuencia absoluta de un solo valor."
+      ],
+      "respuesta": "La suma de frecuencias absolutas hasta un valor determinado."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia relativa?",
+      "opciones": [
+        "El número total de elementos en una población.",
+        "El porcentaje de ocurrencia de un valor en un conjunto de datos.",
+        "La suma de frecuencias relativas hasta un valor determinado.",
+        "La frecuencia absoluta de un solo valor."
+      ],
+      "respuesta": "El porcentaje de ocurrencia de un valor en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué es una frecuencia relativa acumulada?",
+      "opciones": [
+        "El número total de elementos en una población.",
+        "La suma de frecuencias relativas hasta un valor determinado.",
+        "El porcentaje de ocurrencia de un valor en un conjunto de datos.",
+        "La frecuencia absoluta acumulada de un solo valor."
+      ],
+      "respuesta": "La suma de frecuencias relativas hasta un valor determinado."
+    },
+    {
+      "pregunta": "¿Qué es una tabla de frecuencias?",
+      "opciones": [
+        "Una tabla que muestra la distribución de frecuencias de una variable.",
+        "Una tabla que muestra solo la frecuencia absoluta de una variable.",
+        "Una tabla que muestra los datos de una encuesta.",
+        "Una tabla que muestra los intervalos de clase."
+      ],
+      "respuesta": "Una tabla que muestra la distribución de frecuencias de una variable."
+    },
+    {
+      "pregunta": "¿Qué es una gráfica estadística?",
+      "opciones": [
+        "Una representación visual de datos estadísticos.",
+        "Una representación visual de datos cualitativos.",
+        "Una representación visual de una encuesta.",
+        "Una representación visual de intervalos de clase."
+      ],
+      "respuesta": "Una representación visual de datos estadísticos."
+    },
+    {
+      "pregunta": "¿Qué es un histograma?",
+      "opciones": [
+        "Una gráfica de barras que representa la distribución de frecuencias de una variable.",
+        "Una gráfica circular que representa datos cualitativos.",
+        "Una gráfica de líneas que representa la tendencia de una variable.",
+        "Una tabla que muestra la distribución de frecuencias."
+      ],
+      "respuesta": "Una gráfica de barras que representa la distribución de frecuencias de una variable."
+    },
+    {
+      "pregunta": "¿Qué es un polígono de frecuencias?",
+      "opciones": [
+        "Una gráfica de líneas que conecta los puntos medios de los intervalos de clase.",
+        "Una gráfica de barras que representa la distribución de frecuencias.",
+        "Una gráfica circular que representa datos cualitativos.",
+        "Una tabla que muestra la distribución de frecuencias."
+      ],
+      "respuesta": "Una gráfica de líneas que conecta los puntos medios de los intervalos de clase."
+    },
+    {
+      "pregunta": "¿Qué es un porcentaje?",
+      "opciones": [
+        "Un valor absoluto de una variable.",
+        "Una proporción expresada en centésimas.",
+        "Un intervalo de clase.",
+        "Una medida de tendencia central."
+      ],
+      "respuesta": "Una proporción expresada en centésimas."
+    },
+    {
+      "pregunta": "¿Qué es una gráfica circular?",
+      "opciones": [
+        "Una gráfica de líneas que representa la tendencia de una variable.",
+        "Una tabla que muestra la distribución de frecuencias.",
+        "Una gráfica circular que representa datos cualitativos o cuantitativos en proporciones.",
+        "Una gráfica de barras que representa la distribución de frecuencias."
+      ],
+      "respuesta": "Una gráfica circular que representa datos cualitativos o cuantitativos en proporciones."
+    },
+    {
+      "pregunta": "¿Qué es una sumatoria?",
+      "opciones": [
+        "La resta de valores en un conjunto de datos.",
+        "La multiplicación de valores en un conjunto de datos.",
+        "La suma de valores en un conjunto de datos.",
+        "La división de valores en un conjunto de datos."
+      ],
+      "respuesta": "La suma de valores en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué son medidas de tendencia central?",
+      "opciones": [
+        "Medidas que representan el valor máximo de un conjunto de datos.",
+        "Medidas que representan el valor promedio, mediano o modo de un conjunto de datos.",
+        "Medidas que representan el valor mínimo de un conjunto de datos.",
+        "Medidas que representan la distribución de frecuencias de un conjunto de datos."
+      ],
+      "respuesta": "Medidas que representan el valor promedio, mediano o modo de un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Qué es un promedio aritmético o equis barra?",
+      "opciones": [
+        "La suma de todos los valores de un conjunto de datos dividida por el número total de valores.",
+        "El valor más frecuente en un conjunto de datos.",
+        "El valor central de un conjunto de datos ordenados.",
+        "El valor que divide un conjunto de datos en dos partes iguales."
+      ],
+      "respuesta": "La suma de todos los valores de un conjunto de datos dividida por el número total de valores."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para hallar el promedio aritmético o equis barra?",
+      "opciones": [
+        "(Σx_i) / N",
+        "(Σx_i) / (N - 1)",
+        "(Σx_i) / n",
+        "(Σx_i) / (n - 1)"
+      ],
+      "respuesta": "(Σx_i) / N"
+    },
+    {
+      "pregunta": "¿Qué es una moda?",
+      "opciones": [
+        "La suma de todos los valores de un conjunto de datos dividida por el número total de valores.",
+        "El valor más frecuente en un conjunto de datos.",
+        "El valor central de un conjunto de datos ordenados.",
+        "El valor que divide un conjunto de datos en dos partes iguales."
+      ],
+      "respuesta": "El valor más frecuente en un conjunto de datos."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para hallar la moda?",
+      "opciones": [
+        "El valor que aparece con más frecuencia.",
+        "(Σx_i) / N",
+        "El valor central de un conjunto de datos ordenados.",
+        "La suma de todos los valores dividida por el número total de valores."
+      ],
+      "respuesta": "El valor que aparece con más frecuencia."
+    },
+    {
+      "pregunta": "¿Qué es una mediana?",
+      "opciones": [
+        "La suma de todos los valores de un conjunto de datos dividida por el número total de valores.",
+        "El valor más frecuente en un conjunto de datos.",
+        "El valor central de un conjunto de datos ordenados.",
+        "El valor que divide un conjunto de datos en dos partes iguales."
+      ],
+      "respuesta": "El valor central de un conjunto de datos ordenados."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula para hallar la mediana?",
+      "opciones": [
+        "El valor central de un conjunto de datos ordenados.",
+        "(Σx_i) / N",
+        "El valor más frecuente en un conjunto de datos.",
+        "La suma de todos los valores dividida por el número total de valores."
+      ],
+      "respuesta": "El valor central de un conjunto de datos ordenados."
+    }
+  ]
+}

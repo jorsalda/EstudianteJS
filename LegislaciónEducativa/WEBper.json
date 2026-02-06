@@ -1,0 +1,125 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En una escuela, se presentan problemas de convivencia entre estudiantes de diferentes grados durante el recreo. ¿Qué estrategia sería más efectiva para mejorar esta situación?",
+      "opciones": [
+        "Realizar asambleas participativas con estudiantes de todos los grados para identificar causas y acordar normas de convivencia.",
+        "Separar a los estudiantes conflictivos y asignarles recreos en horarios diferentes para evitar confrontaciones.",
+        "Incrementar la vigilancia del personal docente durante el recreo para detectar y sancionar a los estudiantes involucrados en conflictos.",
+        "Solicitar la intervención de los padres de familia para que supervisen el comportamiento de sus hijos durante el recreo."
+      ],
+      "respuesta": "Realizar asambleas participativas con estudiantes de todos los grados para identificar causas y acordar normas de convivencia.",
+      "explicacion": "Involucrar a los estudiantes en la resolución de conflictos mediante asambleas participativas promueve el diálogo, la responsabilidad compartida y el respeto por las normas de convivencia."
+    },
+    {
+      "pregunta": "En una institución educativa, varios profesores observan que algunos estudiantes no participan activamente en clase y muestran desinterés por las actividades académicas. ¿Qué estrategia podría ayudar a motivar a estos estudiantes?",
+      "opciones": [
+        "Implementar actividades extracurriculares obligatorias para todos los estudiantes con bajo rendimiento académico.",
+        "Realizar entrevistas individuales con los estudiantes para comprender sus intereses y necesidades educativas.",
+        "Incrementar la carga académica con tareas adicionales para mejorar el rendimiento de los estudiantes.",
+        "Iniciar un programa de mentoría entre estudiantes para fomentar el apoyo mutuo y la responsabilidad académica."
+      ],
+      "respuesta": "Realizar entrevistas individuales con los estudiantes para comprender sus intereses y necesidades educativas.",
+      "explicacion": "Las entrevistas individuales permiten conocer las motivaciones y preocupaciones de los estudiantes, facilitando estrategias personalizadas para mejorar su participación y rendimiento académico."
+    },
+    {
+      "pregunta": "Durante un evento escolar, se presenta un conflicto entre un grupo de estudiantes. ¿Qué acción sería más adecuada para resolver esta situación?",
+      "opciones": [
+        "Aplicar sanciones disciplinarias severas para los estudiantes involucrados en el conflicto.",
+        "Convocar a una reunión entre los estudiantes, padres de familia y directivos para discutir y resolver el conflicto.",
+        "Organizar un taller de resolución de conflictos para todos los estudiantes de la institución.",
+        "Solicitar la intervención de un mediador escolar para facilitar la comunicación entre las partes involucradas."
+      ],
+      "respuesta": "Solicitar la intervención de un mediador escolar para facilitar la comunicación entre las partes involucradas.",
+      "explicacion": "El mediador escolar ayuda a las partes a comunicarse de manera efectiva y encontrar soluciones mutuamente aceptables, promoviendo la resolución pacífica de conflictos."
+    },
+    {
+      "pregunta": "En una institución educativa, los resultados de las pruebas de lectura muestran un bajo nivel de comprensión lectora en los estudiantes. ¿Qué estrategia sería más efectiva para mejorar esta situación?",
+      "opciones": [
+        "Implementar sesiones de lectura obligatorias al inicio de cada clase para todos los estudiantes.",
+        "Organizar un concurso de lectura entre los estudiantes para incentivar la práctica de la lectura.",
+        "Ofrecer talleres de comprensión lectora dirigidos por profesionales externos a la institución.",
+        "Integrar actividades de comprensión lectora contextualizadas en todas las asignaturas del currículo."
+      ],
+      "respuesta": "Integrar actividades de comprensión lectora contextualizadas en todas las asignaturas del currículo.",
+      "explicacion": "Contextualizar la comprensión lectora en todas las asignaturas del currículo ayuda a los estudiantes a aplicar y desarrollar habilidades de lectura en diversos contextos académicos, mejorando así su comprensión general."
+    },
+    {
+      "pregunta": "En una escuela, se detecta que muchos estudiantes presentan dificultades para trabajar en equipo durante proyectos grupales. ¿Qué estrategia podría ayudar a mejorar la colaboración entre los estudiantes?",
+      "opciones": [
+        "Asignar roles específicos a cada estudiante dentro de los grupos para clarificar responsabilidades.",
+        "Reducir la frecuencia de proyectos grupales y fomentar el trabajo individual.",
+        "Implementar un sistema de recompensas para los grupos que logren mejores resultados.",
+        "Organizar talleres de habilidades sociales y trabajo en equipo para todos los estudiantes."
+      ],
+      "respuesta": "Organizar talleres de habilidades sociales y trabajo en equipo para todos los estudiantes.",
+      "explicacion": "Los talleres de habilidades sociales y trabajo en equipo proporcionan a los estudiantes las herramientas necesarias para colaborar efectivamente, comunicarse de manera constructiva y resolver conflictos en proyectos grupales."
+    },
+    {
+      "pregunta": "En una institución educativa, los estudiantes muestran poco interés en aprender matemáticas y presentan dificultades para comprender los conceptos básicos. ¿Qué estrategia sería más efectiva para motivar a los estudiantes en esta área?",
+      "opciones": [
+        "Implementar juegos y actividades lúdicas para enseñar conceptos matemáticos de manera divertida.",
+        "Aumentar la carga de ejercicios prácticos y evaluaciones para asegurar la comprensión de los temas.",
+        "Ofrecer tutorías individuales obligatorias para todos los estudiantes con bajo rendimiento en matemáticas.",
+        "Integrar problemas matemáticos complejos en los exámenes para desafiar a los estudiantes."
+      ],
+      "respuesta": "Implementar juegos y actividades lúdicas para enseñar conceptos matemáticos de manera divertida.",
+      "explicacion": "Las actividades lúdicas y juegos ayudan a los estudiantes a involucrarse activamente en el aprendizaje de matemáticas, haciendo que los conceptos sean más accesibles y aumentando su motivación para aprender."
+    },
+    {
+      "pregunta": "En una escuela, se observa que algunos estudiantes tienen problemas de concentración en clase y muestran dificultades para mantenerse enfocados en las actividades académicas. ¿Qué estrategia sería más efectiva para mejorar la concentración de estos estudiantes?",
+      "opciones": [
+        "Implementar sesiones cortas y frecuentes de descanso durante las clases para permitir a los estudiantes relajarse.",
+        "Aumentar el número de tareas y actividades para mantener a los estudiantes ocupados y enfocados.",
+        "Organizar talleres de técnicas de estudio y concentración para todos los estudiantes de la institución.",
+        "Rediseñar el horario escolar para incluir períodos específicos de concentración y atención plena."
+      ],
+      "respuesta": "Organizar talleres de técnicas de estudio y concentración para todos los estudiantes de la institución.",
+      "explicacion": "Los talleres de técnicas de estudio y concentración proporcionan a los estudiantes herramientas prácticas para mejorar su atención, memoria y capacidad de concentración durante las actividades académicas."
+    },
+    {
+      "pregunta": "En una institución educativa, se detecta que muchos estudiantes no cumplen con las tareas asignadas y presentan excusas frecuentes para justificar su falta de compromiso. ¿Qué estrategia sería más efectiva para fomentar la responsabilidad y cumplimiento de tareas?",
+      "opciones": [
+        "Aplicar sanciones disciplinarias estrictas para los estudiantes que no completen las tareas asignadas.",
+        "Ofrecer incentivos y reconocimientos especiales a los estudiantes que entreguen sus tareas a tiempo.",
+        "Organizar reuniones individuales con los estudiantes para discutir las razones detrás de su falta de compromiso.",
+        "Establecer un sistema de seguimiento y apoyo personalizado para los estudiantes con dificultades para completar tareas."
+      ],
+      "respuesta": "Establecer un sistema de seguimiento y apoyo personalizado para los estudiantes con dificultades para completar tareas.",
+      "explicacion": "El seguimiento y apoyo personalizado ayudan a identificar las barreras que impiden a los estudiantes completar las tareas, permitiendo implementar estrategias específicas para mejorar su compromiso y responsabilidad."
+    },
+    {
+      "pregunta": "Durante un evento escolar, se presenta una situación de desacuerdo entre docentes sobre la organización de las actividades. ¿Qué acción sería más efectiva para resolver este conflicto?",
+      "opciones": [
+        "Convocar a una reunión entre los docentes involucrados para discutir y llegar a un consenso sobre la organización del evento.",
+        "Designar a un comité administrativo para tomar decisiones unilaterales sobre la organización de actividades escolares.",
+        "Dividir las responsabilidades entre los docentes para evitar conflictos futuros sobre la organización de eventos escolares.",
+        "Aplicar medidas disciplinarias a los docentes que no estén de acuerdo con las decisiones administrativas."
+      ],
+      "respuesta": "Convocar a una reunión entre los docentes involucrados para discutir y llegar a un consenso sobre la organización del evento.",
+      "explicacion": "La discusión y el consenso entre los docentes promueven la colaboración y el trabajo en equipo, facilitando la organización efectiva de actividades escolares y la resolución de conflictos."
+    },
+    {
+      "pregunta": "En una escuela, se observa que algunos estudiantes muestran resistencia a participar en actividades deportivas y recreativas. ¿Qué estrategia podría fomentar la participación de estos estudiantes?",
+      "opciones": [
+        "Obligar a todos los estudiantes a participar en actividades deportivas como parte del currículo escolar.",
+        "Ofrecer una variedad de opciones de actividades deportivas y recreativas para que los estudiantes elijan según sus intereses.",
+        "Realizar evaluaciones físicas obligatorias para todos los estudiantes y premiar a los que obtengan mejores resultados.",
+        "Implementar un programa de recompensas para los estudiantes que participen regularmente en actividades deportivas y recreativas."
+      ],
+      "respuesta": "Ofrecer una variedad de opciones de actividades deportivas y recreativas para que los estudiantes elijan según sus intereses.",
+      "explicacion": "Ofrecer opciones permite a los estudiantes participar en actividades que disfruten, aumentando su motivación y compromiso con las actividades deportivas y recreativas."
+    },
+    {
+      "pregunta": "En una institución educativa, se detecta que algunos estudiantes presentan dificultades para expresarse oralmente y comunicar sus ideas de manera clara. ¿Qué estrategia podría ayudar a mejorar estas habilidades?",
+      "opciones": [
+        "Implementar debates obligatorios entre estudiantes para practicar la expresión oral y la argumentación.",
+        "Reducir el tiempo asignado para presentaciones orales y discusiones en clase.",
+        "Organizar actividades individuales en lugar de grupales para que los estudiantes practiquen la expresión oral.",
+        "Solicitar a los estudiantes que escriban sus ideas en lugar de expresarlas oralmente en clase."
+      ],
+      "respuesta": "Implementar debates obligatorios entre estudiantes para practicar la expresión oral y la argumentación.",
+      "explicacion": "Los debates obligatorios proporcionan a los estudiantes oportunidades estructuradas para practicar la expresión oral, desarrollar habilidades argumentativas y ganar confianza en la comunicación de sus ideas."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es un experimento aleatorio en estadística?",
+      "opciones": [
+        "Un proceso que solo se realiza una vez.",
+        "Un procedimiento diseñado para realizar observaciones sobre un fenómeno específico.",
+        "Una actividad recreativa.",
+        "Un método de cultivo agrícola."
+      ],
+      "respuesta": "Un procedimiento diseñado para realizar observaciones sobre un fenómeno específico."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de realizar un experimento aleatorio?",
+      "opciones": [
+        "Divertirse.",
+        "Recopilar datos sobre un fenómeno específico.",
+        "Encontrar respuestas absolutas.",
+        "Probar teorías matemáticas."
+      ],
+      "respuesta": "Recopilar datos sobre un fenómeno específico."
+    },
+    {
+      "pregunta": "¿Qué se entiende por evento en un experimento aleatorio?",
+      "opciones": [
+        "Un resultado seguro.",
+        "Una posibilidad incierta.",
+        "Una ley matemática.",
+        "Una canción popular."
+      ],
+      "respuesta": "Una posibilidad incierta."
+    },
+    {
+      "pregunta": "¿Cómo se puede describir un evento en un experimento aleatorio?",
+      "opciones": [
+        "Con una letra del alfabeto.",
+        "Con un número entero.",
+        "Con una ecuación matemática.",
+        "Con un color."
+      ],
+      "respuesta": "Con una letra del alfabeto."
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de los eventos elementales en la teoría de la probabilidad?",
+      "opciones": [
+        "No tienen importancia.",
+        "Son fundamentales para realizar cálculos de probabilidades para eventos más complejos.",
+        "Solo son relevantes en la estadística descriptiva.",
+        "Solo son útiles en la física cuántica."
+      ],
+      "respuesta": "Son fundamentales para realizar cálculos de probabilidades para eventos más complejos."
+    },
+    {
+      "pregunta": "¿Por qué los eventos elementales son cruciales en la teoría de la probabilidad?",
+      "opciones": [
+        "Porque son divertidos de estudiar.",
+        "Porque constituyen los resultados básicos sobre los cuales se calculan las probabilidades de eventos más complejos.",
+        "Porque son fáciles de predecir.",
+        "Porque son irrelevantes para la estadística."
+      ],
+      "respuesta": "Porque constituyen los resultados básicos sobre los cuales se calculan las probabilidades de eventos más complejos."
+    },
+    {
+      "pregunta": "¿Cómo se expresa la probabilidad?",
+      "opciones": [
+        "Como un número entre 5 y 10.",
+        "Como una letra del alfabeto.",
+        "Como un número entre 0 y 1.",
+        "Como una fecha calendárica."
+      ],
+      "respuesta": "Como un número entre 0 y 1."
+    },
+    {
+      "pregunta": "¿En qué rango numérico se expresa la probabilidad?",
+      "opciones": [
+        "Entre 50 y 100.",
+        "Entre 0 y 1.",
+        "Entre -1 y 1.",
+        "Entre 1 y 10."
+      ],
+      "respuesta": "Entre 0 y 1."
+    },
+    {
+      "pregunta": "¿Qué establece el principio fundamental del conteo?",
+      "opciones": [
+        "Cómo realizar experimentos.",
+        "Cómo contar hasta diez.",
+        "Cómo calcular el número total de resultados posibles de eventos.",
+        "Cómo cocinar un pastel."
+      ],
+      "respuesta": "Cómo calcular el número total de resultados posibles de eventos."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito del principio fundamental del conteo?",
+      "opciones": [
+        "Aprender a contar.",
+        "Realizar experimentos científicos.",
+        "Calcular el número de resultados posibles de eventos.",
+        "Crear obras de arte."
+      ],
+      "respuesta": "Calcular el número de resultados posibles de eventos."
+    },
+    {
+      "pregunta": "¿Para qué se utiliza la regla de Laplace en la teoría de la probabilidad?",
+      "opciones": [
+        "Para lanzar una moneda.",
+        "Para calcular la probabilidad de eventos cuando todos los resultados son igualmente probables.",
+        "Para hacer predicciones meteorológicas.",
+        "Para diseñar experimentos científicos."
+      ],
+      "respuesta": "Para calcular la probabilidad de eventos cuando todos los resultados son igualmente probables."
+    },
+    {
+      "pregunta": "¿Cuál es el principio básico detrás de la regla de Laplace?",
+      "opciones": [
+        "Que todos los eventos son impredecibles.",
+        "Que todos los eventos son igualmente probables.",
+        "Que algunos eventos son más probables que otros.",
+        "Que los eventos no tienen importancia."
+      ],
+      "respuesta": "Que todos los eventos son igualmente probables."
+    },
+    {
+      "pregunta": "¿Qué es un evento simple en un experimento aleatorio?",
+      "opciones": [
+        "Un evento con múltiples resultados posibles.",
+        "Un evento que consiste en un solo resultado del espacio muestral.",
+        "Un evento que nunca ocurre.",
+        "Un evento sin importancia."
+      ],
+      "respuesta": "Un evento que consiste en un solo resultado del espacio muestral."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre un evento simple y un evento compuesto?",
+      "opciones": [
+        "La complejidad de su descripción.",
+        "La cantidad de resultados posibles que involucran.",
+        "Su relación con la estadística.",
+        "No hay diferencia."
+      ],
+      "respuesta": "La cantidad de resultados posibles que involucran."
+    },
+    {
+      "pregunta": "¿Qué es un evento complementario?",
+      "opciones": [
+        "Un evento que nunca ocurre.",
+        "Un evento que consiste en todos los resultados que no están en un evento dado.",
+        "Un evento que ocurre con certeza.",
+        "Un evento con múltiples resultados posibles."
+      ],
+      "respuesta": "Un evento que consiste en todos los resultados que no están en un evento dado."
+    },
+    {
+      "pregunta": "¿Por qué son importantes los eventos compuestos en la teoría de la probabilidad?",
+      "opciones": [
+        "Porque son fáciles de entender.",
+        "Porque son eventos raros.",
+        "Porque ayudan a comprender la probabilidad de eventos complejos.",
+        "Porque son irrelevantes en la estadística."
+      ],
+      "respuesta": "Porque ayudan a comprender la probabilidad de eventos complejos."
+},
+{
+"pregunta": "¿Qué es un evento de unión en la teoría de la probabilidad?",
+"opciones": [
+"Un evento que nunca ocurre.",
+"Un evento que ocurre si al menos uno de los eventos que lo conforman sucede.",
+"Un evento que ocurre con certeza.",
+"Un evento con múltiples resultados posibles."
+],
+"respuesta": "Un evento que ocurre si al menos uno de los eventos que lo conforman sucede."
+},
+{
+"pregunta": "¿Cuál es la diferencia entre un evento de unión y un evento de intersección?",
+"opciones": [
+"La cantidad de resultados posibles que involucran.",
+"Su relación con la estadística.",
+"La complejidad de su descripción.",
+"No hay diferencia."
+],
+"respuesta": "La cantidad de resultados posibles que involucran."
+},
+{
+"pregunta": "¿Qué es un evento de intersección en la teoría de la probabilidad?",
+"opciones": [
+"Un evento que nunca ocurre.",
+"Un evento que ocurre si todos los eventos que lo conforman suceden al mismo tiempo.",
+"Un evento que ocurre con certeza.",
+"Un evento con múltiples resultados posibles."
+],
+"respuesta": "Un evento que ocurre si todos los eventos que lo conforman suceden al mismo tiempo."
+},
+{
+"pregunta": "¿Por qué son útiles los eventos de intersección en la teoría de la probabilidad?",
+"opciones": [
+"Porque son fáciles de entender.",
+"Porque son eventos raros.",
+"Porque ayudan a calcular la probabilidad de eventos complejos.",
+"Porque son irrelevantes en la estadística."
+],
+"respuesta": "Porque ayudan a calcular la probabilidad de eventos complejos."
+},
+{
+"pregunta": "¿Qué es la probabilidad de Laplace?",
+"opciones": [
+"Una técnica de pintura.",
+"Un enfoque en la teoría de la probabilidad.",
+"Una fórmula matemática.",
+"Un tipo de pronóstico del tiempo."
+],
+"respuesta": "Un enfoque en la teoría de la probabilidad."
+},
+{
+"pregunta": "¿Cuándo se utiliza la probabilidad de Laplace?",
+"opciones": [
+"Cuando los resultados no son igualmente probables.",
+"Cuando todos los resultados son igualmente probables.",
+"Cuando se lanzan dos monedas al aire.",
+"Cuando se quiere predecir el clima."
+],
+"respuesta": "Cuando todos los resultados son igualmente probables."
+},
+{
+"pregunta": "¿Cuál es la fórmula básica para calcular la probabilidad de un evento utilizando la probabilidad de Laplace?",
+"opciones": [
+"Número de resultados favorables entre número total de resultados posibles.",
+"Número total de resultados posibles entre número de resultados favorables.",
+"Número de resultados favorables multiplicado por número total de resultados posibles.",
+"Número total de resultados posibles multiplicado por número de resultados favorables."
+],
+"respuesta": "Número de resultados favorables entre número total de resultados posibles."
+}
+]
+}

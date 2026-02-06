@@ -1,0 +1,224 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿En cuántos niveles se estructura el sistema educativo según la Ley 115?",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "respuesta": "4"
+    },
+    {
+      "pregunta": "¿Qué principio fundamental garantiza que todos los ciudadanos tengan acceso a la educación sin discriminación alguna?",
+      "opciones": [
+        "Igualdad de Oportunidades",
+        "Autonomía Escolar",
+        "Equidad",
+        "Participación"
+      ],
+      "respuesta": "Igualdad de Oportunidades"
+    },
+    {
+      "pregunta": "¿Qué aspecto de la diversidad colombiana reconoce la Ley 115 en el sistema educativo?",
+      "opciones": [
+        "Diversidad geográfica",
+        "Diversidad de lenguas",
+        "Diversidad cultural y étnica",
+        "Diversidad religiosa"
+      ],
+      "respuesta": "Diversidad cultural y étnica"
+    },
+    {
+      "pregunta": "¿Qué se promueve en la educación según la Ley 115 para fomentar el respeto por los derechos humanos y la democracia?",
+      "opciones": [
+        "Participación activa de los estudiantes",
+        "Formación en valores como la solidaridad y la tolerancia",
+        "Evaluación como un proceso integral y continuo",
+        "Investigación científica y tecnológica"
+      ],
+      "respuesta": "Formación en valores como la solidaridad y la tolerancia"
+    },
+    {
+      "pregunta": "¿Qué nivel educativo se establece como obligatorio según la Ley 115?",
+      "opciones": [
+        "Educación Superior",
+        "Educación Preescolar",
+        "Educación Básica y Media",
+        "Educación Técnica y Tecnológica"
+      ],
+      "respuesta": "Educación Básica y Media"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los mecanismos establecidos por la Ley 115 para garantizar el acceso a la educación superior?",
+      "opciones": [
+        "Becas",
+        "Exámenes de admisión",
+        "Pruebas de conocimiento",
+        "Sorteos"
+      ],
+      "respuesta": "Becas"
+    },
+    {
+      "pregunta": "¿Qué se promueve en la educación según la Ley 115 para fomentar la investigación científica y tecnológica?",
+      "opciones": [
+        "Participación de la comunidad en la gestión educativa",
+        "Formación integral de los docentes",
+        "Evaluación como un proceso integral y continuo",
+        "Investigación científica y tecnológica"
+      ],
+      "respuesta": "Investigación científica y tecnológica"
+    },
+    {
+      "pregunta": "¿Qué se reconoce como importante en la educación según la Ley 115 para el desarrollo sostenible?",
+      "opciones": [
+        "Educación ambiental",
+        "Formación integral de los docentes",
+        "Participación de la comunidad en la gestión educativa",
+        "Investigación científica y tecnológica"
+      ],
+      "respuesta": "Educación ambiental"
+    },
+    {
+      "pregunta": "¿Qué se establece en la Ley 115 para garantizar el acceso a la educación de calidad para las personas en situación de desplazamiento forzado?",
+      "opciones": [
+        "Políticas de equidad",
+        "Acceso gratuito a la educación",
+        "Educación en derechos laborales y civiles",
+        "Acceso a la educación superior"
+      ],
+      "respuesta": "Acceso gratuito a la educación"
+    },
+    {
+      "pregunta": "¿Qué se promueve en la educación según la Ley 115 para la educación en derechos de los animales y el respeto hacia otras formas de vida?",
+      "opciones": [
+        "Participación activa de los estudiantes",
+        "Formación en valores como la solidaridad y la tolerancia",
+        "Educación para la prevención de la violencia y el delito",
+        "Educación en derechos de los animales"
+      ],
+      "respuesta": "Educación en derechos de los animales"
+    },
+    {
+      "pregunta": "¿Qué se reconoce como importante en la educación según la Ley 115 para el bienestar emocional de los estudiantes?",
+      "opciones": [
+        "Educación para la salud y el bienestar",
+        "Formación en valores éticos y cívicos",
+        "Evaluación como un proceso integral y continuo",
+        "Participación activa de los estudiantes"
+      ],
+      "respuesta": "Educación para la salud y el bienestar"
+    },
+    {
+      "pregunta": "¿Qué se establece en la Ley 115 para sancionar a quienes vulneren los derechos educativos?",
+      "opciones": [
+        "Mecanismos de seguimiento y evaluación del sistema educativo",
+        "Participación de la comunidad en la gestión educativa",
+        "Garantía de acceso a la educación superior",
+        "Establecimiento de sanciones para quienes vulneren los derechos educativos"
+      ],
+      "respuesta": "Establecimiento de sanciones para quienes vulneren los derechos educativos"
+    },
+    {
+      "pregunta": "¿Qué se promueve en la educación según la Ley 115 para la interculturalidad en el currículo educativo?",
+      "opciones": [
+        "Educación para el desarrollo regional",
+        "Educación en derechos laborales y civiles",
+        "Educación intercultural",
+        "Educación en derechos de los animales"
+      ],
+      "respuesta": "Educación intercultural"
+    },
+    {
+      "pregunta": "¿Qué se establece en la Ley 115 para garantizar la participación de la comunidad en la gestión educativa?",
+      "opciones": [
+        "Evaluación como un proceso integral y continuo",
+        "Autonomía escolar",
+        "Formación integral de los docentes",
+        "Evaluación continua"
+      ],
+      "respuesta": "Autonomía escolar"
+    },
+    {
+      "pregunta": "¿Qué se reconoce como importante en la educación según la Ley 115 para el desarrollo regional?",
+      "opciones": [
+        "Educación para el desarrollo sostenible",
+        "Educación en derechos laborales y civiles",
+        "Educación para el trabajo y el emprendimiento",
+        "Educación en derechos de los animales"
+      ],
+      "respuesta": "Educación para el desarrollo sostenible"
+    },
+    {
+      "pregunta": "¿Qué se promueve en la educación según la Ley 115 para la prevención de la violencia y el delito?",
+      "opciones": [
+        "Participación activa de los estudiantes",
+        "Formación en valores éticos y cívicos",
+        "Educación para el desarrollo sostenible",
+        "Educación para la prevención de la violencia y el delito"
+      ],
+      "respuesta": "Educación para la prevención de la violencia y el delito"
+    },
+    {
+      "pregunta": "¿Qué se reconoce como importante en la educación según la Ley 115 para la promoción de la equidad y la inclusión?",
+      "opciones": [
+        "Educación en derechos laborales y civiles",
+        "Educación en derechos humanos y democracia",
+        "Educación para el desarrollo sostenible",
+        "Educación inclusiva"
+      ],
+      "respuesta": "Educación inclusiva"
+    },
+    {
+      "pregunta": "¿Qué se establece en la Ley 115 para garantizar la igualdad de oportunidades en el acceso a la educación?",
+      "opciones": [
+        "Participación de los estudiantes en la toma de decisiones",
+        "Evaluación como un proceso integral y continuo",
+        "Autonomía escolar",
+        "Gratuidad de la educación en los establecimientos públicos"
+      ],
+      "respuesta": "Gratuidad de la educación en los establecimientos públicos"
+    },
+    {
+      "pregunta": "¿Qué se promueve en la educación según la Ley 115 para la formación ciudadana en valores éticos y cívicos?",
+      "opciones": [
+        "Educación en derechos humanos y democracia",
+        "Educación en derechos laborales y civiles",
+        "Educación para el desarrollo sostenible",
+        "Formación en valores éticos y cívicos"
+      ],
+      "respuesta": "Formación en valores éticos y cívicos"
+    },
+    {
+      "pregunta": "¿Qué se reconoce como importante en la educación según la Ley 115 para la formación integral de los estudiantes?",
+      "opciones": [
+        "Educación para el trabajo y el emprendimiento",
+        "Educación en derechos humanos y democracia",
+        "Educación para el desarrollo sostenible",
+        "Formación integral de los estudiantes"
+      ],
+      "respuesta": "Formación integral de los estudiantes"
+    },
+    {
+      "pregunta": "¿Qué se establece en la Ley 115 para garantizar el acceso a la educación de calidad para todos los ciudadanos?",
+      "opciones": [
+        "Evaluación como un proceso integral y continuo",
+        "Participación de la comunidad en la gestión educativa",
+        "Autonomía escolar",
+        "Igualdad de oportunidades"
+      ],
+      "respuesta": "Igualdad de oportunidades"
+    },
+    {
+      "pregunta": "¿Qué se promueve en la educación según la Ley 115 para el desarrollo de competencias que preparen a los estudiantes para un mundo interconectado?",
+      "opciones": [
+        "Educación en derechos humanos y democracia",
+        "Educación para el desarrollo sostenible",
+        "Participación activa de los estudiantes",
+        "Formación en valores éticos y cívicos"
+      ],
+      "respuesta": "Educación para el desarrollo sostenible"
+    }
+  ]
+}

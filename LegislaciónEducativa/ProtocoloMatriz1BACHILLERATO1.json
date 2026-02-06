@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En un colegio de educación básica en Colombia, ¿qué estrategia sería más efectiva para promover el bilingüismo desde temprana edad?",
+      "opciones": [
+        "Enseñar inglés únicamente en clases especializadas sin integrarlo en otras materias.",
+        "Integrar el inglés en varias materias del currículo y promover actividades extracurriculares en inglés.",
+        "Depender exclusivamente de la exposición al inglés a través de medios de comunicación.",
+        "Enseñar solo lo básico del inglés y enfocarse principalmente en el español."
+      ],
+      "respuesta": "Integrar el inglés en varias materias del currículo y promover actividades extracurriculares en inglés.",
+      "explicacion": "La opción B fomenta el bilingüismo al integrar el inglés en diversas materias, promoviendo una inmersión más completa y continua en el idioma."
+    },
+    {
+      "pregunta": "Dada la diversidad cultural en Colombia, ¿cuál sería la mejor manera de promover el respeto y la integración de diferentes culturas en un colegio de educación media?",
+      "opciones": [
+        "Organizar eventos culturales que representen solo las culturas mayoritarias.",
+        "Fomentar el estudio y la celebración de todas las culturas representadas en la comunidad escolar.",
+        "Ignorar las diferencias culturales y centrarse en la identidad nacional colombiana.",
+        "Segregar a los estudiantes por su origen cultural para evitar conflictos."
+      ],
+      "respuesta": "Fomentar el estudio y la celebración de todas las culturas representadas en la comunidad escolar.",
+      "explicacion": "La opción B promueve el respeto y la integración al celebrar y aprender sobre todas las culturas presentes, enriqueciendo la experiencia educativa."
+    },
+    {
+      "pregunta": "En un colegio colombiano que enfrenta problemas de indisciplina, ¿qué estrategia sería más efectiva para mejorar el comportamiento estudiantil?",
+      "opciones": [
+        "Implementar un sistema de castigos severos para desalentar la indisciplina.",
+        "Promover un enfoque de disciplina positiva y restaurativa que involucre a estudiantes y padres.",
+        "Ignorar los problemas de indisciplina y enfocarse únicamente en el rendimiento académico.",
+        "Aumentar la vigilancia y control de los estudiantes durante todo el día escolar."
+      ],
+      "respuesta": "Promover un enfoque de disciplina positiva y restaurativa que involucre a estudiantes y padres.",
+      "explicacion": "La opción B busca abordar la indisciplina de manera constructiva, promoviendo la responsabilidad y el entendimiento de las consecuencias de las acciones."
+    },
+    {
+      "pregunta": "Frente a la brecha digital observada en algunas regiones de Colombia, ¿qué estrategia sería más efectiva para asegurar que todos los estudiantes tengan acceso a la tecnología y a la educación digital?",
+      "opciones": [
+        "Proporcionar dispositivos tecnológicos solo a los estudiantes con las mejores calificaciones.",
+        "Establecer centros comunitarios de acceso tecnológico y capacitación en competencias digitales para todos los estudiantes.",
+        "Depender únicamente del esfuerzo de los padres para proporcionar tecnología a sus hijos.",
+        "Centrarse exclusivamente en la enseñanza tradicional sin integrar la tecnología."
+      ],
+      "respuesta": "Establecer centros comunitarios de acceso tecnológico y capacitación en competencias digitales para todos los estudiantes.",
+      "explicacion": "La opción B asegura que todos los estudiantes tengan acceso a la tecnología y a la capacitación necesaria, reduciendo la brecha digital."
+    },
+    {
+      "pregunta": "En un colegio donde se observa una baja participación de los padres en la educación de sus hijos, ¿qué estrategia sería más efectiva para fomentar esta participación?",
+      "opciones": [
+        "Ofrecer talleres de formación para padres sobre cómo apoyar el aprendizaje de sus hijos en casa.",
+        "Depender exclusivamente de los maestros para la educación de los estudiantes.",
+        "Ignorar la falta de participación de los padres y centrarse solo en el rendimiento académico de los estudiantes.",
+        "Proporcionar incentivos económicos a los padres que asistan a reuniones escolares."
+      ],
+      "respuesta": "Ofrecer talleres de formación para padres sobre cómo apoyar el aprendizaje de sus hijos en casa.",
+      "explicacion": "La opción A capacita a los padres para que puedan apoyar mejor a sus hijos en el hogar, promoviendo una colaboración efectiva entre la escuela y la familia."
+    },
+    {
+      "pregunta": "Dado el énfasis en la educación STEM (Ciencia, Tecnología, Ingeniería y Matemáticas) en Colombia, ¿cuál sería la mejor manera de fomentar el interés de los estudiantes en estas áreas desde la educación básica?",
+      "opciones": [
+        "Integrar proyectos prácticos y experimentos en el currículo de ciencias y matemáticas.",
+        "Enseñar únicamente teoría y evitar actividades prácticas debido a la falta de recursos.",
+        "Fomentar el estudio independiente de estas materias sin apoyo adicional de los docentes.",
+        "Limitar la enseñanza de STEM a estudiantes que muestren habilidades avanzadas desde una edad temprana."
+      ],
+      "respuesta": "Integrar proyectos prácticos y experimentos en el currículo de ciencias y matemáticas.",
+      "explicacion": "La opción A promueve un aprendizaje activo y práctico que puede despertar el interés y la pasión por las áreas STEM desde una edad temprana."
+    },
+    {
+      "pregunta": "En un colegio de educación media en Colombia, ¿qué estrategia sería más efectiva para preparar a los estudiantes para los retos del mundo laboral del siglo XXI?",
+      "opciones": [
+        "Ofrecer exclusivamente formación académica teórica sin considerar habilidades prácticas.",
+        "Integrar programas de educación técnica y vocacional junto con el currículo académico tradicional.",
+        "Centrarse únicamente en preparar a los estudiantes para exámenes estandarizados nacionales.",
+        "Dejar que los estudiantes elijan sus propias actividades extracurriculares sin orientación profesional."
+      ],
+      "respuesta": "Integrar programas de educación técnica y vocacional junto con el currículo académico tradicional.",
+      "explicacion": "La ofrece una formación completa que incluye tanto teoría como habilidades prácticas, preparando mejor a los estudiantes para los desafíos del mundo laboral moderno."
+    },
+    {
+      "pregunta": "En un colegio donde hay diferencias significativas en el rendimiento académico de los estudiantes, ¿qué estrategia sería más efectiva para cerrar esta brecha?",
+      "opciones": [
+        "Ignorar las diferencias y seguir enseñando de manera uniforme a todos los estudiantes.",
+        "Implementar programas de tutoría y apoyo académico personalizados para estudiantes con dificultades.",
+        "Enfocar todos los recursos en los estudiantes de alto rendimiento.",
+        "Reducir la carga académica para todos los estudiantes para igualar el rendimiento."
+      ],
+      "respuesta": "Implementar programas de tutoría y apoyo académico personalizados para estudiantes con dificultades.",
+      "explicacion": "La  proporciona apoyo adicional a los estudiantes que lo necesitan, ayudándolos a alcanzar su máximo potencial y cerrando la brecha de rendimiento."
+    },
+    {
+      "pregunta": "Ante el desafío de promover la lectura en una escuela básica de Colombia, ¿qué estrategia sería más efectiva para fomentar el hábito de la lectura entre los estudiantes?",
+      "opciones": [
+        "Obligar a los estudiantes a leer libros seleccionados por los maestros sin permitirles elegir sus propios libros.",
+        "Crear clubes de lectura y bibliotecas accesibles que ofrezcan una variedad de libros interesantes para los estudiantes.",
+        "Centrarse únicamente en la enseñanza de gramática y escritura, sin promover la lectura.",
+        "Dejar que los estudiantes decidan si quieren leer o no, sin ninguna intervención de la escuela."
+      ],
+      "respuesta": "Crear clubes de lectura y bibliotecas accesibles que ofrezcan una variedad de libros interesantes para los estudiantes.",
+      "explicacion": "La fomenta el hábito de la lectura al proporcionar un entorno atractivo y accesible donde los estudiantes pueden explorar diferentes géneros y autores."
+    },
+    {
+      "pregunta": "En un colegio donde se busca promover habilidades de pensamiento crítico y resolución de problemas, ¿qué estrategia sería más efectiva para lograr este objetivo?",
+      "opciones": [
+        "Enseñar a los estudiantes a memorizar información sin cuestionar su validez.",
+        "Integrar actividades de debate, proyectos de investigación y resolución de problemas en el currículo.",
+        "Evitar actividades que requieran pensamiento crítico y enfocarse solo en la enseñanza tradicional.",
+        "Dejar que los estudiantes desarrollen estas habilidades por su cuenta, sin orientación del docente."
+      ],
+      "respuesta": "Integrar actividades de debate, proyectos de investigación y resolución de problemas en el currículo.",
+      "explicacion": "La promueve el desarrollo de habilidades de pensamiento crítico y resolución de problemas al involucrar a los estudiantes en actividades que requieren análisis, reflexión y solución creativa."
+    }
+  ]
+}

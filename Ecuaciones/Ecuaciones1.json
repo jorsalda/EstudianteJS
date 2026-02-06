@@ -1,0 +1,59 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuánto debe ser el aumento en metros x para que el área del campo sea el doble después de la ampliación?",
+      "opciones": [
+        "5 metros",
+        "10 metros",
+        "15 metros",
+        "20 metros"
+      ],
+      "respuesta": "10 metros",
+      "explicacion": "El área original es 50 metros * 30 metros = 1500 metros cuadrados. Duplicar esta área da 3000 metros cuadrados. Si se aumenta la longitud y el ancho en x metros, el nuevo área será (50 + x)(30 + x). Resolviendo la ecuación (50 + x)(30 + x) = 3000, encontramos que x = 10 metros."
+    },
+    {
+      "pregunta": "¿Cuál es el área original del campo de cultivo de Lucía?",
+      "opciones": [
+        "1000 metros cuadrados",
+        "1200 metros cuadrados",
+        "1500 metros cuadrados",
+        "1800 metros cuadrados"
+      ],
+      "respuesta": "1500 metros cuadrados",
+      "explicacion": "El área original se calcula multiplicando la longitud por el ancho: 50 metros * 30 metros = 1500 metros cuadrados."
+    },
+    {
+      "pregunta": "¿Cuál es el promedio de frutos cosechados por metro cuadrado durante los últimos 10 años?",
+      "opciones": [
+        "52.6 frutos",
+        "54.6 frutos",
+        "56.2 frutos",
+        "58.4 frutos"
+      ],
+      "respuesta": "54.6 frutos",
+      "explicacion": "El promedio se calcula sumando los valores y dividiéndolos por la cantidad de años: (50 + 55 + 48 + 52 + 60 + 58 + 53 + 57 + 54 + 59) / 10 = 54.6 frutos por metro cuadrado."
+    },
+    {
+      "pregunta": "¿Cuál es la varianza de la cantidad de frutos cosechados por metro cuadrado en los últimos 10 años?",
+      "opciones": [
+        "9.76",
+        "16.84",
+        "22.24",
+        "24.64"
+      ],
+      "respuesta": "24.64",
+      "explicacion": "La varianza se calcula como el promedio de los cuadrados de las diferencias entre cada valor y el promedio. Primero, el promedio es 54.6 frutos. Las diferencias al cuadrado son: (50-54.6)^2, (55-54.6)^2, ..., (59-54.6)^2. La varianza es (21.16 + 0.16 + 44.36 + 6.76 + 27.04 + 11.56 + 2.56 + 5.76 + 0.36 + 19.36) / 10 = 24.64."
+    },
+    {
+      "pregunta": "¿Cuál es la mediana de la cantidad de frutos cosechados por metro cuadrado en los últimos 10 años?",
+      "opciones": [
+        "52.5 frutos",
+        "53.5 frutos",
+        "55.5 frutos",
+        "56.5 frutos"
+      ],
+      "respuesta": "54.5 frutos",
+      "explicacion": "Para encontrar la mediana, los datos se ordenan: 48, 50, 52, 53, 54, 55, 57, 58, 59, 60. La mediana es el promedio de los valores en las posiciones 5 y 6, que son 54 y 55, por lo que la mediana es (54 + 55) / 2 = 54.5 frutos."
+    }
+  ]
+}

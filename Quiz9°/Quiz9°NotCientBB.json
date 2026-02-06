@@ -1,0 +1,134 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es la notación científica?",
+      "opciones": [
+        "Un método para dividir números grandes en fracciones.",
+        "Una forma de representar números muy grandes o muy pequeños de manera más compacta.",
+        "Una técnica para escribir números sin decimales.",
+        "Un sistema para convertir números en fracciones."
+      ],
+      "respuesta": "Una forma de representar números muy grandes o muy pequeños de manera más compacta."
+    },
+    {
+      "pregunta": "¿Cuáles son los componentes de un número en notación científica?",
+      "opciones": [
+        "Coeficiente y fracción.",
+        "Coeficiente y raíz cuadrada.",
+        "Mantisa y exponente.",
+        "Parte entera y parte decimal."
+      ],
+      "respuesta": "Mantisa y exponente."
+    },
+    {
+      "pregunta": "En la notación científica, ¿qué representa el exponente?",
+      "opciones": [
+        "La posición del número decimal.",
+        "La cantidad de ceros después del punto decimal.",
+        "El orden de magnitud del número.",
+        "La raíz cuadrada del número."
+      ],
+      "respuesta": "El orden de magnitud del número."
+    },
+    {
+      "pregunta": "Si se tiene el número 0.0056, ¿cómo se escribe en notación científica?",
+      "opciones": [
+        "5.6 × 10^{-4}",
+        "5.6 × 10^{-3}",
+        "5.6 × 10^3",
+        "56 × 10^{-5}"
+      ],
+      "respuesta": "5.6 × 10^{-3}"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes números está correctamente representado en notación científica?",
+      "opciones": [
+        "3.25 × 10^4",
+        "32.5 × 10^3",
+        "0.325 × 10^5",
+        "325 × 10^2"
+      ],
+      "respuesta": "3.25 × 10^4"
+    },
+    {
+      "pregunta": "Si el número 2.5 se expresa como 2.5 × 10^3, ¿qué representa en notación real?",
+      "opciones": [
+        "250",
+        "2500",
+        "25,000",
+        "0.0025"
+      ],
+      "respuesta": "2500"
+    },
+    {
+      "pregunta": "¿Cómo se mueve el punto decimal en un número con un exponente negativo en notación científica?",
+      "opciones": [
+        "Hacia la izquierda.",
+        "Hacia la derecha.",
+        "Depende del valor de la mantisa.",
+        "No se mueve, solo se multiplica."
+      ],
+      "respuesta": "Hacia la izquierda."
+    },
+    {
+      "pregunta": "¿Cómo se expresa el número de Avogadro, 6.02 × 10^{23}, en notación real?",
+      "opciones": [
+        "602,000,000,000,000,000,000",
+        "6,020,000,000,000,000,000",
+        "602,000,000,000,000,000,000,000",
+        "60,200,000,000,000,000,000,000"
+      ],
+      "respuesta": "602,000,000,000,000,000,000,000"
+    },
+    {
+      "pregunta": "La velocidad de la luz en el vacío es aproximadamente 3.00 × 10^8 m/s. ¿Qué significa este número?",
+      "opciones": [
+        "30,000,000 m/s",
+        "300,000,000 m/s",
+        "3,000,000 m/s",
+        "3,000 m/s"
+      ],
+      "respuesta": "300,000,000 m/s"
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de usar notación científica en la ciencia?",
+      "opciones": [
+        "Permite evitar cálculos matemáticos complejos.",
+        "Facilita la comparación de números con diferentes órdenes de magnitud.",
+        "Hace que los números sean más difíciles de entender.",
+        "Solo se utiliza en situaciones muy específicas y no es aplicable a la vida cotidiana."
+      ],
+      "respuesta": "Facilita la comparación de números con diferentes órdenes de magnitud."
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de sumar 2.2 × 10^3 y 3.5 × 10^4?",
+      "opciones": [
+        "5.7 × 10^4",
+        "37.2 × 10^4",
+        "3.72 × 10^4",
+        "35.22 × 10^3"
+      ],
+      "respuesta": "3.72 × 10^4"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de restar 5.2 × 10^3 de 9.2 × 10^4?",
+      "opciones": [
+        "8.68 × 10^4",
+        "4.7 × 10^4",
+        "3.68 × 10^3",
+        "8.68 × 10^3"
+      ],
+      "respuesta": "8.68 × 10^4"
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de multiplicar -1.2 × 10^5 por 8.2 × 10^4?",
+      "opciones": [
+        "-9.84 × 10^9",
+        "-9.84 × 10^{10}",
+        "-9.84 × 10^8",
+        "-98.4 × 10^9"
+      ],
+      "respuesta": "-9.84 × 10^9"
+    }
+  ]
+}

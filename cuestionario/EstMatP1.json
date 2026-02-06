@@ -1,0 +1,314 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el papel de las matemáticas en la sociedad?",
+      "opciones": [
+        "Contribuir al desarrollo de la literatura.",
+        "Ayudar en la construcción de edificios.",
+        "Resolver problemas éticos.",
+        "Facilitar transacciones comerciales."
+      ],
+      "respuesta": "Facilitar transacciones comerciales."
+    },
+    {
+      "pregunta": "¿Por qué se cuestiona la exclusividad de las matemáticas en el desarrollo del pensamiento lógico?",
+      "opciones": [
+        "Porque no tienen relevancia en la vida cotidiana.",
+        "Porque otras áreas también contribuyen al pensamiento lógico.",
+        "Porque son difíciles de entender.",
+        "Porque son obsoletas."
+      ],
+      "respuesta": "Porque otras áreas también contribuyen al pensamiento lógico."
+    },
+    {
+      "pregunta": "¿Cuál es uno de los factores que se reconocen en la formación matemática según el texto?",
+      "opciones": [
+        "El desarrollo de la memoria a corto plazo.",
+        "El aprendizaje de técnicas de malabarismo.",
+        "El conocimiento matemático informal de los estudiantes.",
+        "La creación de aplicaciones móviles."
+      ],
+      "respuesta": "El conocimiento matemático informal de los estudiantes."
+    },
+    {
+      "pregunta": "¿Qué se destaca sobre el carácter de las matemáticas según el texto?",
+      "opciones": [
+        "Son verdades absolutas e inmutables.",
+        "Son subjetivas y cambian constantemente.",
+        "Son exclusivamente teóricas y no prácticas.",
+        "Dependen del clima."
+      ],
+      "respuesta": "Son subjetivas y cambian constantemente."
+    },
+    {
+      "pregunta": "¿Cuál es una razón para el valor ampliado del conocimiento matemático según el texto?",
+      "opciones": [
+        "Facilitar el aprendizaje del piano.",
+        "Ayudar en la interpretación de textos literarios.",
+        "Desempeñarse eficientemente en un mundo tecnológico.",
+        "Hacer surf en el océano."
+      ],
+      "respuesta": "Desempeñarse eficientemente en un mundo tecnológico."
+    },
+    {
+      "pregunta": "¿Qué se busca con una educación matemática inclusiva y de calidad según el texto?",
+      "opciones": [
+        "Formar únicamente a estudiantes con alto rendimiento académico.",
+        "Ignorar las necesidades especiales de los estudiantes.",
+        "Atender a todos los ciudadanos independientemente de su preparación o motivación.",
+        "Eliminar por completo la enseñanza de las matemáticas."
+      ],
+      "respuesta": "Atender a todos los ciudadanos independientemente de su preparación o motivación."
+    },
+    {
+      "pregunta": "¿Qué se reconoce sobre el aprendizaje de las matemáticas según el texto?",
+      "opciones": [
+        "Solo involucra aspectos cognitivos.",
+        "Involucra aspectos cognitivos, afectivos y sociales.",
+        "Es exclusivamente un proceso individual.",
+        "No tiene relevancia en el desarrollo personal."
+      ],
+      "respuesta": "Involucra aspectos cognitivos, afectivos y sociales."
+    },
+    {
+      "pregunta": "¿Cuál es una de las nuevas finalidades sociales de la formación matemática según el texto?",
+      "opciones": [
+        "Crear obras de arte abstracto.",
+        "Promover el aislamiento social.",
+        "Fomentar la participación activa y crítica en la vida social y política.",
+        "Impedir la innovación tecnológica."
+      ],
+      "respuesta": "Fomentar la participación activa y crítica en la vida social y política."
+    },
+    {
+      "pregunta": "¿Cuál es el efecto del desarrollo tecnológico en la necesidad de conocimientos matemáticos?",
+      "opciones": [
+        "No tiene ningún efecto.",
+        "Disminuye la necesidad de conocimientos matemáticos.",
+        "Aumenta la necesidad de conocimientos matemáticos.",
+        "Solo afecta a otras disciplinas."
+      ],
+      "respuesta": "Aumenta la necesidad de conocimientos matemáticos."
+    },
+    {
+      "pregunta": "¿Por qué se hace necesario identificar el conocimiento matemático informal de los estudiantes?",
+      "opciones": [
+        "Para castigar a los estudiantes que no lo poseen.",
+        "Para ignorar sus necesidades educativas.",
+        "Para adaptar la enseñanza de las matemáticas a su contexto práctico.",
+        "Porque es una práctica obsoleta."
+      ],
+      "respuesta": "Para adaptar la enseñanza de las matemáticas a su contexto práctico."
+    },
+    {
+      "pregunta": "¿Qué se menciona sobre la relación entre las matemáticas y la cultura?",
+      "opciones": [
+        "Las matemáticas son independientes de la cultura.",
+        "Las matemáticas están estancadas en el tiempo.",
+        "Las matemáticas están ligadas a contextos culturales específicos y están en constante transformación.",
+        "Las matemáticas son universales y no cambian."
+      ],
+      "respuesta": "Las matemáticas están ligadas a contextos culturales específicos y están en constante transformación."
+    },
+    {
+      "pregunta": "¿Cuál es una de las razones para cuestionar la exclusividad de las matemáticas en el desarrollo del pensamiento lógico?",
+      "opciones": [
+        "La falta de relevancia de las matemáticas en la sociedad.",
+        "El reconocimiento de que otras áreas también contribuyen al pensamiento lógico.",
+        "La falta de evidencia científica.",
+        "La popularidad de otras disciplinas."
+      ],
+      "respuesta": "El reconocimiento de que otras áreas también contribuyen al pensamiento lógico."
+    },
+    {
+      "pregunta": "¿Qué se busca con una educación matemática que promueva la equidad?",
+      "opciones": [
+        "Ignorar las necesidades de los estudiantes con menos recursos.",
+        "Formar exclusivamente a estudiantes de élite.",
+        "Ofrecer oportunidades educativas a todos los ciudadanos independientemente de su situación socioeconómica.",
+        "Eliminar la educación matemática."
+      ],
+      "respuesta": "Ofrecer oportunidades educativas a todos los ciudadanos independientemente de su situación socioeconómica."
+    },
+    {
+      "pregunta": "¿Cuál es una de las razones para reconocer el carácter histórico y contingente de las matemáticas?",
+      "opciones": [
+        "Para mantenerlas como verdades absolutas.",
+        "Para ignorar su relevancia en la sociedad actual.",
+        "Para comprender su evolución y transformación a lo largo del tiempo.",
+        "Porque son irrelevantes en la actualidad."
+      ],
+      "respuesta": "Para comprender su evolución y transformación a lo largo del tiempo."
+    },
+    {
+      "pregunta": "¿Cuál es una de las razones para reconocer nuevas finalidades sociales en la formación matemática?",
+      "opciones": [
+        "Promover la exclusión social.",
+        "Fomentar la indiferencia política.",
+        "Fomentar la participación activa y crítica en la vida social y política.",
+        "Eliminar la importancia de la educación matemática."
+      ],
+      "respuesta": "Fomentar la participación activa y crítica en la vida social y política."
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de la contribución de las matemáticas a la educación?",
+      "opciones": [
+        "Es incuestionable desde hace siglos.",
+        "Es debatida constantemente.",
+        "Es irrelevante para la educación.",
+        "Es una nueva área de estudio."
+      ],
+      "respuesta": "Es incuestionable desde hace siglos."
+    },
+    {
+      "pregunta": "¿Qué implica la educación matemática en la formación en valores democráticos?",
+      "opciones": [
+        "No tiene relación con los valores democráticos.",
+        "Implica reconocer distintos tipos de pensamiento lógico y matemático.",
+        "Solo se enfoca en la retención de contenidos matemáticos.",
+        "Se limita a la enseñanza de fórmulas matemáticas."
+      ],
+      "respuesta": "Implica reconocer distintos tipos de pensamiento lógico y matemático."
+    },
+    {
+      "pregunta": "¿Cuál es uno de los factores que exigen reorganizaciones en la enseñanza de las matemáticas?",
+      "opciones": [
+        "La falta de interés de los estudiantes.",
+        "El desconocimiento de los docentes sobre la materia.",
+        "La necesidad de una nueva visión de las matemáticas como creación humana.",
+        "La falta de recursos tecnológicos en las aulas."
+      ],
+      "respuesta": "La necesidad de una nueva visión de las matemáticas como creación humana."
+    },
+    {
+      "pregunta": "¿Qué implica la incorporación de fines políticos, sociales y culturales a la educación matemática?",
+      "opciones": [
+        "Limita el alcance de la educación matemática.",
+        "Reconoce que las matemáticas son parte del sistema de valores compartidos.",
+        "Reduce la importancia de los contenidos matemáticos.",
+        "No tiene ningún impacto en la enseñanza de las matemáticas."
+      ],
+      "respuesta": "Reconoce que las matemáticas son parte del sistema de valores compartidos."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre una enseñanza orientada a contenidos y una orientada al desarrollo de competencias?",
+      "opciones": [
+        "No hay diferencia.",
+        "La enseñanza orientada a contenidos se enfoca en la retención de fórmulas, mientras que la orientada al desarrollo de competencias se centra en habilidades matemáticas.",
+        "La enseñanza orientada a contenidos no se preocupa por los objetivos específicos, mientras que la orientada al desarrollo de competencias sí.",
+        "La enseñanza orientada a contenidos es más efectiva que la orientada al desarrollo de competencias."
+      ],
+      "respuesta": "La enseñanza orientada a contenidos se enfoca en la retención de fórmulas, mientras que la orientada al desarrollo de competencias se centra en habilidades matemáticas."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de considerar las matemáticas como una creación humana en constante cambio?",
+      "opciones": [
+        "Para desacreditar su importancia en la educación.",
+        "Para destacar su relevancia en la sociedad actual.",
+        "Para enfatizar su complejidad.",
+        "Para demostrar su irrelevancia en la cultura."
+      ],
+      "respuesta": "Para destacar su relevancia en la sociedad actual."
+    },
+    {
+      "pregunta": "¿Por qué es importante incorporar fines políticos, sociales y culturales a la educación matemática?",
+      "opciones": [
+        "Para reducir la relevancia de las matemáticas en la sociedad.",
+        "Para mostrar que las matemáticas son independientes de la cultura.",
+        "Para reconocer que las matemáticas tienen implicaciones más allá de los cálculos y fórmulas.",
+        "Para limitar la educación matemática a un contexto académico."
+      ],
+      "respuesta": "Para reconocer que las matemáticas tienen implicaciones más allá de los cálculos y fórmulas."
+    },
+    {
+      "pregunta": "¿Qué implica el cambio de enfoque de la enseñanza de las matemáticas hacia el desarrollo de competencias?",
+      "opciones": [
+        "Enseñar solo fórmulas y conceptos.",
+        "Desarrollar habilidades matemáticas en los estudiantes.",
+        "Ignorar completamente los contenidos matemáticos.",
+        "Reducir la cantidad de práctica matemática en el aula."
+      ],
+      "respuesta": "Desarrollar habilidades matemáticas en los estudiantes."
+    },
+    {
+      "pregunta": "¿Cuál es la relación entre la enseñanza de las matemáticas y los valores democráticos?",
+      "opciones": [
+        "No hay relación entre ellos.",
+        "Las matemáticas son totalmente independientes de los valores democráticos.",
+        "La enseñanza de las matemáticas puede promover la ciudadanía crítica y la toma de decisiones informadas.",
+        "Los valores democráticos no tienen cabida en el aula de matemáticas."
+      ],
+      "respuesta": "La enseñanza de las matemáticas puede promover la ciudadanía crítica y la toma de decisiones informadas."
+    },
+    {
+      "pregunta": "¿Qué implica considerar las matemáticas como una disciplina en desarrollo y en constante cambio?",
+      "opciones": [
+        "Las matemáticas no han evolucionado en siglos.",
+        "Las matemáticas son estáticas y no cambian.",
+        "Reconocer que las matemáticas se adaptan a las necesidades y avances de la sociedad.",
+        "Las matemáticas no tienen relevancia en la sociedad moderna."
+      ],
+      "respuesta": "Reconocer que las matemáticas se adaptan a las necesidades y avances de la sociedad."
+    },
+    {
+      "pregunta": "¿Por qué es importante la participación activa de docentes y estudiantes en la enseñanza de las matemáticas?",
+      "opciones": [
+        "Para evitar la interacción entre ellos.",
+        "Para promover un ambiente de aprendizaje colaborativo.",
+        "Para limitar la enseñanza a unidireccional.",
+        "Para demostrar que la educación matemática es un proceso pasivo."
+      ],
+      "respuesta": "Para promover un ambiente de aprendizaje colaborativo."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre una visión estática y una visión dinámica de las matemáticas?",
+      "opciones": [
+        "Ambas son iguales.",
+        "Una reconoce el papel de las matemáticas en la sociedad actual, mientras que la otra las considera irrelevantes.",
+        "Una considera que las matemáticas no cambian, mientras que la otra reconoce su evolución constante.",
+        "Una ignora por completo la relevancia de las matemáticas, mientras que la otra destaca su importancia."
+      ],
+      "respuesta": "Una considera que las matemáticas no cambian, mientras que la otra reconoce su evolución constante."
+    },
+    {
+      "pregunta": "¿Por qué es necesario incorporar fines políticos, sociales y culturales a la educación matemática?",
+      "opciones": [
+        "Para limitar la educación matemática a un contexto académico.",
+        "Para mostrar que las matemáticas son independientes de la cultura.",
+        "Para reducir la relevancia de las matemáticas en la sociedad.",
+        "Para reconocer que las matemáticas tienen implicaciones más allá de los cálculos y fórmulas."
+      ],
+      "respuesta": "Para reconocer que las matemáticas tienen implicaciones más allá de los cálculos y fórmulas."
+    },
+    {
+      "pregunta": "¿Qué implica la enseñanza de las matemáticas como una actividad humana culturalmente mediada?",
+      "opciones": [
+        "Enseñar las matemáticas como una actividad aislada de la cultura.",
+        "Ignorar por completo el contexto cultural en la enseñanza de las matemáticas.",
+        "Reconocer que las matemáticas están influenciadas por el contexto cultural y social de las personas.",
+        "Promover la idea de que las matemáticas son universales y no están influenciadas por la cultura."
+      ],
+      "respuesta": "Reconocer que las matemáticas están influenciadas por el contexto cultural y social de las personas."
+    },
+    {
+      "pregunta": "¿Por qué es importante pasar de una enseñanza orientada a contenidos a una orientada al desarrollo de competencias?",
+      "opciones": [
+        "Porque las competencias no tienen relevancia en la educación matemática.",
+        "Porque la enseñanza orientada a contenidos no promueve el desarrollo integral de los estudiantes.",
+        "Porque las fórmulas y conceptos matemáticos son más importantes que las habilidades.",
+        "Porque la enseñanza orientada a contenidos es más efectiva."
+      ],
+      "respuesta": "Porque la enseñanza orientada a contenidos no promueve el desarrollo integral de los estudiantes."
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de reconocer la enseñanza de las matemáticas como una actividad humana en constante cambio?",
+      "opciones": [
+        "No tiene importancia en la educación matemática.",
+        "Para demostrar que las matemáticas son irrelevantes en la sociedad moderna.",
+        "Para reconocer que las matemáticas se adaptan a las necesidades y avances de la sociedad.",
+        "Para ignorar por completo la relevancia de las matemáticas en la educación."
+      ],
+      "respuesta": "Para reconocer que las matemáticas se adaptan a las necesidades y avances de la sociedad."
+    }
+  ]
+}

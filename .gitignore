@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
+
+# Otros
+.DS_Store
+.idea/

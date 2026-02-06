@@ -1,0 +1,367 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Según el Decreto 1290 de 2009, ¿qué pueden hacer las instituciones educativas con respecto a su sistema de evaluación?",
+      "opciones": [
+        "Implementar un sistema de evaluación común para todas las escuelas del país.",
+        "Definir y adaptar su propio sistema de evaluación según su Proyecto Educativo Institucional (PEI).",
+        "Ignorar los lineamientos del Ministerio de Educación y crear un sistema independiente.",
+        "Utilizar únicamente los métodos de evaluación proporcionados por el gobierno."
+      ],
+      "respuesta": "Definir y adaptar su propio sistema de evaluación según su Proyecto Educativo Institucional (PEI).",
+      "explicacion": "El Decreto 1290 permite a las instituciones educativas la libertad de diseñar su propio sistema de evaluación adaptado a su PEI, respetando la diversidad y necesidades de cada comunidad educativa."
+    },
+    {
+      "pregunta": "¿Cómo deben ser comunicados los criterios y procedimientos de evaluación a la comunidad educativa según el Decreto 1290?",
+      "opciones": [
+        "De forma clara y accesible para todos los miembros de la comunidad educativa.",
+        "Exclusivamente a los docentes y no a los estudiantes ni a los padres.",
+        "Publicados solo en el sitio web de la institución al final del curso.",
+        "Explicados únicamente a los estudiantes al inicio del año escolar."
+      ],
+      "respuesta": "De forma clara y accesible para todos los miembros de la comunidad educativa.",
+      "explicacion": "La transparencia en la evaluación asegura que todos los miembros de la comunidad educativa comprendan los criterios y procedimientos, lo que contribuye a un proceso evaluativo justo y equitativo."
+    },
+    {
+      "pregunta": "¿Quiénes deben participar en la definición del sistema de evaluación en una institución educativa?",
+      "opciones": [
+        "Solamente los directivos de la institución.",
+        "Los docentes y los estudiantes, pero no los padres.",
+        "Los directivos y un grupo seleccionado de estudiantes.",
+        "Todos los miembros de la comunidad educativa, incluyendo estudiantes, padres y docentes."
+      ],
+      "respuesta": "Todos los miembros de la comunidad educativa, incluyendo estudiantes, padres y docentes.",
+      "explicacion": "La participación de toda la comunidad educativa en la creación del sistema de evaluación permite que se consideren múltiples perspectivas y se adapte mejor a las necesidades de todos los miembros."
+    },
+    {
+      "pregunta": "¿Qué aspectos deben ser considerados en la evaluación de los estudiantes según el Decreto 1290?",
+      "opciones": [
+        "Únicamente los conocimientos académicos.",
+        "Solo el rendimiento en pruebas estandarizadas.",
+        "Todos los aspectos del desarrollo del estudiante, incluyendo académicos, personales y sociales.",
+        "Los logros deportivos y artísticos exclusivamente."
+      ],
+      "respuesta": "Todos los aspectos del desarrollo del estudiante, incluyendo académicos, personales y sociales.",
+      "explicacion": "La evaluación integral contempla no solo el rendimiento académico, sino también el desarrollo personal y social del estudiante, ofreciendo una visión completa de su progreso y necesidades."
+    },
+    {
+      "pregunta": "¿Cómo deben abordarse las diferencias individuales de los estudiantes en el proceso de evaluación?",
+      "opciones": [
+        "Aplicando el mismo criterio a todos los estudiantes sin excepción.",
+        "Ignorando las diferencias individuales y enfocándose en un estándar común.",
+        "Considerando las diferencias individuales y adaptando la evaluación a estas necesidades.",
+        "Evaluando solo a los estudiantes que se ajustan al perfil estándar."
+      ],
+      "respuesta": "Considerando las diferencias individuales y adaptando la evaluación a estas necesidades.",
+      "explicacion": "Reconocer y adaptar la evaluación a las diferencias individuales permite que cada estudiante sea evaluado de manera justa y acorde a sus necesidades específicas."
+    },
+    {
+      "pregunta": "¿Qué se espera de los estudiantes en su proceso de evaluación según el Decreto 1290?",
+      "opciones": [
+        "Que reciban retroalimentación solo de sus profesores.",
+        "Que participen activamente en su autoevaluación, reflexionando sobre su propio progreso.",
+        "Que dependan exclusivamente de las calificaciones asignadas por los docentes.",
+        "Que no participen en su proceso de evaluación."
+      ],
+      "respuesta": "Que participen activamente en su autoevaluación, reflexionando sobre su propio progreso.",
+      "explicacion": "El Decreto 1290 fomenta la autoevaluación para que los estudiantes se involucren activamente en su aprendizaje y sean conscientes de sus fortalezas y áreas de mejora."
+    },
+    {
+      "pregunta": "¿Cómo debe ser el proceso de evaluación a lo largo del año escolar?",
+      "opciones": [
+        "Realizado solo al final del curso académico.",
+        "Un proceso continuo que permita el seguimiento y apoyo constante al estudiante.",
+        "Un examen único al principio del año escolar.",
+        "Evaluado solo durante las pruebas parciales y finales."
+      ],
+      "respuesta": "Un proceso continuo que permita el seguimiento y apoyo constante al estudiante.",
+      "explicacion": "La evaluación debe ser un proceso continuo que permita monitorear el progreso del estudiante durante todo el año y ofrecer el apoyo necesario en cada etapa."
+    },
+    {
+      "pregunta": "¿Cuál es el enfoque principal de la evaluación según el Decreto 1290?",
+      "opciones": [
+        "Medir el rendimiento de los estudiantes al final del curso.",
+        "Proporcionar retroalimentación continua para mejorar el aprendizaje.",
+        "Clasificar a los estudiantes en función de su rendimiento en un solo examen.",
+        "Determinar el promedio final de los estudiantes."
+      ],
+      "respuesta": "Proporcionar retroalimentación continua para mejorar el aprendizaje.",
+      "explicacion": "La evaluación formativa se centra en proporcionar retroalimentación continua para ayudar a los estudiantes a mejorar su aprendizaje y alcanzar su potencial."
+    },
+    {
+      "pregunta": "¿Cómo deben adaptarse los métodos de evaluación según las necesidades de los estudiantes?",
+      "opciones": [
+        "Manteniendo un único método de evaluación para todos.",
+        "Adaptando los métodos de evaluación a las diferentes necesidades y contextos específicos de los estudiantes.",
+        "Utilizando siempre evaluaciones estandarizadas sin modificaciones.",
+        "Aplicando evaluaciones solo a los estudiantes de alto rendimiento."
+      ],
+      "respuesta": "Adaptando los métodos de evaluación a las diferentes necesidades y contextos específicos de los estudiantes.",
+      "explicacion": "La flexibilidad en la evaluación permite ajustar los métodos a las necesidades y contextos específicos de los estudiantes, facilitando una evaluación más justa y efectiva."
+    },
+    {
+      "pregunta": "¿Qué debe priorizarse en lugar de enfocarse únicamente en la evaluación sumativa?",
+      "opciones": [
+        "La calificación final del estudiante.",
+        "El proceso de aprendizaje y la mejora continua del estudiante.",
+        "La realización de exámenes al final de cada ciclo académico.",
+        "La comparación entre el rendimiento de diferentes estudiantes."
+      ],
+      "respuesta": "El proceso de aprendizaje y la mejora continua del estudiante.",
+      "explicacion": "La evaluación debe centrarse en el proceso de aprendizaje y en cómo este puede mejorarse continuamente, más que en la simple calificación final."
+    },
+    {
+      "pregunta": "¿Qué criterios deben utilizarse para la promoción de los estudiantes de un grado a otro?",
+      "opciones": [
+        "Exclusivamente los resultados de los exámenes finales.",
+        "El desarrollo integral del estudiante, incluyendo su desempeño académico y personal.",
+        "La opinión del docente sin considerar otras evidencias.",
+        "El rendimiento en actividades extracurriculares."
+      ],
+      "respuesta": "El desarrollo integral del estudiante, incluyendo su desempeño académico y personal.",
+      "explicacion": "La promoción de los estudiantes debe basarse en una evaluación completa de su desarrollo integral, considerando tanto su desempeño académico como su crecimiento personal y social."
+    },
+    {
+      "pregunta": "¿Cómo deben ser evaluados los estudiantes según el Decreto 1290?",
+      "opciones": [
+        "Aplicando los mismos criterios a todos, sin considerar diferencias individuales.",
+        "Con criterios y procedimientos específicos para cada estudiante.",
+        "Con los mismos criterios y procedimientos, asegurando equidad para todos.",
+        "Solo evaluando a los estudiantes que obtienen las mejores calificaciones."
+      ],
+      "respuesta": "Con los mismos criterios y procedimientos, asegurando equidad para todos.",
+      "explicacion": "La evaluación debe ser justa y equitativa, aplicando los mismos criterios y procedimientos a todos los estudiantes, respetando así la igualdad de oportunidades para todos."
+    },
+    {
+      "pregunta": "¿Cómo deben utilizarse los resultados de la evaluación?",
+      "opciones": [
+        "Para castigar a los estudiantes con bajo rendimiento.",
+        "Para crear planes de mejoramiento tanto a nivel individual como institucional.",
+        "Para comparar el rendimiento entre diferentes instituciones.",
+        "Para promocionar solo a los mejores estudiantes."
+      ],
+      "respuesta": "Para crear planes de mejoramiento tanto a nivel individual como institucional.",
+      "explicacion": "Los resultados de la evaluación deben servir como base para desarrollar planes de mejoramiento que beneficien tanto a los estudiantes individualmente como a la institución en su conjunto."
+    },
+    {
+      "pregunta": "¿Cómo deben ser comunicados los resultados de la evaluación a los estudiantes y sus familias?",
+      "opciones": [
+        "Solo al final del año escolar.",
+        "De manera clara y oportuna, permitiendo a los estudiantes y sus familias comprender el progreso y las áreas a mejorar.",
+        "Únicamente a los estudiantes con buenos resultados.",
+        "Publicados en un informe final sin explicaciones adicionales."
+      ],
+      "respuesta": "De manera clara y oportuna, permitiendo a los estudiantes y sus familias comprender el progreso y las áreas a mejorar.",
+      "explicacion": "La comunicación clara y oportuna de los resultados de la evaluación permite a los estudiantes y sus familias entender el progreso del estudiante y las áreas en las que se necesita trabajar."
+    },
+    {
+      "pregunta": "¿Qué papel juegan los docentes en el sistema de evaluación según el Decreto 1290?",
+      "opciones": [
+        "Son los únicos responsables de diseñar el sistema de evaluación.",
+        "Participan activamente en el diseño y aplicación del sistema de evaluación, colaborando con otros miembros de la comunidad educativa.",
+        "Solo aplican las evaluaciones diseñadas por los directivos.",
+        "No tienen un rol significativo en el proceso de evaluación."
+      ],
+      "respuesta": "Participan activamente en el diseño y aplicación del sistema de evaluación, colaborando con otros miembros de la comunidad educativa.",
+      "explicacion": "Los docentes juegan un papel crucial en la evaluación, colaborando en el diseño y la aplicación del sistema evaluativo junto con otros miembros de la comunidad educativa."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de la evaluación formativa según el Decreto 1290?",
+      "opciones": [
+        "Determinar las calificaciones finales de los estudiantes.",
+        "Proporcionar retroalimentación continua para apoyar y mejorar el aprendizaje.",
+        "Establecer un ranking de estudiantes.",
+        "Evaluar únicamente las competencias académicas."
+      ],
+      "respuesta": "Proporcionar retroalimentación continua para apoyar y mejorar el aprendizaje.",
+      "explicacion": "La evaluación formativa se enfoca en proporcionar retroalimentación continua que ayuda a los estudiantes a mejorar su proceso de aprendizaje, permitiéndoles alcanzar sus metas educativas."
+    },
+    {
+      "pregunta": "¿Cómo debe ser el proceso de retroalimentación en la evaluación?",
+      "opciones": [
+        "Solo cuando los estudiantes fallan en las evaluaciones.",
+        "Continuo y constructivo, orientado a la mejora del aprendizaje.",
+        "Unidireccional, del docente al estudiante.",
+        "Dado solo en las reuniones de fin de año."
+      ],
+      "respuesta": "Continuo y constructivo, orientado a la mejora del aprendizaje.",
+      "explicacion": "La retroalimentación debe ser un proceso continuo y constructivo que apoye a los estudiantes en su aprendizaje y les ayude a mejorar de manera continua."
+    },
+    {
+      "pregunta": "¿Cómo deben ser diseñadas las estrategias de evaluación para promover la equidad?",
+      "opciones": [
+        "Usando un único método de evaluación para todos los estudiantes.",
+        "Adaptando las estrategias de evaluación para considerar las diferencias individuales y contextuales.",
+        "Evaluando únicamente a los estudiantes con alto rendimiento.",
+        "Aplicando los mismos exámenes estandarizados sin excepción."
+      ],
+      "respuesta": "Adaptando las estrategias de evaluación para considerar las diferencias individuales y contextuales.",
+      "explicacion": "Las estrategias de evaluación deben ser flexibles y considerar las diferencias individuales y contextuales de los estudiantes para promover la equidad y asegurar que todos tengan la oportunidad de demostrar su aprendizaje."
+    },
+    {
+      "pregunta": "¿Qué papel tiene la autoevaluación en el proceso educativo?",
+      "opciones": [
+        "Es irrelevante y no debe considerarse.",
+        "Permite a los estudiantes reflexionar sobre su propio aprendizaje y desarrollo.",
+        "Es una herramienta solo para los estudiantes con alto rendimiento.",
+        "Debe realizarse solo al final del año escolar."
+      ],
+      "respuesta": "Permite a los estudiantes reflexionar sobre su propio aprendizaje y desarrollo.",
+      "explicacion": "La autoevaluación fomenta la reflexión personal y ayuda a los estudiantes a tomar conciencia de su propio progreso, identificando sus fortalezas y áreas de mejora."
+    },
+    {
+      "pregunta": "¿Cómo pueden los padres apoyar el proceso de evaluación de sus hijos?",
+      "opciones": [
+        "Exigiendo resultados perfectos en todas las evaluaciones.",
+        "Participando activamente en la comprensión de los criterios de evaluación y apoyando a sus hijos en su desarrollo académico y personal.",
+        "Solo revisando los informes finales de calificaciones.",
+        "No involucrándose en el proceso de evaluación."
+      ],
+      "respuesta": "Participando activamente en la comprensión de los criterios de evaluación y apoyando a sus hijos en su desarrollo académico y personal.",
+      "explicacion": "La participación de los padres en el proceso de evaluación es crucial. Al comprender los criterios de evaluación, pueden apoyar mejor a sus hijos y contribuir a su desarrollo académico y personal."
+    },
+     {
+      "pregunta": "Según el Decreto 1290 de 2009, ¿qué pueden hacer las instituciones educativas con respecto a su sistema de evaluación?",
+      "opciones": [
+        "Implementar un sistema de evaluación común para todas las escuelas del país.",
+        "Definir y adaptar su propio sistema de evaluación según su Proyecto Educativo Institucional (PEI).",
+        "Ignorar los lineamientos del Ministerio de Educación y crear un sistema independiente.",
+        "Utilizar únicamente los métodos de evaluación proporcionados por el gobierno."
+      ],
+      "respuesta": "Definir y adaptar su propio sistema de evaluación según su Proyecto Educativo Institucional (PEI).",
+      "explicacion": "El Decreto 1290 permite a las instituciones educativas la libertad de diseñar su propio sistema de evaluación adaptado a su PEI, respetando la diversidad y necesidades de cada comunidad educativa."
+    },
+    {
+      "pregunta": "¿Cómo deben ser comunicados los criterios y procedimientos de evaluación a la comunidad educativa según el Decreto 1290?",
+      "opciones": [
+        "De forma clara y accesible para todos los miembros de la comunidad educativa.",
+        "Exclusivamente a los docentes y no a los estudiantes ni a los padres.",
+        "Publicados solo en el sitio web de la institución al final del curso.",
+        "Explicados únicamente a los estudiantes al inicio del año escolar."
+      ],
+      "respuesta": "De forma clara y accesible para todos los miembros de la comunidad educativa.",
+      "explicacion": "La transparencia en la evaluación asegura que todos los miembros de la comunidad educativa comprendan los criterios y procedimientos, lo que contribuye a un proceso evaluativo justo y equitativo."
+    },
+    {
+      "pregunta": "¿Quiénes deben participar en la definición del sistema de evaluación en una institución educativa?",
+      "opciones": [
+        "Solamente los directivos de la institución.",
+        "Los docentes y los estudiantes, pero no los padres.",
+        "Los directivos y un grupo seleccionado de estudiantes.",
+        "Todos los miembros de la comunidad educativa, incluyendo estudiantes, padres y docentes."
+      ],
+      "respuesta": "Todos los miembros de la comunidad educativa, incluyendo estudiantes, padres y docentes.",
+      "explicacion": "La participación de toda la comunidad educativa en la creación del sistema de evaluación permite que se consideren múltiples perspectivas y se adapte mejor a las necesidades de todos los miembros."
+    },
+    {
+      "pregunta": "¿Qué aspectos deben ser considerados en la evaluación de los estudiantes según el Decreto 1290?",
+      "opciones": [
+        "Únicamente los conocimientos académicos.",
+        "Solo el rendimiento en pruebas estandarizadas.",
+        "Todos los aspectos del desarrollo del estudiante, incluyendo académicos, personales y sociales.",
+        "Los logros deportivos y artísticos exclusivamente."
+      ],
+      "respuesta": "Todos los aspectos del desarrollo del estudiante, incluyendo académicos, personales y sociales.",
+      "explicacion": "La evaluación integral contempla no solo el rendimiento académico, sino también el desarrollo personal y social del estudiante, ofreciendo una visión completa de su progreso y necesidades."
+    },
+    {
+      "pregunta": "¿Cómo deben abordarse las diferencias individuales de los estudiantes en el proceso de evaluación?",
+      "opciones": [
+        "Aplicando el mismo criterio a todos los estudiantes sin excepción.",
+        "Ignorando las diferencias individuales y enfocándose en un estándar común.",
+        "Considerando las diferencias individuales y adaptando la evaluación a estas necesidades.",
+        "Evaluando solo a los estudiantes que se ajustan al perfil estándar."
+      ],
+      "respuesta": "Considerando las diferencias individuales y adaptando la evaluación a estas necesidades.",
+      "explicacion": "Reconocer y adaptar la evaluación a las diferencias individuales permite que cada estudiante sea evaluado de manera justa y acorde a sus necesidades específicas."
+    },
+    {
+      "pregunta": "¿Qué se espera de los estudiantes en su proceso de evaluación según el Decreto 1290?",
+      "opciones": [
+        "Que reciban retroalimentación solo de sus profesores.",
+        "Que participen activamente en su autoevaluación, reflexionando sobre su propio progreso.",
+        "Que dependan exclusivamente de las calificaciones asignadas por los docentes.",
+        "Que no participen en su proceso de evaluación."
+      ],
+      "respuesta": "Que participen activamente en su autoevaluación, reflexionando sobre su propio progreso.",
+      "explicacion": "El Decreto 1290 fomenta la autoevaluación para que los estudiantes se involucren activamente en su aprendizaje y sean conscientes de sus fortalezas y áreas de mejora."
+    },
+    {
+      "pregunta": "¿Cómo debe ser el proceso de evaluación a lo largo del año escolar?",
+      "opciones": [
+        "Realizado solo al final del curso académico.",
+        "Un proceso continuo que permita el seguimiento y apoyo constante al estudiante.",
+        "Un examen único al principio del año escolar.",
+        "Evaluado solo durante las pruebas parciales y finales."
+      ],
+      "respuesta": "Un proceso continuo que permita el seguimiento y apoyo constante al estudiante.",
+      "explicacion": "La evaluación debe ser un proceso continuo que permita monitorear el progreso del estudiante durante todo el año y ofrecer el apoyo necesario en cada etapa."
+    },
+    {
+      "pregunta": "¿Cuál es el enfoque principal de la evaluación según el Decreto 1290?",
+      "opciones": [
+        "Medir el rendimiento de los estudiantes al final del curso.",
+        "Proporcionar retroalimentación continua para mejorar el aprendizaje.",
+        "Clasificar a los estudiantes en función de su rendimiento en un solo examen.",
+        "Determinar el promedio final de los estudiantes."
+      ],
+      "respuesta": "Proporcionar retroalimentación continua para mejorar el aprendizaje.",
+      "explicacion": "La evaluación formativa se centra en proporcionar retroalimentación continua para ayudar a los estudiantes a mejorar su aprendizaje y alcanzar su potencial."
+    },
+    {
+      "pregunta": "¿Cómo deben adaptarse los métodos de evaluación según las necesidades de los estudiantes?",
+      "opciones": [
+        "Manteniendo un único método de evaluación para todos.",
+        "Adaptando los métodos de evaluación a las diferentes necesidades y contextos específicos de los estudiantes.",
+        "Utilizando siempre evaluaciones estandarizadas sin modificaciones.",
+        "Aplicando evaluaciones solo a los estudiantes de alto rendimiento."
+      ],
+      "respuesta": "Adaptando los métodos de evaluación a las diferentes necesidades y contextos específicos de los estudiantes.",
+      "explicacion": "La flexibilidad en la evaluación permite ajustar los métodos a las necesidades y contextos específicos de los estudiantes, facilitando una evaluación más justa y efectiva."
+    },
+    {
+      "pregunta": "¿Qué debe priorizarse en lugar de enfocarse únicamente en la evaluación sumativa?",
+      "opciones": [
+        "La calificación final del estudiante.",
+        "El proceso de aprendizaje y la mejora continua del estudiante.",
+        "La realización de exámenes al final de cada ciclo académico.",
+        "La comparación entre el rendimiento de diferentes estudiantes."
+      ],
+      "respuesta": "El proceso de aprendizaje y la mejora continua del estudiante.",
+      "explicacion": "La evaluación debe centrarse en el proceso de aprendizaje y en cómo este puede mejorarse continuamente, más que en la simple calificación final."
+    },
+    {
+      "pregunta": "¿Qué criterios deben utilizarse para la promoción de los estudiantes de un grado a otro?",
+      "opciones": [
+        "Exclusivamente los resultados de los exámenes finales.",
+        "El desarrollo integral del estudiante, incluyendo su desempeño académico y personal.",
+        "La opinión del docente sin considerar otras evidencias.",
+        "El rendimiento en actividades extracurriculares."
+      ],
+      "respuesta": "El desarrollo integral del estudiante, incluyendo su desempeño académico y personal.",
+      "explicacion": "La promoción de los estudiantes debe basarse en una evaluación completa de su desarrollo integral, considerando tanto su desempeño académico como su crecimiento personal y social."
+    },
+    {
+      "pregunta": "¿Cómo deben ser evaluados los estudiantes según el Decreto 1290?",
+      "opciones": [
+        "Aplicando los mismos criterios a todos, sin considerar diferencias individuales.",
+        "Con criterios y procedimientos específicos para cada estudiante.",
+        "Con los mismos criterios y procedimientos, asegurando equidad para todos.",
+        "Solo evaluando a los estudiantes que obtienen las mejores calificaciones."
+      ],
+      "respuesta": "Con los mismos criterios y procedimientos, asegurando equidad para todos.",
+      "explicacion": "La evaluación debe ser justa y equitativa, aplicando los mismos criterios y procedimientos a todos los estudiantes, respetando así la igualdad de oportunidades para todos."
+    },
+    {
+      "pregunta": "¿Cómo deben utilizarse los resultados de la evaluación?",
+      "opciones": [
+        "Para castigar a los estudiantes con bajo rendimiento.",
+        "Para crear planes de mejoramiento tanto a nivel individual como institucional.",
+        "Para comparar el rendimiento entre diferentes instituciones.",
+        "Para promocionar solo a los mejores estudiantes."
+      ],
+      "respuesta": "Para crear planes de mejoramiento tanto a nivel individual como institucional.",
+      "explicacion": "Los resultados de la evaluación deben servir como base para desarrollar planes de mejoramiento que beneficien tanto a los estudiantes individualmente como a la institución en su conjunto."
+    }
+  ]
+}

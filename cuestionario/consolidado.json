@@ -1,0 +1,264 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es uno de los cambios significativos en la relación entre las metas de la educación matemática y los objetivos educativos?",
+      "opciones": [
+        "Mayor énfasis en la abstracción matemática.",
+        "Menor atención a la diversidad y la interculturalidad.",
+        "Enfoque exclusivo en el conocimiento técnico.",
+        "Destaque en la formación ciudadana y la atención a la diversidad."
+      ],
+      "respuesta": "Destaque en la formación ciudadana y la atención a la diversidad."
+    },
+    {
+      "pregunta": "¿Cuál es la contribución histórica de las matemáticas según el texto?",
+      "opciones": [
+        "Desarrollo exclusivo del pensamiento lógico.",
+        "Influencia únicamente en el ámbito científico.",
+        "Participación en disciplinas como arquitectura y economía.",
+        "Ausencia de vínculos con otras áreas del conocimiento."
+      ],
+      "respuesta": "Participación en disciplinas como arquitectura y economía."
+    },
+    {
+      "pregunta": "¿Cuál era la percepción tradicional de las matemáticas hasta la década de los setenta?",
+      "opciones": [
+        "Dinámicas y cambiantes.",
+        "Estáticas y dogmáticas.",
+        "Flexibles y adaptables.",
+        "Irrelevantes para el desarrollo del pensamiento lógico."
+      ],
+      "respuesta": "Estáticas y dogmáticas."
+    },
+    {
+      "pregunta": "¿Qué implica la evolución en la relación entre las metas de la educación matemática y los objetivos educativos?",
+      "opciones": [
+        "Mayor énfasis en la uniformidad del conocimiento.",
+        "Atención exclusiva al conocimiento técnico.",
+        "Destaque en la formación ciudadana y la diversidad.",
+        "Reducción de la importancia del pensamiento crítico."
+      ],
+      "respuesta": "Destaque en la formación ciudadana y la diversidad."
+    },
+    {
+      "pregunta": "¿Cuál es una característica de la visión actual de las matemáticas según el texto?",
+      "opciones": [
+        "Estáticas y dogmáticas.",
+        "Infalibles y absolutas.",
+        "Dinámicas y evolutivas.",
+        "Limitadas al desarrollo del pensamiento lógico."
+      ],
+      "respuesta": "Dinámicas y evolutivas."
+    },
+    {
+      "pregunta": "¿Qué busca desarrollar la formación matemática en la actualidad, según el texto?",
+      "opciones": [
+        "Competencias limitadas al conocimiento técnico.",
+        "Pensamiento crítico y resolución de problemas.",
+        "Abstracción matemática exclusivamente.",
+        "Desarrollo de habilidades artísticas."
+      ],
+      "respuesta": "Pensamiento crítico y resolución de problemas."
+    },
+    {
+      "pregunta": "¿Por qué se reconoce la importancia de la educación matemática en el siglo XXI?",
+      "opciones": [
+        "Para limitar la participación ciudadana en la sociedad actual.",
+        "Como un medio para formar ciudadanos con competencias democráticas.",
+        "Para mantener las matemáticas como un conjunto estable de verdades absolutas.",
+        "Para reducir el énfasis en el pensamiento crítico."
+      ],
+      "respuesta": "Como un medio para formar ciudadanos con competencias democráticas."
+    },
+    {
+      "pregunta": "¿Qué ha cambiado en la concepción de las matemáticas en contraste con la visión tradicional?",
+      "opciones": [
+        "Mayor énfasis en la abstracción matemática.",
+        "Reconocimiento de su naturaleza dinámica y evolutiva.",
+        "Percepción exclusiva como conjunto de verdades absolutas.",
+        "Reducción de su importancia en la sociedad."
+      ],
+      "respuesta": "Reconocimiento de su naturaleza dinámica y evolutiva."
+    },
+    {
+      "pregunta": "¿Cuál es uno de los cambios en la educación matemática en las últimas tres décadas en Colombia?",
+      "opciones": [
+        "Mayor énfasis en la uniformidad del conocimiento.",
+        "Reducción de la atención a la diversidad e interculturalidad.",
+        "Destaque en la formación exclusiva de ciudadanos con competencias técnicas.",
+        "Adaptación a nuevas demandas globales y nacionales."
+      ],
+      "respuesta": "Adaptación a nuevas demandas globales y nacionales."
+    },
+    {
+      "pregunta": "¿Qué se destaca como un medio clave para formar ciudadanos con competencias necesarias en el siglo XXI?",
+      "opciones": [
+        "La exclusiva atención al conocimiento técnico.",
+        "El desarrollo del pensamiento lógico.",
+        "La educación matemática.",
+        "La formación exclusiva en disciplinas científicas."
+      ],
+      "respuesta": "La educación matemática."
+    },
+    {
+      "pregunta": "¿Qué es la Investigación Acción Participativa (IAP)?",
+      "opciones": [
+        "Un método para acumular información proporcionada por el instructor.",
+        "Un proceso de análisis de la situación, identificación de problemas y elaboración de estrategias de acción planeadas.",
+        "Una forma de investigación pasiva sin participación real de los involucrados.",
+        "Un enfoque exclusivo en la reflexión teórica sin acción práctica."
+      ],
+      "respuesta": "Un proceso de análisis de la situación, identificación de problemas y elaboración de estrategias de acción planeadas."
+    },
+    {
+      "pregunta": "¿Cuáles son algunas demandas que plantea la IAP a los participantes?",
+      "opciones": [
+        "Participación real y compromiso personal.",
+        "Observación pasiva y ausencia de colaboración.",
+        "Seguir ciegamente las instrucciones del instructor.",
+        "No asumir responsabilidad en el proceso."
+      ],
+      "respuesta": "Participación real y compromiso personal."
+    },
+    {
+      "pregunta": "¿Cuál es la influencia de Freire en la IAP?",
+      "opciones": [
+        "Promueve la acumulación pasiva de información.",
+        "Fomenta el desarrollo de habilidades críticas y reflexivas en los participantes.",
+        "No tiene relación con la IAP.",
+        "Prioriza el control del instructor sobre el proceso."
+      ],
+      "respuesta": "Fomenta el desarrollo de habilidades críticas y reflexivas en los participantes."
+    },
+    {
+      "pregunta": "¿Qué implica el proceso de investigación en la IAP?",
+      "opciones": [
+        "Aprender cómo acumular información de manera pasiva.",
+        "Comprender el papel del participante en la transformación de la realidad social.",
+        "No tiene relación con el cambio social.",
+        "La exclusión del participante en el proceso de cambio."
+      ],
+      "respuesta": "Comprender el papel del participante en la transformación de la realidad social."
+    },
+    {
+      "pregunta": "¿Cómo se diferencia la IAP de otros métodos de investigación?",
+      "opciones": [
+        "Por su falta de colaboración entre investigadores y participantes.",
+        "Por centrarse exclusivamente en la acumulación de información teórica.",
+        "Por la colaboración entre investigadores y participantes, la resolución de problemas prácticos, el cambio de la práctica y el desarrollo de teorías emergentes.",
+        "Por no tener relación con la práctica."
+      ],
+      "respuesta": "Por la colaboración entre investigadores y participantes, la resolución de problemas prácticos, el cambio de la práctica y el desarrollo de teorías emergentes."
+    },
+    {
+      "pregunta": "¿Cómo se describe el paradigma de la IAP?",
+      "opciones": [
+        "Constructivista exclusivamente.",
+        "Socio–crítico exclusivamente.",
+        "Una combinación de constructivista y socio–crítico.",
+        "No se relaciona con ningún paradigma."
+      ],
+      "respuesta": "Una combinación de constructivista y socio–crítico."
+    },
+    {
+      "pregunta": "¿Cuál es el rol del investigador en la IAP?",
+      "opciones": [
+        "Observar pasivamente sin involucrarse en la acción.",
+        "Participar activamente, implicarse en la acción y reflexionar sobre ella.",
+        "Ser un líder autoritario que dirige el proceso sin participación de los demás.",
+        "No tener ningún rol en el proceso."
+      ],
+      "respuesta": "Participar activamente, implicarse en la acción y reflexionar sobre ella."
+    },
+    {
+      "pregunta": "¿Qué se espera de los participantes en la IAP?",
+      "opciones": [
+        "Seguir instrucciones sin cuestionar.",
+        "Participar activamente, colaborar en la toma de decisiones y cuestionar al investigador.",
+        "Permanecer pasivos sin implicarse en el proceso.",
+        "No tener ningún rol en la investigación."
+      ],
+      "respuesta": "Participar activamente, colaborar en la toma de decisiones y cuestionar al investigador."
+    },
+    {
+      "pregunta": "¿Cuáles son las fases de la IAP?",
+      "opciones": [
+        "Diagnóstico, planificación, observación y reflexión–evaluación.",
+        "Solo acción y reflexión.",
+        "Solo observación y evaluación.",
+        "Solo diagnóstico y planificación."
+      ],
+      "respuesta": "Diagnóstico, planificación, observación y reflexión–evaluación."
+    },
+    {
+      "pregunta": "¿Qué implica la fase de diagnóstico en la IAP?",
+      "opciones": [
+        "Identificación del problema y formulación de hipótesis de acción.",
+        "Solo observación pasiva.",
+        "Solo planificación teórica.",
+        "Acumulación de información sin acción."
+      ],
+      "respuesta": "Identificación del problema y formulación de hipótesis de acción."
+    },
+    {
+      "pregunta": "¿Qué características tiene el desarrollo de un plan de acción en la IAP?",
+      "opciones": [
+        "Acción no comprometida y sin intención.",
+        "Acción comprometida, intencionada e informada.",
+        "Solo acción sin reflexión.",
+        "Solo reflexión sin acción."
+      ],
+      "respuesta": "Acción comprometida, intencionada e informada."
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de la observación y la actuación en la IAP?",
+      "opciones": [
+        "No tienen relevancia en el proceso.",
+        "Son fundamentales para evaluar los efectos del plan de acción.",
+        "Solo la observación es importante.",
+        "Solo la actuación es importante."
+      ],
+      "respuesta": "Son fundamentales para evaluar los efectos del plan de acción."
+    },
+    {
+      "pregunta": "¿Qué implica la fase de reflexión–evaluación en la IAP?",
+      "opciones": [
+        "Solo la recopilación de datos sin interpretación.",
+        "La reflexión sobre los efectos del plan de acción como base para una nueva planificación.",
+        "No tiene relación con la acción.",
+        "No es necesaria en la IAP."
+      ],
+      "respuesta": "La reflexión sobre los efectos del plan de acción como base para una nueva planificación."
+    },
+    {
+      "pregunta": "¿Cuáles son algunos instrumentos utilizados para la recogida de datos en la IAP?",
+      "opciones": [
+        "Solo estudios cuantitativos.",
+        "Observaciones y diarios.",
+        "Solo entrevistas.",
+        "No se utilizan instrumentos de recogida de datos en la IAP."
+      ],
+      "respuesta": "Observaciones y diarios."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de la recogida de información en la IAP?",
+      "opciones": [
+        "Acumular información teórica sin acción práctica.",
+        "Utilizar los datos recogidos para informar sobre la acción y sus efectos.",
+        "No tiene objetivo específico.",
+        "Solo utilizar estudios cuantitativos."
+      ],
+      "respuesta": "Utilizar los datos recogidos para informar sobre la acción y sus efectos."
+    },
+    {
+      "pregunta": "¿Cómo se caracteriza la relación entre investigador y participante en la IAP?",
+      "opciones": [
+        "Jerárquica y autoritaria.",
+        "Colaborativa y activa.",
+        "Pasiva y desvinculada.",
+        "No hay relación entre investigador y participante."
+      ],
+      "respuesta": "Colaborativa y activa."
+    }
+  ]
+}

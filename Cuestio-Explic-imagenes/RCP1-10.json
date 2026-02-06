@@ -1,0 +1,124 @@
+{
+  "preguntas": [
+    {
+      "contexto": "En un invernadero escolar, se está diseñando un sistema de riego automático. Para calcular la cantidad de aspersores necesarios, se utiliza la ecuación lineal: 5x - 30 = 120, donde x representa la cantidad de aspersores.",
+      "pregunta": "¿Cuántos aspersores se necesitan para el sistema de riego?",
+      "opciones": [
+        "10 aspersores",
+        "20 aspersores",
+        "30 aspersores",
+        "40 aspersores"
+      ],
+      "respuesta": "30 aspersores",
+      "explicacion": "La ecuación lineal dada es 5x - 30 = 120. Resolviendo para x: 5x = 150 → x = 30. Por lo tanto, se necesitan 30 aspersores."
+    },
+    {
+      "contexto": "La longitud de las mangueras (en metros) necesarias para el sistema de riego se relaciona con el número de aspersores mediante la ecuación cuadrática: y² - 10y + 24 = 0, donde y representa la longitud de las mangueras en metros.",
+      "pregunta": "¿Cuántos metros de manguera se necesitan?",
+      "opciones": [
+        "4 metros",
+        "6 metros",
+        "8 metros",
+        "10 metros"
+      ],
+      "respuesta": "6 metros",
+      "explicacion": "Resolviendo la ecuación cuadrática y² - 10y + 24 = 0 mediante factorización: (y - 6)(y - 4) = 0. Las soluciones son y = 6 y y = 4. En este contexto, se selecciona la longitud mayor, es decir, 6 metros."
+    },
+    {
+      "contexto": "El costo total del sistema de riego depende del número de aspersores (x) y la longitud de las mangueras (y), y se calcula con la ecuación: z = 10x + 5y + 20. Si se tienen 30 aspersores y 6 metros de manguera, ¿cuál es el costo total del sistema?",
+      "pregunta": "¿Cuál es el costo total del sistema de riego?",
+      "opciones": [
+        "300 Cod",
+        "320 Cod",
+        "350 Cod",
+        "400 Cod"
+      ],
+      "respuesta": "350 Cod",
+      "explicacion": "Sustituyendo los valores x = 30 y y = 6 en la ecuación z = 10x + 5y + 20: z = 10(30) + 5(6) + 20 = 300 + 30 + 20 = 350. Por lo tanto, el costo total es 350 Cod."
+    },
+    {
+      "contexto": "El costo total del proyecto no debe superar los 127 Cod. La relación entre el número de aspersores (x) y la longitud de las mangueras (y) está dada por la inecuación: 10x + 5y ≥ 127. Se debe determinar la cantidad máxima de aspersores y metros de manguera que cumplen con esta restricción.",
+      "pregunta": "¿Cuál es la cantidad máxima de aspersores y metros de manguera que puedes comprar sin superar los 127 Cod?",
+      "opciones": [
+        "10 aspersores y 5 metros",
+        "12 aspersores y 3 metros",
+        "13 aspersores y 2 metros",
+        "15 aspersores y 1 metro"
+      ],
+      "respuesta": "12 aspersores y 3 metros",
+      "explicacion": "Sustituyendo los valores en la inecuación 10x + 5y ≥ 127, se verifica que 10(12) + 5(3) = 120 + 15 = 135, lo cual satisface la condición. Cualquier valor superior excedería el límite de 127 Cod."
+    },
+    {
+      "contexto": "Para calcular el área cubierta por cada aspersor, se utiliza la fórmula A = πr², donde r es el radio de cobertura del aspersor. Si el radio de cobertura es de 2 metros, ¿cuál es el área cubierta por cada aspersor? (Usa π ≈ 3.14).",
+      "pregunta": "¿Cuál es el área cubierta por cada aspersor?",
+      "opciones": [
+        "6.28 m²",
+        "12.56 m²",
+        "15.7 m²",
+        "20 m²"
+      ],
+      "respuesta": "12.56 m²",
+      "explicacion": "Usando la fórmula A = πr², con r = 2 metros y π ≈ 3.14: A = 3.14 × (2)² = 3.14 × 4 = 12.56 m²."
+    },
+    {
+      "contexto": "El invernadero tiene un área total de 300 m². Si cada aspersor cubre un área de 12.56 m², ¿cuántos aspersores se necesitan para cubrir todo el invernadero?",
+      "pregunta": "¿Cuántos aspersores se necesitan para cubrir el invernadero?",
+      "opciones": [
+        "20 aspersores",
+        "24 aspersores",
+        "30 aspersores",
+        "35 aspersores"
+      ],
+      "respuesta": "24 aspersores",
+      "explicacion": "Dividiendo el área total del invernadero entre el área cubierta por cada aspersor: 300 ÷ 12.56 ≈ 23.89. Redondeando al entero superior, se necesitan 24 aspersores."
+    },
+    {
+      "contexto": "El costo de cada aspersor es de 10 Cod y el costo por metro de manguera es de 5 Cod. Si se compran 30 aspersores y 6 metros de manguera, ¿cuál es el costo total?",
+      "pregunta": "¿Cuál es el costo total de los materiales?",
+      "opciones": [
+        "300 Cod",
+        "320 Cod",
+        "350 Cod",
+        "400 Cod"
+      ],
+      "respuesta": "350 Cod",
+      "explicacion": "El costo total es: (30 × 10) + (6 × 5) = 300 + 30 = 350 Cod."
+    },
+    {
+      "contexto": "Si el presupuesto máximo para el proyecto es de 400 Cod, y el costo de los materiales es de 350 Cod, ¿cuánto dinero queda disponible para otros gastos?",
+      "pregunta": "¿Cuánto dinero queda disponible para otros gastos?",
+      "opciones": [
+        "20 Cod",
+        "30 Cod",
+        "50 Cod",
+        "70 Cod"
+      ],
+      "respuesta": "50 Cod",
+      "explicacion": "Restando el costo de los materiales del presupuesto total: 400 - 350 = 50 Cod."
+    },
+    {
+      "contexto": "Se necesita calcular el volumen de agua que puede almacenar un tanque cilíndrico con un radio de 1 metro y una altura de 2 metros. La fórmula para el volumen de un cilindro es V = πr²h. Usa π ≈ 3.14.",
+      "pregunta": "¿Cuál es el volumen del tanque?",
+      "opciones": [
+        "3.14 m³",
+        "6.28 m³",
+        "9.42 m³",
+        "12.56 m³"
+      ],
+      "respuesta": "6.28 m³",
+      "explicacion": "Usando la fórmula V = πr²h, con r = 1 metro, h = 2 metros y π ≈ 3.14: V = 3.14 × (1)² × 2 = 3.14 × 2 = 6.28 m³."
+    },
+    {
+      "contexto": "El invernadero requiere un suministro mínimo de 100 litros de agua diarios. Si el tanque cilíndrico tiene un volumen de 6.28 m³, ¿cuántos días puede abastecer el invernadero? (1 m³ = 1000 litros).",
+      "pregunta": "¿Cuántos días puede abastecer el tanque?",
+      "opciones": [
+        "50 días",
+        "60 días",
+        "62 días",
+        "70 días"
+      ],
+      "respuesta": "62 días",
+      "explicacion": "El volumen del tanque en litros es 6.28 × 1000 = 6280 litros. Dividiendo entre el consumo diario: 6280 ÷ 100 = 62.8. Redondeando al entero inferior, el tanque puede abastecer durante 62 días."
+    }
+  ]
+}

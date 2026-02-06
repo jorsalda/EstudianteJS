@@ -1,0 +1,14 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "La temperatura T, en grados centígrados, del motor de un camión durante los primeros 3 minutos se comporta según la siguiente expresión:\nT = 3(x + 1) + 10\nDonde x es el tiempo en minutos que el motor está en funcionamiento desde que se enciende. ¿Cuál de las siguientes tablas muestra correctamente algunos valores del tiempo en funcionamiento y la temperatura del motor?",
+      "opciones": [
+        "A. <table border='1'><tr><th>x (minutos)</th><th>T (grados centígrados)</th></tr><tr><td>1</td><td>9</td></tr><tr><td>2</td><td>27</td></tr><tr><td>3</td><td>81</td></tr></table>",
+        "B. <table border='1'><tr><th>x (minutos)</th><th>T (grados centígrados)</th></tr><tr><td>1</td><td>19</td></tr><tr><td>2</td><td>37</td></tr><tr><td>3</td><td>91</td></tr></table>",
+        "C. <table border='1'><tr><th>x (minutos)</th><th>T (grados centígrados)</th></tr><tr><td>1</td><td>13</td></tr><tr><td>2</td><td>16</td></tr><tr><td>3</td><td>19</td></tr></table>",
+        "D. <table border='1'><tr><th>x (minutos)</th><th>T (grados centígrados)</th></tr><tr><td>1</td><td>16</td></tr><tr><td>2</td><td>19</td></tr><tr><td>3</td><td>22</td></tr></table>"
+      ],
+      "respuesta": "D. <table border='1'><tr><th>x (minutos)</th><th>T (grados centígrados)</th></tr><tr><td>1</td><td>16</td></tr><tr><td>2</td><td>19</td></tr><tr><td>3</td><td>22</td></tr></table>"
+    }
+  ]
+}

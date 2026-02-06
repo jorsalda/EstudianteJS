@@ -1,0 +1,55 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es un experimento aleatorio en estadística?",
+      "opciones": [
+        "Un proceso que solo se realiza una vez.",
+        "Un procedimiento diseñado para realizar observaciones sobre un fenómeno específico.",
+        "Una actividad recreativa.",
+        "Un método de cultivo agrícola."
+      ],
+      "respuesta": "Un procedimiento diseñado para realizar observaciones sobre un fenómeno específico."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de realizar un experimento aleatorio?",
+      "opciones": [
+        "Divertirse.",
+        "Recopilar datos sobre un fenómeno específico.",
+        "Encontrar respuestas absolutas.",
+        "Probar teorías matemáticas."
+      ],
+      "respuesta": "Recopilar datos sobre un fenómeno específico."
+    },
+    {
+      "pregunta": "¿Qué se entiende por evento en un experimento aleatorio?",
+      "opciones": [
+        "Un resultado seguro.",
+        "Una posibilidad incierta.",
+        "Una ley matemática.",
+        "Una canción popular."
+      ],
+      "respuesta": "Una posibilidad incierta."
+    },
+    {
+      "pregunta": "¿Cómo se puede describir un evento en un experimento aleatorio?",
+      "opciones": [
+        "Con una letra del alfabeto.",
+        "Con un número entero.",
+        "Con una ecuación matemática.",
+        "Con un color."
+      ],
+      "respuesta": "Con una letra del alfabeto."
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de los eventos elementales en la teoría de la probabilidad?",
+      "opciones": [
+        "No tienen importancia.",
+        "Son fundamentales para realizar cálculos de probabilidades para eventos más complejos.",
+        "Solo son relevantes en la estadística descriptiva.",
+        "Solo son útiles en la física cuántica."
+      ],
+      "respuesta": "Son fundamentales para realizar cálculos de probabilidades para eventos más complejos."
+    }
+
+]
+}

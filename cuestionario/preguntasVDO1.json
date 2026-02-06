@@ -1,0 +1,22 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué proceso se muestra en el video?",
+      "video": "videos/video1.mp4",
+      "opciones": ["Cocinar", "Bailar", "Pintar", "Nadar"],
+      "respuesta": "Cocinar"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre del lugar mostrado en el video?",
+      "video": "https://ejemplo.com/video2.mp4",
+      "opciones": ["Playa", "Montaña", "Ciudad", "Desierto"],
+      "respuesta": "Playa"
+    },
+    {
+      "pregunta": "¿Qué deporte se practica en el video?",
+      "video": "https://ejemplo.com/video3.mp4",
+      "opciones": ["Fútbol", "Baloncesto", "Natación", "Tenis"],
+      "respuesta": "Fútbol"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo influye la interconexión de factores sociales, económicos y culturales en las prácticas pedagógicas de los docentes?",
+      "opciones": [
+        "Permite un enfoque aislado y estático en la educación.",
+        "Genera desafíos que impiden la adaptación de los docentes.",
+        "Enriquece las prácticas pedagógicas al integrar diversas perspectivas.",
+        "No tiene un impacto significativo en la educación."
+      ],
+      "respuesta": "Enriquece las prácticas pedagógicas al integrar diversas perspectivas.",
+      "explicacion": "La interconexión de factores sociales, económicos y culturales enriquece las prácticas pedagógicas al permitir la integración de diversas perspectivas, promoviendo una educación más inclusiva y contextualizada."
+    },
+    {
+      "pregunta": "¿Por qué se considera el contexto educativo como un escenario dinámico?",
+      "opciones": [
+        "Porque se mantiene constante y predecible.",
+        "Porque es influenciado por las interacciones sociales y las variaciones económicas.",
+        "Porque está limitado a un espacio físico específico.",
+        "Porque no afecta las relaciones culturales en la escuela."
+      ],
+      "respuesta": "Porque es influenciado por las interacciones sociales y las variaciones económicas.",
+      "explicacion": "El contexto educativo es dinámico ya que es influenciado por las interacciones sociales y las variaciones económicas, lo que impacta en las relaciones culturales y educativas."
+    },
+    {
+      "pregunta": "¿Cómo deben adaptarse las escuelas a las transformaciones contextuales?",
+      "opciones": [
+        "Manteniéndose ajenas a los cambios del entorno.",
+        "Adaptando sus prácticas y enfoques pedagógicos continuamente.",
+        "Ignorando las nuevas situaciones y condiciones.",
+        "Enfocándose solo en la enseñanza tradicional."
+      ],
+      "respuesta": "Adaptando sus prácticas y enfoques pedagógicos continuamente.",
+      "explicacion": "Las escuelas deben adaptarse a las transformaciones contextuales ajustando continuamente sus prácticas y enfoques pedagógicos para responder de manera efectiva a los cambios del entorno."
+    },
+    {
+      "pregunta": "¿Qué papel juegan las ideologías y saberes en el contexto escolar?",
+      "opciones": [
+        "Son elementos estáticos que no se transforman.",
+        "Se transforman y replantean constantemente en respuesta a cambios contextuales.",
+        "No tienen relevancia en la educación.",
+        "Dificultan la adaptación a nuevas situaciones."
+      ],
+      "respuesta": "Se transforman y replantean constantemente en respuesta a cambios contextuales.",
+      "explicacion": "Las ideologías y saberes en el contexto escolar son dinámicos y se transforman continuamente, permitiendo que la educación se ajuste a nuevas situaciones y condiciones contextuales."
+    },
+    {
+      "pregunta": "¿Qué representan los desafíos contextuales para la educación?",
+      "opciones": [
+        "Obstáculos insuperables.",
+        "Oportunidades para la innovación y el desarrollo de nuevos enfoques pedagógicos.",
+        "Elementos que deben ser ignorados.",
+        "Factores que impiden el progreso educativo."
+      ],
+      "respuesta": "Oportunidades para la innovación y el desarrollo de nuevos enfoques pedagógicos.",
+      "explicacion": "Los desafíos contextuales representan oportunidades para la educación, permitiendo la innovación y el desarrollo de nuevos enfoques pedagógicos y didácticos."
+    },
+    {
+      "pregunta": "¿Cómo permiten las transformaciones contextuales la concreción de nuevos horizontes pedagógicos?",
+      "opciones": [
+        "Manteniendo prácticas pedagógicas tradicionales.",
+        "Generando resistencia al cambio.",
+        "Impulsando la creación de enfoques innovadores.",
+        "Limiting the scope of educational practices."
+      ],
+      "respuesta": "Impulsando la creación de enfoques innovadores.",
+      "explicacion": "Las transformaciones contextuales impulsan la creación de nuevos enfoques pedagógicos, permitiendo que la educación evolucione y se adapte a las necesidades y condiciones cambiantes."
+    },
+    {
+      "pregunta": "¿Qué debe promover una educación integral en respuesta a las variaciones contextuales?",
+      "opciones": [
+        "Un enfoque exclusivamente académico.",
+        "La inclusión de aspectos sociales, económicos y culturales.",
+        "La ignorancia de factores contextuales.",
+        "Una enseñanza tradicional sin cambios."
+      ],
+      "respuesta": "La inclusión de aspectos sociales, económicos y culturales.",
+      "explicacion": "Una educación integral debe incluir aspectos sociales, económicos y culturales en respuesta a las variaciones contextuales, promoviendo una formación holística y contextualizada."
+    },
+    {
+      "pregunta": "¿Por qué es importante que los docentes adapten sus prácticas pedagógicas constantemente?",
+      "opciones": [
+        "Para mantener un enfoque estático en la enseñanza.",
+        "Para ignorar las dinámicas y transformaciones del contexto.",
+        "Para responder de manera efectiva a las dinámicas y transformaciones del contexto.",
+        "Para evitar el cambio y la innovación."
+      ],
+      "respuesta": "Para responder de manera efectiva a las dinámicas y transformaciones del contexto.",
+      "explicacion": "Es crucial que los docentes adapten sus prácticas pedagógicas constantemente para responder de manera efectiva a las dinámicas y transformaciones del contexto, asegurando una educación relevante y actualizada."
+    },
+    {
+      "pregunta": "¿Cómo puede la educación contribuir a la transformación social?",
+      "opciones": [
+        "Ignorando los desafíos contextuales.",
+        "Abordando los desafíos contextuales de manera creativa y efectiva.",
+        "Manteniendo prácticas tradicionales sin cambios.",
+        "Resistiendo las transformaciones contextuales."
+      ],
+      "respuesta": "Abordando los desafíos contextuales de manera creativa y efectiva.",
+      "explicacion": "La educación puede contribuir a la transformación social al abordar los desafíos contextuales de manera creativa y efectiva, promoviendo cambios positivos en la sociedad."
+    },
+    {
+      "pregunta": "¿Qué papel juegan las relaciones culturales en el contexto educativo?",
+      "opciones": [
+        "No tienen impacto en las prácticas pedagógicas.",
+        "Influyen significativamente en las prácticas pedagógicas y en las interacciones entre docentes y estudiantes.",
+        "Dificultan la adaptación a nuevos enfoques.",
+        "Son irrelevantes para la educación."
+      ],
+      "respuesta": "Influyen significativamente en las prácticas pedagógicas y en las interacciones entre docentes y estudiantes.",
+      "explicacion": "Las relaciones culturales dentro del contexto educativo influyen significativamente en las prácticas pedagógicas y en las interacciones entre docentes y estudiantes, afectando la dinámica y el enfoque de la enseñanza."
+    }
+  ]
+}

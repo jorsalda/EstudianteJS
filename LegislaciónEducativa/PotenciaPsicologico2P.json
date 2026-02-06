@@ -1,0 +1,136 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En una institución educativa se implementó un programa de inclusión para estudiantes con discapacidades. ¿Cuál de las siguientes acciones es más coherente con este enfoque?",
+      "opciones": [
+        "Crear un ambiente de aprendizaje accesible para todos los estudiantes.",
+        "Rechazar la inscripción de estudiantes con discapacidades para mantener el estándar académico.",
+        "Limitar las actividades extracurriculares para estudiantes con discapacidades.",
+        "Separar físicamente a los estudiantes con discapacidades del resto del grupo."
+      ],
+      "respuesta": "Crear un ambiente de aprendizaje accesible para todos los estudiantes.",
+      "explicacion": "El enfoque de inclusión en la educación busca crear un ambiente donde todos los estudiantes, independientemente de sus habilidades o discapacidades, puedan participar y tener éxito. Esto implica crear adaptaciones y recursos para garantizar que todos los estudiantes tengan acceso a la educación en igualdad de condiciones."
+    },
+    {
+      "pregunta": "Un grupo de padres de familia expresa su preocupación por el contenido de ciertos libros de texto utilizados en la escuela de sus hijos, considerando que algunos temas son inapropiados para la edad de los estudiantes. ¿Cuál sería la mejor acción por parte de la institución educativa?",
+      "opciones": [
+        "Formar un comité de revisión de materiales educativos que incluya a padres, docentes y expertos en contenido.",
+        "Ignorar las preocupaciones de los padres y continuar utilizando los libros de texto existentes.",
+        "Prohibir la participación de los padres en la selección de materiales educativos.",
+        "Modificar los libros de texto sin consultar a los padres."
+      ],
+      "respuesta": "Formar un comité de revisión de materiales educativos que incluya a padres, docentes y expertos en contenido.",
+      "explicacion": "Es importante abordar las preocupaciones de los padres de familia de manera colaborativa. Formar un comité de revisión que incluya a todas las partes interesadas permitirá discutir los problemas, evaluar los materiales y tomar decisiones informadas sobre su uso en el aula."
+    },
+    {
+      "pregunta": "Un estudiante es expulsado de la escuela por un comportamiento inapropiado en varias ocasiones. ¿Cuál es el paso legal correcto que debe seguir la escuela?",
+      "opciones": [
+        "Notificar a los padres y proporcionarles una audiencia justa para discutir el asunto.",
+        "Tomar la decisión unilateral de expulsión sin notificar a los padres.",
+        "Solicitar la intervención de las autoridades policiales sin involucrar a los padres.",
+        "Permitir que los profesores decidan la expulsión sin intervención administrativa."
+      ],
+      "respuesta": "Notificar a los padres y proporcionarles una audiencia justa para discutir el asunto.",
+      "explicacion": "La expulsión de un estudiante es un proceso serio que debe seguir procedimientos legales adecuados. Esto incluye notificar a los padres del estudiante y brindarles la oportunidad de discutir el asunto en una audiencia justa antes de tomar una decisión final."
+    },
+    {
+      "pregunta": "Un maestro está preocupado por el bajo rendimiento académico de un estudiante en su clase. ¿Cuál de las siguientes acciones sería más efectiva para abordar esta preocupación?",
+      "opciones": [
+        "Programar una reunión con los padres para discutir las necesidades del estudiante y desarrollar un plan de apoyo conjunto.",
+        "Ignorar el bajo rendimiento y esperar a que el estudiante mejore por su cuenta.",
+        "Cambiar las expectativas del maestro para alinearlas con el rendimiento del estudiante.",
+        "Asignar más tareas al estudiante para motivarlo a mejorar su rendimiento."
+      ],
+      "respuesta": "Programar una reunión con los padres para discutir las necesidades del estudiante y desarrollar un plan de apoyo conjunto.",
+      "explicacion": "La colaboración entre maestros y padres es fundamental para abordar las necesidades individuales de los estudiantes. Programar una reunión para discutir el bajo rendimiento y desarrollar un plan de apoyo conjunto es una forma efectiva de identificar y abordar las dificultades académicas del estudiante."
+    },
+    {
+      "pregunta": "Una escuela está implementando un nuevo programa de educación sexual. ¿Cuál de las siguientes estrategias sería más adecuada para involucrar a los padres en este proceso?",
+      "opciones": [
+        "Organizar sesiones informativas para padres sobre el contenido y los objetivos del programa.",
+        "Excluir a los padres del proceso de planificación del programa para evitar conflictos.",
+        "Enviar materiales del programa a los padres sin ofrecer oportunidades para discutirlo.",
+        "Dejar que los estudiantes decidan si quieren informar a sus padres sobre el programa."
+      ],
+      "respuesta": "Organizar sesiones informativas para padres sobre el contenido y los objetivos del programa.",
+      "explicacion": "Involucrar a los padres en el proceso de educación sexual es importante para garantizar su apoyo y comprensión. Organizar sesiones informativas les brinda la oportunidad de conocer el contenido y los objetivos del programa, así como de hacer preguntas y expresar preocupaciones."
+    },
+    {
+      "pregunta": "Un estudiante es acusado de plagiar en un ensayo. ¿Cuál sería el curso de acción más apropiado para la escuela?",
+      "opciones": [
+        "Investigar la acusación de manera justa y proporcionar al estudiante la oportunidad de defenderse.",
+        "Ignorar la acusación y dar al estudiante una calificación reducida sin más investigación.",
+        "Expulsar inmediatamente al estudiante sin investigar la acusación.",
+        "Solicitar a los padres que investiguen el asunto y tomen medidas disciplinarias en casa."
+      ],
+      "respuesta": "Investigar la acusación de manera justa y proporcionar al estudiante la oportunidad de defenderse.",
+      "explicacion": "Es importante investigar las acusaciones de plagio de manera justa y proporcionar al estudiante la oportunidad de defenderse antes de tomar cualquier medida disciplinaria. Esto garantiza que se respeten los derechos del estudiante y se llegue a una resolución justa del asunto."
+    },
+    {
+      "pregunta": "En un contexto educativo, ¿qué significa el término 'Ley de Inclusión Educativa'?",
+      "opciones": [
+        "Una ley que garantiza la inclusión de estudiantes con discapacidades en el sistema educativo regular.",
+        "Una ley que establece los requisitos para ingresar a una institución educativa.",
+        "Una ley que regula la cantidad de horas de clases en un día escolar.",
+        "Una ley que determina el uso de uniformes escolares en las instituciones educativas."
+      ],
+      "respuesta": "Una ley que garantiza la inclusión de estudiantes con discapacidades en el sistema educativo regular.",
+      "explicacion": "La Ley de Inclusión Educativa se refiere a legislaciones que promueven y garantizan la inclusión de estudiantes con discapacidades en el sistema educativo regular, asegurando su acceso a una educación de calidad en igualdad de condiciones."
+    },
+    {
+      "pregunta": "¿Qué es el 'Plan de Convivencia Escolar'?",
+      "opciones": [
+        "Un plan que establece normas para la convivencia pacífica en la institución educativa.",
+        "Un plan que organiza las actividades extracurriculares de los estudiantes.",
+        "Un plan que regula las evaluaciones y exámenes en la escuela.",
+        "Un plan que define los horarios de clases y recreos."
+      ],
+      "respuesta": "Un plan que establece normas para la convivencia pacífica en la institución educativa.",
+      "explicacion": "El Plan de Convivencia Escolar es un conjunto de normas y estrategias establecidas por la institución educativa para promover la convivencia pacífica, prevenir conflictos y fomentar el respeto entre todos los miembros de la comunidad educativa."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito principal de la 'Ley de Educación Inclusiva'?",
+      "opciones": [
+        "Garantizar que todos los estudiantes tengan acceso a una educación de calidad, independientemente de sus capacidades o características.",
+        "Regular el proceso de selección de estudiantes en instituciones educativas de élite.",
+        "Establecer la duración de la jornada escolar en las instituciones educativas.",
+        "Determinar el contenido específico de los programas de estudio en cada materia."
+      ],
+      "respuesta": "Garantizar que todos los estudiantes tengan acceso a una educación de calidad, independientemente de sus capacidades o características.",
+      "explicacion": "La Ley de Educación Inclusiva tiene como objetivo garantizar que todos los estudiantes, independientemente de sus capacidades o características, tengan acceso a una educación de calidad en igualdad de condiciones, promoviendo la diversidad y la igualdad de oportunidades en el sistema educativo."
+    },
+    {
+      "pregunta": "¿Qué implica el principio de 'Educación para Todos'?",
+      "opciones": [
+        "Garantizar que todos los estudiantes tengan acceso a una educación de calidad, sin discriminación ni exclusión.",
+        "Limitar el acceso a la educación solo a aquellos que pueden pagar por ella.",
+        "Priorizar la educación de un grupo específico de estudiantes en detrimento de otros.",
+        "Exigir que todos los estudiantes tengan el mismo nivel de rendimiento académico."
+      ],
+      "respuesta": "Garantizar que todos los estudiantes tengan acceso a una educación de calidad, sin discriminación ni exclusión.",
+      "explicacion": "El principio de 'Educación para Todos' implica garantizar que todos los estudiantes, sin importar su origen étnico, género, situación socioeconómica o cualquier otra característica, tengan acceso a una educación de calidad en igualdad de condiciones, sin discriminación ni exclusión."
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de las 'Normas de Convivencia' en una institución educativa?",
+      "opciones": [
+        "Establecer reglas y comportamientos esperados para promover un ambiente de respeto y colaboración.",
+        "Determinar la duración de las vacaciones escolares durante el año lectivo.",
+        "Regular el uso de uniformes escolares por parte de los estudiantes.",
+        "Organizar las actividades extracurriculares ofrecidas por la institución educativa."
+      ],
+      "respuesta": "Establecer reglas y comportamientos esperados para promover un ambiente de respeto y colaboración.",
+      "explicacion": "Las Normas de Convivencia son un conjunto de reglas y comportamientos esperados establecidos por la institución educativa para promover un ambiente de respeto, colaboración y buen trato entre todos los miembros de la comunidad escolar."
+    },
+    {
+      "pregunta": "¿Qué función tiene el 'Consejo Escolar' en una institución educativa?",
+      "opciones": [
+        "Promover la participación de la comunidad educativa en la gestión y toma de decisiones de la institución.",
+        "Seleccionar a los estudiantes que recibirán premios académicos al final del año escolar.",
+        "Supervisar el desempeño académico de los docentes y tomar decisiones sobre su contratación.",
+        "Definir el contenido de los programas de estudio en cada materia."
+      ],
+      "respuesta": "Promover la participación de la comunidad educativa en la gestión y toma de decisiones de la institución.",
+      "explicacion": "El Consejo Escolar es un órgano colegiado que tiene como función promover la participación de la comunidad educativa en la gestión y toma de decisiones de la institución, garantizando la representación de todos los sectores involucrados en la vida escolar."
+    }
+
+  ]}

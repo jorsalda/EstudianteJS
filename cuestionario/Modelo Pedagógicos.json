@@ -1,0 +1,54 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la importancia de la educación según el texto?",
+      "opciones": [
+        "Para transmitir valores religiosos.",
+        "Para mejorar la salud pública.",
+        "Para construir la sociedad y preparar a los individuos para su desenvolvimiento autónomo y social.",
+        "Para promover la competencia deportiva."
+      ],
+      "respuesta": "Para construir la sociedad y preparar a los individuos para su desenvolvimiento autónomo y social."
+    },
+    {
+      "pregunta": "¿Qué características define el nuevo milenio según el texto?",
+      "opciones": [
+        "La revolución industrial.",
+        "La revolución del conocimiento, el desarrollo de las comunicaciones, la globalización de la economía y el despliegue de la dinámica social.",
+        "La vuelta a modelos tradicionales de enseñanza.",
+        "El auge del feudalismo."
+      ],
+      "respuesta": "La revolución del conocimiento, el desarrollo de las comunicaciones, la globalización de la economía y el despliegue de la dinámica social."
+    },
+    {
+      "pregunta": "¿Qué influencias afectan la educación según el texto?",
+      "opciones": [
+        "Solo la influencia de la tecnología.",
+        "La influencia de la política y la economía.",
+        "La influencia exclusiva de la religión.",
+        "La influencia de la astrología."
+      ],
+      "respuesta": "La influencia de la política y la economía."
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre el modelo tradicional y el conductista según el texto?",
+      "opciones": [
+        "El modelo tradicional enfatiza la formación del carácter, mientras que el conductista se enfoca en la condición productiva del alumno.",
+        "El modelo tradicional se basa en el desarrollo natural del alumno, mientras que el conductista se enfoca en la libertad y la autenticidad del alumno.",
+        "El modelo tradicional se centra en el desarrollo multifacético del alumno, mientras que el conductista se enfoca en la conexión entre educación y sociedad.",
+        "El modelo tradicional promueve la educación popular, mientras que el conductista se basa en la teoría de la acción comunicativa."
+      ],
+      "respuesta": "El modelo tradicional enfatiza la formación del carácter, mientras que el conductista se enfoca en la condición productiva del alumno."
+    },
+    {
+      "pregunta": "¿Cuál es la meta del modelo socialista en educación según el texto?",
+      "opciones": [
+        "Alcanzar la libertad y la autenticidad del alumno.",
+        "Desarrollar el espíritu colectivo para la construcción del socialismo y la superación de las desigualdades sociales.",
+        "Alcanzar la etapa superior de desarrollo intelectual del alumno.",
+        "Enfatizar la imitación del buen ejemplo y la emulación del patrón."
+      ],
+      "respuesta": "Desarrollar el espíritu colectivo para la construcción del socialismo y la superación de las desigualdades sociales."
+    }
+  ]
+}

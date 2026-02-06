@@ -1,0 +1,38 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Un pequeño conjunto cerrado tiene cinco casas formando un pentágono. Cada casa tiene una cantidad diferente de pisos. El señor Pérez lamenta que su casa tenga cinco pisos y sea considerada un edificio. ¿Cuál es el total de pisos construidos en el conjunto?",
+      "opciones": ["9", "15", "20", "25"],
+      "respuesta": "20"
+    },
+    {
+      "pregunta": "Un profesor asigna a tres estudiantes figuras distintas y les pide rotarlas 90° en sentido horario respecto al origen del sistema de coordenadas. La gráfica muestra las figuras originales y las obtenidas tras la rotación. ¿Cuáles estudiantes hicieron correctamente el trabajo?",
+      "opciones": ["I y II solamente.", "II y III solamente.", "I y III solamente.", "I, II y III."],
+      "respuesta": "I y III solamente.",
+      "imagen": "rotacion_figuras.png"
+    },
+    {
+      "pregunta": "Se realizó una encuesta a 200 clientes sobre la calidad del servicio de una empresa de telecomunicaciones. La gráfica muestra los porcentajes de las calificaciones dadas por los clientes. ¿Cuál afirmación es verdadera sobre los resultados?",
+      "opciones": ["Más de 30 clientes consideran que la calidad del servicio es excelente.", "Menos de 50 clientes consideran que la calidad del servicio es regular.", "Menos de 55 clientes están satisfechos con el servicio.", "Más de 60 clientes consideran que la calidad del servicio es bueno."],
+      "respuesta": "Más de 60 clientes consideran que la calidad del servicio es bueno.",
+      "imagen": "grafico_encuesta.png"
+    },
+    {
+      "pregunta": "En un juego, se lanza un dado dos veces y se gana si en el segundo lanzamiento se obtiene el doble del número obtenido en el primer lanzamiento. ¿Cuál es la probabilidad de ganar?",
+      "opciones": ["6/36", "3/36", "1/9", "2/9"],
+      "respuesta": "1/9"
+    },
+    {
+      "pregunta": "En una bolsa hay 3 bolas rojas, 3 negras y 12 blancas. Una persona afirma que todos los colores tienen la misma probabilidad de salir al sacar una bola al azar. ¿Es verdadera esta afirmación?",
+      "opciones": ["Sí, pues el número de bolas de cada color no importa.", "No, pues no se sabe el número total de bolas en la bolsa.", "No, pues hay más bolas de un color que de los otros dos.", "Sí, pues las bolas están repartidas de igual manera."],
+      "respuesta": "No, pues hay más bolas de un color que de los otros dos."
+    },
+    {
+      "pregunta": "La torre de Pisa se ha inclinado 4° respecto a la vertical. ¿Cuánto mide el otro ángulo?",
+      "opciones": ["4°", "14°", "86°", "90°"],
+      "respuesta": "86°",
+      "imagen": "torre_pisa.png"
+    }
+  ]
+}
+

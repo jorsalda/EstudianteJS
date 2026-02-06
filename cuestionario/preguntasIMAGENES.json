@@ -1,0 +1,22 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué animal se muestra en la imagen?",
+      "imagen": "https://ejemplo.com/imagen1.jpg",
+      "opciones": ["Perro", "Gato", "Pájaro", "Oso"],
+      "respuesta": "Perro"
+    },
+    {
+      "pregunta": "¿Cuál es el nombre de la estructura mostrada en la imagen?",
+      "imagen": "https://ejemplo.com/imagen2.jpg",
+      "opciones": ["Puente", "Torre", "Edificio", "Casa"],
+      "respuesta": "Puente"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://ejemplo.com/imagen3.jpg",
+      "opciones": ["Teléfono", "Computadora", "Libro", "Reloj"],
+      "respuesta": "Reloj"
+    }
+  ]
+}

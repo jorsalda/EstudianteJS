@@ -1,0 +1,37 @@
+{
+  "cuestionario": [
+    {
+      "pregunta": "Una vez que un agricultor sembró varias plantas en su huerta, registró la altura de cada planta durante un período de tiempo. Los datos se muestran en la siguiente tabla:\n\nPlanta\tAltura (cm), t=0\tAltura (cm), t=1\tAltura (cm), t=2\tAltura (cm), t=3\n1\t25\t30\t35\t40\n2\t30\t35\t40\t45\n3\t35\t40\t45\t50\n\nSi t representa el número de meses después de sembrar las plantas, ¿cuál de las siguientes expresiones representa correctamente la altura de la Planta 2 después de t meses?",
+      "tabla": [
+        {
+          "Planta": "1",
+          "Altura (cm), t=0": 25,
+          "Altura (cm), t=1": 30,
+          "Altura (cm), t=2": 35,
+          "Altura (cm), t=3": 40
+        },
+        {
+          "Planta": "2",
+          "Altura (cm), t=0": 30,
+          "Altura (cm), t=1": 35,
+          "Altura (cm), t=2": 40,
+          "Altura (cm), t=3": 45
+        },
+        {
+          "Planta": "3",
+          "Altura (cm), t=0": 35,
+          "Altura (cm), t=1": 40,
+          "Altura (cm), t=2": 45,
+          "Altura (cm), t=3": 50
+        }
+      ],
+      "opciones": [
+        "A. 30t+5",
+        "B. 30t+35",
+        "C. 5t+30",
+        "D. 5t+35"
+      ],
+      "respuesta_correcta": "C. 5t+30"
+    }
+  ]
+}

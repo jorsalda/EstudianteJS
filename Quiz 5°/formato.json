@@ -1,0 +1,15 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es la altura en un triangulo rectángulo?",
+      "opciones": [
+        "Segmento de recta que va desde un vértice hasta el lado opuesto.",
+        "Es igual a la longintud de uno de sus lados.",
+        "Es igual a la multiplicación de sus lados.",
+        "Segmento de recta que va desde un vértice hasta el lado opuesto en forma perpendicular."
+      ],
+      "respuesta": "Segmento de recta que va desde un vértice hasta el lado opuesto en forma perpendicular."
+    }
+  ]
+}
+

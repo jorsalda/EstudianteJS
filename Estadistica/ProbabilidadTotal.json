@@ -1,0 +1,104 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es la probabilidad condicionada?",
+      "opciones": [
+        "La probabilidad de que ocurra un suceso sin información previa.",
+        "La probabilidad de que ocurra un suceso A dado que ha ocurrido un suceso B.",
+        "La probabilidad de que dos sucesos sean independientes.",
+        "La probabilidad de que ocurra el suceso más probable."
+      ],
+      "respuesta": "La probabilidad de que ocurra un suceso A dado que ha ocurrido un suceso B."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula de la probabilidad condicionada?",
+      "opciones": [
+        "P(A) = P(A ∩ B) / P(B)",
+        "P(A/B) = P(A ∩ B) / P(B)",
+        "P(A ∩ B) = P(A) + P(B)",
+        "P(A ∩ B) = P(A) * P(B)"
+      ],
+      "respuesta": "P(A/B) = P(A ∩ B) / P(B)"
+    },
+    {
+      "pregunta": "¿Qué nos dice el teorema de la probabilidad total?",
+      "opciones": [
+        "Cómo calcular la probabilidad de un suceso sin información adicional.",
+        "Cómo calcular la probabilidad de un suceso dado otro suceso.",
+        "Cómo calcular la probabilidad de un suceso B en función de otros sucesos incompatibles que cubren todo el espacio muestral.",
+        "Cómo determinar la independencia de dos sucesos."
+      ],
+      "respuesta": "Cómo calcular la probabilidad de un suceso B en función de otros sucesos incompatibles que cubren todo el espacio muestral."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula del teorema de la probabilidad total?",
+      "opciones": [
+        "P(B) = P(A1) * P(B/A1) + P(A2) * P(B/A2) + ... + P(An) * P(B/An)",
+        "P(A/B) = P(A) * P(B)",
+        "P(A ∩ B) = P(A) + P(B) - P(A ∩ B)",
+        "P(A) = P(A ∩ B) / P(B)"
+      ],
+      "respuesta": "P(B) = P(A1) * P(B/A1) + P(A2) * P(B/A2) + ... + P(An) * P(B/An)"
+    },
+    {
+      "pregunta": "¿Qué permite calcular el teorema de Bayes?",
+      "opciones": [
+        "La probabilidad total de un suceso.",
+        "La probabilidad condicional de un suceso dado otro suceso.",
+        "La independencia de dos sucesos.",
+        "La probabilidad de eventos mutuamente excluyentes."
+      ],
+      "respuesta": "La probabilidad condicional de un suceso dado otro suceso."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula del teorema de Bayes?",
+      "opciones": [
+        "P(A/B) = P(A) / P(B)",
+        "P(Ak/B) = [P(Ak) * P(B/Ak)] / P(B)",
+        "P(B) = P(A1) * P(B/A1) + P(A2) * P(B/A2)",
+        "P(A ∩ B) = P(A) + P(B)"
+      ],
+      "respuesta": "P(Ak/B) = [P(Ak) * P(B/Ak)] / P(B)"
+    },
+    {
+      "pregunta": "¿Qué significa que dos sucesos sean independientes?",
+      "opciones": [
+        "Que la probabilidad de uno afecta a la probabilidad del otro.",
+        "Que la probabilidad condicional de uno dado el otro es igual a la probabilidad incondicional.",
+        "Que ambos sucesos no pueden ocurrir simultáneamente.",
+        "Que ambos sucesos ocurren siempre juntos."
+      ],
+      "respuesta": "Que la probabilidad condicional de uno dado el otro es igual a la probabilidad incondicional."
+    },
+    {
+      "pregunta": "¿Qué probabilidad se obtiene al calcular P(A ∩ B) para dos sucesos independientes?",
+      "opciones": [
+        "P(A ∩ B) = P(A) + P(B)",
+        "P(A ∩ B) = P(A) * P(B)",
+        "P(A ∩ B) = P(A) / P(B)",
+        "P(A ∩ B) = P(B) / P(A)"
+      ],
+      "respuesta": "P(A ∩ B) = P(A) * P(B)"
+    },
+    {
+      "pregunta": "¿Cuál es la probabilidad de que falle un circuito en una producción si el 20% está expuesto a niveles altos de contaminación con una probabilidad de fallo de 0.1, el 30% a niveles medios con una probabilidad de 0.01 y el 50% a niveles bajos con una probabilidad de 0.001?",
+      "opciones": [
+        "0.0235",
+        "0.1",
+        "0.003",
+        "0.2"
+      ],
+      "respuesta": "0.0235"
+    },
+    {
+      "pregunta": "Si en un instituto hay tres grupos de segundo de bachillerato con diferentes tasas de suspenso en matemáticas, ¿cuál es la probabilidad de que un alumno que ha suspendido matemáticas pertenezca al grupo A?",
+      "opciones": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "respuesta": "1/3"
+    }
+  ]
+}

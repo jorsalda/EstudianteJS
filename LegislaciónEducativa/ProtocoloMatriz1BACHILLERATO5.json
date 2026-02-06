@@ -1,0 +1,137 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "En una institución educativa que promueve el uso innovador de materiales y la participación activa en la comunidad profesional, ¿cuál sería una acción que refleje un nivel avanzado en ambos aspectos?",
+      "opciones": [
+        "Desarrollar proyectos interdisciplinarios que integren diversos materiales educativos y compartir los resultados en conferencias educativas regionales.",
+        "Utilizar los materiales educativos estándar de la institución y participar en reuniones departamentales ocasionalmente.",
+        "Limitarse al uso de unos pocos materiales conocidos y participar en talleres internos de desarrollo profesional.",
+        "No utilizar activamente materiales educativos innovadores y evitar participar en actividades de la comunidad profesional."
+      ],
+      "respuesta": "Desarrollar proyectos interdisciplinarios que integren diversos materiales educativos y compartir los resultados en conferencias educativas regionales.",
+      "explicacion": "La opción A refleja un nivel avanzado al demostrar un uso innovador de materiales educativos en proyectos interdisciplinarios y una participación activa en la comunidad profesional más allá de la institución."
+    },
+    {
+      "pregunta": "En una institución educativa que enfatiza el uso innovador de materiales y la coherencia con los propósitos del PEI, ¿qué acción reflejaría un nivel avanzado en ambos aspectos?",
+      "opciones": [
+        "Desarrollar e implementar un programa piloto que utilice una combinación de materiales educativos innovadores y alinee completamente con los objetivos y valores del PEI.",
+        "Utilizar los mismos materiales educativos estándar y participar en talleres de desarrollo profesional semestralmente.",
+        "Experimentar ocasionalmente con nuevos materiales educativos en el aula sin una planificación sistemática.",
+        "Evitar la participación en actividades de desarrollo profesional fuera de la escuela y mantener un currículo tradicional en la enseñanza."
+      ],
+      "respuesta": "Desarrollar e implementar un programa piloto que utilice una combinación de materiales educativos innovadores y alinee completamente con los objetivos y valores del PEI.",
+      "explicacion": "La opción A muestra un uso innovador de materiales educativos al desarrollar un programa piloto y alinea completamente con los objetivos del PEI, lo cual indica un nivel avanzado en ambos aspectos evaluados."
+    },
+    {
+      "pregunta": "¿Cuál sería la mejor estrategia para un docente que busca integrar el contexto local en su enseñanza en una escuela ubicada en una comunidad con una rica herencia cultural y diversidad económica?",
+      "opciones": [
+        "Desarrollar un currículo que incorpore estudios de caso locales, invitar a miembros de la comunidad a compartir sus experiencias y utilizar recursos locales en las actividades diarias de clase.",
+        "Usar ocasionalmente ejemplos locales y referencias culturales en las lecciones, sin hacer un esfuerzo constante para integrarlos en el currículo.",
+        "Conocer las principales características culturales y socioeconómicas de la comunidad, pero no integrarlas activamente en las actividades de clase.",
+        "Seguir un currículo estándar sin tener en cuenta las particularidades culturales y socioeconómicas de los estudiantes."
+      ],
+      "respuesta": "Desarrollar un currículo que incorpore estudios de caso locales, invitar a miembros de la comunidad a compartir sus experiencias y utilizar recursos locales en las actividades diarias de clase.",
+      "explicacion": "La opción A demuestra un conocimiento profundo del contexto socioeconómico y cultural al integrar activamente recursos locales y experiencias de la comunidad en la enseñanza diaria."
+    },
+    {
+      "pregunta": "En una escuela donde los estudiantes provienen de diferentes trasfondos socioeconómicos, ¿cómo debería un docente adaptar sus recursos educativos para ser más inclusivo y relevante?",
+      "opciones": [
+        "Identificar y utilizar una variedad de recursos que reflejen la diversidad cultural y económica de los estudiantes, asegurándose de que todos los materiales sean accesibles y significativos para cada grupo.",
+        "Adaptar los recursos educativos de manera ocasional para incluir algunas referencias culturales y económicas de la comunidad estudiantil.",
+        "Usar principalmente recursos educativos estándar y comunes, haciendo pequeñas adaptaciones si es absolutamente necesario.",
+        "Continuar utilizando los mismos recursos sin considerar la diversidad socioeconómica y cultural de los estudiantes."
+      ],
+      "respuesta": "Identificar y utilizar una variedad de recursos que reflejen la diversidad cultural y económica de los estudiantes, asegurándose de que todos los materiales sean accesibles y significativos para cada grupo.",
+      "explicacion": "La opción A implica una adaptación activa y reflexiva de los recursos educativos para reflejar y ser inclusivo con la diversidad de los estudiantes, lo cual es crucial para promover la equidad educativa."
+    },
+    {
+      "pregunta": "En un salón de clases donde los estudiantes tienen diferentes estilos de aprendizaje y necesidades, ¿cuál es la mejor manera en que un docente puede adaptar su práctica educativa?",
+      "opciones": [
+        "Desarrollar un enfoque de enseñanza multifacético que considere los diferentes estilos de aprendizaje y necesidades, ajustando las actividades y evaluaciones para apoyar a cada estudiante de manera integral.",
+        "Incorporar algunos métodos de enseñanza que atiendan a los estilos de aprendizaje más comunes entre los estudiantes.",
+        "Reconocer que los estudiantes tienen diferentes necesidades, pero seguir utilizando mayormente un solo enfoque de enseñanza para todos.",
+        "Continuar con un método de enseñanza uniforme, independientemente de las diferencias en estilos de aprendizaje y necesidades de los estudiantes."
+      ],
+      "respuesta": "Desarrollar un enfoque de enseñanza multifacético que considere los diferentes estilos de aprendizaje y necesidades, ajustando las actividades y evaluaciones para apoyar a cada estudiante de manera integral.",
+      "explicacion": "La opción A representa un alto grado de flexibilidad y consideración integral de los diferentes estilos de aprendizaje y necesidades de los estudiantes en la práctica educativa."
+    },
+    {
+      "pregunta": "Un docente observa que algunos de sus estudiantes provienen de entornos con recursos limitados y enfrentan desafíos únicos en su aprendizaje. ¿Cuál sería la mejor respuesta para adaptar su práctica educativa a estas necesidades?",
+      "opciones": [
+        "Modificar el plan de estudios y las actividades para ser más accesibles y relevantes para los estudiantes con recursos limitados, proporcionando apoyo adicional y recursos suplementarios según sea necesario.",
+        "Ofrecer apoyo adicional a los estudiantes con recursos limitados cuando es posible, pero sin cambios significativos en el plan de estudios general.",
+        "Reconocer las limitaciones de recursos de algunos estudiantes, pero no hacer ajustes en el plan de estudios o en las actividades de clase.",
+        "Mantener el plan de estudios estándar sin considerar los desafíos específicos de los estudiantes con recursos limitados."
+      ],
+      "respuesta": "Modificar el plan de estudios y las actividades para ser más accesibles y relevantes para los estudiantes con recursos limitados, proporcionando apoyo adicional y recursos suplementarios según sea necesario.",
+      "explicacion": "La opción A demuestra una adaptación integral y sensible del plan de estudios y las actividades para ser inclusivas y relevantes para estudiantes con recursos limitados."
+    },
+    {
+      "pregunta": "En una escuela donde se busca mejorar la participación de las familias en la educación de sus hijos, ¿cuál de las siguientes acciones sería la más efectiva para un docente?",
+      "opciones": [
+        "Organizar talleres regulares para padres sobre cómo pueden apoyar el aprendizaje de sus hijos en casa y mantener una comunicación constante y bidireccional con las familias.",
+        "Invitar a los padres a participar en eventos escolares ocasionales y proporcionarles información sobre el progreso de sus hijos en reuniones trimestrales.",
+        "Enviar informes de progreso a casa y estar disponible para reuniones con los padres si ellos lo solicitan.",
+        "Limitar la comunicación con las familias a informes de progreso periódicos y reuniones de padres y maestros establecidas por la escuela."
+      ],
+      "respuesta": "Organizar talleres regulares para padres sobre cómo pueden apoyar el aprendizaje de sus hijos en casa y mantener una comunicación constante y bidireccional con las familias.",
+      "explicacion": "La opción A muestra un enfoque proactivo y continuo para involucrar a las familias en el proceso educativo, proporcionando apoyo y comunicación regular."
+    },
+
+{
+      "pregunta": "En un entorno escolar que busca fortalecer la relación entre el hogar y la escuela, ¿qué acción debería tomar un docente para fomentar esta vinculación?",
+      "opciones": [
+        "Desarrollar una estrategia de colaboración continua que involucre a las familias en el diseño de proyectos escolares y en la toma de decisiones sobre actividades curriculares.",
+        "Invitar a los padres a asistir a las reuniones de padres y maestros y a participar en algunos eventos escolares.",
+        "Mantener una comunicación abierta con los padres a través de boletines y reuniones programadas, pero sin buscar una participación activa en la educación diaria.",
+        "Enviar a los padres una lista de expectativas al comienzo del año escolar y comunicarse solo cuando surja un problema."
+      ],
+      "respuesta": "Desarrollar una estrategia de colaboración continua que involucre a las familias en el diseño de proyectos escolares y en la toma de,decisiones sobre actividades curriculares.",
+"explicacion": "La opción A indica una colaboración activa y continua con las familias, involucrándolas en el diseño y la toma de decisiones relacionadas con la educación de sus hijos, lo cual fortalece la relación entre el hogar y la escuela."
+},
+{
+"pregunta": "En una institución educativa que enfatiza el uso innovador de materiales y la coherencia con los propósitos del PEI, ¿qué acción reflejaría un nivel satisfactorio en ambos aspectos?",
+"opciones": [
+"Participar en talleres periódicos sobre el uso de tecnología educativa y adaptar algunos materiales existentes para alinearlos parcialmente con los objetivos del PEI.",
+"Utilizar únicamente los materiales educativos recomendados por la institución y mantener una coherencia superficial con los propósitos del PEI.",
+"Explorar nuevas técnicas de enseñanza pero sin integrarlas de manera sistemática con los propósitos del PEI establecido por la institución.",
+"No participar en actividades de desarrollo profesional y seguir un currículo estándar sin adaptaciones."
+],
+"respuesta": "Participar en talleres periódicos sobre el uso de tecnología educativa y adaptar algunos materiales existentes para alinearlos parcialmente con los objetivos del PEI.",
+"explicacion": "La opción A muestra un esfuerzo por alinear parcialmente los materiales educativos con los propósitos del PEI y participar en desarrollo profesional, reflejando un nivel satisfactorio en ambos aspectos."
+},
+{
+"pregunta": "En una escuela que promueve la participación activa en la comunidad profesional, ¿cuál de las siguientes acciones demostraría un nivel mínimo en este aspecto?",
+"opciones": [
+"Asistir a una reunión anual de la comunidad profesional.",
+"Participar en talleres trimestrales organizados por la institución.",
+"No participar en ninguna actividad de la comunidad profesional.",
+"Leer artículos profesionales ocasionalmente sin participar en discusiones grupales."
+],
+"respuesta": "No participar en ninguna actividad de la comunidad profesional.",
+"explicacion": "La opción C indica una participación muy limitada y ocasional en la comunidad profesional, reflejando un nivel mínimo en este aspecto evaluado."
+},
+{
+"pregunta": "En un contexto donde se busca fortalecer la coherencia con los propósitos del PEI, ¿qué acción debería tomar un docente para demostrar un nivel avanzado en este aspecto?",
+"opciones": [
+"Liderar un proyecto institucional que alinee completamente con los propósitos y valores del PEI.",
+"Seguir estrictamente el currículo establecido sin cuestionar los propósitos del PEI.",
+"Hacer ajustes menores en las estrategias de enseñanza sin tener en cuenta los propósitos del PEI.",
+"Desconocer los propósitos del PEI y seguir un plan de estudios sin coherencia con los valores institucionales."
+],
+"respuesta": "Liderar un proyecto institucional que alinee completamente con los propósitos y valores del PEI.",
+"explicacion": "La opción A demuestra un compromiso significativo y activo en el fortalecimiento de la coherencia con los propósitos del PEI, reflejando un nivel avanzado en este aspecto evaluado."
+},
+{
+"pregunta": "¿Qué acción demostraría un nivel inferior en el uso de materiales educativos y la participación en la comunidad profesional?",
+"opciones": [
+"No explorar nuevos materiales educativos y no participar en actividades de desarrollo profesional fuera de la escuela.",
+"Adaptar ocasionalmente los materiales educativos pero no participar en ninguna actividad de la comunidad profesional.",
+"Utilizar solo los materiales educativos básicos proporcionados por la institución y asistir a reuniones anuales de la comunidad profesional.",
+"Experimentar con materiales educativos nuevos pero sin alinearlos con los propósitos del PEI."
+],
+"respuesta": "No explorar nuevos materiales educativos y no participar en actividades de desarrollo profesional fuera de la escuela.",
+"explicacion": "La opción A indica un desconocimiento o falta de utilización efectiva de materiales educativos, así como una falta de participación en actividades profesionales fuera del entorno escolar, reflejando un nivel inferior en ambos aspectos evaluados."
+}
+  ]
+}

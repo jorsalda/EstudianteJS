@@ -1,0 +1,16 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es estadística?",
+      "opciones": [
+        "Una técnica de pintura.",
+        "Una rama de la biología.",
+        "Un área de las matemáticas.",
+        "Un deporte extremo."
+      ],
+      "respuesta": "Un área de las matemáticas.",
+      "explicacion": "La estadística es una rama de las matemáticas que se encarga de recolectar, analizar e interpretar datos."
+    }
+  ]
+}
+

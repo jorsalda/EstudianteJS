@@ -1,0 +1,29 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es la capital de Francia?",
+            "opciones": ["Londres", "París", "Madrid", "Berlín"],
+            "respuesta": "París"
+        },
+        {
+            "pregunta": "¿Cuál es el río más largo del mundo?",
+            "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+            "respuesta": "Amazonas"
+        },
+        {
+            "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+            "opciones": ["Gabriel García Márquez", "Miguel de Cervantes", "Pablo Neruda", "William Shakespeare"],
+            "respuesta": "Miguel de Cervantes"
+        },
+        {
+            "pregunta": "¿QUÍNES ES USTED'?",
+            "opciones": ["YO", "TU", "EL", "NOSOTROS"],
+            "respuesta": "TU"
+        },
+        {
+            "pregunta": "¿QUE ES UN NÚMERO RACIONAL?",
+            "opciones": ["TODO NÚMERO", "LOS QUE VALEN MÁS DE 1", "LOS QUE VALEN MÁS DE 1", "PI"],
+            "respuesta": "PI"
+        }
+    ]
+}

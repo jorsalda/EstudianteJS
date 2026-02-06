@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el artículo de la Constitución que consagra el derecho a la educación?",
+      "opciones": [
+        "Artículo 13",
+        "Artículo 67",
+        "Artículo 356",
+        "Artículo 54"
+      ],
+      "respuesta": "Artículo 67",
+      "explicacion": "El Artículo 67 consagra el derecho a la educación como un derecho fundamental y establece su obligatoriedad y gratuidad en ciertos niveles."
+    },
+    {
+      "pregunta": "¿Qué función tiene el Estado en la educación según el Artículo 67?",
+      "opciones": [
+        "Regular y ejercer la suprema inspección y vigilancia sobre la educación",
+        "Proveer uniformes escolares gratuitos",
+        "Establecer un sistema de calificaciones estandarizado",
+        "Contratar exclusivamente profesores extranjeros"
+      ],
+      "respuesta": "Regular y ejercer la suprema inspección y vigilancia sobre la educación",
+      "explicacion": "El Estado tiene la responsabilidad de regular y ejercer la suprema inspección y vigilancia sobre la educación para garantizar su calidad y el cumplimiento de sus fines."
+    },
+    {
+      "pregunta": "¿Cuál es la edad mínima hasta la cual es obligatoria la educación en Colombia?",
+      "opciones": [
+        "Diez años",
+        "Doce años",
+        "Quince años",
+        "Dieciocho años"
+      ],
+      "respuesta": "Quince años",
+      "explicacion": "La educación es obligatoria para los menores de quince años, comprendiendo al menos un año de preescolar y nueve de educación básica."
+    },
+    {
+      "pregunta": "¿Qué derecho tienen los padres respecto a la educación de sus hijos según el Artículo 68?",
+      "opciones": [
+        "Escoger el tipo de educación para sus hijos",
+        "Designar los profesores de sus hijos",
+        "Establecer los horarios escolares",
+        "Decidir el contenido curricular"
+      ],
+      "respuesta": "Escoger el tipo de educación para sus hijos",
+      "explicacion": "El Artículo 68 establece que los padres tienen el derecho de escoger el tipo de educación para sus hijos."
+    },
+    {
+      "pregunta": "¿Qué establece la Constitución sobre la autonomía universitaria?",
+      "opciones": [
+        "Que las universidades deben seguir estrictamente las órdenes del gobierno",
+        "Que las universidades pueden darse sus propias directivas y regirse por sus propios estatutos",
+        "Que solo las universidades públicas tienen autonomía",
+        "Que la autonomía universitaria es opcional"
+      ],
+      "respuesta": "Que las universidades pueden darse sus propias directivas y regirse por sus propios estatutos",
+      "explicacion": "El Artículo 69 garantiza la autonomía universitaria, permitiendo a las universidades regirse por sus propios estatutos."
+    },
+    {
+      "pregunta": "¿Qué promueve el Estado según el Artículo 70 en relación con la cultura?",
+      "opciones": [
+        "La creación de museos en todas las ciudades",
+        "El acceso a la cultura de todos los colombianos en igualdad de oportunidades",
+        "La construcción de teatros",
+        "El patrocinio de festivales de música"
+      ],
+      "respuesta": "El acceso a la cultura de todos los colombianos en igualdad de oportunidades",
+      "explicacion": "El Artículo 70 establece que el Estado promoverá el acceso a la cultura en igualdad de oportunidades mediante la educación permanente y la enseñanza."
+    },
+    {
+      "pregunta": "¿Qué establece el Artículo 13 sobre la igualdad?",
+      "opciones": [
+        "Que todos los ciudadanos tienen derecho a la misma cantidad de educación",
+        "Que el Estado debe promover las condiciones para que la igualdad sea real y efectiva",
+        "Que solo los niños tienen derechos educativos",
+        "Que los ciudadanos deben ser tratados igual en todas las circunstancias"
+      ],
+      "respuesta": "Que el Estado debe promover las condiciones para que la igualdad sea real y efectiva",
+      "explicacion": "El Artículo 13 establece la igualdad ante la ley y la obligación del Estado de promover condiciones para que la igualdad sea real y efectiva."
+    },
+    {
+      "pregunta": "¿Qué garantiza el Artículo 69 respecto a la educación superior?",
+      "opciones": [
+        "Que es gratuita para todos",
+        "El acceso a la educación superior",
+        "Que solo los ciudadanos colombianos pueden acceder a ella",
+        "Que se imparte en inglés"
+      ],
+      "respuesta": "El acceso a la educación superior",
+      "explicacion": "El Artículo 69 garantiza el acceso a la educación superior, promoviendo la formación académica y profesional."
+    },
+    {
+      "pregunta": "Según el Artículo 54, ¿qué debe ofrecer el Estado a los trabajadores?",
+      "opciones": [
+        "Asistencia médica gratuita",
+        "Formación y capacitación",
+        "Vacaciones pagadas",
+        "Bono anual"
+      ],
+      "respuesta": "Formación y capacitación",
+      "explicacion": "El Artículo 54 establece que el Estado debe ofrecer formación y capacitación a los trabajadores para mejorar sus condiciones laborales."
+    },
+    {
+      "pregunta": "¿Qué vínculo establece la Constitución entre la educación y la cultura?",
+      "opciones": [
+        "Que la cultura debe enseñarse solo en la universidad",
+        "Que la educación debe incluir la promoción de la cultura en todas las etapas del conocimiento",
+        "Que solo los artistas deben recibir educación cultural",
+        "Que la cultura y la educación son campos independientes"
+      ],
+      "respuesta": "Que la educación debe incluir la promoción de la cultura en todas las etapas del conocimiento",
+      "explicacion": "La Constitución vincula la educación con la promoción de la cultura, enfatizando su inclusión en todas las etapas del conocimiento."
+    }
+  ]
+}

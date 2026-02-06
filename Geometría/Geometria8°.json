@@ -1,0 +1,389 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es un punto?",
+      "opciones": [
+        "Una ubicación en el espacio sin dimensiones.",
+        "Una línea con longitud pero sin anchura.",
+        "Una figura geométrica con volumen.",
+        "Una curva cerrada en el espacio."
+      ],
+      "respuesta": "Una ubicación en el espacio sin dimensiones.",
+      "explicacion": "Un punto es una ubicación en el espacio que no tiene dimensiones (longitud, anchura, ni altura)."
+    },
+    {
+      "pregunta": "¿Qué es una recta?",
+      "opciones": [
+        "Una línea curva que no tiene principio ni fin.",
+        "Una superficie plana infinita.",
+        "Una línea recta que se extiende indefinidamente en ambas direcciones.",
+        "Un segmento de línea con principio y fin."
+      ],
+      "respuesta": "Una línea recta que se extiende indefinidamente en ambas direcciones.",
+      "explicacion": "Una recta es una sucesión continua de puntos en una misma dirección, que se extiende indefinidamente en ambas direcciones."
+    },
+    {
+      "pregunta": "¿Qué es un segmento de recta?",
+      "opciones": [
+        "Una línea curva con principio y fin.",
+        "Una porción de una recta limitada por dos puntos.",
+        "Una línea recta sin principio ni fin.",
+        "Una figura geométrica con tres lados."
+      ],
+      "respuesta": "Una porción de una recta limitada por dos puntos.",
+      "explicacion": "Un segmento de recta es una porción de una recta que está limitada por dos puntos llamados extremos."
+    },
+    {
+      "pregunta": "¿Qué es una semirrecta?",
+      "opciones": [
+        "Una línea curva con principio y fin.",
+        "Una recta que se extiende indefinidamente en una sola dirección desde un punto inicial.",
+        "Una línea recta limitada por dos puntos.",
+        "Una figura geométrica con cuatro lados."
+      ],
+      "respuesta": "Una recta que se extiende indefinidamente en una sola dirección desde un punto inicial.",
+      "explicacion": "Una semirrecta es una porción de una recta que tiene un punto inicial y se extiende indefinidamente en una sola dirección."
+    },
+    {
+      "pregunta": "¿Rectas paralelas?",
+      "opciones": [
+        "Rectas que se cruzan en un punto.",
+        "Rectas que nunca se cruzan y mantienen una distancia constante.",
+        "Rectas que se curvan hacia adentro.",
+        "Rectas que se extienden en direcciones opuestas."
+      ],
+      "respuesta": "Rectas que nunca se cruzan y mantienen una distancia constante.",
+      "explicacion": "Las rectas paralelas son aquellas que, aunque se extiendan indefinidamente en ambas direcciones, nunca se cruzan y mantienen una distancia constante entre ellas."
+    },
+    {
+      "pregunta": "¿Qué es una prolongación de un segmento de recta?",
+      "opciones": [
+        "La extensión de un segmento más allá de sus extremos.",
+        "La curvatura de un segmento de recta.",
+        "La duplicación de un segmento de recta.",
+        "La reducción de un segmento de recta."
+      ],
+      "respuesta": "La extensión de un segmento más allá de sus extremos.",
+      "explicacion": "La prolongación de un segmento de recta implica extender el segmento más allá de sus extremos originales."
+    },
+    {
+      "pregunta": "¿Qué son rectas secantes entre sí?",
+      "opciones": [
+        "Rectas que nunca se cruzan.",
+        "Rectas que se cruzan en un solo punto.",
+        "Rectas que son paralelas.",
+        "Rectas que forman ángulos de 90 grados."
+      ],
+      "respuesta": "Rectas que se cruzan en un solo punto.",
+      "explicacion": "Las rectas secantes son aquellas que se cruzan en un único punto."
+    },
+    {
+      "pregunta": "¿Qué es un ángulo?",
+      "opciones": [
+        "Una figura geométrica con tres lados.",
+        "La abertura formada por dos semirrectas que comparten un extremo común.",
+        "Una línea que se extiende indefinidamente en ambas direcciones.",
+        "Un punto en el espacio."
+      ],
+      "respuesta": "La abertura formada por dos semirrectas que comparten un extremo común.",
+      "explicacion": "Un ángulo es la abertura formada por dos semirrectas (lados del ángulo) que comparten un punto en común (vértice del ángulo)."
+    },
+    {
+      "pregunta": "¿Cómo se nombran los ángulos?",
+      "opciones": [
+        "Por su longitud.",
+        "Por el área que ocupan.",
+        "Por el vértice y un punto en cada lado.",
+        "Por su volumen."
+      ],
+      "respuesta": "Por el vértice y un punto en cada lado.",
+      "explicacion": "Los ángulos se nombran utilizando tres letras, donde la letra del medio representa el vértice y las otras dos letras representan puntos en cada uno de los lados."
+    },
+    {
+      "pregunta": "¿Cuáles son las partes de un ángulo?",
+      "opciones": [
+        "Lados y vértice.",
+        "Base y altura.",
+        "Circunferencia y diámetro.",
+        "Área y perímetro."
+      ],
+      "respuesta": "Lados y vértice.",
+      "explicacion": "Las partes de un ángulo son los lados (las semirrectas que forman el ángulo) y el vértice (el punto común donde se intersectan las semirrectas)."
+    },
+    {
+      "pregunta": "¿Cómo se clasifican los ángulos?",
+      "opciones": [
+        "Por su longitud.",
+        "Por su color.",
+        "Por su medida.",
+        "Por su volumen."
+      ],
+      "respuesta": "Por su medida.",
+      "explicacion": "Los ángulos se clasifican por su medida en grados: ángulo agudo (menos de 90°), ángulo recto (90°), ángulo obtuso (más de 90° pero menos de 180°), y ángulo llano (180°)."
+    },
+    {
+      "pregunta": "¿Qué son ángulos consecutivos?",
+      "opciones": [
+        "Ángulos que comparten un vértice y un lado.",
+        "Ángulos que se suman a 90 grados.",
+        "Ángulos que están en lados opuestos de una recta.",
+        "Ángulos que están siempre separados."
+      ],
+      "respuesta": "Ángulos que comparten un vértice y un lado.",
+      "explicacion": "Los ángulos consecutivos son aquellos que comparten un vértice y un lado común."
+    },
+    {
+      "pregunta": "¿Qué son ángulos complementarios?",
+      "opciones": [
+        "Ángulos que suman 180 grados.",
+        "Ángulos que suman 90 grados.",
+        "Ángulos que son iguales.",
+        "Ángulos que son opuestos por el vértice."
+      ],
+      "respuesta": "Ángulos que suman 90 grados.",
+      "explicacion": "Los ángulos complementarios son aquellos que suman 90 grados."
+    },
+    {
+      "pregunta": "¿Qué son ángulos suplementarios?",
+      "opciones": [
+        "Ángulos que suman 180 grados.",
+        "Ángulos que suman 90 grados.",
+        "Ángulos que son iguales.",
+        "Ángulos que son opuestos por el vértice."
+      ],
+      "respuesta": "Ángulos que suman 180 grados.",
+      "explicacion": "Los ángulos suplementarios son aquellos que suman 180 grados."
+    },
+    {
+      "pregunta": "¿Qué son rectas perpendiculares entre sí?",
+      "opciones": [
+        "Rectas que se cruzan en un ángulo de 45 grados.",
+        "Rectas que nunca se cruzan.",
+        "Rectas que se cruzan formando un ángulo de 90 grados.",
+        "Rectas que son paralelas."
+      ],
+      "respuesta": "Rectas que se cruzan formando un ángulo de 90 grados.",
+      "explicacion": "Las rectas perpendiculares son aquellas que se intersectan formando un ángulo de 90 grados."
+    },
+    {
+      "pregunta": "¿Cuáles ángulos se forman entre dos rectas secantes?",
+      "opciones": [
+        "Ángulos agudos y rectos.",
+        "Ángulos iguales y complementarios.",
+        "Ángulos opuestos por el vértice e iguales.",
+        "Ángulos alternos internos y externos."
+      ],
+      "respuesta": "Ángulos opuestos por el vértice e iguales.",
+      "explicacion": "Entre dos rectas secantes se forman ángulos opuestos por el vértice, los cuales son iguales."
+    },
+    {
+      "pregunta": "¿Qué son ángulos opuestos por el vértice?",
+      "opciones": [
+        "Ángulos que suman 180 grados.",
+        "Ángulos que comparten un vértice y son iguales.",
+        "Ángulos que suman 90 grados.",
+        "Ángulos que se encuentran en la misma recta."
+      ],
+      "respuesta": "Ángulos que comparten un vértice y son iguales.",
+      "explicacion": "Los ángulos opuestos por el vértice son aquellos que se forman cuando dos rectas se intersectan y son iguales entre sí."
+    },
+    {
+      "pregunta": "¿Qué son ángulos correspondientes?",
+      "opciones": [
+        "Ángulos en la misma posición relativa respecto a dos líneas paralelas y una transversal.",
+        "Ángulos que suman 90 grados.",
+        "Ángulos que suman 180 grados.",
+        "Ángulos que son iguales."
+      ],
+      "respuesta": "Ángulos en la misma posición relativa respecto a dos líneas paralelas y una transversal.",
+      "explicacion": "Los ángulos correspondientes son aquellos que se encuentran en la misma posición relativa cuando dos líneas paralelas son cortadas por una transversal."
+    },
+    {
+      "pregunta": "¿Qué son ángulos alternos internos?",
+      "opciones": [
+        "Ángulos que suman 90 grados.",
+        "Ángulos en lados opuestos de la transversal y dentro de las líneas paralelas.",
+        "Ángulos que son iguales.",
+        "Ángulos que suman 180 grados."
+      ],
+      "respuesta": "Ángulos en lados opuestos de la transversal y dentro de las líneas paralelas.",
+      "explicacion": "Los ángulos alternos internos son aquellos que se encuentran en lados opuestos de la transversal y dentro de las dos líneas paralelas."
+    },
+    {
+      "pregunta": "¿Qué son ángulos alternos externos?",
+      "opciones": [
+        "Ángulos en lados opuestos de la transversal y fuera de las líneas paralelas.",
+        "Ángulos que suman 90 grados.",
+        "Ángulos que suman 180 grados.",
+        "Ángulos que son iguales."
+      ],
+      "respuesta": "Ángulos en lados opuestos de la transversal y fuera de las líneas paralelas.",
+      "explicacion": "Los ángulos alternos externos son aquellos que se encuentran en lados opuestos de la transversal y fuera de las dos líneas paralelas."
+    },
+    {
+      "pregunta": "¿Cuánto suman los ángulos internos de todo triángulo?",
+      "opciones": [
+        "90 grados.",
+        "180 grados.",
+        "360 grados.",
+        "270 grados."
+      ],
+      "respuesta": "180 grados.",
+      "explicacion": "La suma de los ángulos internos de cualquier triángulo siempre es 180 grados."
+    },
+    {
+      "pregunta": "¿Qué es un ángulo externo en un triángulo?",
+      "opciones": [
+        "Un ángulo formado por dos lados del triángulo.",
+        "Un ángulo que es adyacente a un ángulo interno del triángulo.",
+        "Un ángulo dentro del triángulo.",
+        "Un ángulo que es igual a 90 grados."
+      ],
+      "respuesta": "Un ángulo que es adyacente a un ángulo interno del triángulo.",
+      "explicacion": "Un ángulo externo en un triángulo es aquel que se forma cuando se extiende un lado del triángulo y es adyacente a un ángulo interno."
+    },
+    {
+      "pregunta": "¿Cuánto suman los ángulos externos de todo triángulo?",
+      "opciones": [
+        "90 grados.",
+        "180 grados.",
+        "360 grados.",
+        "270 grados."
+      ],
+      "respuesta": "360 grados.",
+      "explicacion": "La suma de los ángulos externos de cualquier triángulo siempre es 360 grados."
+    },
+    {
+      "pregunta": "¿Qué son ángulos congruentes?",
+      "opciones": [
+        "Ángulos que suman 90 grados.",
+        "Ángulos que suman 180 grados.",
+        "Ángulos que son iguales en medida.",
+        "Ángulos que son opuestos por el vértice."
+      ],
+      "respuesta": "Ángulos que son iguales en medida.",
+      "explicacion": "Los ángulos congruentes son aquellos que tienen la misma medida."
+    },
+    {
+      "pregunta": "¿Qué es un triángulo?",
+      "opciones": [
+        "Una figura geométrica con cuatro lados.",
+        "Una figura geométrica con tres lados.",
+        "Un polígono con cinco lados.",
+        "Un círculo."
+      ],
+      "respuesta": "Una figura geométrica con tres lados.",
+      "explicacion": "Un triángulo es una figura geométrica que tiene tres lados y tres ángulos."
+    },
+    {
+      "pregunta": "¿Cuántos tipos de triángulos, de acuerdo a sus lados hay básicamente?",
+      "opciones": [
+        "Uno.",
+        "Dos.",
+        "Tres.",
+        "Cuatro."
+      ],
+      "respuesta": "Tres.",
+      "explicacion": "De acuerdo a sus lados, hay tres tipos de triángulos: equilátero (tres lados iguales), isósceles (dos lados iguales) y escaleno (todos los lados diferentes)."
+    },
+    {
+      "pregunta": "¿Cuántos tipos de triángulos, de acuerdo a sus ángulos hay básicamente?",
+      "opciones": [
+        "Uno.",
+        "Dos.",
+        "Tres.",
+        "Cuatro."
+      ],
+      "respuesta": "Tres.",
+      "explicacion": "De acuerdo a sus ángulos, hay tres tipos de triángulos: acutángulo (todos los ángulos agudos), rectángulo (un ángulo recto) y obtusángulo (un ángulo obtuso)."
+    },
+    {
+      "pregunta": "¿Qué es un teorema?",
+      "opciones": [
+        "Una suposición sin fundamento.",
+        "Un problema matemático sin solución.",
+        "Una afirmación que puede ser demostrada mediante pruebas matemáticas.",
+        "Una ecuación algebraica simple."
+      ],
+      "respuesta": "Una afirmación que puede ser demostrada mediante pruebas matemáticas.",
+      "explicacion": "Un teorema es una afirmación que puede ser demostrada como verdadera mediante pruebas matemáticas lógicas."
+    },
+    {
+      "pregunta": "¿Cuáles son las partes del triángulo de Pitágoras?",
+      "opciones": [
+        "Lado opuesto, lado adyacente y ángulo recto.",
+        "Catetos y hipotenusa.",
+        "Base, altura y vértice.",
+        "Perímetro y área."
+      ],
+      "respuesta": "Catetos y hipotenusa.",
+      "explicacion": "En el triángulo de Pitágoras (triángulo rectángulo), las partes son los catetos (los dos lados que forman el ángulo recto) y la hipotenusa (el lado opuesto al ángulo recto)."
+    },
+    {
+      "pregunta": "¿Cómo se enuncia el teorema de Pitágoras?",
+      "opciones": [
+        "El cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.",
+        "El perímetro de un triángulo es igual a la suma de sus lados.",
+        "El área de un triángulo es igual a la mitad del producto de la base por la altura.",
+        "El ángulo recto de un triángulo es igual a 90 grados."
+      ],
+      "respuesta": "El cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.",
+      "explicacion": "El teorema de Pitágoras establece que en un triángulo rectángulo, el cuadrado de la longitud de la hipotenusa es igual a la suma de los cuadrados de las longitudes de los catetos."
+    },
+    {
+      "pregunta": "¿En qué situaciones se utiliza el teorema de Pitágoras?",
+      "opciones": [
+        "Para encontrar el perímetro de un triángulo.",
+        "Para calcular áreas de figuras geométricas.",
+        "Para determinar la longitud de un lado en un triángulo rectángulo cuando se conocen las longitudes de los otros dos lados.",
+        "Para medir ángulos en un triángulo."
+      ],
+      "respuesta": "Para determinar la longitud de un lado en un triángulo rectángulo cuando se conocen las longitudes de los otros dos lados.",
+      "explicacion": "El teorema de Pitágoras se utiliza para encontrar la longitud de un lado en un triángulo rectángulo cuando se conocen las longitudes de los otros dos lados."
+    },
+    {
+      "pregunta": "¿Cómo se enuncia la fórmula de Herón?",
+      "opciones": [
+        "s = (a + b + c) / 2",
+        "A = √[s(s - a)(s - b)(s - c)]",
+        "P = a + b + c",
+        "A = (b * h) / 2"
+      ],
+      "respuesta": "A = √[s(s - a)(s - b)(s - c)]",
+      "explicacion": "La fórmula de Herón para el área de un triángulo es A = √[s(s - a)(s - b)(s - c)], donde s es el semiperímetro del triángulo y a, b, c son las longitudes de sus lados."
+    },
+    {
+      "pregunta": "¿Para qué situación se utiliza la fórmula de Herón?",
+      "opciones": [
+        "Para encontrar el perímetro de un triángulo.",
+        "Para calcular el área de un triángulo cuando se conocen las longitudes de sus tres lados.",
+        "Para medir ángulos en un triángulo.",
+        "Para determinar la hipotenusa de un triángulo rectángulo."
+      ],
+      "respuesta": "Para calcular el área de un triángulo cuando se conocen las longitudes de sus tres lados.",
+      "explicacion": "La fórmula de Herón se utiliza para calcular el área de un triángulo cuando se conocen las longitudes de sus tres lados."
+    },
+    {
+      "pregunta": "¿Cuál es el teorema de Thales?",
+      "opciones": [
+        "Si una línea es paralela a un lado de un triángulo e intersecta los otros dos lados, entonces divide esos lados en segmentos de longitud proporcional.",
+        "El área de un círculo es igual a π por el cuadrado del radio.",
+        "En un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.",
+        "Los ángulos opuestos por el vértice son iguales."
+      ],
+      "respuesta": "Si una línea es paralela a un lado de un triángulo e intersecta los otros dos lados, entonces divide esos lados en segmentos de longitud proporcional.",
+      "explicacion": "El teorema de Thales establece que si una línea es paralela a un lado de un triángulo e intersecta los otros dos lados, entonces divide esos lados en segmentos de longitud proporcional."
+    },
+    {
+      "pregunta": "¿Para qué se utiliza el teorema de Thales?",
+      "opciones": [
+        "Para encontrar el perímetro de un triángulo.",
+        "Para calcular áreas de figuras geométricas.",
+        "Para determinar la proporcionalidad de segmentos divididos por una línea paralela a un lado del triángulo.",
+        "Para medir ángulos en un triángulo."
+      ],
+      "respuesta": "Para determinar la proporcionalidad de segmentos divididos por una línea paralela a un lado del triángulo.",
+      "explicacion": "El teorema de Thales se utiliza para determinar la proporcionalidad de los segmentos que son divididos por una línea paralela a uno de los lados del triángulo."
+    }
+  ]
+}
