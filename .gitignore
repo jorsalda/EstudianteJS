@@ -1,14 +1,27 @@
-# Entorno virtual
-.venv/
-venv/
-
-# Archivos temporales de Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-# Variables de entorno
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
 .env
 
-# Otros
-.DS_Store
+# IDE
 .idea/
+.vscode/
+*.swp
+*.swo
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db

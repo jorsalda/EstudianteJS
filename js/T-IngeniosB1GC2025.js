@@ -14,6 +14,7 @@ class CslTIngenios {
         this.intentosRestantes = 3; // Inicializa los intentos restantes
     }
 
+
     cargarPreguntasDesdeArchivo(file) {
         var reader = new FileReader();
         reader.onload = (e) => {
