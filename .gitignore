@@ -1,26 +1,18 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# Agrega esto al final de tu .gitignore si no lo tiene:
 
-# Virtual Environment
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
 venv/
 env/
-ENV/
-.venv
 
-# Environment variables
-.env
-
-# IDE
+# IDEs
 .idea/
 .vscode/
-*.swp
-*.swo
-
-# Database
-*.db
-*.sqlite
+*.iml
 
 # OS
 .DS_Store
