@@ -5,24 +5,20 @@ class CslTIngenios {
         this.respuestasCorrectas = 0;
         this.respuestasIncorrectas = 0;
         this.numPreguntasJuego = 1;
-
         this.respuestaResaltada = false;
-        this.temporizadorDetenido = false;
-        this.segundoClic = false;
         this.countdownInterval = null;
         this.explicacionVisible = false;
-
-        this.modoRevision = false; // 🔧 AJUSTE: controla examen vs revisión
-
+        this.modoRevision = false;
         this.password = "jes1";
         this.intentosRestantes = 3;
     }
 
     cargarPreguntasDesdeArchivo(file) {
-        var reader = new FileReader();
+        const reader = new FileReader();
         reader.onload = (e) => {
             try {
                 this.preguntas = JSON.parse(e.target.result).preguntas;
+
                 $("#loadedQuestionsCount").html(
                     `<b>El archivo tiene:</b> ${this.preguntas.length}`
                 );
@@ -78,7 +74,6 @@ class CslTIngenios {
             });
 
             $(document).on("click", "#playAgain", () => {
-                // 🔧 AJUSTE: iniciar revisión del MISMO examen
                 this.preguntaActual = 0;
                 this.respuestaResaltada = false;
                 this.explicacionVisible = false;
@@ -100,15 +95,55 @@ class CslTIngenios {
         this.respuestasCorrectas = 0;
         this.respuestasIncorrectas = 0;
         this.respuestaResaltada = false;
-        this.temporizadorDetenido = false;
-        this.segundoClic = false;
         this.explicacionVisible = false;
-        this.modoRevision = false; // 🔧 AJUSTE
+        this.modoRevision = false;
         clearInterval(this.countdownInterval);
 
         this.shuffleArray(this.preguntas);
         this.mostrarPregunta();
     }
+
+    /* ================= CONTEXTO FLEXIBLE (CORREGIDO) ================= */
+    renderContexto(contexto) {
+        if (!contexto) {
+            $("#contexto").empty();
+            return;
+        }
+
+        let html = "<b>Contexto:</b><br>";
+
+        switch (contexto.tipo) {
+            case "texto":
+                html += `<p>${contexto.contenido}</p>`;
+                break;
+
+            case "imagen":
+                if (contexto.texto) {
+                    html += `<p>${contexto.texto}</p>`;
+                }
+                html += `
+                    <img src="${contexto.src}"
+                         alt="Contexto visual"
+                         style="max-width:100%; margin-top:10px;">
+                `;
+                break;
+
+            case "video":
+                if (contexto.texto) {
+                    html += `<p>${contexto.texto}</p>`;
+                }
+                html += `
+                    <video controls style="max-width:100%; margin-top:10px;">
+                        <source src="${contexto.src}" type="video/mp4">
+                        Tu navegador no soporta video.
+                    </video>
+                `;
+                break;
+        }
+
+        $("#contexto").html(html);
+    }
+    /* ================================================================ */
 
     mostrarPregunta() {
         if (
@@ -117,7 +152,8 @@ class CslTIngenios {
         ) {
             const pregunta = this.preguntas[this.preguntaActual];
 
-            $("#contexto").html(`<b>Contexto:</b> ${pregunta.contexto}`);
+            this.renderContexto(pregunta.contexto);
+
             $("#question").html(
                 `<b>Pregunta ${this.preguntaActual + 1}:</b> ${pregunta.pregunta}`
             );
@@ -136,40 +172,41 @@ class CslTIngenios {
             });
 
             $("#explanationButton").hide();
-            $("#countdown").show();
-            this.iniciarContador();
+
+            if (!this.modoRevision) {
+                $("#countdown").show();
+                this.iniciarContador();
+            } else {
+                $("#countdown").hide();
+            }
+
         } else {
             this.mostrarResultado();
         }
     }
 
     mostrarResultadoRespuesta() {
+        const pregunta = this.preguntas[this.preguntaActual];
+
+        // 👉 MODO REVISIÓN: NO exige selección
+        if (this.modoRevision) {
+            $("input[value='" + pregunta.respuesta + "']")
+                .parent()
+                .addClass("correct-answer");
+
+            this.respuestaResaltada = true;
+            $("#explanationButton").show();
+            return;
+        }
+
+        // 👉 MODO EXAMEN
         const seleccion = $("input[name='opcion']:checked").val();
         if (!seleccion) {
             alert("Seleccione una opción.");
             return;
         }
 
-        // 🔧 AJUSTE: en examen NO califica
-        if (!this.modoRevision) {
-            this.respuestaResaltada = true;
-            return;
-        }
-
-        const pregunta = this.preguntas[this.preguntaActual];
-
-        if (seleccion === pregunta.respuesta) {
-            this.respuestasCorrectas++;
-        } else {
-            this.respuestasIncorrectas++;
-        }
-
-        $("input[value='" + pregunta.respuesta + "']")
-            .parent()
-            .addClass("correct-answer");
-
         this.respuestaResaltada = true;
-        $("#explanationButton").show();
     }
 
     mostrarExplicacion() {
@@ -180,7 +217,6 @@ class CslTIngenios {
     }
 
     avanzarAPreguntaSiguiente() {
-        $("#feedback").empty().hide();
         $("#explanation-column").empty().hide();
         this.explicacionVisible = false;
 
@@ -204,7 +240,9 @@ class CslTIngenios {
     }
 
     iniciarContador() {
-        let t = 30;
+        if (this.modoRevision) return;
+
+        let t = 5;
         $("#countdown").text(`Tiempo restante: ${t}`);
 
         this.countdownInterval = setInterval(() => {

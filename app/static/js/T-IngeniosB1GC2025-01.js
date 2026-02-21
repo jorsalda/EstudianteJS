@@ -1,49 +1,30 @@
 class CslTIngenios {
     constructor() {
         this.preguntas = [];
-        this.examenFijo = [];        // 🔒 examen congelado
         this.preguntaActual = 0;
-
         this.respuestasCorrectas = 0;
         this.respuestasIncorrectas = 0;
-
         this.numPreguntasJuego = 1;
         this.respuestaResaltada = false;
         this.temporizadorDetenido = false;
         this.segundoClic = false;
         this.countdownInterval = null;
         this.explicacionVisible = false;
-
-        this.modoRevision = false;   // 👈 clave
-
+        this.modoRevision = false;
         this.password = "jes1";
         this.intentosRestantes = 3;
     }
 
-    /* =========================
-       CARGA DE PREGUNTAS
-    ========================= */
     cargarPreguntasDesdeArchivo(file) {
         const reader = new FileReader();
         reader.onload = (e) => {
             try {
                 this.preguntas = JSON.parse(e.target.result).preguntas;
-
                 $("#loadedQuestionsCount").html(
                     `<b>El archivo tiene:</b> ${this.preguntas.length}`
                 );
 
-                // 🔒 congelar examen (una sola vez)
-                this.examenFijo = this.shuffleArray([...this.preguntas])
-                    .slice(0, this.numPreguntasJuego)
-                    .map(p => ({
-                        ...p,
-                        opcionesMezcladas: this.shuffleArray(p.opciones.slice())
-                    }));
-
-                this.preguntaActual = 0;
-                this.modoRevision = false;
-
+                this.shuffleArray(this.preguntas);
                 this.mostrarPregunta();
 
                 $("#loadQuestions, #fileInput, #updateQuestions, #numQuestions").hide();
@@ -55,9 +36,6 @@ class CslTIngenios {
         reader.readAsText(file);
     }
 
-    /* =========================
-       INIT
-    ========================= */
     init() {
         $(document).ready(() => {
 
@@ -65,6 +43,7 @@ class CslTIngenios {
                 if ($("#passwordInput").val() === this.password) {
                     $("#passwordContainer").hide();
                     $("#errorMessage").hide();
+                    this.iniciarNuevoJuego();
                 } else {
                     this.intentosRestantes--;
                     $("#errorMessage")
@@ -76,7 +55,6 @@ class CslTIngenios {
             $("#loadQuestions").click(() => {
                 const file = $("#fileInput")[0].files[0];
                 if (file) this.cargarPreguntasDesdeArchivo(file);
-                else alert("Seleccione un archivo JSON");
             });
 
             $("#updateQuestions").click(() => {
@@ -97,8 +75,12 @@ class CslTIngenios {
             });
 
             $(document).on("click", "#playAgain", () => {
-                this.resetGameState();
+                this.preguntaActual = 0;
+                this.respuestaResaltada = false;
+                this.explicacionVisible = false;
                 this.modoRevision = true;
+                $("#result").hide();
+                $("#nextButton").show();
                 this.mostrarPregunta();
             });
 
@@ -109,93 +91,103 @@ class CslTIngenios {
         });
     }
 
-    /* =========================
-       CONTROL DE FLUJO
-    ========================= */
-    resetGameState() {
+    iniciarNuevoJuego() {
         this.preguntaActual = 0;
         this.respuestasCorrectas = 0;
         this.respuestasIncorrectas = 0;
         this.respuestaResaltada = false;
-        this.temporizadorDetenido = false;
-        this.segundoClic = false;
         this.explicacionVisible = false;
+        this.modoRevision = false;
         clearInterval(this.countdownInterval);
+
+        this.shuffleArray(this.preguntas);
+        this.mostrarPregunta();
     }
 
-    /* =========================
-       MOSTRAR PREGUNTA
-    ========================= */
     mostrarPregunta() {
-        if (this.preguntaActual >= this.examenFijo.length) {
+        if (
+            this.preguntaActual < this.numPreguntasJuego &&
+            this.preguntaActual < this.preguntas.length
+        ) {
+            const pregunta = this.preguntas[this.preguntaActual];
+
+            $("#contexto").html(`<b>Contexto:</b> ${pregunta.contexto}`);
+            $("#question").html(
+                `<b>Pregunta ${this.preguntaActual + 1}:</b> ${pregunta.pregunta}`
+            );
+
+            $("#options").empty();
+            const opciones = this.shuffleArray(pregunta.opciones.slice());
+            const letras = ["A)", "B)", "C)", "D)"];
+
+            opciones.forEach((op, i) => {
+                $("#options").append(`
+                    <label>
+                        <input type="radio" name="opcion" value="${op}">
+                        ${letras[i]} ${op}
+                    </label>
+                `);
+            });
+
+            $("#explanationButton").hide();
+
+            if (!this.modoRevision) {
+                $("#countdown").show();
+                this.iniciarContador();
+            } else {
+                $("#countdown").hide();
+            }
+
+        } else {
             this.mostrarResultado();
-            return;
         }
-
-        const pregunta = this.examenFijo[this.preguntaActual];
-
-        $("#contexto").html(`<b>Contexto:</b> ${pregunta.contexto || ""}`);
-        $("#question").html(`<b>Pregunta ${this.preguntaActual + 1}:</b> ${pregunta.pregunta}`);
-        $("#options").empty();
-
-        const letras = ["A)", "B)", "C)", "D)"];
-        pregunta.opcionesMezcladas.forEach((op, i) => {
-            $("#options").append(`
-                <label>
-                    <input type="radio" name="opcion" value="${op}">
-                    ${letras[i]} ${op}
-                </label>
-            `);
-        });
-
-        $("#explanationButton").hide();
-        this.iniciarContador();
     }
 
-    /* =========================
-       RESPUESTA
-    ========================= */
+    // 🔧 AQUÍ ESTÁ LA CORRECCIÓN CLAVE
     mostrarResultadoRespuesta() {
-        // 🚫 en examen NO califica
-        if (!this.modoRevision) {
+        const pregunta = this.preguntas[this.preguntaActual];
+
+        // 👉 MODO REVISIÓN: NO pide selección
+        if (this.modoRevision) {
+            $("input[value='" + pregunta.respuesta + "']")
+                .parent()
+                .addClass("correct-answer");
+
             this.respuestaResaltada = true;
+            $("#explanationButton").show();
             return;
         }
 
+        // 👉 MODO EXAMEN: sí exige selección
         const seleccion = $("input[name='opcion']:checked").val();
-        const pregunta = this.examenFijo[this.preguntaActual];
-
-        if (seleccion === pregunta.respuesta) {
-            this.respuestasCorrectas++;
-        } else {
-            this.respuestasIncorrectas++;
+        if (!seleccion) {
+            alert("Seleccione una opción.");
+            return;
         }
-
-        $("input[value='" + pregunta.respuesta + "']")
-            .parent()
-            .addClass("correct-answer");
 
         this.respuestaResaltada = true;
-        $("#explanationButton").show();
     }
 
     mostrarExplicacion() {
-        const pregunta = this.examenFijo[this.preguntaActual];
+        const pregunta = this.preguntas[this.preguntaActual];
         $("#explanation-column")
             .html(`<b>Explicación:</b> ${pregunta.explicacion}`)
             .show();
     }
 
     avanzarAPreguntaSiguiente() {
+        $("#explanation-column").empty().hide();
+        this.explicacionVisible = false;
+
         this.preguntaActual++;
         this.respuestaResaltada = false;
         this.mostrarPregunta();
     }
 
-    /* =========================
-       RESULTADO FINAL
-    ========================= */
     mostrarResultado() {
+        $("#question").empty();
+        $("#options").empty();
+
         $("#result").html(`
             <p>Correctas: ${this.respuestasCorrectas}</p>
             <p>Incorrectas: ${this.respuestasIncorrectas}</p>
@@ -206,33 +198,27 @@ class CslTIngenios {
         $("#countdown").hide();
     }
 
-    /* =========================
-       TIEMPO
-    ========================= */
     iniciarContador() {
-        let t = 30;
-        $("#countdown").text(`Tiempo restante: ${t}`).show();
+        if (this.modoRevision) return;
+
+        let t = 5;
+        $("#countdown").text(`Tiempo restante: ${t}`);
 
         this.countdownInterval = setInterval(() => {
             t--;
             $("#countdown").text(`Tiempo restante: ${t}`);
             if (t < 0) {
-                clearInterval(this.countdownInterval);
+                this.detenerContador();
                 this.avanzarAPreguntaSiguiente();
             }
         }, 1000);
     }
 
     detenerContador() {
-        if (this.countdownInterval) {
-            clearInterval(this.countdownInterval);
-            this.countdownInterval = null;
-        }
+        clearInterval(this.countdownInterval);
+        this.countdownInterval = null;
     }
 
-    /* =========================
-       UTIL
-    ========================= */
     shuffleArray(arr) {
         for (let i = arr.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
