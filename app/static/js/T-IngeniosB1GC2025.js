@@ -13,27 +13,36 @@ class CslTIngenios {
         this.intentosRestantes = 3;
     }
 
+    /* ================= CARGA DE ARCHIVO ================= */
+
     cargarPreguntasDesdeArchivo(file) {
         const reader = new FileReader();
         reader.onload = (e) => {
             try {
                 this.preguntas = JSON.parse(e.target.result).preguntas;
 
+                // 🔒 CONGELAR ORDEN DE OPCIONES (UNA SOLA VEZ)
+                this.preguntas.forEach(p => {
+                    p.opcionesOrdenadas = this.shuffleArray(p.opciones.slice());
+                });
+
                 $("#loadedQuestionsCount").html(
                     `<b>El archivo tiene:</b> ${this.preguntas.length}`
                 );
 
-                this.shuffleArray(this.preguntas);
                 this.mostrarPregunta();
 
                 $("#loadQuestions, #fileInput, #updateQuestions, #numQuestions").hide();
                 $("#nextButton").show();
+
             } catch {
                 alert("Error al cargar el archivo JSON.");
             }
         };
         reader.readAsText(file);
     }
+
+    /* ================= INIT ================= */
 
     init() {
         $(document).ready(() => {
@@ -99,11 +108,11 @@ class CslTIngenios {
         this.modoRevision = false;
         clearInterval(this.countdownInterval);
 
-        this.shuffleArray(this.preguntas);
         this.mostrarPregunta();
     }
 
-    /* ================= CONTEXTO FLEXIBLE (AJUSTADO) ================= */
+    /* ================= CONTEXTO ================= */
+
     renderContexto(contexto) {
         if (!contexto) {
             $("#contexto").empty();
@@ -118,33 +127,23 @@ class CslTIngenios {
                 break;
 
             case "imagen":
-                if (contexto.texto) {
-                    html += `<p>${contexto.texto}</p>`;
-                }
-                html += `
-                    <img
-                        src="${contexto.src}"
-                        alt="Contexto visual"
-                        class="imagen-contexto">
-                `;
+                if (contexto.texto) html += `<p>${contexto.texto}</p>`;
+                html += `<img src="${contexto.src}" class="imagen-contexto">`;
                 break;
 
             case "video":
-                if (contexto.texto) {
-                    html += `<p>${contexto.texto}</p>`;
-                }
+                if (contexto.texto) html += `<p>${contexto.texto}</p>`;
                 html += `
                     <video controls class="video-contexto">
                         <source src="${contexto.src}" type="video/mp4">
-                        Tu navegador no soporta video.
-                    </video>
-                `;
+                    </video>`;
                 break;
         }
 
         $("#contexto").html(html);
     }
-    /* ================================================================ */
+
+    /* ================= MOSTRAR PREGUNTA ================= */
 
     mostrarPregunta() {
         if (
@@ -160,7 +159,9 @@ class CslTIngenios {
             );
 
             $("#options").empty();
-            const opciones = this.shuffleArray(pregunta.opciones.slice());
+
+            // 🔒 USAR ORDEN CONGELADO
+            const opciones = pregunta.opcionesOrdenadas;
             const letras = ["A)", "B)", "C)", "D)"];
 
             opciones.forEach((op, i) => {
@@ -185,6 +186,8 @@ class CslTIngenios {
             this.mostrarResultado();
         }
     }
+
+    /* ================= RESPUESTA ================= */
 
     mostrarResultadoRespuesta() {
         const pregunta = this.preguntas[this.preguntaActual];
@@ -238,6 +241,8 @@ class CslTIngenios {
         $("#countdown").hide();
     }
 
+    /* ================= CONTADOR ================= */
+
     iniciarContador() {
         if (this.modoRevision) return;
 
@@ -258,6 +263,8 @@ class CslTIngenios {
         clearInterval(this.countdownInterval);
         this.countdownInterval = null;
     }
+
+    /* ================= UTIL ================= */
 
     shuffleArray(arr) {
         for (let i = arr.length - 1; i > 0; i--) {

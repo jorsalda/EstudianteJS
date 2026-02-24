@@ -16,16 +16,36 @@
 
 <h1>Evaluación</h1>
 
-<div>
-    <label for="numQuestions">Número de preguntas:</label>
-    <input type="number" id="numQuestions" min="1" value="1">
-    <button id="updateQuestions">Actualizar</button>
-    <span id="selectedNumQuestions"></span>
-    <span id="loadedQuestionsCount"></span>
-</div>
+<!-- CONFIGURACIÓN GENERAL -->
+<div id="config-panel">
 
-<input type="file" id="fileInput">
-<button id="loadQuestions">Cargar Preguntas</button>
+    <!-- SELECTOR DE MODO -->
+    <fieldset id="modeSelector">
+        <legend>Modo de uso</legend>
+
+        <label>
+            <input type="radio" name="mode" value="practice" checked>
+            Grupal
+        </label>
+
+        <label>
+            <input type="radio" name="mode" value="exam">
+            Individual
+        </label>a
+    </fieldset>
+
+    <div>
+        <label for="numQuestions">Número de preguntas:</label>
+        <input type="number" id="numQuestions" min="1" value="1">
+        <button id="updateQuestions">Actualizar</button>
+        <span id="selectedNumQuestions"></span>
+        <span id="loadedQuestionsCount"></span>
+    </div>
+
+    <input type="file" id="fileInput">
+    <button id="loadQuestions">Cargar Preguntas</button>
+
+</div>
 
 <!-- CONTENEDOR PRINCIPAL -->
 <div id="container">
@@ -59,7 +79,7 @@
     <p id="errorMessage" class="hidden">Contraseña incorrecta.</p>
 </div>
 
-<script src="{{ url_for('static', filename='js/T-IngeniosB1GC2025.09.js') }}"></script>
+<script src="{{ url_for('static', filename='js/T-IngeniosB1GC2025b.js') }}"></script>
 
 </body>
 </html>

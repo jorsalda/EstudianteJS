@@ -1,39 +1,61 @@
 class CslTIngenios {
-    constructor() {
+
+    constructor(modo = "estudiante") {
+        this.modo = modo; // "estudiante" | "docente"
+
         this.preguntas = [];
         this.preguntaActual = 0;
+
         this.respuestasCorrectas = 0;
         this.respuestasIncorrectas = 0;
+
         this.numPreguntasJuego = 1;
         this.respuestaResaltada = false;
-        this.countdownInterval = null;
         this.explicacionVisible = false;
+
+        this.countdownInterval = null;
+
+        // 🔐 Solo relevante en docente
         this.modoRevision = false;
+
         this.password = "jes1";
         this.intentosRestantes = 3;
     }
 
+    /* ================= CARGA DE ARCHIVO ================= */
+
     cargarPreguntasDesdeArchivo(file) {
         const reader = new FileReader();
+
         reader.onload = (e) => {
             try {
                 this.preguntas = JSON.parse(e.target.result).preguntas;
+
+                // 🔒 SOLO DOCENTE: congelar orden de opciones
+                if (this.modo === "docente") {
+                    this.preguntas.forEach(p => {
+                        p.opcionesOrdenadas = this.shuffleArray(p.opciones.slice());
+                    });
+                }
 
                 $("#loadedQuestionsCount").html(
                     `<b>El archivo tiene:</b> ${this.preguntas.length}`
                 );
 
-                this.shuffleArray(this.preguntas);
                 this.mostrarPregunta();
 
                 $("#loadQuestions, #fileInput, #updateQuestions, #numQuestions").hide();
                 $("#nextButton").show();
+
             } catch {
                 alert("Error al cargar el archivo JSON.");
             }
         };
+
         reader.readAsText(file);
     }
+
+    /* ================= INIT ================= */
 
     init() {
         $(document).ready(() => {
@@ -77,7 +99,11 @@ class CslTIngenios {
                 this.preguntaActual = 0;
                 this.respuestaResaltada = false;
                 this.explicacionVisible = false;
-                this.modoRevision = true;
+
+                if (this.modo === "docente") {
+                    this.modoRevision = true;
+                }
+
                 $("#result").hide();
                 $("#nextButton").show();
                 this.mostrarPregunta();
@@ -90,6 +116,8 @@ class CslTIngenios {
         });
     }
 
+    /* ================= JUEGO ================= */
+
     iniciarNuevoJuego() {
         this.preguntaActual = 0;
         this.respuestasCorrectas = 0;
@@ -97,10 +125,32 @@ class CslTIngenios {
         this.respuestaResaltada = false;
         this.explicacionVisible = false;
         this.modoRevision = false;
+
         clearInterval(this.countdownInterval);
 
-        this.shuffleArray(this.preguntas);
         this.mostrarPregunta();
+    }
+
+    renderContexto(contexto) {
+        if (!contexto) {
+            $("#contexto").empty();
+            return;
+        }
+
+        let html = "<b>Contexto:</b><br>";
+
+        switch (contexto.tipo) {
+            case "texto":
+                html += `<p>${contexto.contenido}</p>`;
+                break;
+
+            case "imagen":
+                if (contexto.texto) html += `<p>${contexto.texto}</p>`;
+                html += `<img src="${contexto.src}" class="imagen-contexto">`;
+                break;
+        }
+
+        $("#contexto").html(html);
     }
 
     mostrarPregunta() {
@@ -110,38 +160,19 @@ class CslTIngenios {
         ) {
             const pregunta = this.preguntas[this.preguntaActual];
 
-            /* ================= CONTEXTO FLEXIBLE ================= */
-            let htmlContexto = "<b>Contexto:</b><br>";
-            const ctx = pregunta.contexto;
-
-            if (ctx?.tipo === "texto") {
-                htmlContexto += `<p>${ctx.contenido}</p>`;
-            }
-
-            if (ctx?.tipo === "imagen") {
-                htmlContexto += `
-                    <img src="static/imagenes/${ctx.contenido}"
-                         style="max-width:100%; margin-top:10px;">
-                `;
-            }
-
-            if (ctx?.tipo === "video") {
-                htmlContexto += `
-                    <video controls style="max-width:100%; margin-top:10px;">
-                        <source src="static/videos/${ctx.contenido}" type="video/mp4">
-                    </video>
-                `;
-            }
-
-            $("#contexto").html(htmlContexto);
-            /* ===================================================== */
+            this.renderContexto(pregunta.contexto);
 
             $("#question").html(
                 `<b>Pregunta ${this.preguntaActual + 1}:</b> ${pregunta.pregunta}`
             );
 
             $("#options").empty();
-            const opciones = this.shuffleArray(pregunta.opciones.slice());
+
+            // 🎯 CLAVE: opciones según modo
+            const opciones = (this.modo === "docente")
+                ? pregunta.opcionesOrdenadas
+                : this.shuffleArray(pregunta.opciones.slice());
+
             const letras = ["A)", "B)", "C)", "D)"];
 
             opciones.forEach((op, i) => {
@@ -155,7 +186,7 @@ class CslTIngenios {
 
             $("#explanationButton").hide();
 
-            if (!this.modoRevision) {
+            if (this.modo === "estudiante") {
                 $("#countdown").show();
                 this.iniciarContador();
             } else {
@@ -170,7 +201,7 @@ class CslTIngenios {
     mostrarResultadoRespuesta() {
         const pregunta = this.preguntas[this.preguntaActual];
 
-        if (this.modoRevision) {
+        if (this.modo === "docente" && this.modoRevision) {
             $("input[value='" + pregunta.respuesta + "']")
                 .parent()
                 .addClass("correct-answer");
@@ -186,7 +217,18 @@ class CslTIngenios {
             return;
         }
 
+        if (seleccion === pregunta.respuesta) {
+            this.respuestasCorrectas++;
+        } else {
+            this.respuestasIncorrectas++;
+        }
+
+        $("input[value='" + pregunta.respuesta + "']")
+            .parent()
+            .addClass("correct-answer");
+
         this.respuestaResaltada = true;
+        $("#explanationButton").show();
     }
 
     mostrarExplicacion() {
@@ -198,7 +240,6 @@ class CslTIngenios {
 
     avanzarAPreguntaSiguiente() {
         $("#explanation-column").empty().hide();
-        this.explicacionVisible = false;
 
         this.preguntaActual++;
         this.respuestaResaltada = false;
@@ -220,9 +261,7 @@ class CslTIngenios {
     }
 
     iniciarContador() {
-        if (this.modoRevision) return;
-
-        let t = 5;
+        let t = 30;
         $("#countdown").text(`Tiempo restante: ${t}`);
 
         this.countdownInterval = setInterval(() => {
@@ -248,6 +287,3 @@ class CslTIngenios {
         return arr;
     }
 }
-
-const cslTIngenios = new CslTIngenios();
-cslTIngenios.init();
