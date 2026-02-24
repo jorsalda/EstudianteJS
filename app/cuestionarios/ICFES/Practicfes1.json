@@ -1,0 +1,165 @@
+{
+  "preguntas": [
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/Trian1.png",
+        "texto": "En la figura se observan triángulos rectángulos sombreados sobre cuyos lados se han construido figuras planas semejantes."
+      },
+      "pregunta": "Si las áreas de los semicírculos 1 y 2 son respectivamente 9/2·π cm² y 8π cm², ¿cuál es el diámetro del semicírculo 3?",
+      "opciones": [
+        "6 cm",
+        "8 cm",
+        "9 cm",
+        "10 cm"
+      ],
+      "respuesta": "8 cm",
+      "explicacion": "En un triángulo rectángulo, cuando se construyen figuras semejantes sobre sus lados, las áreas cumplen una relación análoga al teorema de Pitágoras. La suma de las áreas de los semicírculos sobre los catetos es igual al área del semicírculo sobre la hipotenusa. A partir de esta relación se obtiene el diámetro del semicírculo 3."
+    },
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/Trian1.png",
+        "texto": "Las figuras construidas sobre los lados del triángulo rectángulo son semejantes."
+      },
+      "pregunta": "¿Qué propiedad geométrica permite relacionar las áreas de las figuras construidas sobre los lados del triángulo rectángulo?",
+      "opciones": [
+        "La proporcionalidad directa entre áreas y perímetros.",
+        "El teorema de Pitágoras aplicado a áreas.",
+        "La igualdad de todos los ángulos del triángulo.",
+        "La suma de los perímetros de las figuras."
+      ],
+      "respuesta": "El teorema de Pitágoras aplicado a áreas.",
+      "explicacion": "Cuando se construyen figuras semejantes sobre los lados de un triángulo rectángulo, el área de la figura sobre la hipotenusa es igual a la suma de las áreas de las figuras construidas sobre los catetos."
+    },
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/Trian1.png",
+        "texto": "Las figuras construidas sobre los lados del triángulo son semejantes entre sí."
+      },
+      "pregunta": "Si las longitudes de los catetos de un triángulo rectángulo se duplican, ¿qué ocurre con el área de las figuras semejantes construidas sobre ellos?",
+      "opciones": [
+        "El área se duplica.",
+        "El área se triplica.",
+        "El área se cuadruplica.",
+        "El área no cambia."
+      ],
+      "respuesta": "El área se cuadruplica.",
+      "explicacion": "En figuras semejantes, el área es proporcional al cuadrado del factor de escala. Si las longitudes se duplican, el área se multiplica por 2², es decir, por 4."
+    },
+    {
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/est1.png",
+        "texto": "Gráfico circular que muestra los resultados de una encuesta sobre el parque automotor del transporte intermunicipal de pasajeros en Colombia. Las categorías y sus porcentajes son: Buseta (18%), Automóvil (18%), Camioneta (9%), Campero (7%), Bus escalera (1%), Bus (24%) y Microbús (23%). Fuente: Superintendencia de Puertos y Transporte (2009)."
+    },
+    "pregunta": "Según la información anterior, es correcto afirmar que",
+    "opciones": [
+        "la mayor parte del parque automotor son automóviles, camionetas y camperos.",
+        "la mitad del parque automotor corresponde a automóviles, camionetas y camperos.",
+        "la mayor parte del parque automotor son buses, microbuses y busetas.",
+        "la mitad del parque automotor corresponde a buses, microbuses y busetas."
+    ],
+    "respuesta": "la mayor parte del parque automotor son buses, microbuses y busetas.",
+    "explicacion": "Para resolver esta pregunta, se deben sumar los porcentajes de las categorías mencionadas en cada opción. Si sumamos los porcentajes de buses (24%), microbuses (23%) y busetas (18%), el resultado es 65% (24 + 23 + 18 = 65). Dado que 65% es mayor que 50%, es correcto afirmar que 'la mayor parte' del parque automotor corresponde a estos tres tipos de vehículos."
+},
+{
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/est1.png",
+        "texto": "Gráfico circular que muestra los resultados de una encuesta sobre el parque automotor del transporte intermunicipal de pasajeros en Colombia. Las categorías y sus porcentajes son: Buseta (18%), Automóvil (18%), Camioneta (9%), Campero (7%), Bus escalera (1%), Bus (24%) y Microbús (23%). Fuente: Superintendencia de Puertos y Transporte (2009)."
+    },
+    "pregunta": "¿Cuál es la diferencia porcentual entre el tipo de vehículo que más se utiliza y el que menos se utiliza en el transporte intermunicipal de pasajeros?",
+    "opciones": [
+        "17%",
+        "23%",
+        "24%",
+        "25%"
+    ],
+    "respuesta": "23%",
+    "explicacion": "El tipo de vehículo que más se utiliza es el Bus con 24%, y el que menos se utiliza es el Bus escalera con 1%. La diferencia porcentual es: 24% - 1% = 23%."
+   },
+    {
+    "contexto": {
+       "tipo": "imagen",
+        "src": "/static/imagenes/atle1.png",
+        "texto": "En atletismo, los récords se miden con gran precisión, generalmente hasta la centésima de segundo. El récord mundial es la mejor marca obtenida en cualquier competición oficial, mientras que el récord olímpico es la mejor marca obtenida específicamente en Juegos Olímpicos. Entre dos tiempos muy cercanos, siempre existen infinitos valores intermedios posibles cuando se considera mayor precisión decimal."
+    },
+    "pregunta": "Una prueba atlética tiene un récord mundial de 10,49 segundos y un récord olímpico de 10,50 segundos. ¿Es posible que un atleta registre un tiempo, en el mismo tipo de prueba, que rompa el récord olímpico pero no el mundial?",
+    "opciones": [
+        "Sí, porque puede registrar, por ejemplo, un tiempo de 10,497 segundos, que está entre los dos tiempos récord.",
+        "Sí, porque puede registrar un tiempo menor que 10,4 y marcaría un nuevo récord.",
+        "No, porque no existe un registro posible entre los dos tiempos récord.",
+        "No, porque cualquier registro menor que el récord olímpico va a ser menor que el récord mundial."
+    ],
+    "respuesta": "Sí, porque puede registrar, por ejemplo, un tiempo de 10,497 segundos, que está entre los dos tiempos récord.",
+    "explicacion": "Para romper el récord olímpico (10,50 s), el atleta debe registrar un tiempo menor a 10,50 segundos. Para NO romper el récord mundial (10,49 s), debe registrar un tiempo mayor o igual a 10,49 segundos. Por lo tanto, cualquier tiempo entre 10,49 y 10,50 segundos (como 10,497) cumpliría ambas condiciones: sería menor que 10,50 (rompe el récord olímpico) pero mayor que 10,49 (no rompe el récord mundial). Esto es posible gracias a la precisión de milésimas de segundo en la cronometraje moderno."
+},
+    {
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/tabl1.png",
+        "texto": "Tabla que muestra la distribución de hombres y mujeres en dos cursos de grado undécimo (11A y 11B) de una institución educativa. El curso 11A tiene 22 mujeres y 18 hombres (total 40). El curso 11B tiene 23 mujeres y 12 hombres (total 35). En total hay 45 mujeres, 30 hombres y 75 estudiantes de grado undécimo."
+    },
+    "pregunta": "La probabilidad de escoger un estudiante de grado undécimo, de esta institución, que sea mujer es de 3/5. Este valor corresponde a la razón entre el número total de mujeres y",
+    "opciones": [
+        "el número total de estudiantes de grado undécimo.",
+        "el número total de hombres de grado undécimo.",
+        "el número total de mujeres del curso 11 B.",
+        "el número total de hombres del curso 11 A."
+    ],
+    "respuesta": "el número total de estudiantes de grado undécimo.",
+    "explicacion": "La probabilidad se calcula como: P(mujer) = número de mujeres / total de estudiantes = 45/75 = 3/5. Por lo tanto, la fracción 3/5 representa la razón entre el número total de mujeres (45) y el número total de estudiantes de grado undécimo (75)."
+},
+    {
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/tabl1.png",
+        "texto": "Tabla que muestra la distribución de hombres y mujeres en dos cursos de grado undécimo (11A y 11B) de una institución educativa. El curso 11A tiene 22 mujeres y 18 hombres (total 40). El curso 11B tiene 23 mujeres y 12 hombres (total 35). En total hay 45 mujeres, 30 hombres y 75 estudiantes de grado undécimo."
+    },
+    "pregunta": "Si se selecciona al azar un estudiante de grado undécimo de esta institución, ¿cuál es la probabilidad de que sea un hombre del curso 11A?",
+    "opciones": [
+        "18/40",
+        "18/75",
+        "30/75",
+        "18/30"
+    ],
+    "respuesta": "18/75",
+    "explicacion": "La probabilidad se calcula dividiendo el número de casos favorables entre el número total de casos posibles. En este caso, los casos favorables son los hombres del curso 11A (18 estudiantes) y el total de casos posibles son todos los estudiantes de grado undécimo (75 estudiantes). Por lo tanto, la probabilidad es 18/75, que se puede simplificar a 6/25."
+},
+    {
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/par1.png",
+        "texto": "Para fijar un aviso publicitario se coloca sobre un muro una escalera a 12 metros del suelo. La escalera forma un triángulo rectángulo con el muro y el suelo, donde el muro mide 12 m de altura, la distancia del muro a la base de la escalera es 5 m, y la escalera (hipotenusa) mide 13 m. El ángulo θ se forma entre el suelo y la escalera."
+    },
+    "pregunta": "¿Cuál es el coseno del ángulo θ que forman el suelo y la escalera?",
+    "opciones": [
+        "12/13",
+        "12/5",
+        "5/13",
+        "13/5"
+    ],
+    "respuesta": "5/13",
+    "explicacion": "En un triángulo rectángulo, el coseno de un ángulo se define como la razón entre el cateto adyacente al ángulo y la hipotenusa. Para el ángulo θ: cateto adyacente = 5 m (distancia del muro a la escalera), hipotenusa = 13 m (longitud de la escalera). Por lo tanto, cos(θ) = 5/13."
+},
+    {
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/par1.png",
+        "texto": "Para fijar un aviso publicitario se coloca sobre un muro una escalera a 12 metros del suelo. La escalera forma un triángulo rectángulo con el muro y el suelo, donde el muro mide 12 m de altura, la distancia del muro a la base de la escalera es 5 m, y la escalera (hipotenusa) mide 13 m. El ángulo θ se forma entre el suelo y la escalera."
+    },
+    "pregunta": "¿Cuál es el seno del ángulo θ que forman el suelo y la escalera?",
+    "opciones": [
+        "5/13",
+        "12/13",
+        "12/5",
+        "5/12"
+    ],
+    "respuesta": "12/13",
+    "explicacion": "En un triángulo rectángulo, el seno de un ángulo se define como la razón entre el cateto opuesto al ángulo y la hipotenusa. Para el ángulo θ: cateto opuesto = 12 m (altura del muro), hipotenusa = 13 m (longitud de la escalera). Por lo tanto, sen(θ) = 12/13."
+}
+
+  ]
+}

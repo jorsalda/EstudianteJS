@@ -1,7 +1,5 @@
 
-/*#loadedQuestionsCount, #contexto, #countdown, #nextButton {
-    display: none !important;
-}*/
+
 /* Estilos para resaltar la respuesta correcta */
 #options label.correct-answer {
     background-color: green; /* Cambiar el fondo */
@@ -97,4 +95,12 @@
     padding: 10px 20px;
     cursor: pointer;
     margin-top: 20px;
+}
+.imagen-contexto {
+    max-width: 400px;   /* controla el tamaño */
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border-radius: 8px;
 }

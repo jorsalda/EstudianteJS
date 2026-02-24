@@ -103,7 +103,7 @@ class CslTIngenios {
         this.mostrarPregunta();
     }
 
-    /* ================= CONTEXTO FLEXIBLE (CORREGIDO) ================= */
+    /* ================= CONTEXTO FLEXIBLE (AJUSTADO) ================= */
     renderContexto(contexto) {
         if (!contexto) {
             $("#contexto").empty();
@@ -122,9 +122,10 @@ class CslTIngenios {
                     html += `<p>${contexto.texto}</p>`;
                 }
                 html += `
-                    <img src="${contexto.src}"
-                         alt="Contexto visual"
-                         style="max-width:100%; margin-top:10px;">
+                    <img
+                        src="${contexto.src}"
+                        alt="Contexto visual"
+                        class="imagen-contexto">
                 `;
                 break;
 
@@ -133,7 +134,7 @@ class CslTIngenios {
                     html += `<p>${contexto.texto}</p>`;
                 }
                 html += `
-                    <video controls style="max-width:100%; margin-top:10px;">
+                    <video controls class="video-contexto">
                         <source src="${contexto.src}" type="video/mp4">
                         Tu navegador no soporta video.
                     </video>
@@ -188,7 +189,6 @@ class CslTIngenios {
     mostrarResultadoRespuesta() {
         const pregunta = this.preguntas[this.preguntaActual];
 
-        // 👉 MODO REVISIÓN: NO exige selección
         if (this.modoRevision) {
             $("input[value='" + pregunta.respuesta + "']")
                 .parent()
@@ -199,7 +199,6 @@ class CslTIngenios {
             return;
         }
 
-        // 👉 MODO EXAMEN
         const seleccion = $("input[name='opcion']:checked").val();
         if (!seleccion) {
             alert("Seleccione una opción.");

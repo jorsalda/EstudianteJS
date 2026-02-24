@@ -1,0 +1,35 @@
+{
+  "preguntas": [
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/amazonas.jpeg",
+        "texto": "Observa la siguiente imagen del río Amazonas, uno de los ríos más importantes del mundo."
+      },
+      "pregunta": "¿Cuál es la principal característica del río Amazonas?",
+      "opciones": [
+        "Es el río más largo de Europa.",
+        "Es el río con mayor caudal del mundo.",
+        "Es un río artificial.",
+        "Es el río más corto de América."
+      ],
+      "respuesta": "Es el río con mayor caudal del mundo.",
+      "explicacion": "El río Amazonas es conocido por ser el río con mayor volumen de agua (caudal) del planeta, superando ampliamente a otros ríos importantes."
+    },
+    {
+      "contexto": {
+        "tipo": "texto",
+        "contenido": "El río Amazonas atraviesa varios países de América del Sur y es fundamental para la biodiversidad y el clima del planeta."
+      },
+      "pregunta": "¿En qué continente se encuentra el río Amazonas?",
+      "opciones": [
+        "África",
+        "Asia",
+        "América del Sur",
+        "Europa"
+      ],
+      "respuesta": "América del Sur",
+      "explicacion": "El río Amazonas se encuentra en América del Sur y atraviesa países como Brasil, Perú y Colombia."
+    }
+  ]
+}

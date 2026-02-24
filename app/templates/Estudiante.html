@@ -4,45 +4,62 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>T-ingenios</title>
+
     <link rel="stylesheet" href="{{ url_for('static', filename='jquery/jquery-ui.css') }}">
-<script src="{{ url_for('static', filename='jquery/jquery-3.6.0.min.js') }}"></script>
-<script src="{{ url_for('static', filename='jquery/jquery-ui.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='jquery/jquery-3.6.0.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='jquery/jquery-ui.min.js') }}"></script>
 
-<link rel="stylesheet" href="{{ url_for('static', filename='css/Estilos.css') }}">
-
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/Estilos.css') }}">
 </head>
+
 <body>
-    <h1>T-ingenios</h1>
 
-    <div>
-        <label for="numQuestions">Número de preguntas:</label>
-        <input type="number" id="numQuestions" min="1" value="1">
-        <button id="updateQuestions">Actualizar</button>
-        <span id="selectedNumQuestions"></span>
-        <span id="loadedQuestionsCount"></span>
-    </div>
-    <input type="file" id="fileInput">
-    <button id="loadQuestions">Cargar Preguntas</button>
-    <div id="container">
-        <div id="questions-column">
-            <div id="contexto"></div>
-            <div id="question"></div>
-            <div id="options"></div>
-            <div id="countdown" style="display: none;"></div>
-            <button id="nextButton" style="display: none;">Siguiente Pregunta</button>
-            <button id="explanationButton" style="display: none;">Ver Explicación</button>
-            <div id="feedback" style="display: none;"></div>
-        </div>
-        <div id="explanation-column"></div>
-    </div>
-    <div id="result" style="display: none;"></div>
+<h1>Evaluación</h1>
 
-    <div id="passwordContainer" style="display: none;">
-        <p>Ingrese la contraña:</p>
-        <input type="password" id="passwordInput">
-        <button id="submitButton">Submit</button>
-        <p id="errorMessage" class="hidden">Contraseña incorrecta. Intente otra vez.</p>
+<div>
+    <label for="numQuestions">Número de preguntas:</label>
+    <input type="number" id="numQuestions" min="1" value="1">
+    <button id="updateQuestions">Actualizar</button>
+    <span id="selectedNumQuestions"></span>
+    <span id="loadedQuestionsCount"></span>
+</div>
+
+<input type="file" id="fileInput">
+<button id="loadQuestions">Cargar Preguntas</button>
+
+<!-- CONTENEDOR PRINCIPAL -->
+<div id="container">
+
+    <!-- COLUMNA 1: IMAGEN -->
+    <div id="image-column">
+        <div id="contexto"></div>
     </div>
-     <script src="{{ url_for('static', filename='js/T-IngeniosB1GC2025.js') }}"></script>
+
+    <!-- COLUMNA 2: PREGUNTA -->
+    <div id="questions-column">
+        <div id="question"></div>
+        <div id="options"></div>
+        <div id="countdown" style="display:none;"></div>
+        <button id="nextButton" style="display:none;">Siguiente Pregunta</button>
+        <button id="explanationButton" style="display:none;">Ver Explicación</button>
+        <div id="feedback" style="display:none;"></div>
+    </div>
+
+    <!-- COLUMNA 3: EXPLICACIÓN -->
+    <div id="explanation-column"></div>
+
+</div>
+
+<div id="result" style="display:none;"></div>
+
+<div id="passwordContainer" style="display:none;">
+    <p>Ingrese la contraseña:</p>
+    <input type="password" id="passwordInput">
+    <button id="submitButton">Submit</button>
+    <p id="errorMessage" class="hidden">Contraseña incorrecta.</p>
+</div>
+
+<script src="{{ url_for('static', filename='js/T-IngeniosB1GC2025.js') }}"></script>
+
 </body>
 </html>

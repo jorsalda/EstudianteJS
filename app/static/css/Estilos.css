@@ -1,98 +1,90 @@
-
-
-/* Estilos para resaltar la respuesta correcta */
-#options label.correct-answer {
-    background-color: green; /* Cambiar el fondo */
-    color: white; /* Color del texto */
-    font-weight: bold; /* Hacer el texto en negrita */
-    padding: 5px 10px; /* Mantener el mismo padding que las otras opciones */
-    border: 2px solid #ccc; /* Mantener el borde */
-    line-height: 20px; /* Mantener la misma altura de línea */
-    cursor: pointer; /* Mantener el cursor */
-}
-
-/* Estilos CSS */
+/* ===============================
+   CONTENEDOR PRINCIPAL
+   =============================== */
 #container {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Anchuras iguales */
-    gap: 10px; /* Espacio entre columnas */
+    grid-template-columns: 1fr 1fr 1fr; /* 3 columnas reales */
+    gap: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+    align-items: start;
 }
-#questions-column {
-    padding: 10px;
-    width: 600px; /* Ancho fijo */
-}
+
+/* ===============================
+   COLUMNAS
+   =============================== */
+#questions-column,
 #explanation-column {
     padding: 10px;
-    width: 600px; /* Ancho fijo */
+    width: 100%;          /* ❌ NO ancho fijo */
+    min-height: 150px;    /* ✔ fuerza visibilidad */
+    border: 1px dashed #ccc; /* ✔ solo para depurar (luego puedes quitarlo) */
 }
+
+/* ===============================
+   IMAGEN DE CONTEXTO
+   =============================== */
+#contexto {
+    text-align: center;
+}
+
+.imagen-contexto {
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto 10px auto;
+    border-radius: 8px;
+}
+
+/* ===============================
+   OPCIONES
+   =============================== */
 #options label {
     display: block;
-    margin-bottom: 10px;
-    text-align: left;
-    width: 50%;
+    width: fit-content;      /* ⬅️ el recuadro se ajusta al texto */
+    max-width: 100%;         /* ⬅️ nunca se sale del contenedor */
+    padding: 6px 10px;       /* ⬅️ reduce el tamaño interno */
+    margin-bottom: 8px;¿
+
+    border: 2px solid #ccc;
+    line-height: 1.3;        /* ⬅️ reduce altura vertical */
+    box-sizing: border-box;  /* ⬅️ CLAVE para que no se desborde */
 }
+
 #options input[type="radio"] {
     display: none;
 }
-#options label {
-    display: block;
-    border: 2px solid #ccc;
-    line-height: 20px;
-    cursor: pointer;
-    padding: 5px 10px;
-}
+
 #options label.selected {
     background-color: blue;
     color: white;
 }
-#explanationButton {
-    background-color: #f39c12; /* Color de fondo del botón */
-    color: white; /* Color del texto del botón */
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
+
+#options label.correct-answer {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+/* ===============================
+   BOTONES
+   =============================== */
+#explanationButton,
+#playAgain {
     margin-top: 10px;
-}
-#feedback {
-    color: red; /* Color del texto de la respuesta */
-}
-#feedback span {
-    color: blue; /* Color del texto de la explicación */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
 }
 
-/* Estilos para la tabla de resultados */
-#result table {
-    width: 25%;
-    border-collapse: collapse;
-    margin-top: 20px;
-}
-.texto-rojo {
-    color: red;
-}
-#result th, #result td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: center;
-}
-
-#result th {
-    background-color: #4CAF50; /* Color de fondo de los encabezados */
-    color: white; /* Color del texto de los encabezados */
-}
-
-#result td {
-    background-color: #f2f2f2; /* Color de fondo de las celdas */
-}
-
-#result tr:hover {
-    background-color: #ddd; /* Color de fondo al pasar el ratón por encima de las filas */
+#explanationButton {
+    background-color: #f39c12;
+    color: white;
 }
 
 #playAgain {
-    background-color: #28a745; /* Color de fondo del botón de reinicio */
-    color: white; /* Color del texto del botón de reinicio */
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    margin-top: 20px;
+    background-color: #28a745;
+    color: white;
 }
+

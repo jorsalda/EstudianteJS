@@ -1,37 +1,37 @@
 {
-  "cuestionario": [
+  "preguntas": [
     {
-      "pregunta": "Una vez que un agricultor sembró varias plantas en su huerta, registró la altura de cada planta durante un período de tiempo. Los datos se muestran en la siguiente tabla:\n\nPlanta\tAltura (cm), t=0\tAltura (cm), t=1\tAltura (cm), t=2\tAltura (cm), t=3\n1\t25\t30\t35\t40\n2\t30\t35\t40\t45\n3\t35\t40\t45\t50\n\nSi t representa el número de meses después de sembrar las plantas, ¿cuál de las siguientes expresiones representa correctamente la altura de la Planta 2 después de t meses?",
-      "tabla": [
-        {
-          "Planta": "1",
-          "Altura (cm), t=0": 25,
-          "Altura (cm), t=1": 30,
-          "Altura (cm), t=2": 35,
-          "Altura (cm), t=3": 40
-        },
-        {
-          "Planta": "2",
-          "Altura (cm), t=0": 30,
-          "Altura (cm), t=1": 35,
-          "Altura (cm), t=2": 40,
-          "Altura (cm), t=3": 45
-        },
-        {
-          "Planta": "3",
-          "Altura (cm), t=0": 35,
-          "Altura (cm), t=1": 40,
-          "Altura (cm), t=2": 45,
-          "Altura (cm), t=3": 50
-        }
-      ],
+      "pregunta": "A partir de una tabla de percentiles de edades, ¿cual grafica representa correctamente los cuartiles de los datos?",
       "opciones": [
-        "A. 30t+5",
-        "B. 30t+35",
-        "C. 5t+30",
-        "D. 5t+35"
+        "Grafica A",
+        "Grafica B",
+        "Grafica C",
+        "Grafica D"
       ],
-      "respuesta_correcta": "C. 5t+30"
+      "respuesta": "Grafica B",
+      "explicacion": "Los cuartiles dividen los datos ordenados en cuatro partes iguales. La grafica correcta es la que mantiene el orden creciente y respeta los porcentajes."
+    },
+    {
+      "pregunta": "¿Es posible determinar el angulo buscado usando el procedimiento descrito?",
+      "opciones": [
+        "No, porque los angulos son complementarios",
+        "Si, porque los angulos suman 90 grados",
+        "No, porque los angulos son suplementarios y alternos",
+        "Si, porque los angulos tienen distinta direccion"
+      ],
+      "respuesta": "No, porque los angulos son suplementarios y alternos",
+      "explicacion": "Restar un angulo a 180 grados solo permite hallar su suplemento, pero no garantiza que sea el angulo buscado."
+    },
+    {
+      "pregunta": "En dos triangulos semejantes con razon 2, ¿un angulo del segundo es el doble del primero?",
+      "opciones": [
+        "No, porque los angulos correspondientes son iguales",
+        "No, porque los triangulos son congruentes",
+        "Si, porque la razon se aplica a los angulos",
+        "Si, porque todo se duplica"
+      ],
+      "respuesta": "No, porque los angulos correspondientes son iguales",
+      "explicacion": "En los triangulos semejantes solo cambian los lados, los angulos conservan la misma medida."
     }
   ]
 }
