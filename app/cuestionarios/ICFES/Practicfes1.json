@@ -159,6 +159,51 @@
     ],
     "respuesta": "12/13",
     "explicacion": "En un triángulo rectángulo, el seno de un ángulo se define como la razón entre el cateto opuesto al ángulo y la hipotenusa. Para el ángulo θ: cateto opuesto = 12 m (altura del muro), hipotenusa = 13 m (longitud de la escalera). Por lo tanto, sen(θ) = 12/13."
+},{
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/cjt1.png",
+        "texto": "Un pequeño conjunto cerrado tiene cinco casas formando un pentágono (etiquetadas I, II, III, IV, V). En él viven cinco familias diferentes. Se establece que todas las casas tienen una cantidad diferente de pisos. Se da la pista de que el señor Pérez tiene una casa de 5 pisos, la cual es considerada un edificio y es la más alta del conjunto."
+    },
+    "pregunta": "En el conjunto viven los señores Gómez, Hernández, López, Pérez y Vélez. Todas las casas del conjunto tienen una cantidad diferente de pisos. El señor Pérez lamenta que su casa sea considerada, según la ley, un edificio por tener cinco pisos, aunque también se alegra de tener la casa más alta del conjunto y no estar 'a la sombra de los demás'. ¿Cuál es el total de pisos construidos en el conjunto?",
+    "opciones": [
+        "9",
+        "15",
+        "20",
+        "25"
+    ],
+    "respuesta": "15",
+    "explicacion": "Sabemos que hay 5 casas y que cada una tiene una cantidad diferente de pisos. El señor Pérez tiene la casa más alta con 5 pisos. Para que haya 5 cantidades diferentes de pisos y la máxima sea 5, los números de pisos deben ser los enteros positivos del 1 al 5 (1, 2, 3, 4, 5). La suma total de pisos es 1 + 2 + 3 + 4 + 5 = 15."
+},{
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/plan1.png",
+        "texto": "Un profesor asigna a tres estudiantes tres figuras distintas en el plano cartesiano, y a cada uno le pide que rote la figura recibida 90° en el sentido en que giran las manecillas del reloj respecto al origen del sistema de coordenadas. La gráfica muestra las figuras recibidas por cada estudiante (sombreadas) y la figura obtenida (en blanco). Para una rotación de 90° en sentido horario alrededor del origen, un punto (x,y) se transforma en (y,-x)."
+    },
+    "pregunta": "¿Cuáles estudiantes hicieron correctamente el trabajo asignado?",
+    "opciones": [
+        "I y II solamente.",
+        "II y III solamente.",
+        "I y III solamente.",
+        "I, II y III."
+    ],
+    "respuesta": "II y III solamente.",
+    "explicacion": "Para verificar las rotaciones, aplicamos la regla de 90° en sentido horario: (x,y) → (y,-x). Estudiante I: La figura original está mal rotada, las coordenadas no corresponden a una rotación de 90° correcta. Estudiante II: El triángulo sombreado en el primer cuadrante se rota correctamente al cuarto cuadrante aplicando la transformación. Estudiante III: El cuadrilátero del segundo cuadrante se rota correctamente al primer cuadrante. Por lo tanto, solo los estudiantes II y III realizaron correctamente la rotación."
+},{
+    "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/come1.png",
+        "texto": "Tabla que muestra las relaciones de comercio, venta y compra de productos entre varios países (P, Q, R, S). La columna 'Vende productos a:' indica a qué países vende cada nación, y la columna 'Compra productos de:' indica de qué países compra. El país W aparece mencionado en las relaciones comerciales pero no está listado como país principal en la tabla."
+    },
+    "pregunta": "De acuerdo con la información presentada, ¿cuál es la tabla que muestra las relaciones comerciales del país W?",
+    "opciones": [
+        "Vende productos a: Ninguno; Compra productos de: Ninguno",
+        "Vende productos a: Ninguno; Compra productos de: P, R",
+        "Vende productos a: P, R; Compra productos de: Ninguno",
+        "Vende productos a: R, V, Q; Compra productos de: T, R"
+    ],
+    "respuesta": "Vende productos a: P, R; Compra productos de: Ninguno",
+    "explicacion": "Para determinar las relaciones comerciales del país W, debemos buscar dónde aparece W en la tabla. W aparece en la columna 'Compra productos de:' de los países P y R, lo que significa que P y R compran productos de W, es decir, W vende a P y R. Como W no aparece en la columna 'País' (no es P, Q, R ni S), no tenemos información sobre de quién compra W. Por lo tanto, W vende productos a P y R, y no tenemos registro de sus compras."
 }
 
   ]
