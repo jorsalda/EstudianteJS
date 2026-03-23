@@ -17,3 +17,10 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# ... (lo que ya tienes) ...
+
+# Flask y Seguridad
+.env
+instance/
+*.db
