@@ -1,0 +1,84 @@
+{
+  "preguntas": [
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/cultivos_tomate_naranja.png",
+        "texto": "Susana tiene un terreno donde puede cultivar tomates de árbol o naranjas y necesita saber cuál de las dos frutas le da más ingresos."
+      },
+      "pregunta": "¿Cuál de los siguientes procedimientos es el CORRECTO para saber cuál de los dos cultivos le proporciona más ingresos?",
+      "opciones": [
+        "Para cada fruta, se multiplica la cantidad de kilogramos obtenidos por árbol, por el precio que pagan por kilogramo; luego, se comparan los resultados.",
+        "Para cada fruta, se suma la cantidad de árboles a sembrar, con la cantidad de kilogramos de fruta obtenidos por árbol y se adiciona lo que pagan por cada kilogramo; luego, se comparan los resultados.",
+        "Para cada fruta, se multiplica la cantidad de árboles a sembrar, por la cantidad de kilogramos de fruta obtenidos por árbol, por el precio que pagan por cada kilogramo; luego, se comparan los resultados.",
+        "Para cada fruta, se suma la cantidad de árboles por sembrar, con la cantidad de kilogramos de fruta obtenidos por árbol; luego, se multiplica por el precio que pagan por cada kilogramo; se comparan los resultados."
+      ],
+      "respuesta": "Para cada fruta, se multiplica la cantidad de árboles a sembrar, por la cantidad de kilogramos de fruta obtenidos por árbol, por el precio que pagan por cada kilogramo; luego, se comparan los resultados.",
+      "explicacion": "El ingreso total se calcula multiplicando número de árboles × kilogramos por árbol × precio por kilogramo."
+    },
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/tab2.png",
+        "texto": "Un sistema de calificaciones considera la suma de tres factores como valoración de las hojas de vida."
+      },
+      "pregunta": "¿Para cuál de las siguientes formas de valoración de factores se puede usar un sistema de calificaciones basado en la suma de tres factores?",
+      "opciones": [
+        " Bachillerato terminado: 2 puntos; Años de experiencia: 4 puntos; Nivel de formación adicional: Mínimo maestría.",
+        " Bachillerato terminado: 3 puntos; Años de experiencia: No requerida; Nivel de formación adicional: 6 puntos.",
+        " Bachillerato terminado: 2 puntos; Años de experiencia: 2 puntos por cada año; Nivel de formación adicional: 6 puntos.",
+        " Bachillerato terminado: 2 puntos; Años de experiencia: mínimo 5 años; Nivel de formación adicional: 6 puntos."
+      ],
+      "respuesta": " Bachillerato terminado: 2 puntos; Años de experiencia: 2 puntos por cada año; Nivel de formación adicional: 6 puntos.",
+      "explicacion": "Para utilizar un sistema basado en la suma de factores, cada criterio debe expresarse en valores numéricos que se puedan sumar. En esta opción  todos los factores generan puntos: 2 puntos por bachillerato, 2 puntos por cada año de experiencia y 6 puntos por formación adicional. En las demás opciones aparecen requisitos o condiciones que no producen valores numéricos sumables."
+    },
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/tab1.png",
+        "texto": "La tabla muestra la cantidad de pacientes que necesitaron transfusión de sangre, según su grupo sanguíneo, durante la última semana en un hospital."
+      },
+      "pregunta": "Una persona afirma que los grupos sanguíneos que menos se necesitaron para hacer transfusiones durante esta semana fueron A+ y AB-. ¿Es verdadera la afirmación?",
+      "opciones": [
+        "Sí, porque A+ y AB- son los grupos sanguíneos con menor número de pacientes que necesitaron una transfusión.",
+        "No, porque B+ y O+ son los grupos sanguíneos con mayor número de pacientes que necesitaron una transfusión.",
+        "Sí, porque A+ y AB- son los dos últimos grupos sanguíneos registrados en la tabla.",
+        "No, porque AB+ y B+ son los dos primeros grupos sanguíneos registrados en la tabla."
+      ],
+      "respuesta": "Sí, porque A+ y AB- son los grupos sanguíneos con menor número de pacientes que necesitaron una transfusión.",
+      "explicacion": "Los valores más bajos en la tabla corresponden a A+ (4) y AB- (8)."
+    },
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/juego_rondas.png",
+        "texto": "Para participar en un juego es necesario pagar $50.000 de inscripción y $2000 por cada ronda jugada."
+      },
+      "pregunta": "¿Cuál fórmula permite calcular el dinero total que paga un jugador según el número de rondas?",
+      "opciones": [
+        "Total = $2000 + ($50.000 × rondas).",
+        "Total = ($50.000 × $2000) + rondas.",
+        "Total = $50.000 + ($2000 × rondas).",
+        "Total = ($2000 + $50.000) + rondas."
+      ],
+      "respuesta": "Total = $50.000 + ($2000 × rondas).",
+      "explicacion": "El total es la suma de un costo fijo (inscripción) más el costo por cada ronda."
+    },
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/variacion_porcentual.png",
+        "texto": "Un producto que el año pasado valía $150, este año cuesta $375."
+      },
+      "pregunta": "Al aplicar el procedimiento descrito para calcular la variación porcentual, ¿entre qué valores queda el resultado?",
+      "opciones": [
+        "entre 0 y 100.",
+        "entre 100 y 200.",
+        "entre 200 y 300.",
+        "entre 50 y 100."
+      ],
+      "respuesta": "entre 100 y 200.",
+      "explicacion": "375 ÷ 150 = 2.5; 2.5 − 1 = 1.5; 1.5 × 100 = 150%. El resultado está entre 100 y 200."
+    }
+  ]
+}

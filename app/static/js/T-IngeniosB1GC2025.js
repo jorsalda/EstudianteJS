@@ -246,7 +246,7 @@ class CslTIngenios {
     iniciarContador() {
         if (this.modoRevision) return;
 
-        let t = 3;
+        let t = 70;
         $("#countdown").text(`Tiempo restante: ${t}`);
 
         this.countdownInterval = setInterval(() => {
