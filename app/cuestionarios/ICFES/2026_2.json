@@ -1,0 +1,86 @@
+{
+  "preguntas": [
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/tabb1.png",
+        "texto": "Luego de efectuar estos cálculos, el dueño de la frutería afirma que en su procedimiento tuvo que calcular el costo de la cantidad de cada tipo de fruta por separado, para obtener el total de la compra."
+      },
+      "pregunta": "¿ES VERDADERA la afirmación del dueño de la frutería?",
+      "opciones": [
+        "Sí, porque en su procedimiento el dueño calculó el costo de los 15 kg de feijoa comprada.",
+        "No, porque en su procedimiento el dueño de la frutería calculó el peso combinado de las tres frutas.",
+        "Sí, porque en su procedimiento el dueño de la frutería calculó el costo de los 20 kg de mandarina comprada.",
+        "No, porque en su procedimiento el dueño de la frutería agrupó frutas que tenían el mismo costo por kilogramo."
+      ],
+      "respuesta": "No, porque en su procedimiento el dueño de la frutería agrupó frutas que tenían el mismo costo por kilogramo.",
+      "explicacion": "La afirmación del dueño es falsa. Si el dueño agrupó frutas que tenían el mismo costo por kilogramo (aplicando probablemente la propiedad distributiva), no calculó el costo de cada tipo de fruta por separado individualmente, sino que sumó las cantidades de esas frutas primero y luego multiplicó por el precio común."
+    },
+
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/tabb2.png",
+        "texto": "Ramiro tiene una tienda y en esta vende productos alimenticios en paquetes con diferente peso. En la tabla se presenta información correspondiente a las ventas durante una semana."
+      },
+      "pregunta": "Andrea compra 4 paquetes de frijol, 5 paquetes de garbanzo, 3 paquetes de arveja y 7 paquetes de lentejas. Si Andrea necesita calcular el gasto promedio por tipo de grano de su compra, ¿cuáles datos necesita?",
+      "opciones": [
+        "Número de paquetes comprados y precio por paquete para cada grano.",
+        "Número de paquetes vendidos y precio por paquete para cada grano.",
+        "Número de paquetes comprados y peso por paquete para cada grano.",
+        "Número de paquetes vendidos y peso por paquete para cada grano."
+      ],
+      "respuesta": "Número de paquetes comprados y precio por paquete para cada grano.",
+      "explicacion": "Para calcular el gasto promedio por tipo de grano, Andrea necesita conocer cuántos paquetes compró de cada tipo (ya dado en el problema: 4, 5, 3, 7) y el precio por paquete de cada grano (de la tabla: $2000, $2100, $1600, $2200). El peso por paquete no es relevante para calcular el gasto, y el número de paquetes vendidos es información de las ventas generales de la tienda, no de la compra específica de Andrea."
+    },
+     {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/coop1.png",
+        "texto": "Carolina planea invertir $ 1.000.000 en una cooperativa, y allí le ofrecen dos planes de ahorro: Plan 1. Cada 5 años se triplica la inversión. Plan 2. Cada 3 años se duplica la inversión."
+      },
+      "pregunta": "Carolina desea elegir el plan que le ofrece mayor rendimiento a 15 años. ¿Cuáles datos se deben calcular para escoger el plan de ahorro que le ofrezca a Carlina un mayor rendimiento de su dinero a 15 años?",
+      "opciones": [
+        "El número de veces que se triplica la inversión en 15 años y el número de veces que se duplica la inversión en 15 años.",
+        "El número de veces que se triplica la inversión en 15 años y el número de veces que se duplica la inversión en 3 años.",
+        "El número de veces que se triplica la inversión en 5 años y el número de veces que se duplica la inversión en 15 años.",
+        "El número de veces que se triplica la inversión en 5 años y el número de veces que se duplica la inversión en 3 años."
+      ],
+      "respuesta": "El número de veces que se triplica la inversión en 15 años y el número de veces que se duplica la inversión en 15 años.",
+      "explicacion": "Para determinar el rendimiento total al final de los 15 años, es necesario saber cuántos ciclos de crecimiento ocurren dentro de ese periodo de tiempo para cada plan. Para el Plan 1, se debe calcular cuántas veces cabe el periodo de 5 años en los 15 años totales. Para el Plan 2, se debe calcular cuántas veces cabe el periodo de 3 años en los 15 años totales. Esto permitirá aplicar la regla de triplicación o duplicación la cantidad correcta de veces."
+    },
+     {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/imagen3.png",
+        "texto": "La imagen muestra el nuevo diseño de una baldosa que se vende en una ferretería. Para calcular el área de la región de la baldosa que está sombreada, un empleado realizó el siguiente procedimiento: Paso 1. Restó al área de la baldosa el área del círculo que pasa por P,Q,R,S y ese resultado lo dividió entre 2. Paso 2. Restó al área del círculo el área del cuadrado PQRS y ese resultado lo dividió entre 2. Paso 3. Dividió entre 2 el área del cuadrado PQRS. Paso 4. Sumó los resultados obtenidos en los pasos 1, 2 y 3."
+      },
+      "pregunta": "Una persona afirma que el anterior procedimiento también sirve para calcular el área de la región que está pintada de blanco. ¿Es VERDADERA esta afirmación?",
+      "opciones": [
+        "Sí, porque el empleado se confundió y realizó un procedimiento para el área blanca, pero no para el área sombreada.",
+        "No, porque en el paso 2 y 3 se debe usar el área de un rombo y no de un cuadrado, por lo cual no es correcto.",
+        "Sí, porque el área blanca es igual al área sombreada y el procedimiento realizado por el empleado es correcto.",
+        "No, porque al ser igual la parte blanca a la sombreada solamente se debía dividir entre 2 el área de la baldosa."
+      ],
+      "respuesta": "Sí, porque el área blanca es igual al área sombreada y el procedimiento realizado por el empleado es correcto.",
+      "explicacion": "En la figura geométrica mostrada, el diseño es simétrico. El área blanca y el área sombreada son iguales debido a la simetría del diseño. Por lo tanto, el procedimiento que calcula el área sombreada también sirve para calcular el área blanca, ya que ambas tienen la misma medida. El procedimiento del empleado descompone correctamente el cálculo del área en partes manejables."
+    },
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/imagen4.png",
+        "texto": "En la figura adjunta, ABMN y ACPQ son rectángulos. La longitud de AQ es menor que la longitud de PQ. El rectángulo ABMN tiene un lado de 6 cm y otro de 3 cm. El rectángulo ACPQ tiene un lado de 5 cm."
+      },
+      "pregunta": "Si la longitud de AQ se denota como x, ¿cuál relación de proporcionalidad se puede plantear a partir de la figura?",
+      "opciones": [
+        "x/5 = 6/3",
+        "5/x = 6/3",
+        "3/x = 5/3",
+        "x/3 = 6/5"
+      ],
+      "respuesta": "5/x = 6/3",
+      "explicacion": "Para plantear una relación de proporcionalidad entre dos rectángulos, se asume que son semejantes, lo que significa que la razón entre sus lados correspondientes es constante. En el rectángulo ABMN, la razón entre el lado mayor (6 cm) y el lado menor (3 cm) es 6/3. En el rectángulo ACPQ, se nos dice que AQ (x) es menor que PQ (5 cm), por lo que 5 cm es el lado mayor y x es el lado menor. La razón entre el lado mayor y el menor es 5/x. Igualando las razones de proporcionalidad de ambos rectángulos, obtenemos: 5/x = 6/3."
+    }
+  ]
+
+}

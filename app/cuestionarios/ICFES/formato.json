@@ -1,0 +1,18 @@
+{
+  "preguntas": [
+    {
+      "contexto": {
+        "tipo": "imagen",
+        "src": "/static/imagenes/Trian1.png",
+        "texto": "En la figura se observan triángulos rectángulos sombreados sobre cuyos lados se han construido figuras planas semejantes."
+      },
+      "pregunta": "Si las áreas de los semicírculos 1 y 2 son respectivamente 9/2·π cm² y 8π cm², ¿cuál es el diámetro del semicírculo 3?",
+      "opciones": [
+        "6 cm",
+        "8 cm",
+        "9 cm",
+        "10 cm"
+      ],
+      "respuesta": "8 cm",
+      "explicacion": "En un triángulo rectángulo, cuando se construyen figuras semejantes sobre sus lados, las áreas cumplen una relación análoga al teorema de Pitágoras. La suma de las áreas de los semicírculos sobre los catetos es igual al área del semicírculo sobre la hipotenusa. A partir de esta relación se obtiene el diámetro del semicírculo 3."
+    }]}
